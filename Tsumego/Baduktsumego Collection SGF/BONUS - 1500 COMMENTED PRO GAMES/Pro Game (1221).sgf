@@ -1,0 +1,20 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 33]KM[6.5]DT[2004-08-05]PB[Cho U]BR[9p]PW[Cho Chikun]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[de];W[pp];B[cc];W[dp];B[oc]
+;W[cb];B[cd];W[eb];B[ci];W[jq]LB[qi:a]C[W12: For White to play at 'a' is also possible.];B[qn];W[ql];B[qq];W[pq];B[qp];W[po];B[qr]
+;W[pn];B[rn];W[qe]LB[ol:a]C[W22: Although for White to play at 'a' is the original move, but it seems slow.];B[pe];W[qf];B[rd];W[og];B[cn];W[dn];B[do]LB[dm:a][cm:b]C[If B29 at 'a', then W 'b'.]
+;W[eo];B[co];W[ep];B[cp];W[cq];B[bq];W[cm];B[dm];W[en];B[cl];W[bm];B[dl];W[br]
+;B[ap];W[ar];B[bn]LB[dh:a]C[Through B45, the position of B11 is less ideal than at 'a'.];W[pr]LB[jn:a][or:b][ps:c][nq:d]C[W46: White can consider to jump at 'a', if B 'b', then W46, B 'c' and W 'd', White should have nothing to complain.];B[jo]C[B47 is just right.];W[ko]LB[jm:a][ho:b][hm:c][iq:d]C[If W48 at 'a', then B 'b', W 'c' and B 'd', White has no certainty of success.]
+;B[jn]C[B49 is calm.];W[jp];B[kn];W[lo];B[go];W[hn];B[ho]LB[dq:a]C[B55: Black should play at 'a' right away, avoiding other variations.];W[io];B[in];W[ip];B[hm]
+;W[gn];B[fn];W[gm];B[fm];W[gl];B[fo]
+(;W[hk]LB[fq:a][fl:b][em:c][hl:d][il:e][ik:f][gk:g]C[If W66 at 'a', then B66, W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', White is no good (see var a).];B[dq];W[kj]LB[cr:a][fq:b]C[If W68 at 'a', then B 'b', White will be captured.];B[gq]
+;W[kh]C[Through W70, White's center moyo is not small, the outcome of the game is still hard to imagine.];B[qh]LB[qj:a][qm:b][oe:c][oh:d]C[B71 is questionable, Black should play at 'a', next W 'b', B71, W 'c' and B 'd', Black can fight.];W[pd]C[W72 is a good move.];B[pc];W[pi];B[qi];W[pj];B[qm]
+;W[pl]C[Through W78, White forms a certain territory of 65 points in the center, Black is not optimistic.];B[pf];W[pg];B[fc];W[ed];B[gd];W[ee];B[jd];W[od]C[The sequence following W86 is very brilliant.];B[oe];W[nd];B[ne]
+;W[me];B[md];W[nc];B[nf];W[pb];B[qc];W[mb];B[ld];W[qg]LB[ob:a]C[If W98 at 'a', then Black will play at 98, it is not to White's advantage.];B[ob];W[kc];B[kd]
+;W[jc];B[lb];W[ng];B[mc];W[hc];B[fb]LB[hd:a][gb:b]C[If B107 at 'a', then W 'b', Black has no chance of winning.];W[ie];B[hb];W[ge];B[id];W[hd]
+;B[ic];W[dg];B[df];W[ef];B[cg];W[dh];B[ch];W[fr]LB[gr:a][cr:b][er:c][fq:d][fs:e][dr:f][es:g][eq:h][gs:i][bl:j][bk:k][em:l][fl:m][el:n][gk:o][ck:p][hl:q][dk:r]C[W120 is a good move, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p', B 'q' and W 'r', White would achieve a big victory (see var a).]
+
+(;B[eq];W[fq];B[fp]
+(;W[dr]LB[er:a][ds:b][cr:c][gr:d][gj:e][hj:f][gi:g][hi:h]C[W124 is big miscalculation, White should play at 'a', next B124, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', this way White wins the game for sure (see var a).];B[cr];W[er];B[gr])
+(;W[er];B[dr];W[ds];B[cr];W[gr];B[gj];W[hj];B[gi];W[hi]))
+(;B[gr];W[cr];B[er];W[fq];B[fs];W[dr];B[es];W[eq];B[gs];W[bl];B[bk];W[em];B[fl]
+;W[el];B[gk];W[ck];B[hl];W[dk]))
+(;W[fq];B[hk];W[fl];B[em];W[hl];B[il];W[ik];B[gk])) 

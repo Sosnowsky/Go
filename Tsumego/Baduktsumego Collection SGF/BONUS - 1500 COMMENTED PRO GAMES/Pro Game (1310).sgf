@@ -1,0 +1,20 @@
+(;SZ[19]EV[Japan 19th Women Meijin title match 3]DT[2007-03-07]KM[6.5]BR[5p]WR[8p]PB[Kato Keiko]PW[Aoki Kikuyo]PC[Japan]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[pp];B[cd];W[dp];B[oc];W[ed]
+;B[ec];W[dd];B[dc];W[ce];B[fc];W[fd];B[gd];W[cc];B[bd];W[cb];B[bc];W[gc];B[hc]
+;W[bb];B[be];W[gb];B[fb];W[hb];B[db];W[cf];B[bf];W[ic];B[hd];W[id];B[hf];W[ef]
+;B[ie];W[kd];B[cg]LB[je:a][mc:b]C[B35: Black should first play at 'a' to exchange with W 'b', then play B35.];W[dg];B[ch];W[je];B[jf];W[kf];B[jg];W[di];B[kg]
+;W[lf];B[lg];W[mf];B[dh];W[eh];B[fg];W[fh]LB[eg:a][ei:b][ej:c][hg:d][gf:e][hi:f]C[W50: For White to play at 'a' is better, if Black cuts at 'b', then W50, B 'c', W 'd', B 'e' and W 'f'.]
+;B[eg];W[gg];B[df];W[ff];B[dg];W[ge];B[he];W[hg];B[dj];W[gf];B[if];W[hi];B[mg]
+;W[ng];B[nh];W[oh];B[ni];W[og];B[jj];W[pj];B[nk]C[Through B71, the outcome of the game is unclear.];W[nq];B[cn];W[fq];B[bp];W[pl]
+;B[ej];W[hk];B[il];W[fk];B[en]C[After B81, Black takes initiative.];W[ei]LB[fj:a][fi:b]C[W82: White should play at 'a', next B82 and W 'b'.];B[ci];W[fj];B[gh];W[fi]
+;B[ee]C[Through B87, we can see the improperness of W82.];W[cq];B[el];W[ih]LB[de:a]C[W90 is to guard against White's tactic of capturing three stones at 'a'. If White's three stones are captured, White loses endgame advantage in the upper-left corner.];B[ij];W[fl];B[gp];W[ek];B[dk];W[em];B[dm]
+;W[dl];B[cl]LB[fn:a][eo:b][fo:c][ep:d][fp:e][eq:f][er:g][dr:h][fr:i][dq:j][jn:k][km:l][kn:m][lm:n][ln:o]C[After B99, W 'a' is good move, next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', White forms a good shape.]
+;W[fp]C[The play of W100 is questionable.];B[gm];W[hm];B[gn];W[hl];B[jl];W[hn];B[go];W[jn];B[nm];W[pn];B[gq];W[lm]
+;B[ml];W[jh];B[li];W[lq]LB[qq:a]C[W116 also indirectly prevents Black from striking the corner at 'a'.];B[kp]C[B117 is severe.];W[gl]C[W118: White can only play this way.];B[qq];W[qp];B[qf];W[bq];B[kq]
+;W[lp];B[ko];W[hj];B[rp]C[Following B127, Black has no assurance of success.];W[ro];B[rr];W[pr];B[pq];W[or];B[qr];W[sq];B[sp];W[so]
+;B[rq];W[qs];B[op];W[po]C[Through W140, Black almost achieves nothing, the situation turns to favor White.];B[ri];W[nb];B[ob];W[ea];B[de];W[fe];B[ga];W[ib];B[da]
+;W[fa];B[eb];W[fa];B[ba];W[rj];B[mr]LB[oq:a][lr:b][nc:c]C[B155 is Black's privilege, next W 'a', B 'b' and W 'c'. This way White wins the game for sure.];W[np]C[W156 is the losing move.];B[lr];W[rg]LB[no:a]C[W158: White can only reinforce at 'a'.]
+;B[oq];W[nr];B[oo];W[nn];B[on];W[om];B[ol];W[pm];B[no];W[mn]
+(;B[ln]LB[mo:a][mm:b][rs:c][sr:d][ps:e][mp:f][mq:g][lo:h][ns:i]C[After B169, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'f' and B 'i', White will be captured (see var a).
+
+Kato Keiko won the title by 2:1.])
+(;B[ln];W[mo];B[mm];W[rs];B[sr];W[ps];B[mp];W[mq];B[lo];W[mp];B[ns])) 

@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[rb][fc][nc][cd][dd][od][pd][qd][rd][bg][dg][gg][jg][mg][ng][og][pg][ch][dh][eh][fh][hh][jh][ph][qi][dj][ej][hj][qj][rj][sj][ek][pk][qk][al][ll][ql][bm][im][lm][rm][sm][bn][jn][kn][ln][on][qn][bo][ko][lo][oo][qo][ro][so][cp][lp][op][cq][lq][nq][cr][lr][mr][or][ls][ns][os]AB[sd][he][le][pe][re][bf][cf][df][ef][gf][if][kf][qf][eg][qg][kh][lh][mh][nh][oh][qh][sh][ci][di][pi][ri][bj][cj][pj][ak][dk][gk][kk][lk][ok][bl][cl][hl][kl][pl][cm][hm][km][nm][om][pm][qm][cn][nn][co][io][jo][mo][no][dp][ip][kp][np][pp][qp][rp][sp][dq][iq][kq][oq][pq][dr][jr][kr][pr][ps]LB[jh:A]C[W to live with A]PL[W]
+(;W[il]C[Game var (W had several chances).]
+;B[ik]
+;W[hk]
+;B[ij]
+;W[gj]
+;B[gl]
+;W[ii]
+;B[ei]
+(;W[fi]C[No more chances now...]
+;B[ig])
+(;W[ig]C[Another mistake. Now W lives.]))
+(;W[ii]LB[ih:A][ij:B]C[This is the best move and it is automatically alive. Miai of making eye at A or B.]
+(;B[ig]
+;W[ik]
+;B[il]
+;W[jj])
+(;B[gi]
+;W[gj]
+;B[ig]
+;W[ik]
+;B[il]
+;W[jj])
+(;B[ik]
+;W[ig])))

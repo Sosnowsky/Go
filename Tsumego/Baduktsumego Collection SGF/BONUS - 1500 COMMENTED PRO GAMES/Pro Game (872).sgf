@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 24]KM[6.5]DT[2005-05-26]PB[Imamura Toshiya]BR[9p]PW[Ogata Masaki]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dd];B[qo];W[dp];B[nc];W[qq];B[np]
+;W[oq];B[nq]C[B7 and B9 are rarely seen.];W[po];B[qn];W[or];B[rq];W[no];B[mo];W[nn]C[The sequence up to W16 is inevitable.];B[op]LB[qr:a][lq:b][qp:c][rp:d]C[B17 is questionable, Black should play at 'a', next W17, B 'b', W 'c' and B 'd'.]
+;W[pp];B[qr];W[pn];B[qp];W[pq];B[qm];W[lp]LB[mp:a][lq:b][nr:c][lm:d][lo:e][ko:f][kn:g][ln:h][kp:i][jo:j][kq:k][lr:l][kr:m][iq:n][ls:o][jr:p]C[After W24, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p', Black is not favorable (see var a).]
+
+(;B[jp]LB[lq:a][kq:b][mp:c][lr:d][nr:e]C[B25: Black should consider to play at 'a', next W 'b', B 'c', W 'd' and B 'e', although Black is not comfortable, but White's lower-right corner is not alive, both sides have some comprehension.];W[lq];B[fq];W[dn];B[kr];W[lr]C[Through W30, the result is to White's advantage.];B[ci];W[eq]
+;B[fp];W[hr];B[hq];W[iq];B[ip];W[gq];B[hp];W[fr];B[gp];W[gr];B[cf];W[fc];B[bd]
+;W[kn]C[W46 is questionable.];B[ir]C[After B47, White's aji in the lower-left corner is not good.];W[in]C[W48 also should be reserved.];B[hn];W[ic];B[co]LB[cp:a][er:b][dq:c][do:d][eo:e][cn:f][ep:g][cl:h][bp:i]C[B51 is a good move, if W 'a', then Black's cut at 'b' is tesuji, next W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', later on Black's hane and connection at 'i' is sente, White is not favorable.]
+;W[do];B[cp]LB[cn:a][dr:b][er:c][cr:d]C[After B53, if W 'a', then B 'b', W 'c' and B 'd', White is not favorable.];W[cq];B[bq];W[cr]C[Through W56, White's territory is reduced dramatically.];B[bm];W[cj];B[cl];W[di]
+;B[ch];W[dj]LB[el:a][bj:b][qf:c]C[W62: For White to play at 'a' is better, next B 'b' and W 'c'.];B[el];W[br]C[W64: If White takes tenuki, then B64 is sente, White can't tolerate.];B[eg];W[gi];B[fk];W[fh];B[hk]
+;W[cc];B[bc];W[gf]LB[qf:a]C[W72: White can consider to play at 'a'.];B[qh]LB[qf:a][oc:b][od:c][pc:d][nb:e]C[B73: For Black to play at 'a' is better, if W 'b', then B 'c', W 'd' and B 'e'.];W[oc];B[od];W[pc]
+;B[pd];W[nb];B[mb];W[mc];B[nd];W[lb];B[md];W[ma]C[Through W84, Black's corner territory has been ruined, Black can't be satisfied.];B[ol];W[ld];B[le];W[mi]C[Through W88, the situation becomes closer, the outcome of the game is still not clear.]
+;B[kd];W[lc];B[ml];W[nk];B[nl];W[lm];B[ij]LB[oi:a]C[B95 is a slow move, Black should play at 'a'.];W[ih]LB[oh:a][pi:b]C[W95: White misses a good chance, White certainly should play at 'a' or 'b' to reduce Black's influence.];B[jh]
+;W[kj];B[ii];W[lk]C[White has to connect with W98 and W100.];B[oi]C[After B101, Black's situation is favorable.];W[qc];B[hd]C[B103 is a strong move.];W[fe];B[hh];W[fg];B[hf];W[hg];B[ig]
+;W[he]LB[id:a][if:b][jf:c][rc:d]C[After W110, if B 'a', then W 'b', B 'c' and W 'd', the endgame will decide the outcome of game.];B[gg];W[ie];B[je];W[jc];B[ef];W[ff]C[Through W116, White's territory at the top has increased, but Black obtains sente and has nothing complain.];B[rc]C[B117 is huge.]
+;W[rb];B[rd];W[bb];B[cd];W[dc];B[ab];W[ba];B[fj];W[fi];B[dh];W[eh];B[ls];W[ms]
+;B[ks];W[ko];B[nh];W[mh];B[mg];W[lg];B[mf]C[Through B137, Black is leading about 10 points on the board, this advantage is already difficult to change.];W[de];B[bg];W[mk];B[ok];W[pm];B[pl]
+;W[is];B[jq];W[bp];B[bo];W[aq];B[sb];W[ra];B[jm];W[kl];B[jn];W[jl];B[il];W[jo]
+;B[io];W[df];B[dg];W[bi];B[bk];W[bj];B[bh];W[fn];B[ej];W[ei];B[jd];W[id];B[kg]
+;W[nj];B[oj];W[gm];B[lh];W[li];B[kh];W[if];B[jf];W[hg];B[kc];W[kb];B[hf];W[rr]
+;B[sr];W[hg];B[cb];W[db];B[hf];W[ce];B[be];W[hg];B[qb];W[pb];B[hf])
+(;B[mp];W[lq];B[nr];W[lm];B[lo];W[ko];B[kn];W[ln];B[kp];W[jo];B[kq];W[lr];B[kr]
+;W[iq];B[ls];W[jr])) 

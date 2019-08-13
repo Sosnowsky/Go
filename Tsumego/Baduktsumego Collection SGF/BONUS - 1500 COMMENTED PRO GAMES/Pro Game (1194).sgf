@@ -1,0 +1,24 @@
+(;SZ[19]EV[Japan 51st Oza Title final game 3]DT[2003-11-27]KM[5.5]PB[O Meien]BR[9p]PW[Cho U]WR[9p]PC[Japan]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[cn];W[dk];B[dc];W[ce]
+;B[pp];W[co];B[ed];W[dn];B[lc];W[qj];B[qh];W[qm];B[qo];W[mq];B[oq];W[jq];B[df]
+;W[cg]
+(;B[le]LB[oi:a][oj:b][nj:c][ok:d][ni:e][qc:f]C[B21: Black can consider to play the knight's move at 'a', then W 'b', B 'c', W 'd' and B 'e' (see var a), next whether to cap at 21 or attach at 'f' is a difficult decision.];W[oj];B[pk]LB[oh:a]C[B23 is no better than simply jumping to 'a'.];W[pj];B[oh];W[qf]C[W26 is severe, Black is difficult to answer.]
+;B[qg]C[B27: White seems to have taken advantage already .];W[qc]C[W28 is a related good move with W26.];B[rd];W[pd];B[rc];W[oc]C[W32:  White's shape is very resilient.];B[pe];W[oe];B[pf];W[mc];B[md];W[mb]
+;B[lb];W[nd];B[qb];W[mf];B[me]C[After this move, it is time for noon break.];W[ne];B[lf];W[pc]C[Through 46, White has succeeded in the fight.];B[eh];W[cc];B[cb];W[cd]
+;B[eb];W[ch];B[io];W[hp];B[ho]LB[cq:a][dq:b][bo:c]C[B55: Black takes a big risk, Black should enter the corner at 'a', then W 'b', Black will be left with the tactic of playing the hane at 'c'.];W[gp]LB[cq:a][bp:b]C[After W56, if Black strikes the corner at 'a', White can kill Black by playing the diagonal's extension at  'b'.];B[mj]
+;W[ol]
+(;B[fk]LB[ej:a][dj:b][ml:c][rn:d][ek:e][el:f][di:g][ci:h][fl:i][em:j][gm:k]C[B59: Black can consider to jump to 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', this way White also has some apprehensions (see var a).];W[ih];B[if]LB[ij:a]C[B61: Black has no assurance of success if playing at 'a'.]
+;W[ik];B[go];W[fp];B[kk];W[gj];B[gk];W[hk];B[fj];W[gi];B[dj];W[cj];B[rl];W[mk]
+;B[nk];W[ok];B[rm]C[Through 77, Black has gained some territory.];W[nj];B[lj];W[ml];B[jl];W[gg];B[dm];W[en];B[fh];W[gh];B[ck]
+;W[di];B[ej];W[cl];B[bk];W[dl];B[cm];W[bl];B[em];W[bj];B[ge];W[ki]C[After W98, White is basically alive in the center.];B[nm];W[mm]
+;B[nn];W[nl];B[lp];W[lq];B[jp]LB[kp:a]C[B105: Black should extend at 'a'.];W[kq];B[km];W[kj];B[jk];W[jj];B[lh];W[mn]
+;B[no];W[im];B[lk];W[kp];B[ko];W[gm];B[fn];W[gf];B[fm];W[fe];B[gd];W[jf];B[qk]C[B125 is the game-deciding move.]
+
+(;W[lo]LB[mo:a][mp:b][np:c][oo:d]C[W126: If White pushes at 'a', then B 'b', W 'c', B126 and W 'd', although White can also make life, but White's territory is inadequate.];B[mp];W[nh];B[ng];W[og];B[of];W[kn];B[jn];W[jo]
+;B[nb];W[na];B[ko];W[nf];B[eo];W[do];B[ep];W[eq];B[fo];W[dq];B[mg]LB[pg:a]C[B145 is the last losing move, Black should take at 'a'.];W[jo]
+
+(;B[ip]LB[oa:a][ma:b][ef:c][in:d][hm:e][jm:f][mh:g][lg:h][li:i]C[If B147 at 'a', then W147, B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', Black's big dragon will get killed (see var a).];W[ko]C[After W148, Black already has no chance of winning.];B[fq];W[gq]
+;B[il];W[hl];B[in];W[ie];B[he];W[hf];B[id];W[je]C[The final game 4 will take place on 12/4.])
+(;B[oa];W[ip];B[ma];W[ef];B[in];W[hm];B[jm];W[mh];B[lg];W[li]))
+(;W[mo];B[mp];W[np];B[lo];W[oo]))
+(;B[ej];W[dj];B[ml];W[rn];B[ek];W[el];B[di];B[fl];W[em];B[gm]))
+(;B[oi];W[oj];B[nj];W[ok];B[ni])) 

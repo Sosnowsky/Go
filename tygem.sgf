@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Blanco]PB[Negro]AW[jb][kb][lb][dc][lc][nc][dd][fd][ld][nd][fe][ge][ie][me][jf][cg][ig][mg][og][mh][hi][ii][jj][dk][bo][co][cp][dp][ep][fp][gp][hp][jp][hq]AB[ib][mb][nb][ec][fc][ic][jc][kc][oc][gd][hd][pd][je][ke][le][lf][qf][kg][jh][lh][ji][gj][hj][ij][qk][cn][bp][bq][cq][dq][fq][gq][iq][pq][hr]C[Situación complicada, pero sin duda se puede mejorar. La idea tiene que ser separar K10 de N12, pues N12 aún no está vivo.]
+(;B[jk]
+;W[kj]
+(;B[li]
+;W[kk]
+;B[kl]
+;W[jl]
+;B[ik]
+;W[mk]
+(;B[ll]
+;W[mj]
+;B[ih])
+(;B[mj]
+;W[jm]
+;B[lk]
+;W[ll]
+;B[km]
+;W[lj]
+;B[ki]
+;W[lk]
+;B[kn]))
+(;B[mi]))
+(;B[gi]
+;W[kj]))

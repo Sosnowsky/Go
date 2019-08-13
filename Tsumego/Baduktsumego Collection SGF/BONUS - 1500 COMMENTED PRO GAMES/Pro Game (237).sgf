@@ -1,0 +1,40 @@
+(;SZ[19]EV[Japan 29th Meijin Title preliminary final]KM[6.5]DT[2003-11-06]PB[Katayama Yasuo]BR[8p]PW[Imamura Toshiya]WR[9p]RE[W+3.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[dc];W[ce];B[pp];W[od];B[fd]
+;W[pf]LB[qc:a][hc:b]C[W8: White can also consider to attach underneath at 'a' or extend and force at 'b'.];B[di];W[qn];B[nq];W[pk];B[jd]LB[cd:a]C[B13: For Black to make the diagonal's hit at 'a' is better.];W[cc];B[cb];W[dd]LB[bb:a]C[W16: For White to play the hane at 'a' is also possible.]
+;B[bc];W[ec];B[cd];W[db];B[cc];W[ed];B[de];W[ee];B[df];W[hd];B[jf];W[lc];B[jb]
+
+(;W[hf]LB[fe:a][jh:b][dh:c][ch:d][cg:e][dg:f][eh:g]C[W30 is no better than the turn at 'a', if B 'b', then W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).];B[ih]LB[jh:a]C[B31: For Black to jump at 'a' is the correct move.];W[cn];B[hb];W[fg]
+;B[dg];W[fi];B[gh];W[fh];B[dk]C[B39 seems slow.];W[re]C[After White grabs the big point with W40, White is favorable for the game.];B[gc];W[gd];B[fc];W[fe]LB[ic:a][eb:b]C[After W44, because White is left with the peep at 'a', so Black can't cut at 'b', Black can't be satisfied.]
+;B[ld];W[md];B[le];W[hi]C[Through W48, the game is to White's advantage.];B[fq];W[dr];B[ip];W[rp]LB[ii:a][ji:b][jj:c][kj:d][jk:e][ki:f][kk:g][kq:h]TR[dk]C[W52 is an overplay, White should strengthen at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', this way not only the marked black stone can't be utilized and also White is still left with the invasion at 'h'.]
+;B[pn];W[qm];B[hh];W[fk]LB[gi:a]C[W56: White should connect at 'a'.];B[hk]C[B57 is the urgent point, White is very difficult to answer.];W[cj];B[dj];W[hj];B[ik];W[ji]LB[gk:a]C[W62: White should simply bump at 'a'.]
+;B[ii];W[ij];B[jj]
+(;W[ki]LB[ic:a][kc:b][ib:c][ia:d][fb:e][mc:f][gb:g]C[W66 is a bad move, White should play at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).];B[jk];W[ic];B[kc];W[ib];B[ia];W[mc]
+;B[fb];W[gk]C[Through 74, Black takes a favorable turn.];B[kg]LB[in:a]C[B75: For Black to jump at 'a' is the vital point.];W[gm];B[im]LB[in:a]C[B77: Black still should jump to 'a'.];W[bl]LB[go:a]C[W78: Although playing at 'a' is safe, but after Black plays at 78, White's territory will be inadequate.];B[dn];W[do]
+;B[oh];W[ch]C[W82 is alert.];B[dh];W[ci];B[cg]C[Through B85, White has gained some profit.];W[go];B[rd];W[og];B[ph]
+(;W[nh]LB[qe:a][pd:b][oe:c][oc:d]C[W90 is careless, now White can only extend at 'a', then B 'b', W 'c', B 'd' and W90 (see var a).]
+(;B[oj]LB[pe:a][oe:b][qf:c][qe:d][pd:e][qg:f][rf:g][rg:h][se:i][pg:j]C[B91: Black has missed a good opportunity, Black should immediately make the diagonal's extension at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', this way Black's victory is within reach (see var a).];W[pc];B[qe];W[qf]
+;B[rf];W[rg];B[se];W[qg];B[qb];W[qc];B[rc];W[pb];B[rb];W[mi]LB[pj:a]C[W104 at 'a' would be more steady.];B[ok];W[ol]
+;B[mj];W[nl];B[lj];W[li];B[pj];W[qk];B[ll];W[qq];B[nf];W[mf];B[me];W[ne];B[oe]
+;W[nd];B[mg];W[ng];B[lf];W[pe];B[gp];W[ho];B[io];W[nn];B[mo]
+(;W[lm]LB[hp:a][hq:b][iq:c][jq:d][ir:e][jr:f][hr:g][gq:h][eq:i][gr:j][fp:k][is:l][or:m]C[W130 is not big, White should play at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l' and W 'm', White is sure to win the game (see var a).];B[gi]
+;W[gj];B[en];W[jh];B[ig];W[hp];B[hq];W[fp];B[gq];W[fo];B[pq];W[ln];B[lo];W[qr]
+;B[qj];W[rk];B[lb];W[mb];B[rj];W[la];B[kb];W[pd];B[cm];W[bm];B[ck];W[bk];B[bh]
+;W[bi];B[ai];W[bj];B[eq];W[ns];B[or];W[os];B[ps];W[pr];B[ms];W[qs];B[nr];W[jn]LB[eb:a]C[W170 is a very bad move, White should simply play at 'a'.]
+;B[in]C[After B171, White is dangerous.];W[eb];B[dq];W[cq]LB[cr:a][br:b][cp:c][bq:d][co:e][bn:f][ep:g][eo:h][gn:i][bp:j][fn:k]C[After W174, Black can cut at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', White's big dragon at the top will get killed (see var a).]
+
+(;B[er]LB[cr:a][ga:b][ha:c][fa:d][ie:e][bq:f][gb:g][fr:h][br:i][da:j][jc:k][ge:l][he:m][ff:n][gf:o][ef:p]C[B175: Black has missed the winning chance regrettably, Black should cut at 'a', if White resists at 'b', then B 'c', W 'd', B 'e', W 'f', B 'g', W175, B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o' and B 'p', White will get captured (see var b).]
+;W[cr];B[bf];W[ga];B[ha];W[fa];B[hc];W[id];B[gf];W[gg];B[lh];W[ko];B[kp];W[no]
+;B[np];W[ps];B[lr];W[cl];B[el];W[em];B[fm];W[dm];B[dl];W[cm];B[fl];W[ie];B[je]
+;W[fn];B[sk];W[sl];B[sj];W[qo];B[rl];W[sm];B[po];W[pm];B[ml];W[mn];B[jo];W[nk]
+;B[nj];W[kn];B[on];W[om];B[gl];W[ge];B[hm];W[kl];B[ds];W[cs];B[es];W[sg];B[qp]
+;W[rm];B[oo];W[sf];B[re];W[kk];B[kj];W[pa];B[qa];W[aj];B[ah];W[jl];B[jm];W[km]
+;B[ep];W[eo];B[ef];W[ff];B[il];W[qh];B[qi];W[ni];B[oi];W[ca];B[ba];W[gn];B[da]
+;W[jc];B[ca];W[ea];B[kd])
+(;B[cr];W[br];B[cp];W[bq];B[co];W[bn];B[ep];W[eo];B[gn];W[bp];B[fn])
+(;B[cr];W[ga];B[ha];W[fa];B[ie];W[bq];B[gb];W[er];B[fr];W[br];B[da];W[jc];B[ge]
+;W[he];B[ff];W[gf];B[ef]))
+(;W[hp];B[hq];W[iq];B[jq];W[ir];B[jr];W[hr];B[gq];W[eq];B[gr];W[fp];B[is];W[or]
+))
+(;B[pe];W[oe];B[qf];W[qe];B[pd];W[qg];B[rf];W[rg];B[se];W[pg];W[qg];B[rf]))
+(;W[qe];B[pd];W[oe];B[oc];W[nh]))
+(;W[ic];B[kc];W[ib];B[ia];W[fb];B[mc]))
+(;W[fe];B[jh];W[dh];B[ch];W[cg];B[dg];W[eh])) 

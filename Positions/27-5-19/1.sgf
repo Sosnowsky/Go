@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[na][mb][ob][nc][pc][qc][rc][dd][nd][cf][cn][ko][dp][hp][cq][iq][ir]AB[pb][qb][rb][oc][od][pd][qd][pn][jo][ip][kp][lp][fq][jq][lq][pq][dr][jr][lr][ks]LB[jo:4][hp:3][ir:1][ks:2]C[W to play.]PL[W]
+(;W[gq]
+;B[fp]
+;W[hn]
+;B[go]
+;W[ho]
+;B[fm]C[Game variation])
+(;W[fp]C[W should block the center.]
+;B[gq]
+;W[io]C[Can fight this.]
+(;B[jp]
+;W[hq])
+(;B[gp]
+;W[go]
+;B[in]
+;W[ho]
+;B[jn]
+;W[hq]C[Good for W.]))
+(;W[go]C[Also possible.]))

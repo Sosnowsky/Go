@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[kc][nc][cd][hd][id][jd][qd][ce][qe][qf][cg][pg][dp]AB[ec][ic][jc][pc][qc][kd][pd][de][df][of][pf][qp][nq]LB[ic:4][jc:2][kc:1][id:5][jd:3]C[B to play]PL[B]
+(;B[gb]C[In the game B connected.]
+;W[hc]
+(;B[hb])
+(;B[ke]
+;W[jb]
+;B[lc]
+;W[kb]
+;B[lb]C[Game variation])
+(;B[kb]
+;W[lc]
+;B[hb]
+;W[le]C[This is better, W is still weak.]))
+(;B[lc]C[B should capture the stone.]
+;W[kb]
+;B[lb]
+;W[ke]
+;B[ld]
+;W[hc]
+;B[jb]
+;W[fe]
+;B[fd]C[Better fight for B.]))

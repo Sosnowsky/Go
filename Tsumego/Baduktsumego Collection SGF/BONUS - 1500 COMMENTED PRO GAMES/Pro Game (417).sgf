@@ -1,0 +1,31 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 9]KM[6.5]DT[2003-02-06]PB[Cho Chikun]BR[9p]PW[Takemiya Masaki]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dp];B[pp];W[dd];B[cf];W[dh];B[cc]
+;W[cd];B[dc];W[ed];B[bd];W[be];B[bc];W[ce];B[fc];W[cn];B[jp];W[qn];B[nq];W[qk]LB[rp:a][qm:b][ql:c]C[W20: If White makes the knight's move at 'a', then Black probably would bump at 'b' or pincer-attack at 'c', this would easily lead to a fierce fight, which is not what White desires.]
+;B[fq];W[nc]LB[fo:a]C[W22: The cap move at 'a' is also a good point.];B[qf];W[hc];B[gc]LB[eb:a]C[B25: In sente, Black prevents White from striking at 'a', but White has also become thick.];W[hd];B[pn]
+(;W[pm]LB[po:a][qo:b][oo:c][qp:d][ge:e]C[If W28 at 'a', then B 'b', W 'c', B 'd', W 28 and Black will jump to 'e' as the ladder breaker, White would be no good (see var a).];B[qo];W[on];B[po];W[om];B[qm];W[ql];B[rn]C[Through 35, both sides are roughly acceptable.]
+;W[ne];B[oc];W[nb];B[qi];W[oi]C[W40 is a typical move of "Takemiya Style".];B[fo];W[mp]C[W42 is a good move.];B[np];W[ln];B[cq]LB[jn:a]C[B45: For Black to jump at 'a' is usual.];W[dq]
+;B[dr]
+(;W[en]LB[er:a][cr:b][eq:c][bo:d][bn:e][co:f][do:g][dn:h]C[W48 is the proper move, if White hanes at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and Black would cut at 'h', White would be dangerous (see var a).]
+(;B[cp]LB[fn:a][er:b][cr:c][eq:d][fr:e][es:f][bo:g][bn:h][co:i][ap:j]C[B49: For Black to extend at 'a' is better, followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 49, W 'i' and B 'j' (see var a).];W[er];B[eq];W[ep]
+;B[cr];W[fp];B[gp];W[gq];B[fr];W[gn];B[hp];W[in]LB[im:a]C[W60 at 'a' is more stable.];B[dj];W[fi];B[cl];W[ek]LB[fk:a]C[W64 is no better than the jump move at 'a'.]
+;B[ch]LB[kh:a]C[B65: For Black to reduce at 'a' is also possible.];W[dg];B[di];W[cg];B[bh];W[ei]LB[of:a]C[W70: Although White becomes thick, but the diagonal's extension at 'a' is more important.];B[ng];W[og]LB[of:a]C[W72 at 'a' can also make it a game.]
+;B[of];W[nf];B[oh];W[nh];B[pg];W[mg]LB[ni:a]C[Through W78, because Black could start a ko at 'a', White takes a heavy burden.];B[jn]LB[fe:a][fd:b][ni:c]C[B79: Black can consider jump to 'a', if W 'b', then Black can start a ko by playing at 'c', White is risky.];W[jm]
+;B[im]C[B81 is severe.];W[hm]C[W82: White has no other alternative.];B[km];W[il];B[kn];W[og];B[kk]C[Through 87, Black can be satisfied.];W[ph];B[qh];W[kp]LB[io:a]C[B91 should be at 'a'.]
+;B[jq];W[jj];B[kj];W[ki];B[li];W[mj];B[lm]LB[jk:a][kl:b]C[If B97 at 'a', Black worries that White may wedge at 'b'.];W[mn]LB[lp:a][lr:b]C[W98: White has some gains too, later on after White connects at 'a', Black can no longer cross over at 'b'.]
+;B[jk];W[ij];B[hb];W[ib];B[bg];W[bf];B[gb];W[jc]LB[ge:a]C[W106 should be at 'a'.];B[ik];W[hk];B[eh]C[After Black cuts with B109, there is some aji left inside White's territory.]
+;W[fg];B[lj];W[kh]LB[bm:a]C[W112 should be played at 'a'.];B[ob];W[bm]
+(;B[bj]LB[bl:a][dk:b][ck:c][bi:d][al:e][ak:f][cj:g][aj:h][ej:i][ci:j][ag:k]C[If B115 at 'a', then W 'b', B 'c', W 115, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', Black would die unconditionally.];W[bl];B[bk]
+;W[ck];B[dk];W[dl];B[ai];W[ag];B[ak];W[oe];B[pe];W[pf];B[qg];W[oa];B[pa];W[na]
+;B[pb];W[rm]LB[mq:a][nr:b][mr:c][kr:d][cm:e]C[W132 is questionable, White should block at 'a', then B 'b', W 'c', B 'd' and W 'e', this way the game would be slightly better for White.];B[ej]C[B133: Black grabs the winning chance.];W[fk];B[fj];W[gj];B[fh];W[gi]
+;B[ge];W[gd];B[fd];W[fe];B[ff];W[ee];B[df];W[eg];B[ef];W[gh];B[gf];W[he]C[Through 150, the moves for both sides are inevitable, Black has clearly gained.];B[od]
+;W[nd];B[cj]C[B153: Black takes with sente and is very happy.];W[dm];B[mq]C[After B115, White is not optimistic.];W[lq];B[lh];W[lg];B[mk];W[ok];B[no];W[mm];B[hf]
+;W[if];B[mr];W[qn];B[ro];W[rj];B[ri];W[ll];B[kl];W[io];B[jo];W[ip];B[iq]
+;W[go];B[hq];W[bo];B[bp];W[co];B[ec];W[hg];B[lr];W[kq];B[kr];W[ml];B[mo];W[lo]
+;B[lp];W[ko];B[lk];W[nk];B[qj];W[rk];B[pj];W[sm];B[pk];W[pl];B[nn];W[nm];B[sj]
+;W[sk];B[si];W[sn];B[so];W[ha];B[ga];W[ia];B[ho];W[hn];B[jl];W[im];B[ao];W[an]
+;B[ap];W[oo];B[op];W[mi];B[oj];W[al];B[ad];W[gg];B[nj];W[of];B[pi];W[oh];B[mp]
+;W[qm])
+(;B[bl]C[If Black blocks here ...];W[dk];B[ck];W[bj];B[bi];W[al];B[ak];W[cj];B[aj];W[ej];B[ci];W[ag]C[Black would die.]
+))
+(;B[fn]C[Black should extend here.];W[er];B[cr];W[eq];B[fr];W[es];B[bo];W[bn];B[cp];W[co];B[ap]C[Black would be better this way.]))
+(;W[er]C[If White hanes here as usual ...];B[cr];W[eq];B[bo];W[bn];B[co];W[do];B[dn]C[White would be dangerous.]))
+(;W[po]C[If White wedges here ...];B[qo];W[oo];B[qp];W[pm];B[ge]C[Black would play the ladder breaker here, White is no good.])) 

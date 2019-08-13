@@ -1,0 +1,31 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 22]DT[2003-05-08]KM[6.5]PB[Yamashita Keigo]BR[9p]PW[Rin Kaiho]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+6.5];B[qd]C[Before this match, the total result between these two players is 3:2, in favor of Yamashitaf Keigo, and three out of these five games were decided by half point.];W[dc];B[dq];W[pp];B[de];W[fd]
+;B[dk]LB[cc:a][cb:b][cd:c][dh:d][oc:e]C[If B7 at 'a', then W 'b' and B 'c', next White will pincer at 'd' or approach the corner at 'e'.];W[nc];B[pc];W[kc];B[nq];W[lp];B[no];W[pn]
+;B[jp];W[oq]C[W16 is an asking move.];B[mr]LB[nr:a][nm:b][qf:c]C[B17: If Black descends to 'a', then W 'b' is kind of sente, then White's checking move at 'c' would be very big.];W[nm];B[qj]LB[qi:a][qk:b][or:c]TR[nm]C[B19 at 'a' is a common thinking, then if White extends at 'b', due to the existence of the marked white stone, White's configuration seems a little duplicating, but White's descent at 'c' would be a big move.]
+;W[do];B[cp];W[ep];B[eq];W[gp];B[fq];W[gm]C[Through 26, it is a joseki.];B[cc];W[cb];B[cd]
+(;W[kp]LB[ef:a][ch:b][dh:c][cg:d][pe:e][qe:f][pf:g][oj:h][mi:i][lr:j]C[W30 is a very questionable move, White should press with the knight's move at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i' (see var a), After strengthening his center by attacking Black, White could directly separate Black at 'j'.];B[jq];W[lr];B[or]
+;W[pr];B[kr]C[After B35, White is very difficult to answer.]
+(;W[lq]LB[ls:a][mn:b][kn:c][jo:d][ln:e][mm:f][im:g][ir:h]C[W36: If White plays at 'a' instead, then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White is clearly not favorable (see var a)];B[ho]C[B37 is a good move.];W[kn];B[go];W[em]
+;B[fl];W[fm];B[fp]C[Through 43, Black has obtained some profit.];W[ef];B[ch];W[dh];B[cg];W[ls];B[qo];W[po];B[rm]C[B49 and B51: Black is very happy to take advantage in sente.];W[qp]
+
+(;B[ph]LB[pg:a][qh:b][pi:c][rk:d]C[If B53 at 'a', then W 'b', B 'c' and W 'd', Black would be difficult to answer.];W[eb]LB[pg:a]C[W54 seems slow, White should reduce at 'a' immediately.];B[fj];W[im]
+(;B[je]LB[ld:a][lc:b][nd:c][md:d][me:e][mc:f][ne:g]C[B57 is questionable, Black should play at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', this way the game would be simple and Black is favorable (see var a).];W[pg];B[qg];W[qf];B[qh];W[ke];B[kd]LB[jd:a][jf:b][pf:c]C[If B63 at 'a', then W63, B 'b' and W 'c', Black is no good.]
+;W[ld];B[jd];W[jc];B[ic]LB[jg:a][pf:b]C[If B67 at 'a', then W 'b', Black is not satisfied.];W[id];B[le];W[ie];B[jf];W[md];B[if];W[ge]
+;B[hl];W[gl];B[gk];W[hm];B[og];W[ob]C[Through 80, White has some gained some territory, the difference between both sides has been narrowed down.];B[jk];W[co];B[lm]C[Black's reduction in sente after B83 is very sharp.];W[km];B[ll];W[ln]
+;B[om]
+(;W[ol]LB[on:a][mm:b][pb:c][qm:d][rn:e][qk:f][rl:g][ok:h]C[The counter-attack of W88 is dubious, White should block at 'a', followed by B88, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', this variation is clearly better for White (see var a).];B[pm];W[on];B[pl];W[nk];B[ro]
+;W[qn];B[rn];W[rp];B[mj];W[pk];B[qk];W[mm]LB[nn:a]C[W100: White protects the cut at 'a'.];B[pb]C[After B101, Black's advantage is clear.];W[pa];B[qa];W[oa]
+;B[rb];W[nf];B[gg];W[ng];B[pf];W[lg];B[kg];W[lf];B[kf];W[li];B[kj];W[fh];B[gh]
+;W[bo];B[bb];W[ba];B[ed];W[ee];B[fc];W[gc];B[ec];W[fb];B[dd];W[db];B[me];W[ne]
+;B[od];W[mf];B[bl];W[bq];B[ab];W[di];B[ci];W[cr];B[dr];W[il];B[hc];W[gd];B[gb]
+;W[hb];B[ki];W[df];B[cf];W[qm];B[ql];W[so];B[hk];W[bm];B[cm];W[am];B[al];W[cn]
+;B[dm];W[el];B[dj];W[dl];B[cl];W[ck];B[bk];W[jr];B[ir];W[js];B[is];W[ks];B[bp]
+;W[ap];B[cq];W[br];B[jo];W[rl];B[rk];W[pj];B[gf];W[he];B[ml];W[nl];B[ke];W[nd]
+;B[oc];W[nb];B[lh];W[mh];B[kh];W[mi];B[oi];W[ik];B[ij];W[fk];B[ej];W[nj];B[dg]
+;W[eg];B[eo];W[lj];B[kl];W[mk];B[ds];W[cs];B[dp];W[pi];B[qi];W[kq];B[oj];W[ok]
+;B[ko];W[lo];B[jn];W[jm];B[hf];W[eh];B[fi];W[oe];B[pe];W[in];B[io];W[fn];B[fo]
+;W[ek];B[sl];W[sn])
+(;W[on]C[White should play here.];B[ol];W[mm];B[pb];W[qm];B[rn];W[qk];B[rl];W[ok]C[This is better for White.]))
+(;B[ld];W[lc];B[nd];W[md];B[me];W[mc];B[ne]))
+(;B[pg]C[If Black plays here, ...];W[qh];B[pi];W[rk]C[Black would be hard to answer.]))
+(;W[ls]C[If White descends here, ...];B[mn];W[kn];B[jo];W[ln];B[mm];W[im];B[ir]C[White would be hard to continue his attack.]))
+(;W[ef]C[White should knight-press here.];B[ch];W[dh];B[cg];W[pe];B[qe];W[pf];B[oj];W[mi]C[White could form a big moyo in the center by attacking.])) 

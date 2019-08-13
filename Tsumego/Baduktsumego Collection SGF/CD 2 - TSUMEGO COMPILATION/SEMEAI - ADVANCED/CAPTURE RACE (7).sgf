@@ -1,0 +1,56 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][bc][bh][cb][cc][cg][dd][de][df][dh][ed][fc][fd]
+AW[ad][bd][bf][cd][ce][cf][db][dc][ec][fb][gc][hb]PL[B]C[Black to play.
+
+Capture race - Extend Liberties
+
+Source: Xuan-Xuan-Qi-Jin.]
+(
+;B[da]
+;W[eb]
+(
+;B[ab]
+;W[ba]
+(
+;B[ae]
+;W[ca]
+(
+;B[af]C[RIGHT
+])
+(
+;B[bg]C[RIGHT
+]))
+(
+;B[bg]
+;W[ca]
+(
+;B[ae]C[RIGHT
+])
+(
+;B[af]C[RIGHT
+]))
+(
+;B[af]C[RIGHT
+]))
+(
+;B[ba]
+;W[ab]
+;B[bg]
+;W[ea]C[Ko Fight])
+(
+;B[bg]
+;W[ab]
+;B[ba]
+;W[ea]C[Ko Fight]))
+(
+;B[ca]
+;W[da]
+;B[bg]
+;W[ab])
+(
+;B[bg]
+;W[ab]
+;B[da]
+;W[eb]
+;B[ba]
+;W[ea]C[Ko Fight]))

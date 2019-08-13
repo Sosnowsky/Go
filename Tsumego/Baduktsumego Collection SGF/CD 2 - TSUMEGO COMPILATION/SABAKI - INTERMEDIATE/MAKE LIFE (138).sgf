@@ -1,0 +1,39 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bd][bh][ce][cf][cg][ci][db][dc][dd][fb]
+AW[be][bf][bg][cb][cc][cd]PL[W]C[White to play.
+
+Make life - Sacrifice Stones
+
+Source: Guan-Zhi-Pu.]
+(
+;W[bc]
+;B[ca]
+(
+;W[ae]
+(
+;B[bb]
+;W[ac]
+;B[ag]
+;W[ba]
+;B[aa]
+;W[ab]C[RIGHT
+])
+(
+;B[ag]
+;W[ba]
+;B[af]
+;W[ab]
+;B[da]
+;W[ac]C[RIGHT
+]))
+(
+;W[ac]
+;B[ba])
+(
+;W[ba]
+;B[ac]
+;W[da]
+;B[ab]))
+(
+;W[ae]
+;B[ag]))

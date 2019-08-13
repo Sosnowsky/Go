@@ -1,0 +1,48 @@
+(;SZ[19]EV[CJK 4th Nong Shim Cup Ring Contest game 13]DT[2003-01-22]PC[Shanghai, China]KM[6.5]PB[Lee Changho]BR[9p]PW[Hu Yaoyu]WR[7p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+5.5];B[pd]C[Black is Lee Changho 9P of Korea];W[dd]C[White is Hu YaoYu 7P of China];B[pq];W[cq]C[W4 is rarely seen nowadays, believe that Hu Yaoyu 7p is well prepared.]
+;B[dp];W[dq]C[In 4th Nong Shim Cup, Hu Yaoyu defeated Kobayashi Koichi 9p, Kim SeungJun 7p, Kato Masao 9p, Cho Hunhyun 9p and Yoda Norimoto 9p consecutively and has achieved five straight wins before this game.
+];B[ep];W[fq]LB[bo:a][cp:b]C[W8 is uncommon, the usual play is to make the knight's move at 'a' or turn at 'b'.];B[cf];W[fc];B[bd];W[cc];B[ci];W[qo]LB[qn:a][qp:b][qk:c]C[W14 can also be considered to approach the corner at 'a', followed by B 'b' and W 'c', leading to a more peaceful situation.]
+;B[qk]LB[op:a][oq:b][np:c][mq:d][qq:e][mp:f][nq:g][nr:h][pp:i][mn:j][mr:k][lr:l][cp:m]C[After Black pincers with B15, if White presses with the knight's move at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l' and W 'm' (see var a).]
+(;W[op];B[pp];W[po];B[oo]TR[qk]C[B17 and B19 are usually not good when there is no coordination of surroundings, the reason is that this is not well related to the slow-paced attacking plan with the marked three-space pincer.]
+(;W[np]LB[oq:a][or:b][pr:c][qr:d][qq:e][ps:f][qp:g][mq:h][nr:i][mp:j][rq:k]C[If W20 can also block at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'c', W 'h', B 'i', W 'j' and B 'k' (see var a).
+];B[on]C[Black is not favorable in the ladder, B21 must extend.];W[rq]
+;B[nr]
+(;W[pl]LB[mq:a][rr:b][rp:c][mr:d][kq:e][qr:f][pm:g][mn:h]C[W24 is unusual move, the normal play is to make the diagonal move at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h' (see var a).];B[pn]LB[qm:a][pm:b][qn:c][ql:d][nm:e]C[If B25 makes the knight's move at 'a', then W 'b', B 25, W 'c', B 'd', W 'e', three black stones are dead.
+]
+;W[qn];B[qm];W[pm];B[rm]C[The standing move of B29 is very severe.];W[qp];B[oq]
+(;W[pk]LB[qr:a][mo:b][mp:c][lo:d][lp:e][kp:f][kq:g][lq:h]C[If W32 makes the diagonal move at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h' cuts, White is no good (see var a).];B[qj]
+(;W[qr]LB[lp:a][mo:b][mp:c][rr:d][mm:e][mn:f][no:g][nn:h][ln:i][nm:j][ml:k][nl:l][nk:m]C[If W34 jumps to 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l' and W 'm', Black's stones get captured (see var a).];B[nm]
+;W[pj];B[qi];W[mq];B[mr];W[kq];B[lr]C[After B35, it seems Black takes the initiative.];W[ml]LB[ko:a][kr:b][pr:c][so:d][os:e]C[If W42 jumps to 'a', then B 42, W 'b', B 'c', W 'd' and B 'e', Black can fight.];B[nl]
+;W[nk];B[mm];W[ko]LB[mp:a]C[W46 defends against Black's sequeezing and cutting at 'a'.];B[qq];W[rp];B[kr];W[ll];B[kn];W[jq];B[pr];W[ln]C[White has no assurance of success with the fight following W54.]
+;B[lm];W[km];B[jn];W[om];B[nn]LB[kl:a][kk:b]C[B59 is brute force, the atari move at 'a', followed by W 59 and B 'b', is more stable.]
+(;W[jm]LB[mn:a][kl:b][mk:c][lk:d][im:e][jl:f][kk:g]C[If W60 reduces Black's liberties at 'a', then B 'b', W 60, B 'c', W 'd', B 'e', W 'f' and B 'g', White's stones get captured in a ladder (see var a).];B[lo];W[in]
+(;B[mn]LB[jo:a][io:b][jp:c][kp:d][ip:e][hp:f]C[B63 simply taking one stone is a steady move, if Black ataris at 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f' ataris by wrapping tactic, Black is no good (see var a).];W[lq]LB[jo:a]C[W64 can be considered to atari at 'a'.];B[mk]C[B65 is severe, White is hard to deal with.];W[lk];B[mj]
+;W[nj];B[ni];W[oi];B[mi]
+(;W[nh]LB[oh:a][im:b][jo:c][kl:d][jl:e][kk:f][lj:g][ki:h]C[If W72 extends to 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White's stones are captured (see var a).];B[kj];W[kl];B[ok];W[oj];B[oh]
+;W[ph];B[og];W[pi];B[jo];W[io];B[mp]C[After B83, White is difficult to continue.];W[qh];B[rn];W[ri];B[rj];W[ql];B[rl];W[sj]
+;B[rk];W[rg];B[rr];W[sr];B[rs];W[jp]C[Through 96, Black captures White's stones in the lower right with sente, White has clearly suffered a loss.];B[eq];W[lp];B[cp]LB[er:a][bo:b]C[If B99 stands at 'a', then White can play the knight's move at 'b' and fight tenaciously, Black has no certainty of success.];W[er]
+;B[fr];W[dr];B[bp]C[B103 is a good move.];W[gq];B[dl]C[After 105, Black is clearly favorable.];W[oe];B[nc]C[The exchange of W106 for B107 is not to White's advantage.];W[mo];B[ro];W[me];B[ld];W[kf]
+;B[ii];W[ej];B[dj];W[dh];B[ch];W[df];B[mg]LB[ce:a]C[B119 is solid, if Black extends to 'a', then Black in the center may come under attack.];W[le];B[kd];W[jh];B[ji];W[kh]
+;B[ki];W[ln];B[sp];W[ic];B[id];W[ie]LB[ik:a]C[W130 is an unusual manuever, White still aims at the possibility of attacking Black at 'a'.];B[jd];W[hd];B[qd];W[re];B[qf];W[pf]
+;B[jk];W[kb];B[lb];W[mb];B[mc];W[la];B[lc];W[ce];B[bf];W[rc];B[rd];W[qb]C[The sequence following W148 is the most indomitable play.];B[qc]
+;W[pb];B[ob];W[od];B[rb];W[oc];B[pc];W[nb];B[oa];W[ma];B[jb];W[ib];B[kc];W[ja]C[Through 162, a ko fight results, White may turn the tables.]
+;B[ka];W[ol];B[sq];W[kb];B[gr];W[jc];B[hq];W[sb];B[sc];W[ra]C[W172 initiates another ko fight, White has already turned the game around.];B[sa];W[bq];B[br]
+;W[sb];B[rc];W[qa];B[sa];W[fo];B[ir];W[sb];B[bc];W[dm]LB[ka:a]C[W184 is questionable, White should simply connect at 'a'.];B[em]
+(;W[dn]LB[el:a][ek:b][fl:c][fk:d][cl:e][dk:f]C[W186 is the last losing move, White should cut at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f' and W 186, this way White has ruined Black's territory and White is clearly favorable (see var a).];B[en];W[ar];B[bs];W[eo]LB[el:a]C[If White simply cuts at 'a' with W190, Black is hard to respond.];B[do]
+;W[bn];B[cl]C[After B193, White has no chance of winning.];W[es];B[cs];W[ka];B[sa];W[el];B[fm];W[sb];B[rf];W[se];B[sa];W[lj]
+;B[li];W[sb];B[ia];W[ha];B[sa];W[ij];B[hj];W[sb];B[go];W[na];B[cb];W[gn];B[fp]
+;W[hh];B[ei];W[fi];B[fj];W[eh];B[pg];W[qg];B[of];W[pe];B[ek];W[db];B[cd];W[dc]
+;B[ih];W[hg];B[ig];W[if];B[be];W[de];B[gi];W[fh];B[gm];W[hl];B[il];W[hm];B[bb]
+;W[hk];B[ik];W[jg];B[lg];W[nf];B[ng];W[jr];B[js];W[lh];B[mh];W[gk];B[fk];W[gl]
+;B[fl];W[hp];B[gp];W[hn];B[fn];W[gh];B[sk];W[si];B[kg];W[jf];B[mf];W[ne];B[da]
+;W[ea];B[ca];W[cg];B[bg];W[dg];B[di];W[kk];B[hi];W[im];B[iq];W[ip];B[jj]C[The final game 14 will be on 1/23, Luo Xihe (cn) will challenge Lee Changho (kr).])
+(;W[el];B[ek];W[fl];B[fk];W[cl];B[dk];W[dn]))
+(;W[oh];B[im];W[jo];B[kl];W[jl];B[kk];W[lj];B[ki]))
+(;B[jo];W[io];B[jp];W[kp];B[ip];W[hp]))
+(;W[mn];B[kl];W[jm];B[mk];W[lk];B[im];W[jl];B[kk]))
+(;W[lp];B[mo];W[mp];B[rr];W[mm];B[mn];W[no];B[nn];W[ln];B[nm];W[ml];B[nl];W[nk]C[Black is dead.]
+))
+(;W[qr];B[mo];W[mp];B[lo];W[lp];B[kp];W[kq];B[lq]C[White is no good.]))
+(;W[mq];B[rr];W[rp];B[mr];W[kq];B[qr];W[pm];B[mn]))
+(;W[oq];B[or];W[pr];B[qr];W[qq];B[ps];W[qp];B[pr];W[mq];B[nr];W[mp];B[rq]))
+(;W[op];B[oq];W[np];B[mq];W[qq];B[mp];W[nq];B[nr];W[pp];B[mn];W[mr];B[lr];W[cp]
+)) 

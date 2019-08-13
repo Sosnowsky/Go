@@ -1,0 +1,23 @@
+(;SZ[19]EV[CJK 6th Nong Shim Cup Ring Contest game 13]DT[2005-02-25]PC[Shanghai, China]KM[6.5]PB[O Meien]BR[9p]PW[Lee Changho]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dd];B[fc];W[hc];B[pp];W[dp]
+;B[nc];W[cf];B[pj];W[nq];B[qn];W[pr];B[fq];W[cn];B[lq];W[qq];B[oq];W[or];B[np]
+;W[mp];B[mq];W[nr];B[jp];W[kc];B[ke];W[no];B[op];W[mj];B[ml];W[kj];B[li];W[mk]
+;B[nl];W[mi];B[oi];W[nh];B[og];W[qc];B[pd];W[kl]LB[ro:a]C[W40: For White to make the knight's move at 'a' is also very big.];B[qp]LB[he:a]C[B41: For Black to cap at 'a' is better.];W[jf]LB[dj:a][dc:b][cc:c][ed:d][db:e][eb:f][ec:g][rq:h][rr:i][de:j][he:k]C[If W42 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'b', W 'j' and B 'k', White is no good.]
+;B[je];W[if];B[ie]LB[hd:a]C[B45 should be at 'a'.];W[he];B[hf];W[ge];B[kf];W[jh];B[dc];W[cc];B[cb]LB[ed:a][db:b][eb:c][rq:d][hg:e]C[B53 is questionable, Black should play at 'a', next W 'b' and B 'c', initiating a ko, because Black has the ko threats at 'd' and 'e', Black can fight.]
+;W[db]LB[ec:a][ed:b][cd:c]C[W54 is severe, if White plays at 'a' instead, then White will connect at 54, followed by W 'b' and B 'c', White can't be satisfied.];B[ec];W[bb];B[cd];W[bc];B[de];W[ef]C[After W60, Black is hard to answer.];B[df];W[dg]
+;B[ee];W[ce];B[hb];W[ib];B[gb];W[id]C[The exchange of B67 and W68 should be reserved.];B[ff];W[eg];B[fe];W[gf];B[fg];W[fh];B[jb]
+;W[kb]LB[jc:a][ia:b][ic:c][lb:d]C[If W76 at 'a', then later on Black is left with the tactic of ko-crossing over with B 'b', W 'c' and B 'd'.];B[gd];W[gg]LB[hd:a][eb:b][ca:c][ed:d][gh:e][gc:f][go:g]C[W78 is a very bad move, White should play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', this way the outcome of the game is still hard to imagine.]
+
+(;B[eb]LB[hd:a][ic:b][ca:c][ed:d][bd:e][gc:f][mb:g][nb:h][mc:i][me:j][ja:k][fo:l]C[B79: Black has missed a good opportunity, Black should cut at 'a', next W 'b', B79, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', Black is clearly favorable (see var a).];W[hd]
+;B[da];W[fp];B[gp];W[gq];B[er];W[eq];B[fr];W[dr];B[cq];W[dq];B[fo];W[ep];B[hp]
+;W[rd];B[re];W[gr];B[hr];W[fm];B[ed];W[bd];B[cg];W[bg];B[ch];W[di];B[bh];W[bf]
+;B[ck];W[ci];B[cm];W[dm];B[dl];W[bm];B[bl];W[cl];B[rq];W[rr];B[cm];W[rb];B[bi]
+;W[cl]LB[dh:a][eh:b][ei:c][fi:d][ej:e][rf:f][sd:g][sc:h][rc:i][bk:j][cm:k][se:l][qg:m][bn:n]C[After W120, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W94, W120, W 'l', B 'm' and W 'n', White is favorable.]
+;B[ag]LB[cj:a][eh:b][cm:c][ah:d][aj:e]C[B121 is the losing move, Black should play at 'a', next W 'b' and B 'c', because B 'd' is sente later on, White needs to reinforce at 121, then B 'e', Black can easily make life.];W[ah]C[W122 is a brilliant counterattack, Black instantly sinks into a difficult situation.];B[cj];W[eh];B[cm];W[rp];B[ro];W[cl]
+;B[ae];W[ad];B[cm];W[el];B[dj];W[cl];B[ai];W[ba];B[ei];W[dh];B[cm];W[fi];B[ek]
+;W[cl];B[fl];W[dk];B[af];W[be];B[dl];W[gc];B[ia];W[dk];B[jd];W[fk];B[ic];W[gl]C[After W154, Black already has no chance of winning.]
+;B[sp];W[lp];B[kq];W[sr];B[dl];W[ej];B[cm];W[bn];B[hg];W[gh];B[jg];W[ob];B[nb]
+;W[oc];B[od];W[sd];B[se];W[nd];B[md];W[ne];B[me];W[nf];B[ng];W[mc];B[mb];W[lc]
+;B[mf];W[na];B[of];W[ma];B[oe];W[qe];B[qf];W[rf];B[pe];W[lm];B[hq];W[lb];B[cr]
+;W[es];B[gs];W[en];B[bs];W[jc];B[im];W[il];B[jm];W[jl];B[ih];W[ib]C[The game 14 will take place on 2/26.])
+(;B[hd];W[ic];B[eb];W[ca];B[ed];W[bd];B[gc];W[mb];B[nb];W[mc];B[me];W[ja];B[fo]
+)) 

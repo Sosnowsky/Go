@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 31st Meijin Title league game 33]DT[2006-08-03]KM[6.5]PC[Japan]PB[Yamada Kimio]BR[9p]PW[Sakai Hideaki]WR[7p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[cq];B[qo];W[kq]
+;B[cf];W[fc];B[bd];W[cc];B[ci];W[nq];B[nc];W[ck];B[eq];W[do];B[hq];W[bh]LB[ch:a][bi:b][bg:c][cj:d]C[After W18, if B 'a', then W 'b', B 'c' and W 'd', Black can't be satisfied.]
+;B[bi];W[ce]LB[be:a][cg:b][df:c][dg:d][bg:e][ag:f][bf:g][ch:h][dh:i][eg:j]C[After W20, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black is not good (see variation a); Moreover, when W 'b', if Black plays at 'd' instead, then W 'c', B 'g', W 'i', B 'h', W 'j' and B 'e', Black is not good either (see variation b).]
+(;B[cl]LB[bf:a][ch:b][dh:c][di:d][cg:e][eh:f][dg:g][cj:h][ah:i][bj:j][bg:k][ej:l]C[If B21 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is clearly not good (see variation c).];W[ch]
+;B[dh];W[di];B[bk];W[dg];B[eh];W[df];B[dk];W[cn]C[Through W30, both sides have gained some profit.];B[pj]LB[qi:a][oo:b][po:c][on:d][pm:e]C[Black's strategy following B31 is questionable, for Black to play at 'a' is better, if W 'b', then B 'c', W 'd' and B 'e', this result is better than the real game.]
+;W[oo];B[qe];W[qn];B[po];W[pn];B[on];W[ro];B[rp];W[rn];B[rr];W[om];B[nn];W[no]
+;B[mn];W[sp];B[rq];W[qk]LB[ok:a]C[W48: For White to play at 'a' is the right move.];B[qj];W[rj];B[ri];W[rk]LB[ok:a][ol:b][ml:c][pr:d][oq:e][or:f][np:g][mp:h][mo:i]C[After W52, B 'a' is the vital point, if W 'b', then B 'c', if W 'd' next, then B 'e', W 'f', B 'g', W 'h' and B 'i', Black has nothing to complain.]
+;B[nr];W[mr];B[or]C[B53 and B55: Black ends in gote and is clearly not good.];W[ip]C[W56: White strengthens himself by attacking two black stones.];B[cr];W[br];B[dq];W[cp];B[iq];W[jq];B[go]LB[hp:a][io:b][ok:c]C[B63 is again questionable, Black should play at 'a', next W 'b' and B 'c'.]
+;W[fp]LB[fq:a][dr:b][er:c][cs:d]C[W64 is severe, if B 'a', then W 'b', B 'c' and W 'd', Black is difficult to tolerate.];B[er];W[cs]LB[bs:a][dr:b][ds:c]C[The exchange of B65 and W66 makes Black lose the ko tactic by B 'a', W 'b' and B 'c'.];B[fo]LB[gp:a]C[B67: For Black to play at 'a' is better.]
+;W[ok]C[W68 is mutual good point, White's situation is favorable.];B[oj];W[nk];B[lp];W[mp];B[lo];W[lq];B[jo];W[jp];B[jn];W[in];B[jl];W[hp]C[Through W80, we can see the improperness of B67.]
+;B[gp];W[im];B[kk];W[gn]C[Through W84, the roles of defense and offense have been reversed.];B[ds];W[dr];B[fn];W[gm];B[cr];W[bs];B[fm];W[ep];B[fq]
+;W[jd]LB[lc:a][rh:b][qh:c][si:d][qi:e][rg:f]C[After W94, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black can't be satisfied.];B[qh];W[lc];B[bm];W[dr];B[he];W[ic]
+;B[cr];W[bn];B[mb];W[if];B[fg];W[hj];B[mj];W[fl];B[el];W[fk];B[ei];W[ej]C[W122: White at the bottom is alive completely, White's advantage is obvious.];B[dj]
+;W[ll];B[lk];W[lm];B[op];W[mo];B[ln];W[nm];B[jm];W[mg]LB[nj:a]C[W122 aims at the cut at 'a'.];B[kh]LB[nj:a][lb:b]C[B123 is strong move, if Black simply plays at 'a', then W 'b', Black has no chance to win.]
+;W[kg];B[lg];W[lf];B[lh];W[mf];B[lb];W[pf];B[og];W[of];B[ne];W[nf];B[qf];W[ir]
+;B[hr];W[jr]C[W136 and W138 are declaration of victory.];B[kc];W[jg];B[ee];W[fe];B[ah]LB[ag:a][cg:b][ai:c][ed:d][ec:e][de:f][ef:g][be:h]C[After B143, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White is not good (see variation a).]
+
+(;W[bf];B[af];W[ae];B[de];W[cg];B[ef];W[ed];B[ag];W[be];B[kd];W[hf]C[After W154, White wins the game for sure.];B[ff];W[gf]
+;B[ib];W[hb];B[ke];W[kf];B[je];W[ie];B[jb];W[ha];B[pg];W[mh];B[mi];W[dr];B[ho]
+;W[io];B[cr];W[fi];B[fh];W[dr];B[es];W[bg];B[ai];W[dm];B[em];W[jj];B[il];W[gi]
+;B[hk];W[gk];B[hl];W[gl];B[ii];W[ji])
+(;W[ag];B[cg];W[ai];B[ed];W[ec];B[de];W[ef];B[be]))
+(;B[be];W[cg];B[df];W[dg];B[bg];W[ag];B[bf];W[ch])
+(;B[be];W[cg];B[dg];W[df];B[bf];W[dh];B[bg];W[eg])
+(;B[bf];W[ch];B[dh];W[di];B[cg];W[eh];B[dg];W[cj];B[ah];W[bj];B[bg];W[ej])) 

@@ -1,0 +1,33 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bb][bf][bi][cb][cf][de][df][eb][ed][fb][fc][fd]
+AW[bc][bd][be][bh][cc][ce][dc][dd][ec]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties]
+;W[db]
+;B[da]
+;W[ba]
+(
+;B[ab]
+(
+;W[ac]
+;B[ca]
+;W[ae]C[RIGHT
+])
+(
+;W[ae]
+;B[ca]
+;W[ac]C[RIGHT
+])
+(
+;W[ca]
+;B[ae]
+;W[ea]
+;B[ac]))
+(
+;B[ca]
+;W[ae]
+;B[ac]
+;W[ab]
+;B[ea]
+;W[ac]C[RIGHT
+]))

@@ -1,0 +1,46 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ai][aj][bd][be][bj][cf][cg][ch][ci][cj]
+AW[ad][ah][bc][bh][bi][bk][cc][cd][ce][ck][dh][di][dj][dk][ef]PL[B]C[Black to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties
+
+Source: Guan-Zhi-Pu.]
+(
+;B[ae]
+;W[bf]
+(
+;B[ac]
+;W[af]
+(
+;B[ag]
+;W[ad]
+;B[bg]
+;W[be]
+;B[bh]C[RIGHT
+])
+(
+;B[bg]
+;W[ad]
+;B[ag]
+;W[be]
+;B[bh]C[RIGHT
+]))
+(
+;B[bg]
+;W[af]
+;B[ag]
+;W[bh])
+(
+;B[ag]
+;W[af]
+;B[bg]
+;W[bh]))
+(
+;B[bg]
+;W[ae])
+(
+;B[bf]
+;W[ae])
+(
+;B[ac]
+;W[ab]))

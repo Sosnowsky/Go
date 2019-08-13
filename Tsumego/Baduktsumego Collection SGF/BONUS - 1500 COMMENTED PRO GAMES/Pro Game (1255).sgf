@@ -1,0 +1,24 @@
+(;SZ[19]EV[Japan 51st NHK Cup quarter final]DT[2004-02-22]PC[Japan]PB[Cho Chikun]BR[9p]PW[Yamada Kimio]WR[8p]KM[6.5]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[qk];W[mq]
+;B[fq];W[ip];B[cn];W[fp];B[cq];W[eq];B[cp];W[po];B[qo];W[qn];B[qp];W[pm];B[gq]
+;W[er];B[gp];W[fo];B[go];W[fn];B[gn];W[fm];B[cl];W[or];B[oo];W[nn];B[oq];W[nq]
+;B[in];W[pr];B[qr];W[on]C[Through W36, White can be satisfied.];B[ps];W[nr]
+(;B[ro]LB[rr:a][rq:b][rs:c][qs:d][os:e][qq:f]C[B39: If Black takes tenuki, then W 'a', B 'b', W 'c', B 'd', W 'e', B 'f' and W39, Black will get killed (see var a).];W[hr];B[hl];W[fk];B[hj];W[rn]
+(;B[rq]LB[rr:a][qs:b]C[B45: If Black takes tenuki, then White will play at 45, next B 'a 'and W 'b', Black is dangerous (see var a).];W[qf];B[qh];W[of];B[nd];W[oh];B[qe];W[rf];B[oi];W[ni];B[ph]
+;W[ng];B[oj];W[nj];B[nk];W[mk];B[nl];W[ml];B[rl];W[ld];B[re]C[Through B65, it seems White is favorable for the game.];W[fd];B[hh];W[dj]
+;B[hc];W[hg];B[gh];W[ig];B[fb];W[db];B[jc];W[lb];B[nb];W[rc];B[pf]C[The sequence following B79 is the strongest answer.];W[pg];B[pe]
+;W[qg];B[rh];W[oc];B[ob];W[pk];B[ok];W[dh];B[me];W[le];B[mf];W[je];B[mj]C[The counterattack of B93 is very severe.];W[mi]
+;B[lj];W[li];B[kj];W[pj];B[pi];W[nc];B[pc];W[mm];B[ki];W[lg];B[lh];W[kh];B[mh]
+;W[mg];B[nh];W[kb]C[W100: White hopes to redeem his loss by attacking Black.];B[he];W[gg];B[gd];W[fc];B[jd];W[ib];B[jb];W[hb];B[gb];W[ja]
+;B[ia];W[ka];B[ic];W[ha];B[gc];W[ie]
+(;B[lf]LB[fe:a][dc:b][de:c][ce:d][df:e][cf:f][dg:g][cg:h][eh:i][lc:j][kc:k][kd:l][mc:m][ke:n][kf:o][kg:p][id:q]C[B127 is questionable, Black should play at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', Black can run out (see var a). Moreover when B 'a', if White doesn't answer at 'b', then Black can play at 'j', then W 'k', B 'l', W 'm', B 'n', W127, B 'o', W 'p' and B 'q', Black makes one eye in sente, Black can also make life (see var b).]
+;W[ke];B[fe];W[ef]C[After W130, White is favorable for the game.];B[kf];W[md];B[kg];W[od];B[oe];W[ne];B[nf];W[fg];B[cc];W[dc]
+;B[cd];W[bf];B[cb];W[be];B[kq];W[kp];B[lp];W[ko]LB[lq:a]C[W148 is the losing move, White should cut at 'a', White is already very adequate.];B[lq];W[lo];B[mp];W[np]
+;B[mo];W[no];B[iq];W[hq];B[jp];W[jo];B[jq];W[hp];B[io];W[mn];B[lr]LB[ir:a][hs:b]C[B163 is the winning move, White clearly overlooks this move, if B163 at 'a', then White can play the good move at 'b', Black is not good.]
+;W[ir];B[jr];W[gr];B[ln];W[kn];B[lm];W[km];B[ll];W[kl];B[lk];W[ks];B[jl];W[js]
+;B[jm];W[ls];B[kk]C[Through B179, White several stones are captured, Black wins the game for sure.];W[bk];B[bl];W[pl];B[bj];W[bi];B[cj];W[ci];B[ck];W[qj];B[rj]
+;W[bs];B[fr];W[fs];B[cr];W[cs];B[br];W[do];B[ds];W[co];B[bo];W[dr];B[as];W[bn]
+;B[bm];W[dn];B[cm])
+(;B[fe];W[dc];B[de];W[ce];B[df];W[cf];B[dg];W[cg];B[eh])
+(;B[fe];W[de];B[lc];W[kc];B[kd];W[mc];B[ke];W[lf];B[kf];W[kg];B[id]))
+(;B[fc];W[rq];B[rr];W[qs]))
+(;B[fc];W[rr];B[rq];W[rs];B[qs];W[os];B[qq];W[ro])) 

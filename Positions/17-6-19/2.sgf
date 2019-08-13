@@ -1,0 +1,22 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[dd][cf][fk][jl][ql][fm][im][km][dn][fn][jn][kn][ln][co][do][eo][ko][mo][oo][po][qo][dp][fp][gp][mp][dq][hq][iq][mq][hr][kr][lr]AB[fc][kc][qd][ph][fl][hl][dm][hm][bn][cn][gn][in][mn][bo][fo][go][ho][io][jo][lo][cp][ip][kp][lp][op][qp][rp][cq][fq][jq][kq][pq][ir][jr]LB[fl:2][hr:1]C[W to not lose immediately]PL[W]
+(;W[gl]C[Game move.]
+;B[el]
+;W[gm]
+;B[gk]
+;W[hk]
+(;B[gj]C[This is really bad for B, instead.])
+(;B[en]
+;W[gj]
+;B[em]
+;W[gk]
+;B[dr]C[W dies.]))
+(;W[el]C[W has to play this atari.]
+;B[gl]
+(;W[em])
+(;W[dl]
+;B[cm]
+;W[em]
+;B[hj]
+;W[jj]C[Even game.])))

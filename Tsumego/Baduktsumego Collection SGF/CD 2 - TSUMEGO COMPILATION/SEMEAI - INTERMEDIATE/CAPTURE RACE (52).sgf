@@ -1,0 +1,27 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bf][bg][bh][cb][cc][cd][ch][ci][ed][fc]
+AW[ba][bb][bc][bd][bi][bj][ce][cg][cj][de][dg][di][dj][eh]PL[W]C[White to play.
+
+Capture race - One Eye Kills Blind]
+(
+;W[ab]
+;B[ad]
+;W[ae]
+;B[af]
+;W[ah]C[RIGHT
+])
+(
+;W[ad]
+;B[ab]
+;W[ah]
+;B[ca]
+(
+;W[ae]
+;B[af]
+;W[cf]
+;B[aa])
+(
+;W[ag]
+;B[ae]
+;W[cf]
+;B[aa])))

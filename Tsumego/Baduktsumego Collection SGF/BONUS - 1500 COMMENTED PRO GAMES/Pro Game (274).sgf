@@ -1,0 +1,41 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 4]KM[6.5]DT[2002-12-19]PB[Mizokami Tomochika]BR[7p]PW[Rin Kaiho]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+1.5];B[pd];W[dd];B[pq];W[cp];B[eq];W[hp];B[en]
+;W[cn];B[do];W[co];B[kp]
+(;W[hm]LB[hn:a][el:b][ck:c][hl:d]C[W12: If White jumps to 'a', after B 'b', W 'c', Black would get the excellent cap move at 'd' (see var a).];B[el];W[ck];B[qo];W[ej];B[hn]C[B17: Black starts to attack White's weakness.];W[gn];B[go];W[in]
+;B[ho];W[io];B[gp];W[ko];B[iq]C[B25 is a good move.];W[jp]LB[lp:a][lo:b]C[W26 seems slack, White should hane at 'a', if B 26, then White can connect at 'b'.];B[jq];W[lp];B[kq];W[lm]LB[im:a]C[W30: White aims to defend against Black's cut at 'a'.]
+
+(;B[fc]LB[cf:a][ce:b][df:c][fd:d][ci:e]C[B31: Black can also consider to approach at 'a', followed by W 'b', B 'c', W 'd' and B 'e'.];W[dc];B[ic];W[fd]C[The moves after W34 are tight.];B[gd];W[ge];B[fe];W[ff]
+;B[ed];W[ee];B[fd];W[ef]C[Through 42, White can be satisfied.];B[ce];W[cd];B[bd];W[bc];B[de];W[eb]LB[be:a]C[W48 is a surprising move, playing the cut and atari at 'a' is the usual move.]
+(;B[eh]LB[gf:a][he:b][gg:c][dg:d][if:e]C[B49 at 'a' is simpler and clearer, followed by W 'b', B 'c', W 'd' and B 'e' (see var a).];W[fh];B[gf];W[he];B[fg];W[gg];B[hf];W[eg]
+;B[ie];W[hg];B[if]C[Through B59, both sides have come to an exchange, it seems that White is favorable.];W[pc]C[W60 is a good move at this situation.];B[qc];W[oc];B[qb];W[ne];B[pe];W[mc];B[dg];W[dh]
+;B[ch];W[ei];B[bi]
+(;W[df]LB[bj:a][cj:b][dj:c][ci:d][bk:e][bg:f][cf:g][bf:h][be:i][ah:j][bb:k][ab:l][cb:m][cc:n][ad:o]C[If W72 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 72, B 'i', W 'j', B 'k', W 'l', B 'm', W 'n' and B 'o', this would be bad for White (see var a).]
+;B[bk];W[cj];B[bj];W[bg];B[cl];W[dm]
+(;B[cm]LB[dl:a][bm:b][bl:c][em:d]C[B79: If Black simple connects at 'a', then W 'b', B 'c' and W 'd', Black is no good (see var a).];W[dn];B[dl];W[dq]
+(;B[ep]LB[er:a][em:b][bn:c]C[B83: Black perhaps should stand at 'a', followed by W 'b' and B 'c',  it is a common play (see var a).];W[qg];B[rf];W[pl]C[Through 86, White is leading.];B[pj];W[og];B[nj];W[mg];B[rg]C[B91 is the vital point for both sides.]
+;W[pn];B[po];W[qn];B[oo];W[qf];B[re]LB[qe:a][qh:b][rj:c]C[B97 is inexplicable, Black certainly should block at 'a', then White extends to 'b' and Black jumps to 'c'.];W[nn];B[qh];W[qj];B[nh]
+;W[pi];B[ph];W[qi];B[oh];W[jb];B[ib];W[kc];B[fb]C[B109 looks small but it is huge in reality.];W[rn];B[ro];W[so];B[sp];W[sn]
+;B[rq];W[ip];B[hq];W[gl];B[er];W[dr];B[lb]C[The counterattack following B121 is very intense.];W[lc];B[nb];W[mb];B[nc];W[ob];B[nd]
+;W[od];B[md];W[na];B[me];W[oe];B[ke];W[ng]C[Through 134, White still has not lived completely.];B[ri];W[rj];B[cb];W[db];B[be];W[ad]
+;B[pk];W[qk];B[bn];W[bo];B[ds];W[cs];B[es];W[br]
+(;B[mq]LB[ol:a][pm:b][kj:c][oj:d][ok:e][oi:f][ni:g][nk:h][om:i][on:j][ml:k][mk:l][lk:m]C[B149 seems slow, the hane move at 'a' is the pivotal point, if White connects at 'b', then B 'c'. In addition, when B 'a', if White strikes back at 'd', then B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', White would be in trouble because he couldn't take care of the upper and lower groups at the same time (see var a).];W[mp]
+;B[nq];W[bm];B[bl];W[an];B[em];W[kj]C[W156 is an excellent move, Black is not optimistic.];B[ea];W[bb]LB[cc:a][da:b][ba:c]C[W159 is a mistake, White should reply at 'a', then B 'b' and W 'c'.];B[da]
+;W[cc];B[ji]C[The play of B161 takes a big risk.]
+(;W[ki]LB[le:a][ld:b][kd:c][lf:d][mf:e][lg:f][jf:g][jh:h][ih:i][kh:j][ig:k][ii:l]C[W162: If White wedges at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'a', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black would be separated (see var a).];B[jh]
+;W[jj];B[ba];W[ca];B[pa];W[oa];B[cb];W[kg];B[ca];W[cf]C[After W172, the difference for both sides has been narrowed down.];B[jg];W[oj]C[W174 is the winning move, the outcome of a small-margin victory for White can't be altered.];B[nk]
+;W[ok];B[lk];W[kk];B[hi];W[ij];B[fk];W[kf];B[kd];W[jc];B[jd];W[gk];B[no];W[mn]
+;B[ii];W[si];B[rh];W[lq];B[lr];W[fn];B[fo];W[nl];B[ci];W[ek];B[fl];W[gm];B[lj]
+;W[li];B[ll];W[kl];B[ml];W[mm];B[mi];W[cg];B[mf];W[lg];B[ka];W[ja];B[ia];W[jf]
+;B[ig];W[ma];B[hj];W[hk];B[qe];W[pg];B[sh];W[sj];B[on];W[om];B[mo];W[lo];B[hh]
+;W[dp];B[eo];W[oi];B[ni];W[pb];B[qa];W[np];B[op];W[gh];B[ah];W[al];B[ak];W[am]
+;B[ag];W[bh];B[ab];W[bf];B[je];W[kh];B[mh];W[ld];B[le];W[nf];B[pf];W[ac];B[fa]
+;W[aa];B[ai];W[ab])
+(;W[le];B[ld];W[kd];B[lf];W[mf];B[le];W[lg];B[jf];W[jh];B[ih];W[kh];B[ig];W[ii]C[This variation is better for White.]
+))
+(;B[ol];W[oj];B[ok];W[oi];B[ni];W[nk];B[om];W[on];B[ml];W[mk];B[lk]C[White would be in trouble.]))
+(;B[er];W[em];B[bn]C[This would be better for Black.]))
+(;B[dl];W[bm];B[bl];W[em]C[Black is no good.]))
+(;W[bj];B[cj];W[dj];B[ci];W[bk];B[bg];W[cf];B[bf];W[df];B[be];W[ah];B[bb];W[ab]
+;B[cb];W[cc];B[ad]C[This would be bad for White.]))
+(;B[gf];W[he];B[gg];W[dg];B[if]))
+(;B[cf];W[ce];B[df];W[fd];B[ci]C[For Black to approach the corner from this direction is also playable.]))
+(;W[hn];B[el];W[cl];B[hl]C[Black would get the cap move.])) 

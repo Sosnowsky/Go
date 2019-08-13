@@ -1,0 +1,24 @@
+(;SZ[19]KM[7.5]EV[Japan 61st Honinbo final game 3]DT[2006-06-07]PC[Japan]PB[Yamada Kimio]BR[9p]PW[Takao Shinji]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[dq];W[pp];B[ce];W[dh]
+;B[cj];W[df];B[de];W[ee];B[cf];W[ed];B[dg];W[eg];B[ef];W[ff];B[eh];W[df];B[cg]
+;W[di];B[fh]LB[ci:a]C[B21: Black has no assurance of success, to block at 'a' is just the right move.];W[bh]LB[ej:a][dj:b][dk:c][ck:d][bk:e][cl:f][bi:g][ei:h][fi:i][ek:j][fj:k][dl:l][ch:m][ic:n]C[W22 is severe, Black sinks into a bitter battle. If Black seals off by jumping to 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black can't be satisfied (see var a). ]
+
+(;B[ek]C[After this move, it is time for lunch break.];W[dj];B[dk];W[ck];B[bk];W[cl];B[bi];W[ch]LB[ej:a][bl:b][bg:c][ai:d][aj:e][ci:f][ah:g][bj:h][ef:i][ak:j][fg:k][ic:l]C[After W30, if Black blocks at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', White is also not bad.]
+;B[bl];W[fi];B[cm];W[bg];B[gh];W[fj];B[hf];W[ge]C[Through W38, it forms an exchange, White is leading in territory.];B[jp];W[hj]C[W40 is a good move.];B[nq];W[qn]
+;B[id];W[he];B[ie];W[if];B[jf];W[ig];B[gl];W[hq];B[iq];W[fq];B[hp];W[cq];B[cr]
+;W[dp];B[dr]C[After this move, the game was closed for the first day.];W[gp]LB[hr:a][bq:b][ep:c][eq:d][cp:e][do:f][bp:g][ho:h][gq:i][gr:j][fo:k][gn:l][br:m][bs:n][er:o][ar:p][ds:q][aq:r][gs:s][go:t][fp:u]C[After W58, if Black plays atari at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', W50, B 'k', W 'l', B 'm', W 'n', W 'o', B 'p', W 'q', B 'r', W 's', B 't' and W 'u', White can easily make life, Black is not good (see var a).]
+
+(;B[ep];W[ho];B[ip];W[eo];B[eq]LB[go:a][im:b][cp:c][do:d][en:e][co:f][bo:g]C[After B63, the connection of  W 'a' is a good move, if Black seals off at 'b', then W 'c', B 'd', W 'e', B 'f' and W 'g', Black is difficult to answer.];W[em]C[W64 is questionable.]
+;B[fo]LB[gn:a][go:b][fn:c][in:d][hn:e][hm:f][im:g][jn:h][fl:i][fk:j][gk:k][il:l][gm:m][fm:n][el:o]C[B65: If Black jumps to 'a', then W 'b', B 'c', W65, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n' and W 'o', Black is not good.]
+;W[fn];B[do];W[dn];B[en];W[pd];B[eo];W[qc];B[qe];W[pe];B[qf];W[pc]C[Through W76, it forms an exchange, Black is favorable for the game.];B[mc]LB[lc:a]C[B77 is a big bad move, Black should make small extension at 'a'.]
+;W[kd]LB[kc:a][jc:b]C[W78 is severe, Black sinks into a difficult situation, if Black attaches at 'a', then W 'b', Black's shape will collapse.];B[le];W[ke];B[kf];W[jc];B[ih]LB[ld:a][ic:b][pf:c]C[B83 is an overplay, Black should block at 'a', next W 'b' and B 'c', this way Black still can fight for a victory.];W[jg]
+;B[ic];W[ib];B[je];W[hb];B[ld];W[lc];B[mf];W[pf];B[qh];W[pg]C[After W94, Black comes under attack in many places and is difficult to look after all of them.];B[lh];W[jh];B[ii]
+;W[ki]C[After W98, White's advantage becomes obvious.];B[jj];W[fk];B[fl];W[hl];B[jl];W[el];B[fm];W[gn];B[dl];W[hm];B[hg];W[kk]
+;B[jk];W[li];B[mi];W[mk];B[gk];W[hk];B[mj];W[lk];B[km];W[mm];B[oj];W[ng];B[mh]
+;W[mp];B[ko];W[pi]C[W126 is tight.];B[ph];W[oh];B[oi];W[qg];B[qi];W[go]LB[rg:a]C[W132: If White plays at 'a' instead, White also can win the game with a small margin.];B[mn];W[nn]
+;B[no];W[nm];B[np];W[qk];B[rg];W[rf];B[pn];W[pm];B[qm];W[rm];B[qo];W[ql];B[qj]
+;W[rh];B[rn]LB[po:a]C[B149: Black seeks a way to concede defeat, if Black connects at 'a' instead, White is even leading on the board.];W[on];B[qm];W[pk];B[pj];W[qn];B[cc];W[cb];B[qm];W[po];B[qn]
+;W[qp];B[rp];W[sn];B[ro];W[rq];B[rl];W[sm]C[The game 4 will take place on 6/12.])
+(;B[hr];W[bq];B[ep];W[eq];B[cp];W[do];B[bp];W[ho];B[gq];W[gr];B[hq];W[fo];B[gn]
+;W[br];B[bs];W[er];B[ar];W[ds];B[aq];W[gs];B[go];W[fp]))
+(;B[ej];W[dj];B[dk];W[ck];B[bk];W[cl];W[ck];B[bi];W[ei];B[fi];W[ek];B[fj];W[dl]
+;B[ch];W[ic])) 

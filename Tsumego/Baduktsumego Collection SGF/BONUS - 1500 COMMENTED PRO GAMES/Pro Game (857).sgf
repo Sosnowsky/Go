@@ -1,0 +1,23 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 23]DT[2003-05-08]KM[6.5]PB[O Rissei]BR[9p]PW[Mizokami Tomochika]WR[7p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[qk];W[nc];B[pf]
+;W[pb];B[qc];W[kc];B[fq];W[cn];B[ip];W[ko]LB[po:a][jn:b]C[W14 is a novel play, if Black already has one stone at 'a', Black may counterattack by playing at 'b'.];B[kp]LB[kq:a]C[B15: If Black answers at 'a', then it looks that White already takes advantage.];W[lp]
+;B[lo];W[mo];B[ln];W[kq];B[jp];W[mq];B[mn]LB[po:a][lm:b]C[B23: For Black to simply jump to 'a' would be better, then W 23 and B 'b', Black's shape is not bad.];W[no];B[po];W[nn];B[pm]
+;W[nl];B[ll];W[cf]LB[nj:a]C[W30: White should jump to 'a'.];B[jq];W[kr];B[eb];W[db];B[ec];W[dc];B[ic];W[or]LB[pr:a][op:b][pp:c]C[W38: White aims to live completely in sente, if Black answers at 'a', then W 'b' and B 'c', White would have nothing to worry about later on.]
+;B[nq]C[The counter-attack of B39 is a good move.]
+(;W[nr]LB[pr:a][np:b][mp:c][qq:d][qp:e][rp:f][rq:g][oq:h][op:i][pp:j][qo:k][rr:l][nk:m]C[If W40 at 'a', then B 'b', W 'c', B 40, W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', White would be dangerous (see var a).];B[pr]C[After B42, White is still not completely alive.]
+;W[jr];B[ir];W[jn]LB[dj:a]C[W44 seems cumbersome, for White to play at 'a' is the proper move.];B[fo];W[ho];B[hm]
+(;W[hn]LB[im:a][il:b][jl:c][in:d][jm:e][io:f][lm:g]C[W48: White can also consider to play at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', White can fight (see var a).];B[im];W[jo];B[hp];W[gm];B[dm];W[cm]
+;B[dl];W[eq]LB[jm:a][dr:b]C[If W56 at 'a', then B 'b', White would not be satisfied.];B[er];W[dr];B[ep];W[dq];B[do];W[co]C[Through 62, although White has gained some territory, but White in the middle becomes weaker.];B[gl];W[jm]
+;B[fm]C[Through 65, Black is very thick and the game is to Black's advantage.];W[jk];B[lj];W[ji];B[np];W[mp];B[nj]LB[lr:a]C[After B71, Black is eyeing for the killing tactic by playing at 'a'.];W[pl];B[ql];W[ps];B[rr]
+;W[pn];B[qn];W[om];B[on];W[oo];B[pp];W[pn];B[qm]C[After B83, White is still not alive yet.];W[kh]C[W84 is a play of desperate fight in order to win the game.];B[kj];W[jj];B[md]
+
+(;W[mc]LB[jd:a][id:b][hc:c][hd:d][gd:e][ge:f][fd:g][jb:h][fe:i][gf:j][de:k][ce:l][eg:m][mb:n][lb:o][nb:p][lc:q][oe:r]C[W88: White can think to wage a death-defying fight by playing at 'a', followed by B 88, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p', B 'q' and W 'r', this way Black would also has some apprehensions (see var a)]
+;B[kd];W[gn];B[kl];W[hl];B[il];W[jl];B[hk]C[After B95, White has sunk into a difficult situation.];W[gi];B[jc];W[lc];B[kf];W[qb];B[gg]
+;W[hj];B[dg];W[hg];B[gf];W[fn];B[dn];W[em];B[el];W[fl];B[fk];W[ik];B[cg];W[df]
+;B[cl]C[B115: Black turns to enclose territory, the game is still favorable for Black.];W[fr];B[gr];W[es];B[hq];W[qe];B[pe];W[rc];B[rd];W[sb];B[re];W[ok]LB[fd:a][oj:b][mj:c]C[W126 is the last losing move, White should simply play at 'a', reserving the tactic of attaching out at 'b', if B 126, then White would get to play the clever wedge move at 'c', Black has hard to kill White.]
+;B[oj];W[fd];B[lr]C[B129: Black delivers White a fatal blow.];W[mm];B[lm];W[pk];B[nk];W[pj];B[pi];W[qj];B[qi]LB[ml:a]C[After B137, if White plays at 'a', then White is ko-alive, White is clearly no good.]
+)
+(;W[jd]C[White can fight desperately this way.];B[mc];W[id];B[hc];W[hd];B[gd];W[ge];B[fd];W[jb];B[fe];W[gf];B[de];W[ce]
+;B[eg];W[mb];B[lb];W[nb];B[lc];W[oe]C[Black would also have something to worry.]))
+(;W[im]C[White can play here.];B[il];W[jl];B[in];W[jm];B[io];W[lm]C[White can fight.]))
+(;W[pr]C[If White crawls on the second line, ...];B[np];W[mp];B[nr];W[qq];B[qp];W[rp];B[rq];W[qr];B[ro];W[oq];B[op];W[pp]
+;B[qo];W[rr];B[nk]C[White would be dangerous.])) 

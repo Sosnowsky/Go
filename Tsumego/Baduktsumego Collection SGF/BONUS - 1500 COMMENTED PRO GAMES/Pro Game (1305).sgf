@@ -1,0 +1,20 @@
+(;SZ[19]EV[Japan 51st Oza Title final game 1]DT[2002-10-30]KM[5.5]PB[O Meien]BR[9p]PW[Cho U]WR[9p]PC[Tokyo, Japan]RE[B+R]C[Copyright gogameoworld.com and weiqi.tom.com.];B[qd];W[dc];B[dp];W[pq];B[de];W[ce]
+;B[df];W[cf];B[dd];W[cd];B[ec];W[cg];B[po];W[qo];B[qn];W[qp];B[od]LB[kd:a][pi:b][pg:c][ni:d]C[B17: Black can also consider to play at 'a', then W 'b', B 'c' and W 'd'.]
+;W[pi];B[nn];W[ql];B[db];W[cc];B[fd]LB[jc:a]C[B23: For Black to extend at 'a' is also playable.];W[kc];B[ic];W[ib];B[hb];W[nb];B[ob]
+;W[nc];B[oc];W[jb];B[pl];W[pk];B[qm];W[rl];B[ok];W[qj];B[mq];W[rn]C[W40: If White approaches at 'a', then B 'b'.]LB[fq:a][hq:b]
+;B[jq];W[cn];B[dn];W[cq];B[dq]LB[co:a]C[B45 is better than the tiger's move at 'a'.];W[cp];B[co];W[bo];B[do];W[bn];B[im];W[gl]LB[gn:a][dm:b][em:c][el:d]C[After W52, if Black protects at 'a', then W 'b', B 'c' and W 'd', White is favorable.]
+;B[dl]LB[dm:a]C[B53: For Black to extend at 'a' is better.];W[gn];B[ho];W[go];B[gp];W[fp];B[hp];W[em];B[dm];W[fq]C[Through W62, White is favorable for the game.];B[dr]
+;W[hk];B[el];W[fm];B[jk]
+(;W[hr]LB[hi:a][br:b][ck:c][cj:d][bk:e][gj:f][hj:g][dj:h][bj:i][ji:j]C[W68 is a careless move, White should simply jump to 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j' (see var a).];B[bl];W[cr];B[gq]
+;W[fr]LB[gr:a][cs:b]C[W72: If White blocks at 'a', then Black will hane and connect at 'b' with sente, the cut at 72 will be effective.];B[gr];W[lq]C[W74 is a game-deciding move.];B[lp]LB[nr:a]C[B75 is steady, making the diagonal's extension at 'a' to kill White is probably working.];W[mr];B[lr];W[nq];B[mp];W[hi]
+;B[fh];W[hm];B[il];W[jj];B[kj];W[ji];B[ik];W[ej];B[fk];W[hj];B[fj];W[ki];B[lj]
+;W[hn];B[in];W[eh];B[ei];W[di];B[fi];W[hc];B[hd];W[gc];B[gb];W[id];B[gd];W[jc]
+;B[cb]C[B107 is the vital point.];W[ck];B[bm];W[re];B[rd];W[qf];B[bj];W[bi];B[bh]C[B113 and B115 are the winning moves.];W[ch]LB[ai:a]C[W116: If White descends at 'a', then B116, White is no good.];B[ai]
+;W[cj];B[ci];W[bk];B[ak];W[bb];B[ba];W[ac];B[eg];W[bi];B[if];W[oa];B[pa]LB[nd:a]C[B129: For Black to turn at 'a' is also a powerful move.]
+;W[na];B[qb]LB[rb:a][nd:b]C[B131: If Black jumps to 'a', then W 'b', Black is no good.];W[aj];B[nd];W[lb];B[bj];W[bg];B[ci];W[dh];B[hg];W[oj]
+;B[nj]LB[jg:a][oi:b][ph:c][pj:d][qk:e][ol:f][nr:g]C[B141 is a strong move, if White jumps to 'a', then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', this way Black would lead about 10 points on the board (see var a).]
+(;W[ol]C[White seeks a way of conceding defeat with the sequence following W142.];B[nk];W[pm];B[lh];W[jg];B[jf];W[kg];B[le];W[ig];B[mc];W[mb];B[ds];W[ar]
+;B[ke];W[mg];B[mh];W[hf];B[he];W[fl];B[hh];W[gs];B[ek];W[jr];B[kq];W[iq];B[is]C[The game 2 will take place on 11/6.]
+)
+(;W[jg];B[oi];W[ph];B[pj];W[qk];B[ol];W[nr]))
+(;W[hi];B[br];W[ck];B[cj];W[bk];B[gj];W[hj];B[dj];W[bj];B[ji])) 

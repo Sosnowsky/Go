@@ -1,0 +1,14 @@
+(;SZ[19]EV[Korea 37th Wangwi league game 9]DT[2003-04-17]PB[Lee Sedol]BR[6p]PW[Kim Juho]WR[3p]KM[6.5]PC[Korea]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dp];B[qp];W[oq];B[dd];W[qf]
+;B[nc];W[ql];B[pq];W[op];B[qn];W[pi];B[iq];W[kq];B[fq];W[eq];B[fp];W[cn];B[jo]
+;W[cf]LB[fr:a][gr:b]C[W20: White can also consider to first exchange W 'a' with B 'b', then approach the corner with W20.];B[cq]C[B21 is good timing.];W[er];B[bo]
+(;W[co]LB[bn:a][do:b][dn:c]C[W24: If White blocks at 'a', then B 24, W 'b' and B 'c', White has no assurance of success (see var a).];B[cp];W[eo];B[bn];W[cm];B[bm];W[cl];B[gn]C[As for the result up to B31, White can not be satisfied.];W[fc]
+;B[ee]C[B33: Black aims to obtain sente, it is a good move.];W[cc];B[re];W[rf];B[qe];W[of];B[pl];W[qk];B[mq]C[The invasion of B41 is very severe, Black takes the initiative.];W[mr];B[lr];W[lq]
+;B[nr];W[mp];B[ms];W[or];B[kr];W[po];B[qo];W[pn];B[qm];W[pm];B[pr];W[ps]LB[dh:a]C[W56 is clearly slow-paced, it is more important that White strengthens the left side with the knight's move at 'a'.]
+;B[cj]C[B57: White is hard to handle.];W[ej]C[W58: White is already at his wit's end.];B[dg];W[dc];B[dk]C[B61: Black initiates a direct confrontation.];W[fm];B[ek];W[gm]
+(;B[en]LB[hn:a][fo:b][go:c][fk:d]C[B65: Black delivers White the fatal blow, if Black simple retreats to 'a', then W 'b', B 'c' and W 'd', Black has no follow-up moves (see var a).]
+(;W[fn]LB[em:a][do:b][gk:c]C[W66: if White retreats to 'a', then B 66, W 'b' and B 'c', White is clearly no good (see var a).];B[fo];W[el];B[ep];W[do];B[dq]LB[bs:a][gr:b]C[B71: After Black cuts, White has inflicted a heavy loss, the originally reserved big endgame moves at 'a' and 'b' all become a visionary hope. After this move, Black wins the game for sure.];W[fk]
+;B[fj];W[ei];B[gk];W[fl];B[gj];W[fh];B[hn];W[hl];B[gh];W[gg];B[ik];W[bl];B[bi]
+;W[ch];B[cg];W[il];B[fg];W[eg];B[ff];W[hk];B[hh];W[qr];B[rr])
+(;W[em]C[If White plays here ...];B[fn];W[do];B[gk]C[White is no good either.]))
+(;B[hm]C[If Black hanes over here ...];W[fo];B[go];W[fk]C[Black would be hard to continue.]))
+(;W[bn]C[If White blocks here ...];B[co];W[do];B[dn]C[Black would cut here, and White has no certainty of success.])) 

@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 4]KM[6.5]DT[2003-12-25]PB[O Rissei]BR[9p]PW[Yamashita Keigo]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dp];B[pq];W[dc];B[df];W[ch];B[cn]
+;W[dl]LB[ck:a]C[W8: For White to make a two-space extension at 'a' is better than the real game.];B[ed];W[ec];B[fd];W[dd];B[de];W[gc];B[en];W[fp];B[eh]LB[bp:a][cm:b]C[If B17 at 'a', then W 'b', Black can't be satisfied.]
+;W[co];B[bm]LB[bn:a][ck:b][dn:c]C[If B19 at 'a', then after W 'b', White would be left with the wedge at 'c'.];W[ck];B[gn];W[fk];B[bo];W[bp];B[cq]C[B23 and B25 are good sequence play.];W[cp]LB[ao:a]C[If W26 at 'a', then Black will play at 26, White is not good.]
+;B[hp];W[fm];B[em]LB[fn:a][er:b]C[If B29 at 'a', then White will play at 'b', White can be satisfied.]
+(;W[go]LB[el:a][gm:b][er:c][hk:d][fi:e][gg:f][ei:g][gp:h]C[If W30 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', Black would be favorable (see var a).];B[fl];W[ho];B[gl];W[fi];B[fh]
+;W[gk];B[hl];W[ip]LB[el:a]C[If W38 at 'a', then Black will play at 38, White is not good.];B[dj]C[B39 is the vital point for attack.];W[el];B[cl];W[bl];B[cm]
+(;W[di]LB[dk:a][ej:b][ek:c][gi:d][hi:e][gh:f][hk:g][il:h][jj:i]TR[fm]C[W44 is hard to understand, now White can only connect at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', later the marked white stone would still have room for maneuver (see var a).];B[cj];W[ei];B[dk]C[After B47, White clearly has incurred a loss.]
+;W[gh];B[gd];W[hc];B[hd];W[id];B[ie];W[ih];B[je];W[ic];B[bq];W[dq];B[ij];W[hf]LB[hi:a][gg:b][hg:c][gf:d][kh:e][ff:f]C[W60 is again questionable, now to play at 'a' is the right move, if B 'b', then W 'c', B 'd' and W 'e'; Moreover, when W 'a', if Black plays at 'e' instead, then W 'f', Black is hard to answer.]
+;B[fc];W[fb];B[gb];W[hb];B[ff];W[hi];B[kh]C[After B67, White sinks into passivity.];W[bd];B[be];W[ji];B[lj];W[kf]LB[jj:a][qk:b]C[W72: White aims to open up the situation, if White simply presses at 'a', then Black will extend at 'b', White is not good.]
+;B[ke];W[lf];B[jg];W[jf];B[if];W[ig];B[le];W[mf];B[lh]C[The attack after B81 is very brilliant.];W[me];B[hg];W[gg];B[gf]
+;W[kk];B[mc];W[pf];B[ph];W[md];B[lc];W[ld];B[kd];W[jh];B[kg];W[oh];B[oi];W[nh]
+;B[pi]LB[mi:a][jj:b]C[After B99, because Black's diagonal seal at 'a' is sente, White needs to guard against Black's push and cut at 'b', so White has no way to get out here.];W[nc];B[nd];W[nb];B[oc];W[ob];B[kb]LB[pb:a]C[B105 is a good move, it is better than blocking at 'a'.];W[qc];B[qd]
+
+(;W[pg]LB[pc:a][od:b][rd:c][rc:d][nf:e][ne:f][oe:g][of:h][jj:i][ki:j][mh:k][ng:l][kj:m]C[If W108 at 'a', then B 'b', W108, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', making an miai of 'l' and 'm', Black is sure to get one, White would collapse (see var a).];B[pc]
+;W[ni];B[nj];W[oj];B[nk];W[rc];B[pb];W[rd];B[ng];W[og];B[qe];W[re];B[pk];W[qf]C[Through W122, White has taken a little advantage locally, but from the whole board's viewpoint, Black's advantage is clear.]
+;B[kj]C[B123: Black again starts to attack.];W[jj];B[ik];W[jk];B[jo];W[lk];B[mk];W[lm];B[jp];W[mn];B[on];W[mp];B[iq]
+;W[ao];B[op]C[Through B137, Black has gained a big profit by attacking.];W[kq];B[jm];W[nq];B[or];W[hr];B[jq];W[kr];B[lo];W[mo];B[ir];W[nr]
+;B[rg];W[qb];B[mb];W[ri];B[rh];W[rf];B[qi];W[qp];B[qq];W[rq];B[rr];W[ro];B[qn]LB[sr:a][qr:b][rn:c][qo:d]C[After B161, if W 'a', then B 'b', W 'c' and B 'd', White can't make life.]
+;W[io];B[in];W[oq];B[pp]C[After B165, Black wins for sure.];W[fn];B[ek];W[cd];B[gr];W[gq];B[hq];W[fr];B[ll])
+(;W[pc];B[od];W[pg];B[nf];W[ne];B[oe];W[of];B[jj];W[mh]))
+(;W[dk];B[ej];W[ek];B[gi];W[hi];B[gh];W[hk];B[il];W[jj]))
+(;W[el];B[gm];W[er];B[hk];W[fi];B[gg];W[ei])) 

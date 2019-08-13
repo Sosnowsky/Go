@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][bb][bc][bg][ca][cc][dc][dd][de][df][dg]
+AW[ad][bd][bf][bh][cb][cd][ce][ch][db][dh][eb][ec][ed][ee][ef][eg][eh]PL[B]C[Black to play.
+
+Make life - Capture Stones]
+(
+;B[ae]
+(
+;W[af]
+;B[cf]
+;W[be]
+;B[ag]C[RIGHT
+])
+(
+;W[cf]
+;B[cg]
+;W[ag]
+;B[af]
+;W[be]
+;B[af]C[RIGHT
+]))
+(
+;B[ag]
+;W[cg]
+;B[cf]
+;W[ae])
+(
+;B[cg]
+;W[ag]
+;B[ae]
+;W[af]))

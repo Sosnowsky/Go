@@ -1,0 +1,30 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 18]KM[6.5]DT[2004-04-08]PB[Cho Chikun]BR[9p]PW[Rin Kaiho]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dd];B[pq];W[dp];B[fc];W[hd];B[nc]
+;W[fd];B[qo];W[dj];B[fq];W[hq];B[cq];W[cp];B[dq];W[ep];B[fp];W[eq];B[er];W[dr]
+;B[cr];W[fr];B[ds];W[fo];B[gr];W[gp];B[fs];W[gn];B[cc];W[cd];B[gc];W[dc];B[gd]
+
+(;W[he]LB[ge:a][gf:b][id:c][hf:d][ie:e][if:f]C[W34 is a surprising move, normally White will block at 'a', followed by B34, W 'b', B 'c', W 'd', B 'e' and W 'f' (see var a).];B[ge];W[gf];B[fe];W[ff];B[ee];W[dg]C[After W40, Black is hard to answer.]
+;B[df]
+(;W[ig]LB[hf:a][cg:b][cf:c][eg:d][dh:e][ef:f][ce:g][eh:h][ei:i][gh:j][hc:k]C[W42: For White to connect at 'a' is better, followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', White can fight (see var a).];B[cg];W[cf]
+
+(;B[ef]LB[ce:a][bf:b][be:c][de:d][bg:e][cb:f][bd:g][eg:h][dh:i][fi:j][hc:k][db:l]C[B45 is questionable, Black should play at 'a', then W 'b', B 'c', W 'd', B45, W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', this would be better than the real game (see var a).];W[ch]
+;B[eg];W[bg]C[As to the result through W48, Black can't be satisfied.];B[gg];W[hf];B[ib];W[gi]C[After W52, White forms a 50-point territory on the left side, White is favorable for the game.];B[qi]LB[pi:a]C[B53: For Black to play at 'a' is better.];W[oj]C[W54 is a superb point.];B[ho];W[gq]
+;B[fr];W[go];B[oi]
+(;W[pi]LB[ni:a][nj:b][oh:c][ok:d][ph:e][mj:f]C[W60 is a good move, if White hanes at 'a', then B 'b', W60, B 'c', W 'd' and B 'e', White can't capture Black in a ladder by playing at 'f' (see var a).]
+(;B[ph]LB[pj:a][nj:b][ok:c][qj:d]C[B61 is over-conservative, Black should fight with White by playing atari at 'a', next W61, B 'b', W 'c' and B 'd' (see var a).];W[pj];B[qh];W[mj];B[ni];W[nj];B[lh];W[qc];B[pc]
+;W[pb];B[qb];W[oc];B[pd];W[nd];B[mc];W[md];B[lc];W[ld];B[kc];W[kd]C[Through W80, White can be satisfied.];B[ng];W[ki]
+;B[mp];W[oo];B[op];W[lo];B[mo];W[mn];B[lp];W[ko];B[nn];W[nm]LB[mm:a]C[W92 is better than playing the extension at 'a'.];B[jq];W[no]
+;B[ln];W[on];B[mm];W[nn];B[jo];W[kn];B[jn];W[kp];B[kq];W[jp];B[ip];W[km];B[iq]
+;W[jm];B[hn];W[hm]LB[np:a][nq:b][pp:c][oq:d][qp:e][po:f][qq:g][ro:h][mq:i][lq:j][pr:k][or:l][qr:m][mr:n][rp:o]C[Through W110, an exchange has resulted, White has nothing to complain, White also is left with the tactic of playing the push at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n' and W 'o' (see var a).]
+;B[gm]
+(;W[hl];B[bp]LB[po:a]C[B113: If Black reinforces at 'a', then White is also leading on the board.];W[bo];B[bn]C[B115 is a game-deciding move.];W[bq];B[eo];W[cn];B[en];W[fm];B[co];W[do]
+;B[dn];W[co];B[cm];W[ao];B[dk];W[ck];B[ej];W[ek];B[dl];W[bm];B[bl]
+(;W[an]LB[cj:a][di:b][bj:c][el:d][ak:e][am:f][bi:g][ai:h]C[After W134, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'g', B 'g' and W 'h', Black would get captured (see var a).])
+(;W[an];B[cj];W[di];B[bj];W[el];B[ak];W[am];B[bi];W[ai]))
+(;W[np];B[nq];W[pp];B[oq];W[qp];B[po];W[qq];B[ro];W[mq];B[lq];W[pr];B[or];W[qr]
+;B[mr];W[rp]))
+(;B[pj];W[ph];B[nj];W[ok];B[qj]))
+(;W[ni];B[nj];W[pi];B[oh];W[ok];B[ph];W[mj]))
+(;B[ce];W[bf];B[be];W[de];B[ef];W[bg];B[cb];W[bd];B[eg];W[dh];B[fi];W[hc];B[db]
+))
+(;W[hf];B[cg];W[cf];B[eg];W[dh];B[ef];W[ce];B[eh];W[ei];B[gh]))
+(;W[ge];B[he];W[gf];B[id];W[hf];B[ie];W[if])) 

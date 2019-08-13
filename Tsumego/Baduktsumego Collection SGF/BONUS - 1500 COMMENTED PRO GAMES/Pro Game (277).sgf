@@ -1,0 +1,28 @@
+(;SZ[19]DT[2003-12-20]PC[Seoul, Korea]KM[5.5]EV[2004 Korean Four King Pair Match]PB[Yoo Changhyeok 9p and Lee Sedol 9p]PW[Cho Hunhyun 9p and Lee Chang ho 9p]RE[B+R]C[Commentary: Chang Hao 9p,
+Source:China Sports Weekly,
+Translation:GoGameWorld.];B[qd]C[This is a very interesting game, the pair competition between Cho Hunhyun/Lee Changho and Yoo Changhyeok /Lee Sedol, it should be the world most strongest pairs, as a result, the invincible teacher and student combination Cho-Lee lost to their opponents.];W[dd];B[pq];W[oc];B[md];W[ne];B[pf]
+;W[qc];B[pd];W[pc];B[nd];W[od];B[oe];W[nf];B[nb];W[nc];B[mc];W[ob];B[ph];W[kg]C[The sequence from the one-space pincer of B5 to the knight's move of W20 is a relatively old joseki.]
+;B[ic];W[le];B[lb];W[gc];B[ie];W[ig];B[ge];W[ec];B[fb]C[B29 is a commonly used play to fix the shape.];W[hc];B[ib];W[fc]C[W32: Locally White doesn't need to connect at this time, however no there is still no other good move to play.]
+;B[nh]LB[qk:a]C[The jump of B33 reflects the combination style of Yoo Changhyeok and Lee Sedol. Normally Black will consider to extend at 'a' or take the empty corner, the jump also aims to attack White's several stones at the top.];W[qm];B[qk];W[qp];B[qq];W[na];B[lf];W[lg];B[mf]LB[kf:a][mg:b][me:c]C[B41 is a miscalculation, Black should simply attach at 'a', then W 'b' and B 'c'.]
+;W[me];B[kf];W[mg];B[ng];W[of];B[pe];W[lc]C[In the game White connects with W42, then the squeezing move of W48 is again a good move, Black's three stones are hard to escape, the horrible thing is that White captures Black in sente, Black has incurred a heavy loss! However, perhaps because White takes a big advantage very early on, it makes the teacher and student play not tightly enough in the following process.];B[ld];W[kd];B[mb];W[jf];B[kc];W[rk]
+;B[rj];W[pp]C[White plays very smoothly with W54 and W56.]
+(;B[rp]LB[op:a][rq:b][rr:c][nq:d][rl:e]C[If B57 at 'a', then W 'b', B 'c', W57, B 'd' and W 'e', White makes life on the spot, Black is no good (see var a).];W[ro];B[rq];W[np];B[oq];W[op];B[mq];W[dp]C[White successfully handles the lower right corner, then grabs the empty corner with W64, White already has an overwhelming advantage.]
+;B[rd];W[rc];B[be];W[bc];B[rb];W[sb];B[cn];W[cj];B[fq];W[dn];B[dm];W[en]LB[fp:a][gp:b][eq:c]C[The play of W74 and W76 is damaging to territory, now White is thick on the board, White should press out at 'a', after B 'b', then W 'c', this is relatively substantial.]
+;B[cp];W[cq];B[co];W[dq];B[cl];W[gp];B[fp];W[gn];B[hq];W[ej];B[fl];W[do];B[bq]
+;W[br];B[ap];W[bk];B[bl];W[jp]LB[dg:a]TR[be]C[The pincer of W94 is questionable, here is already not the place to play, White should play at 'a' to capture the marked black stone, this is the biggest move! In the game although Black gets one more weak group, but White himself is not alive either, and most likely White will end in gote.
+];B[io];W[ip];B[fo];W[em];B[el];W[gm]
+;B[go];W[jo];B[in];W[hp]C[W102 and W104 are good sequence play.];B[ho];W[hl];B[jn];W[lo];B[jl];W[pk];B[qj];W[ik];B[ir]
+;W[er];B[gq];W[kq]LB[dg:a]C[W116: White continues to block the crossover, it is overdone! Now if White turns back to extend at 'a', the game would be still to White's advantage.];B[ln]C[The attachment of B117 makes White uncomfortable.];W[nn]LB[mn:a][ko:b]C[However, the jump of W118 can only be played at 'a', in the game Black is left with the hit at 'a' and the wedge at 'b', White is more painful.];B[ch]C[The most crucial is that Black finally gets to play the extension of B119, this is the last big point on the board, the situation is already turned around.];W[cf];B[eh]
+;W[dg];B[bi];W[dh];B[bj];W[ck];B[ak];W[bg];B[qb];W[ra];B[di]LB[qa:a][oa:b][bh:c]C[B131: If Black plays at 'a' and White  connects at 'b', it would lead to a ten-thousand-year ko, but Black is afraid that White may tenuki to reinforce at 'c', which is also very big.]
+;W[cg];B[ei];W[sd];B[rf];W[pb];B[rn];W[rm];B[qo];W[po];B[so];W[ml];B[mn];W[mo]
+;B[ko];W[kp];B[kn];W[jr];B[mr];W[lp];B[nm];W[on];B[nl];W[mj];B[mk];W[lk];B[nk]
+;W[qn];B[lj];W[kj];B[li];W[kk];B[ki];W[ji];B[jh];W[ii];B[mi];W[gj];B[dj];W[og]
+;B[ih]LB[pg:a]C[B171: For Black to connect at 'a' is also very simple and clear.];W[hh];B[kh];W[pg];B[qg];W[re];B[qf];W[hi];B[hg];W[ke]C[White takes with W180, Black dares not kill White.];B[fn]
+;W[fm];B[ar];W[bs];B[pm];W[ro];B[cb];W[cc];B[qo];W[iq];B[oh];W[om];B[pl]LB[id:a][lf:b]C[W192 and B193 are all mistakes, with W192 White can only connect with the wedge move at 'a', with B193 Black can kill White by playing at 'b'.]
+;W[id];B[jd];W[hd];B[je];W[hf];B[he];W[gg];B[ol];W[ro];B[ga];W[ha];B[hb];W[gb]
+;B[ia];W[eb];B[qo];W[bh];B[ci];W[ro];B[if];W[jg];B[qo];W[bp];B[bo];W[ro];B[cr]
+;W[dr];B[qo];W[nq];B[nr];W[ro];B[cs];W[ds];B[qo];W[ek];B[pn];W[ro];B[jk];W[jj]LB[sn:a]C[W232: Finally if White eliminates the ko at 'a', then Black will cut at 'a', the game would be also to Black's favor. Overall this pair match is very brilliant.]
+;B[qo];W[rh];B[no];W[oo];B[ro];W[qh];B[mp];W[hr];B[sg];W[sh];B[se];W[sf];B[gr]
+;W[is];B[se];W[rg];B[sc];W[sf];B[qe];W[sd];B[hs];W[gs];B[sc];W[no];B[sa];W[mm]
+;B[ll];W[sb];B[fs];W[hs];B[sa])
+(;B[op];W[rq];B[rr];W[rp];B[nq];W[rl])) 

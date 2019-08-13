@@ -1,0 +1,26 @@
+(;SZ[19]EV[CJK 3rd Jeongganjang Cup Women Go Contest game 2]DT[2004-11-10]PC[Beijing, China]KM[6.5]PB[Lee Minjin]BR[4p]PW[Umezawa Yukari]WR[5p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dc];B[pq];W[dq];B[do];W[dm]
+;B[fo];W[fq];B[cq];W[cr];B[cp];W[er];B[cm];W[cl];B[dl];W[ck];B[em];W[cf];B[jc]
+;W[qf];B[nd];W[rd];B[qg];W[pg];B[qh];W[ph];B[rf];W[qe];B[qj];W[pi];B[qk];W[qc]
+;B[pc];W[re];B[ok];W[dk];B[dn];W[hc];B[di];W[fk];B[fi];W[el];B[fm];W[hk];B[hi]
+;W[bi];B[kp]C[Through B47, Black is successful in the opening.];W[po]
+(;B[np]LB[qp:a][op:b][mp:c][oq:d][qo:e][pm:f][rm:g]C[B49 is questionable, Black should make the diagonal move at 'a', if W 'b', then B 'c', W 'd', B 'e', W 'f' and B 'g', this result is clearly better than the real game (see var a).];W[no]
+(;B[mp]LB[mo:a][nn:b][op:c][qm:d][qp:e][qq:f][qr:g][pr:h][pp:i][or:j]C[B51 again is a mistake, Black should play at 'a', if W 'b', then B 'c', W 'd' and B 'e', White still comes under attack (see var a). Moreover, when B 'a', if W 'f', then B 'g', W 'h', B 'i', W 'e' and B 'j', Black can fight (see var b).];W[qq];B[qr];W[qp]
+;B[rr];W[qm];B[om];W[rl];B[jj]C[The shape of B59 is not right.];W[rq]LB[oq:a]C[W60 is a good move, not only reinforcing White himself and also aiming at the clamp at 'a'.];B[pp];W[ro]LB[qi:a][ri:b][rj:c][pf:d]C[Through W62, Black fails in the fight, because White has the tactic of W 'a', B 'b' and W 'c', so the cut of B 'd' is no longer effective, White takes the initiative at one stroke.]
+;B[hq];W[eh];B[ei];W[ef];B[fc];W[jd]C[Through W68, in the study room, players think White is not bad, Black's two moves in the center are no good.];B[kc];W[ic];B[cc];W[dd]C[Through W72, Luo Xihe 9p thinks White is better.];B[db];W[eb]
+;B[cb];W[fb];B[be];W[bf];B[bd];W[kd];B[lc];W[ld];B[md];W[da];B[bb];W[ii]C[W86 makes Black difficult to answer, now we can easily see the improperness of B59.];B[ij]
+;W[hj];B[ih];W[gi];B[ji];W[gh]C[Through W92, White's advantage becomes clear.];B[rg];W[rk];B[rj];W[oe];B[ni];W[pb];B[ob];W[qb]
+;B[ie];W[kf];B[gg];W[hg];B[fd];W[gc];B[fl];W[ek];B[jf];W[mf];B[nf];W[hf];B[id]
+;W[ng];B[kg];W[lg];B[of];W[jg];B[ke];W[kh];B[le];W[if];B[pf];W[pe];B[ne];W[lj]
+;B[pa];W[rb];B[il];W[nh];B[nn];W[oo];B[li];W[mo];B[ki];W[lp];B[lq];W[lo];B[mh]
+;W[mg];B[je];W[ig];B[gr];W[kq];B[mr];W[lr];B[mq];W[bq];B[bp];W[br];B[lm];W[jp]
+;B[ko];W[hp];B[iq];W[kn];B[jo];W[km];B[ln];W[ll];B[kl];W[jl];B[kk];W[ip];B[jq]
+;W[in];B[kr];W[jn];B[pm];W[jb];B[kb];W[bm];B[bn];W[dm];B[he];W[ge];B[dl];W[nm]
+;B[ml];W[dm];B[ql];W[rm];B[dl];W[mm];B[lk];W[dm];B[pn];W[qn];B[dl];W[mn];B[ib]
+;W[hb];B[ja];W[dm];B[cn];W[nl];B[nk];W[pj];B[ol];W[pk];B[pl];W[ha];B[bl];W[bk]
+;B[am];W[ll];B[lm];W[ri];B[qi];W[sj];B[hl];W[sr];B[hh];W[jh];B[ii];W[gj];B[lh]
+;W[gf];B[fr];W[gn];B[gq];W[fs];B[gs];W[es];B[ce];W[de];B[af];W[ag];B[ae];W[qa]
+;B[oa];W[fn];B[en];W[op];B[oq];W[on];B[fp];W[eq];B[hn];W[hm];B[gm];W[ho];B[im]
+;W[io]C[The game 3 will take place on 11/11.])
+(;B[mo];W[nn];B[op];W[qm];B[qp])
+(;B[mo];W[qq];B[qr];W[pr];B[pp];W[qp];B[or]))
+(;B[qp];W[op];B[mp];W[oq];B[qo];W[pm];B[rm])) 

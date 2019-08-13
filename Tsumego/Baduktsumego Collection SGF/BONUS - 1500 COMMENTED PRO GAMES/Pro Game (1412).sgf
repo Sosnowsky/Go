@@ -1,0 +1,22 @@
+(;SZ[19]EV[10th Samsung Cup round 2]DT[2005-09-30]KM[6.5]PC[Korea]PB[Lee Sedol]BR[9p]PW[Yoda Norimoto]WR[9p]RE[B+R]C[Copyright by gogamdworld.com and weiqi.tom.com.];B[qd];W[dp];B[dc];W[pp];B[cn];W[cj]
+;B[fq];W[fp];B[gp];W[fo];B[cq];W[eq];B[cp];W[gq];B[cf];W[nq];B[qk];W[od];B[pf]
+;W[qc];B[rc];W[pc];B[ld];W[qe];B[pe];W[rd];B[pd];W[rb];B[oc];W[pl];B[ob];W[sc]
+;B[pk];W[nd];B[ne];W[ol];B[ql];W[qm];B[rm];W[qn];B[rn];W[ro];B[ml];W[sn];B[ok]
+;W[rl];B[mq];W[kq];B[np];W[oq];B[ko];W[fc];B[hc];W[dd];B[cd];W[cc]LB[db:a][cb:b][bb:c][ce:d][bd:e][de:f][be:g][ec:h][bc:i][df:j][cg:k][hd:l][id:m][he:n]C[After W56, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', White is favorable (see var a).]
+
+(;B[cb]C[B57 is a strong move.];W[bc];B[de];W[ed];B[eb]LB[fb:a][bb:b]C[After B61, if W 'a', then B 'b', White is not good.];W[gc]LB[hd:a][bd:b][ce:c][bb:d]C[After W62, if B 'a', then W 'b', B 'c' and W 'd', Black will be captured.]
+;B[bd];W[hd];B[ic];W[id];B[jd];W[je];B[kc];W[if];B[ge]LB[gd:a][fe:b]C[After B71, if W 'a', then B 'b', White is not good.];W[gf]LB[ff:a][fe:b][ee:c][gg:d][hg:e][fg:f][hf:g]C[If W72 at 'a', then B 'b', W 'c', B72, W 'd', B 'e', W 'f' and B 'g', White is not good.]
+;B[fe];W[ee];B[ff];W[df];B[cg];W[ce];B[be];W[gd];B[dg];W[ef];B[eg];W[fg];B[gg]
+;W[fh];B[gh]LB[hf:a][fi:b][eh:c][ei:d][dh:e][ci:f][he:g][di:h][fd:i][em:j]C[After B87, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is not good (see var a).]
+(;W[fi];B[hf];W[ih];B[gi];W[fj];B[gj];W[fk];B[ij]C[Through B95, Black is clearly favorable.];W[fb];B[bb];W[hb];B[ib];W[ke]
+;B[kh];W[ji];B[jk];W[ki];B[lh];W[li];B[mh];W[jg];B[lk]C[After this move, it is time for lunch break.];W[kd];B[lc];W[me];B[le]
+;W[lf];B[mf];W[lg];B[mg];W[jc];B[jb];W[he];B[cl];W[dm];B[dl];W[em];B[do];W[hq]
+;B[ii];W[kl];B[jl];W[gm];B[jh];W[qf];B[qg];W[rg];B[qh];W[pb];B[mb];W[lp];B[lo]
+;W[mp];B[mo];W[ip];B[rk];W[sm];B[ha];W[jd];B[in];W[dr];B[cr];W[nl];B[nk];W[mm]
+;B[lm];W[nm];B[on];W[pm];B[jp];W[jq];B[bk];W[rh];B[ri];W[ll];B[mk];W[ln];B[km]
+;W[kn];B[jm];W[mn];B[io];W[no];B[fl];W[el];B[gl];W[fm];B[dk];W[gk];B[hl];W[ek]
+;B[dj];W[cs];B[bs];W[ds];B[hp];W[iq];B[br];W[hm];B[im];W[hk];B[gb];W[ik];B[jj]
+;W[di];B[dh];W[ei];B[dq];W[fr];B[ci]C[Lee Sedol advances to next round.])
+(;W[hf];B[fi];W[eh];B[ei];W[dh];B[ci];W[he];B[di];W[fd];B[em]))
+(;B[db];W[cb];B[bb];W[ce];B[bd];W[de];B[be];W[ec];B[bc];W[df];B[cg];W[hd];B[id]
+;W[he])) 

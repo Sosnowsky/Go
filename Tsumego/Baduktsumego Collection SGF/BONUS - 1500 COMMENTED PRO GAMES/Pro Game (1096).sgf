@@ -1,0 +1,31 @@
+(;SZ[19]EV[8th China-Korea New Pro Wang Dual Meet game 2]DT[2005-05-26]PC[China]PB[Gu Li]BR[7p]PW[Park YuongHoon]WR[9p]KM[7.5]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+1.5];B[pd];W[dp];B[pp];W[dc];B[ce];W[dh]
+;B[cj];W[cm];B[ed];W[dd];B[de];W[ee];B[fd];W[ef];B[bc];W[fb];B[gc];W[bb];B[bd]
+;W[gb];B[ic];W[hb];B[dg];W[eg];B[ch];W[hc];B[hd];W[id];B[he];W[jd];B[if];W[di]
+;B[ci];W[fi];B[lc];W[ld]LB[jc:a]C[W36 is the losing move, White should play at 'a'.];B[kd]LB[kc:a][ke:b][mc:c][jc:d][lb:e][kb:f][jb:g][le:h][md:i][me:j]C[B37 is sharp, White sinks into a difficult situation, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W35 and W 'g', White is not good. Moreover when B 'd', if W 'f', then B 'h', W 'i' and B 'j', White is not good either.]
+
+(;W[ke]LB[kc:a][jc:b][md:c][jf:d][ih:e]C[If W38 at 'a', then B38, W 'b', B 'c', W 'd' and B 'e', White is not good.];B[kc];W[jc];B[jb]LB[ib:a][je:b][kb:c][kf:d][le:e][mc:f][ie:g][md:h][jh:i][hh:j][hi:k][gi:l][gh:m][ii:n][ih:o][hj:p][hg:q][gg:r][ec:s][eb:t][gf:u][fh:v][ig:w][eh:x]C[B41 is a good move, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is not good (see var a). Furthermore, when B 'b', if White plays at 'd' instead, then B 'g', W21, B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p', W 'q', B 'r', W 'k', B 's', W 't', B 'j', W 'u', B 'v', W 'w' and B 'x', White is not good either (see var b).]
+
+(;W[je];B[ib];W[md];B[mc];W[jg];B[ig];W[nc];B[nb];W[ob];B[oc];W[nd];B[mb];W[ih]
+;B[hh];W[jh];B[hi];W[gf];B[hg];W[cb];B[fh];W[cg];B[df];W[eh];B[dl]C[B65 is a good move.];W[fk];B[ij]
+;W[pf];B[od]C[B69 is a good move in this situation to obtain sente.];W[mf];B[dm];W[cn];B[gl]C[After B73, Black's situation has deteriorated, White already has no chance to win.];W[fl];B[gm];W[fm];B[gn];W[fn];B[go]
+;W[fo];B[gq];W[kj];B[mp];W[kq];B[ko];W[nq];B[mq];W[mr];B[np];W[oq];B[lr];W[nr]
+;B[lq];W[qq];B[qp];W[rq];B[rp];W[sp];B[dr];W[qc];B[pb];W[re];B[qj];W[qn];B[rg]
+;W[qg];B[so]C[After this move, it is time for lunch break.];W[op];B[rn];W[oo];B[qm];W[pm];B[ql];W[jm];B[gj];W[jo];B[dn];W[do]
+;B[cq];W[cl];B[dk];W[fj];B[kp];W[jp];B[jq];W[iq];B[jr];W[kn];B[in];W[gk];B[il]
+;W[im];B[hl];W[lo];B[lp];W[io];B[hp];W[qi];B[qe];W[rf];B[ri];W[rh];B[pi];W[qh]
+;B[bp];W[bo];B[cp];W[co];B[rr];W[qr];B[sq];W[mn];B[oj];W[ip];B[ir];W[er];B[fr]
+;W[dq];B[cr];W[fp];B[lm];W[ln];B[kk];W[lk];B[kl];W[nl];B[lj];W[pl];B[pn];W[on]
+;B[pk];W[qb];B[li];W[mh];B[ol];W[po];B[hn];W[jn];B[om];W[nm];B[pn];W[nk];B[lh]
+;W[lg];B[mk];W[mi];B[mj];W[nj];B[jf];W[kf];B[ni];W[nh];B[oi];W[hq];B[hr];W[gp]
+;B[kh];W[kg];B[ji];W[fq];B[gr];W[ho];B[es];W[qa];B[oa];W[bk];B[bj];W[qo];B[qd]
+;W[rd];B[oe];W[ro];B[rm];W[rj];B[rk];W[si];B[ck];W[al];B[ab];W[ha];B[kb];W[pm]
+;B[oh];W[ng];B[og];W[ne];B[of];W[nf];B[ms];W[ns];B[ls];W[hk];B[ik];W[hj];B[ii]
+;W[gi];B[ec];W[eb];B[aj];W[bg];B[bf];W[gh];B[eq];W[gg];B[sk];W[sj];B[cc];W[db]
+;B[ao];W[an];B[ap];W[ac];B[ad];W[bh];B[ah];W[pq];B[sp];W[jl];B[jk];W[ml];B[ll]
+;W[ia];B[ja];W[fe];B[sr];W[rs];B[ak];W[bl];B[ag];W[dj];B[ek];W[ej];B[ep];W[eo]
+;B[er];W[ba];B[cd];W[aa];B[pl];W[pn];B[no];W[nn]C[The game 3 will take place on 5/27.])
+(;W[ib];B[je];W[kb];B[kf];W[le];B[mc])
+(;W[ib];B[je];W[kf];B[ie];W[ic];B[md];W[jh];B[hh];W[hi];B[gi];W[gh];B[ii];W[ih]
+;B[hj];W[hg];B[gg];W[hi];B[ec];W[eb];B[hh];W[gf];B[fh];W[ig];B[eh]))
+(;W[kc];B[ke];W[mc];B[jc];W[lb];B[kb];W[lc];B[jb])
+(;W[kc];B[ke];W[mc];B[jc];W[kb];B[le];W[md];B[me])) 

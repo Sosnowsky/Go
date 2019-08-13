@@ -1,0 +1,26 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ae][bc][bd][cc][db][dc][ea]
+AW[ba][be][bf][cd][ci][dd][df][eb][ec][gb]PL[B]C[Black to play.
+
+Make life - Expand Territotary]
+(
+;B[ad]
+;W[ab]
+;B[bb]
+;W[ca]
+;B[da]C[RIGHT
+Both Alive])
+(
+;B[bb]
+;W[ca]
+;B[da]
+;W[ad]
+;B[ac]
+;W[aa]C[Corrner round 4])
+(
+;B[da]
+;W[ad]
+;B[bb]
+;W[ca]
+;B[ac]
+;W[aa]C[Corrner round 4]))

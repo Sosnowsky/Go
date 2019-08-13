@@ -1,0 +1,76 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][bh][bi][cd][cf][cg][ch][cj][dd][ec][ed][fb]
+AW[ae][ai][bj][bl][cc][ci][ck][db][dc][de][dg][dh][di][eb][ee][fc][fe][gc]PL[B]C[Black to play.
+
+Make life - Ko Fight]
+(
+;B[bc]
+;W[bb]
+(
+;B[cb]
+(
+;W[bf]
+;B[ba]
+;W[ca]
+;B[ab]C[RIGHT
+Ko Fight])
+(
+;W[ca]
+;B[ab]
+;W[ba]
+;B[bf]
+;W[ag]
+;B[ah]
+;W[ce]
+;B[be]
+(
+;W[ac]
+;B[af]C[Black Alive])
+(
+;W[af]
+;B[ac]C[Both Alive]))
+(
+;W[ba]
+;B[bf]
+;W[ac]
+;B[af]
+;W[ad]
+;B[ab]
+;W[aa]
+;B[be]C[Black Alive])
+(
+;W[ac]
+;B[ad]
+;W[ca]
+;B[af]
+(
+;W[ag]
+;B[be]
+;W[ah]
+;B[bg]
+;W[aj]
+;B[ce]C[Black Ok])
+(
+;W[be]
+;B[ce]
+;W[ah]
+;B[ag]
+;W[bf]
+;B[aj]C[Black Ok])))
+(
+;B[bf]
+;W[ac])
+(
+;B[ab]
+;W[bf]
+;B[cb]
+;W[ba]))
+(
+;B[bf]
+;W[bc]
+;B[ad]
+;W[ce]
+;B[be]
+;W[ag]
+;B[ah]
+;W[af]))

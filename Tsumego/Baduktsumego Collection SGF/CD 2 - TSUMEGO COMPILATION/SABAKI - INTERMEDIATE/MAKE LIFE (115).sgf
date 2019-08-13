@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cc][cd][ce][db][dc][de][eb][ef][fa][fb][ff][ga][ge][ha][hb][he][ib][id][ja][jd][kc][kd][la][lb]
+AW[ab][bc][bd][be][ca][cb][cf][da][dd][df][ea][ec][ee][fc][fd][fe][gd][hc][hd][ic][jb][jc][ka][kb]PL[W]C[White to play.
+
+Make life - Ko Fight
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ia]
+;B[ed]
+(
+;W[gc]C[RIGHT
+Both Alive])
+(
+;W[gb]
+;B[ja]
+;W[dd]C[RIGHT
+3 Kos Loop]))
+(
+;W[gb]
+;B[ed]
+;W[ia]
+;B[gc]
+;W[dd]C[RIGHT
+3 Kos Loop])
+(
+;W[gc]C[RIGHT
+Both Alive]))

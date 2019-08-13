@@ -1,0 +1,26 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bk][ce][cg][ch][ci][ck][db][dc][dd][de]
+AW[bl][cb][cc][cl][df][dg][di][dj][dk][dm][fb][fd][ff][fh]PL[W]C[White to play.
+
+Make life - Expand Territotary
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ca]
+;B[da]
+;W[bd]
+;B[be]
+;W[ab]C[RIGHT
+])
+(
+;W[bd]
+;B[be]
+;W[ca]
+(
+;B[ab]
+;W[da]C[RIGHT
+])
+(
+;B[da]
+;W[ab]C[RIGHT
+])))

@@ -1,0 +1,30 @@
+(;SZ[19]EV[Korea 14th Kisung final game 5]DT[2003-04-17]PC[Korea]KM[6.5]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Lee Changho]BR[9p]PW[Cho Hunhyun]WR[9p]RE[B+8.5];B[pd];W[dd];B[qp];W[dq];B[oq];W[qj]
+;B[do];W[co];B[cn];W[cp];B[fc]LB[cf:a][dm:b][fq:c][ci:d]C[If White makes the knight's move at 'a', then B 'b', W 'c' and B 'd'.];W[cg];B[qh]LB[ql:a]C[B13 is seldom seen, the usual play is to extend at 'a'.]
+;W[qm];B[dn];W[fq];B[cj];W[dc];B[ic];W[qc];B[pc];W[qd];B[qf]LB[qe:a]C[B23 is better than the hane move at 'a'.];W[rf];B[pe]
+;W[qe];B[rg];W[pf];B[qg];W[pb];B[ob];W[qb];B[nc];W[jd]C[W34 is an excellent point for reduction.];B[jc];W[kd];B[kc];W[kg]
+;B[re];W[rd];B[sf];W[sb];B[hq]C[Black makes the tight check with B43, because Black's small knight's corner enclosure in the lower right corner is very solid and Black is not afraid of White's invasion.];W[kp];B[ho];W[km];B[mp];W[fo];B[fn];W[ip];B[hp]
+;W[il];B[fp]C[After this move, it is time for noon break.];W[ro];B[rp];W[fd];B[gd];W[fb];B[fe]C[Black counter-attacks with B59, aiming for attacking White's center.];W[gb]C[W60: White has gained some territory.];B[ki];W[ld];B[lc]
+;W[ih];B[ij]C[B65: Black initiates two-pronged attack to White.];W[mo]C[The sabaki play after W66 is very brilliant.];B[no];W[nn];B[lo];W[mn];B[lp];W[oo];B[np];W[jj]C[W74 is fierce and ruthless, Black instead becomes the defendant.];B[pj]
+;W[pk];B[ji];W[ii];B[hj];W[jk];B[mi];W[pi]C[W82 is the strongest answer.];B[lg];W[lh];B[li];W[jg]C[W86 is a good move.];B[mg]
+;W[oh];B[og];W[gi]C[Through 90, White is successful in the fight.];B[gj];W[nh];B[mh];W[ng];B[me];W[nf]LB[mk:a][hd:b]C[W96 is questionable, White should simple strengthen at 'a', reserving the tactic of the crosscut at 'b'.];B[id]C[B97 is a good move, White instantly appears weak.]
+;W[fi];B[ri];W[mk];B[cf]LB[df:a][dg:b][ce:c][bf:d][dh:e][eg:f][ch:g][ef:h][de:i][eh:j][bg:k]C[B101 shows Lee Changho's extremely strong offensive power, White is very hard to answer, if White hanes at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White's big dragon is dangerous (see var a); Moreover, When B 'd', if W 'h', then B 'g', W 'f' and B 'k', White would suffer a big loss in territory (see var b).]
+
+(;W[dj]LB[dg:a][df:b][ef:c][bg:d][bh:e][bf:f][ch:g][ee:h]C[W102: If White extends at 'a', then after B 'b', W 'c', B 'd', W 'e' and B 'f', the cut at 'g' and the connection at 'h' become miai, White could not take both points (see var c).];B[ci];W[df];B[bg];W[md]C[W106 is the game deciding move.]
+;B[ne]C[The sequence after B107 is inevitable for both sides.];W[mf];B[lf];W[nd];B[oe];W[le];B[kf];W[je];B[jf];W[ie];B[if];W[he];B[gc]
+;W[gf];B[ig];W[bf]LB[jh:a][gg:b]C[W122: If White connects at 'a', then Black would attach at 'b', White is no good.];B[ce];W[ff];B[hi]LB[hh:a][gh:b]C[B125 is a good sequence play, if White blocks at 'a', then Black would cut at 'b', White will end in gote.];W[oc];B[od]
+;W[of];B[oc];W[bh]C[W130 is the most tenacious resistance.];B[eb];W[ge];B[db]C[After B133, Black has succeeded in the fight, White already has no chance of winning.];W[hh];B[jh];W[cb];B[ec];W[ch];B[di]
+;W[fj];B[er];W[eq];B[fr];W[dr];B[dk];W[jn];B[bb];W[bc];B[ed];W[de];B[gl];W[mc]
+;B[mb];W[fk];B[gq];W[bn];B[bm];W[bo];B[hl];W[bl];B[cm];W[ca];B[kq];W[jq];B[ko]
+;W[jo];B[jp];W[oa];B[nb];W[kp];B[kr];W[qo];B[nj];W[oj];B[nk];W[nl];B[so];W[bk]
+;B[gh];W[dl];B[cl];W[ck];B[ej];W[bj];B[el];W[dh];B[gg];W[ei];B[ek];W[pp];B[pq]
+;W[qq];B[rq];W[sp];B[sq];W[sn];B[fg];W[eg];B[rj];W[rk];B[ol];W[ok];B[ml];W[nm]
+;B[lk];W[ll];B[mj];W[lm];B[jp];W[qr];B[rr];W[kp];B[sk];W[sl];B[jp];W[hd];B[hc]
+;W[kp];B[sj];W[bi];B[rl];W[rm];B[sm];W[sp];B[pr];W[ql];B[sl];W[jr];B[jp];W[sd]
+;B[so];W[rn];B[se];W[kp];B[ee];W[ef];B[jp];W[lb];B[kb];W[kp];B[op];W[po];B[jp]
+;W[na];B[la];W[kp];B[an];W[jp];B[js];W[is];B[ks];W[ao];B[dj];W[hr];B[gr];W[ep]
+;B[eo];W[gp];B[go];W[fp];B[fl];W[hm];B[am];W[br];B[hn];W[gm];B[im];W[in];B[fm]
+;W[jm];B[pg];W[kk];B[da];W[qk];B[al];W[ak];B[ds];W[cs];B[es];W[gk];B[hk];W[eh]
+;B[gn];W[im];B[kj];W[pa];B[ma];W[gs];B[sp];W[ir]C[Lee Changho wins his 11th consecutive Kisung title.])
+(;W[df]C[If White hanes here ...];B[dg];W[ce];B[bf];W[dh];B[eg];W[ch];B[ef];W[de];B[eh]C[White's center group would be in danger.])
+(;W[df]C[Moreover ...];B[dg];W[ce];B[bf];W[ef]C[If White extends here ...];B[ch];W[eg];B[dh]C[White's territory loss is big.])
+(;W[dg];B[df];W[ef];B[bg];W[bh];B[bf];W[ch];B[ee])) 

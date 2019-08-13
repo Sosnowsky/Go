@@ -1,0 +1,38 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 14]KM[6.5]DT[2003-03-06]PB[Rin Kaiho]BR[9p]PW[Takemiya Masaki]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd]C[Rin Kaiho (60) and Takemiya Masaki (52) began to play each other since 1968, so far the total result between them ties at 34:34.];W[dp];B[pq];W[od];B[dd];W[pf]LB[qc:a]C[W6: For White to attach under at 'a' is common.]
+;B[oc];W[nc];B[pc];W[nd];B[rf]LB[gc:a]C[B11 is a steady move, Black can also consider to protect the corner with the large knight's move at 'a'.];W[fc];B[cf];W[fe];B[db];W[eb];B[if]LB[qo:a]C[B17: Black elects to reduce immediately, it is a positive play. Black now can also think to protect the corner at 'a' or approach the lower-left corner, however Black may ends in gote and White would get the chance to enclose territory at 17.]
+;W[id];B[ec];W[fb];B[jd]
+(;W[ic]LB[je:a][ie:b][kd:c][jc:d][ib:e][gd:f][ke:g][jf:h][le:i][hb:j]C[W22 is the proper move, if White counter-attacks at 'a', then B 'b', W 'c', B 'd', W 22, B 'e', W 'f', B 'g', W 'h', B 'i', White is no good (see var a); Moreover after B 'e', if W 'j', then B 'f', White is no good either (see var b).];B[kf];W[pd];B[qc]
+;W[kd];B[fq];W[dn];B[dr];W[hq];B[hp];W[ip];B[gp];W[qo]LB[cj:a]C[W34 is questionable, White should extend at 'a' on the left side, reserving the option of attacking three black stones at the top.];B[cl];W[em];B[dj]
+;W[hn];B[cq]LB[io:a][jp:b][ho:c]C[B39 is a good move, if Black hanes at 'a', this would just fit White's plan, White would extend to 'b', B 'c' and W 39, Black instead would come under attack.];W[op];B[oq];W[np];B[mq];W[mp];B[lq];W[lp];B[hl]LB[ji:a]C[B47 seems unreasonable, strengthening at 'a' is the right play.]
+;W[fk]C[The counter-attack after W48 is very intense.];B[gj];W[ei];B[ch];W[io]LB[ii:a]C[W52 is a thick play, separating Black at 'a' is also very powerful.];B[fn];W[fm];B[ji];W[rq];B[kr];W[kj]C[W58 is a good move, White has the chance to encircle territory in the lower right.]
+;B[gn];W[gm];B[hm];W[gi];B[hi];W[gh];B[hh];W[dk];B[ck];W[jl]C[W68 is severe.];B[gg];W[fg];B[eg]
+;W[fh];B[gf];W[ff];B[qj];W[ql]
+(;B[qg]LB[ki:a][rg:b][qi:c][ri:d][qh:e][rj:f][pj:g][lj:h][re:i][rh:j][qe:k][rb:l]C[B77 is slack, now pressing at 'a' is the vital point, followed by W 77, B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', Black would be favorable (see var a); Furthermore if W 77 at 'b', then B 77, W 'i', B 'j', W 'k' and B 'l', Black lives in the corner and would be leading in the territory (see var b).];W[cp]
+;B[qq];W[rr];B[iq];W[jq];B[ir];W[ki]C[After W84, Black is not comfortable.];B[kh];W[lh];B[jj];W[kg];B[jh];W[lg]
+(;B[in]LB[gl:a][gk:b][hk:c][jk:d][ek:e][fj:f][fl:g][el:h][ej:i][hj:j][ij:k][ik:l][dq:m]C[If B91 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', this would lead to a ko fight, because White has the ko threat at 'm', Black would be no good (see var a).];W[ho]
+;B[jn];W[jk]
+(;B[ik]LB[kp:a][im:b][jo:c][hk:d]C[If B95 at 'a', then W 'b', B 'c' and W 'd', Black's dragon on the upper side would get killed (see var a).];W[kp];B[jg]C[Through 97, Black is still not completely alive.];W[eq];B[er];W[pi]C[W100 is a strong move.];B[rk]LB[pj:a][qi:b]C[If B101 at 'a', then W 'b', Black is no good.]
+;W[pj];B[qk];W[pk];B[rl];W[qm];B[km];W[ll]C[Through 108, White clearly has gained.];B[li];W[lj];B[im];W[gk];B[hk];W[jr]C[The endgame play after W144 is very brilliant.]
+;B[js];W[hr];B[is];W[nq];B[nr];W[or];B[mr];W[fp];B[gq];W[go];B[fo];W[ep];B[gr]C[Through 127, White has taken advantage with sente and is very happy.]
+;W[lm];B[je];W[jc];B[lf];W[mf]
+(;B[me]LB[pg:a][og:b][oh:c][ph:d][mg:e][ni:f]C[B133 is not the best play, Black should play at 'a', if W 'b', then B 'c', W 'd' and B 'e', White is no good (see var a). So after B 'a', White can only play at 133, then B 'c' and W 'f', this would be better for Black.];W[nf];B[pg];W[og];B[rm];W[rn];B[ko]
+;W[jp];B[ld];W[cb];B[da];W[ci];B[di];W[ce];B[cd];W[df]LB[bf:a]C[W148 is dubious, White should play at 'a'.];B[cg];W[cc];B[dc]
+;W[bd];B[be];W[bb];B[ac];W[ad];B[ae];W[bc];B[ca];W[de];B[ba]C[Through 161, White has failed in the fight, losing about 5 points, however the game is still slightly favorable for White.];W[kc];B[kl];W[kk]
+
+(;B[ge]LB[ke:a][le:b][hj:c][ij:d][ih:e]C[B165 can not be omitted, otherwise after W 'a', B 'b', W 'c', B 'd' and W 'e', Black's big dragon would get captured (see var a).];W[nb];B[ob];W[bm];B[cm];W[bn];B[bp];W[bo]
+;B[bl];W[ab];B[aa];W[bq];B[br];W[ap];B[lo];W[mo];B[ln];W[mn];B[gd];W[lc];B[mg]
+;W[mi];B[na];W[ma];B[oa];W[hb]LB[qf:a]C[W190 is the last losing move, White should play at 'a',  it is worth 2 points in sente.];B[qf]C[With the counter-sente move of B191, the game has been turned around, it is a pity for White to lose the game by half point.];W[ph];B[qi];W[qr];B[pr];W[ea]
+;B[ac];W[md];B[le];W[pe];B[ar];W[fj];B[hj];W[qh];B[rh];W[dg];B[dh];W[eh];B[gc]
+;W[gb];B[am];W[an];B[al];W[sm];B[sl];W[sn];B[dl];W[qe];B[re];W[dq];B[cr];W[cn]
+;B[ne];W[he];B[oe];W[of];B[ek];W[hf];B[hg];W[ps];B[os];W[qs];B[pp];W[po];B[qp]
+;W[rp];B[or];W[aq];B[gl];W[ej];B[el];W[ee])
+(;B[nb]C[If Black tenukis and plays here, ...];W[ke];B[le];W[hj];B[ij];W[ih];B[ig];W[hf];B[he];W[ge];B[hg];W[ie]C[Black would get killed.]
+))
+(;B[pg];W[og];B[oh];W[ph];B[mg]C[White would be no good.]))
+(;B[kp]C[If Black plays here, ...];W[im];B[jo];W[hk]C[Black on the top would get killed]))
+(;B[gl]C[If Black plays here, ...];W[gk];B[hk];W[jk];B[ek];W[fj];B[fl];W[el];B[ej];W[hj];B[ij];W[ik]C[This would lead to a ko fight.]
+))
+(;B[ki]C[Black should extends here.];W[qg];B[rg];W[qi];B[ri];W[qh];B[rj];W[pj];B[lj]C[Black would be favorable.])
+(;B[ki];W[rg]C[If White plays here intead, ...];B[qg];W[re];B[rh];W[qe];B[rb]C[Black could live in the corner.]))
+(;W[je]C[If White hanes here, ...];B[ie];W[kd];B[jc];W[ic];B[ib];W[gd];B[ke];W[jf];B[le]C[This would be good for Black.])
+(;W[je];B[ie];W[kd];B[jc];W[ic];B[ib];W[hb]C[If White hanes here, ...];B[gd]C[Black would no good either.])) 

@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ak][bc][bf][bj][bl][cc][ch][cj][dd][df][dh][ec][ee][ef][eg][ej]
+AW[ad][aj][bd][bh][bi][cd][ce][cf][cg][de][dg]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties
+
+Source: Gokyo Shumyo.]
+(
+;W[bg]
+(
+;B[af]
+;W[ai]
+;B[ag]
+;W[ae]C[RIGHT
+Both Alive])
+(
+;B[ag]
+(
+;W[ae]
+;B[af]
+;W[ai]C[RIGHT
+Both Alive])
+(
+;W[ai]
+;B[ae])))
+(
+;W[af]
+;B[ag]
+;W[be]C[Ko Fight])
+(
+;W[ai]
+;B[bg]))

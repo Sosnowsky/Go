@@ -1,0 +1,27 @@
+(;SZ[19]EV[Japan 44th Judan final game 1]DT[2006-03-08]KM[6.5]PB[Yamashita Keigo]BR[9p]PW[Cho Chikun]WR[9p]PC[Japan]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[dc];W[pp];B[cn];W[fp]
+;B[ci];W[ck];B[kc]C[The opening up to B9 is rare.];W[de];B[fd];W[fe];B[ge];W[ff];B[ed];W[ej];B[ee]LB[ef:a][df:b][dg:c][cf:d][cg:e][bf:f][bg:g][eg:h]C[After B17, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White is not good.]
+;W[dh];B[df]LB[cf:a][cg:b][dg:c][ef:d][ch:e][bg:f][bh:g][bf:h][cp:i][cl:j]C[After B19, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', but later on Black is still left with the tactic of pulling out at 'j', White is not good.];W[ch];B[cf]
+;W[cp];B[bh]LB[kq:a][nq:b]C[B23 is questionable, Black should split at 'a' or approach the corner at 'b'.];W[pf]LB[pj:a][pd:b][pc:c][qc:d]C[After W24, if B 'a', then W 'b', B 'c' and W 'd', Black has no assurance of success.];B[od];W[qe];B[rd];W[qj]
+;B[nq];W[lq];B[qq];W[qp];B[pq];W[op]LB[nr:a][mo:b]C[After W34, if B 'a', then W 'b', White's outside influence is huge, Black is not good.];B[np];W[oq];B[or];W[pr];B[qr]
+;W[nr];B[ps];W[no];B[mr];W[mp];B[ns]LB[mn:a][pi:b][qi:c][ph:d][qh:e][pg:f][qg:g][of:h]C[After B45, W 'a' is common thinking, but Black has a good reduction point at 'b', next W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White can't be satisfied.]
+;W[nf]LB[mc:a]C[W46: White expands his influence and also aims to invade at 'a'.];B[mo];W[nn];B[lo];W[jq];B[lm];W[nl]LB[gp:a][go:b][hp:c][jo:d][fq:e][fo:f][eq:g][hr:h][gr:i][hq:j][gq:k][dq:l][ho:m][hn:n]C[After W52, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black is not good.]
+;B[io];W[hp];B[lk];W[mc]LB[md:a][ld:b][lc:c][nd:d][me:e][oc:f][ne:g][pd:h][oe:i][pe:j][pc:k][qc:l][pb:m][qb:n][ob:o][re:p]C[After W56, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p', Black is not good (see var a).]
+
+(;B[me];W[pc];B[pd];W[oc];B[qc];W[ld];B[mf];W[kd];B[jc];W[jd];B[ic];W[ng];B[mg]
+;W[he];B[gf];W[hd]LB[jf:a][hc:b][id:c][hf:d][gg:e]C[W72 should be reserved, for White to simply play at 'a' is better, based on Black's answer, White can decide whether to play at 'b', 'c', 'd' or 'e'.];B[gb];W[jg];B[kf];W[jf];B[nh]
+;W[oh];B[oi];W[ph];B[hf]C[After B81, White's shape is not good.];W[kg];B[mi];W[hh];B[ok];W[pl];B[fh]LB[fg:a][bg:b]C[B87 is to guard against White's tactic of W 'a' then W 'b'.]
+;W[kj];B[qk];W[pk];B[pj];W[qi];B[ol];W[om];B[pm];W[ql];B[nk];W[pn];B[gj]C[B99 is a game-deciding move.];W[lh]
+;B[mh];W[lj];B[ml];W[nm];B[mj];W[kk];B[kl];W[jl];B[jm];W[il];B[gl];W[el]C[After W112, White's advantage becomes obvious.];B[ij]
+;W[ii];B[ie];W[id];B[if];W[je];B[hj];W[lc];B[ji];W[jj];B[ih];W[ig];B[hi];W[hb]C[W126 delivers Black the final blow.]
+;B[hc];W[gd];B[fg];W[gc];B[ib];W[fb];B[ha];W[fc];B[lb];W[mb];B[ka];W[db];B[cb]
+;W[qb];B[rb];W[ec];B[cc];W[pa];B[go];W[en];B[fm];W[em];B[ob];W[nb];B[nd];W[fa]
+;B[nc];W[ga]C[After W154, Black already has no chance to win.
+
+B23 is the losing cause of this game.];B[jb];W[pb];B[ma];W[na];B[da];W[la];B[qm];W[rk];B[ma];W[ea];B[ca]
+;W[la];B[rl];W[qk];B[ma];W[hb];B[ia];W[la];B[gp];W[gq];B[ma];W[hg];B[ef];W[la]
+;B[hq];W[hr];B[ma];W[lf];B[le];W[la];B[fq];W[iq];B[ma];W[lg];B[ke];W[la];B[gr]
+;W[hq];B[ma];W[ki];B[rp];W[ro];B[ep];W[fo];B[dq];W[eo];B[cq];W[eq];B[bp];W[bo]
+;B[br];W[ap];B[im];W[la];B[er];W[fr];B[ma];W[bq];B[li];W[la];B[qo];W[qn];B[ma]
+;W[jh];B[ii];W[la];B[fs];W[ma];B[fq];W[ho]C[The game 2 will take place on 3/27.])
+(;B[md];W[ld];B[lc];W[nd];B[me];W[oc];B[ne];W[pd];B[oe];W[pe];B[pc];W[qc];B[pb]
+;W[qb];B[ob];W[re])) 

@@ -1,0 +1,30 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bg][bh][cc][ch][dc][dd][dg][dh][ee][ef][fd][fe][fg][ge]
+AW[bf][cd][cf][cg][de][df][ec][ed][eg][fc][gc][gd][he]PL[W]C[White to play.
+
+Capture race - Reduce Opponent's Liberties
+
+Source: Guan-Zhi-Pu.]
+;W[bc]
+(
+;B[bb]
+;W[bd]
+;B[db]
+(
+;W[ca]
+;B[ba]
+;W[eb]
+;B[da]
+;W[ea]
+;B[cb]
+;W[ab]
+;B[ac]C[RIGHT
+Both Alive])
+(
+;W[ab]C[RIGHT
+White More Ko's material]))
+(
+;B[bd]
+;W[db]
+;B[cb]
+;W[bb]C[Black Death]))

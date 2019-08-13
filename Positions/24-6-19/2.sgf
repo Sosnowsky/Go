@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[hb][kb][lb][pb][qb][rb][ec][fc][kc][mc][nc][qc][sc][bd][dd][kd][rd][de][ee][fe][ke][bg][cg][fg][gg][jg][ch][dh][eh][gi][hi][ji][dj][ij][jj][fk][jk][sk][ml][pl][rl][sl][im][jm][mm][qm][hn][jn][ln][nn][pn][rn][bo][co][fo][go][ho][jo][no][oo][po][qo][dp][fp][op][rp][cq][eq][pq][rq][br][dr][cs]AB[gb][mb][nb][gc][lc][pc][fd][gd][ld][pd][qd][be][ie][le][re][se][cf][df][ef][hf][lf][pf][bh][ih][jh][kh][ai][ci][ii][ri][bj][cj][hj][lj][pj][sj][hk][ik][nk][ok][qk][rk][cl][hl][ql][hm][nm][om][pm][bn][cn][in][mn][on][io][lo][mo][gp][hp][ip][jp][np][pp][qp][fq][hq][iq][nq][oq][er][gr][ds][es]LB[pb:1]C[B to play. W wants to connect, and that is possible, but B should maximize profit.]PL[B]
+(;B[oc]C[Game move]
+;W[ob]
+;B[nd])
+(;B[ob]C[B should play here.]
+;W[oc]
+;B[od]
+;W[oa]
+;B[md]
+;W[ma]
+;B[nd]
+;W[na]))

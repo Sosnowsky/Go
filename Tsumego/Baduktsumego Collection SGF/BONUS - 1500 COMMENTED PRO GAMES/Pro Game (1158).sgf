@@ -1,0 +1,18 @@
+(;SZ[19]EV[16th Fujitsu Cup round 1]DT[2003-04-12]KM[6.5]PC[Tokyo, Japan]PB[Zhou Heyang]BR[9p]PW[Song TaeKon]WR[4p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[fq];W[cn]
+;B[fc];W[hc];B[pk];W[kc];B[jp];W[po];B[qp]LB[np:a][qq:b]C[B13 is the vital point for attacking, if Black makes the knight's move at 'a', then White can attach under at 'b' to settle himself easily.];W[op]LB[qo:a][np:b]C[If W14 at 'a', then after B 'b', White would come under attack. Moreover, if White makes the knight's move at 'b', then Black would make the diagonal's extension at 14 to separate White, this is very severe and White would be hard to answer.]
+;B[mp]LB[oq:a][nq:b][mn:c]C[B15 is fierce and relentless, the usual sequence is, B 'a', W 15, B 'b' and W 'c'.];W[oq];B[qo];W[pm];B[pn];W[on];B[qn];W[mm];B[no];W[oo]
+;B[om];W[nn];B[ol];W[cf]LB[jm:a]C[W28 is questionable, W 'a' is the vital point.];B[jm];W[mk];B[ll];W[ml];B[jj]C[After B33, Black obtains the initiative.];W[qf]LB[mi:a]C[W34: If White sticks his head out at 'a', then Black would take the opportunity to enclose the territory on the right side, White is no good.]
+;B[mi];W[pi];B[oi];W[oh];B[oj]C[After 39, White has sunk into a difficult situation.];W[kn];B[lq]C[B41 is a good move for both attack and defense.];W[jn];B[mn];W[jl];B[im]LB[nm:a]C[Black has no certainty of success with B45, capturing at 'a' is already very adequate, White still need to reinforce at 45, Black would have taken the lead easily.]
+;W[km];B[il];W[jk];B[ik];W[kj];B[ki];W[ij];B[ji];W[in];B[hj];W[nm]C[After W56, the game becomes complicated.];B[lk];W[lj]
+;B[mj];W[kl];B[li];W[lo];B[qe];W[rf];B[mc];W[re];B[rd];W[qj];B[rk];W[rj];B[hp]
+;W[mr];B[lr];W[dc]LB[kk:a]C[W74: White is a little greedy, capturing at 'a' to make life is the proper move.];B[dn]C[The attack after B75 drives White into a dangerous situation.];W[cm];B[do];W[co];B[ep];W[dq];B[mo];W[kk]
+;B[or];W[nr];B[pr]C[After B85, White is already very hard to escape from death.];W[gn];B[fm];W[fn];B[ln];W[lm];B[em];W[eo]
+(;B[gp]LB[hm:a][hn:b][en:c][fo:d][fp:e][gm:f][fk:g][gl:h][fj:i][gj:j][gi:k][gk:l][ei:m]C[B93 is the fatal mistake, Black has missed the chance of winning the game at one stroke. Black should turn at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', White would have no follow-up maneuvers (see var a).];W[hm]C[After W94, Black has no good tactics to seal in White.]
+
+(;B[gl]LB[fk:a][hk:b][ii:c][hl:d][gj:e][gk:f][fj:g]C[B95: If Black jumps to 'a', then W 'b', B 'c', W 'd', Black connects, W 'e', B 'f' and W 'g', Black is no good (see var a).];W[hl];B[hk];W[gk];B[fk];W[gj];B[hi]
+;W[gi];B[dj];W[gm];B[fl];W[ei];B[ej];W[di];B[ci];W[ch];B[cl];W[bl];B[bk];W[ck]
+;B[cj];W[dl];B[dk];W[bh]C[Through 118, White wins the game for sure.];B[cl];W[hh];B[ii];W[ck];B[cp];W[cq];B[cl];W[kp];B[jq]
+;W[ck];B[fi];W[fh];B[cl];W[dm];B[en];W[fo];B[fj];W[gh];B[bp];W[bq]C[Song TaeKon advanced to the final sixteen, the round 2 will take place on 4/14.])
+(;B[fk]C[If Black jumps here, ...];W[hk];B[ii];W[hl];B[ij];W[gj];B[gk];W[fj]C[Black is no good.]))
+(;B[hm]C[Black should turn here.];W[hn];B[en];W[fo];B[fp];W[gm];B[fk];W[gl];B[fj];W[gj];B[gi];W[gk];B[ei]C[White would die this way.]
+)) 

@@ -1,0 +1,32 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 1]KM[6.5]DT[2004-12-09]PB[Cho Sonjin]BR[9p]PW[Yoda Norimoto]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[cp];B[eq];W[qo];B[pm]
+;W[lp];B[po];W[iq];B[hp];W[hq];B[gq];W[ip];B[dn]LB[ep:a][dq:b][dp:c][fp:d][cq:e][ho:f][io:g][bo:h]C[B15 is a powerful move, if W 'a', then B 'b', W 'c', B 'd', W 'e', and B 'f', making a miai of 'g' and 'h', Black must get one, White can't be satisfied.]
+;W[qp]C[W16 taking tenuki is a good move.];B[pp];W[qn]LB[qm:a]C[W18: For White to attach at 'a' is a popular play in Korea.];B[qq]LB[qm:a]C[B19: Black can also block at 'a'.];W[qm];B[pl];W[qk]LB[ql:a][qj:b]C[If W22 at 'a', White worries that Black will attack by playing the knight's move at 'b'.]
+;B[co];W[cf]LB[dp:a][go:b][fp:c][fo:d][ep:e][gp:f][er:g][gr:h][dr:i][dq:j][cr:k][lr:l]C[If W24 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', later on Black is still left with the tactic of attacking by B 'i', W 'j', B 'k' and 'l', White is no good.]
+;B[mq];W[lq];B[lr];W[kr];B[dp];W[jc];B[nc];W[ec];B[ci];W[di]LB[ei:a]C[The purpose of W34 is to prevent Black from jumping at 'a'.];B[dj];W[cj]
+;B[ch];W[dh];B[ck];W[bj];B[bk];W[ej];B[dk];W[cg];B[bi]C[Through B45, White can be satisfied.];W[qj];B[ie]LB[id:a][ic:b][hd:c][hc:d][gd:e][gc:f][qe:g]C[B47: For Black to make the shoulder-hit at 'a' is better, next W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g'.]
+;W[hd];B[qe];W[qc];B[pc];W[re]
+(;B[rd]LB[rf:a][qb:b][qf:c][qg:d][pf:e][rh:f][sf:g][rg:h][qd:i][pe:j][rb:k][pb:l][ra:m][og:n][oj:o]C[B53: Black can also consider to play at 'a', next W53, B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n' or 'o', Black can fight (see var a).]
+;W[rf];B[qf];W[qg];B[pg];W[rg];B[rc];W[mr];B[nr];W[ls];B[he];W[gd];B[pi]LB[gp:a][kc:b][jd:c][jb:d][ib:e][kb:f][hb:g]C[B65: Black has many choices, besides the play in the game, Black can also consider to connect at 'a', or attach at 'b', if W 'c', then B 'd', W 'e' and B 'f', later on, Black is still left with the clamp at 'g'.]
+;W[lc];B[kd];W[ld];B[le];W[gr]
+(;B[gp]LB[fr:a][fq:b][ho:c][ql:d][rl:e][rm:f][rk:g][rp:h][ro:i][sp:j][rq:k][rr:l]C[B71 is a big mistake, Black should play at 'a', next W71, B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l' (see var a).];W[dr]C[W72 is a good move, Black is difficult to kill White unconditionally.]
+;B[er];W[cq];B[br];W[cr];B[ao];W[bq];B[aq];W[es];B[fs];W[fr];B[ds];W[cs];B[dq]
+;W[es];B[de];W[ef];B[ds];W[bh];B[aj];W[es];B[cc];W[ee];B[ds];W[ar];B[as];W[es]
+;B[eb];W[db];B[ds];W[jd];B[je];W[es];B[dc];W[fb];B[ds];W[fi];B[es]C[Through B109, White gains some profit.];W[mb];B[md]
+;W[rq];B[rr];W[rp]
+(;B[np]LB[kj:a][pn:b][on:c][qh:d][ph:e][oj:f][pj:g][pk:h][ok:i][nn:j][oo:k][ol:l][nk:m][om:n][no:o][ji:p][lk:q]C[If B115 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n' and B 'o', later on White is still left with the reduction tactic at 'p' and 'q', this way it is also to White's advantage (see var a).]
+;W[qh];B[ph];W[ki]C[After W118, White's advantage becomes clear.];B[li];W[kj];B[lj];W[kk];B[kh];W[jh];B[lk];W[ll];B[ml];W[mm]
+;B[nl];W[kl];B[hn]C[Through B131, both sides obtain some profit.];W[kg];B[lh];W[kc];B[ke];W[ig]LB[gk:a][lg:b][mg:c][ok:d][pk:e][mf:f][lf:g][pj:h][oj:i][mh:j][ng:k][mk:l]C[After W136, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black will collapse.]
+
+(;B[lg];W[gm];B[hm];W[hl];B[cb];W[ea];B[be];W[cd];B[bd];W[bb];B[gl];W[fl];B[gk]
+;W[fm];B[gj];W[hk];B[ij]
+(;W[ik]LB[ce:a][ed:b][dg:c][df:d][hj:e][jj:f][ek:g][fk:h][fj:i][ei:j][hh:k][hg:l][fh:m][gi:n][gh:o][hi:p]C[After W154, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', B 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p', in the capturing race, Black is short by one liberty.]
+)
+(;W[ik];B[ce];W[ed];B[dg];W[df];B[hj];W[jj];B[ek];W[fk];B[fj];W[ei];B[hh];W[hg]
+;B[fh];W[gi];B[gh];W[hi]))
+(;B[gk];W[lg];B[mg];W[ok];B[pk];W[mf];B[lf];W[pj];B[oj];W[mh];B[ng];W[mk]))
+(;B[kj];W[pn];B[on];W[qh];B[ph];W[oj];B[pj];W[pk];B[ok];W[nn];B[oo];W[ol];B[nk]
+;W[om];B[no]))
+(;B[fr];W[gp];B[fq];W[ho];B[ql];W[rl];B[rm];W[rk];B[rp];W[ro];B[sp];W[rq];B[rr]
+))
+(;B[rf];W[rd];B[qb];W[qf];B[qg];W[pf];B[rh];W[sf];B[rg];W[qd];B[pe];W[rb];B[pb]
+;W[ra];B[og])) 

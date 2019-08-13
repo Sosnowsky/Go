@@ -1,0 +1,38 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 5]KM[6.5]DT[2003-01-09]PB[O Rissei]BR[9p]PW[Yamashita Keigo]WR[7p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+1.5];B[pd];W[dp];B[pq];W[dc];B[df];W[po];B[oo]
+;W[qq];B[pp];W[qp];B[on];W[qo];B[or];W[ql];B[qr];W[qi];B[fq];W[dn]LB[cn:a]C[W18: For White to make the small knight's move at 'a' is the usual play.];B[cc]LB[cl:a]C[B19: Black can also consider to check at 'a' right away.]
+;W[ip];B[dd];W[ec];B[cb];W[ed];B[de];W[ic];B[cj];W[nc]C[Through 28, both sides has played very steadily.];B[dq];W[cq];B[cr];W[eq]
+;B[dr];W[ep];B[er];W[bq];B[cm]LB[fp:a][cl:b][kp:c]C[B37 is an excellent move, if Black extends to 'a', then W 'b' and Black has to pincer at 'c', however the pincer move is too close to White's thickness in the lower right corner, Black can not be satisfied.];W[dm];B[cl];W[go];B[hq];W[iq]
+;B[hp];W[ho];B[ir];W[jr];B[hr];W[jo];B[in];W[jn];B[im];W[io];B[ek];W[qf];B[pf]
+
+(;W[pb]LB[pg:a][qe:b][of:c][pe:d][rf:e][nd:f][md:g][ne:h][ob:i][og:j][ph:k][ng:l]C[W56 is played according to the circumstances, if White hanes at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', White on the right will be over-concentrated, White is no good (see var a).];B[qg]
+;W[qe];B[pe];W[qd];B[qc];W[pc];B[qh];W[rc];B[ri];W[qj];B[rj];W[rk];B[pk];W[qk]
+;B[oh];W[ff]LB[fe:a]C[W72 should be at 'a'.]
+(;B[hd]LB[gc:a][gd:b][fd:c][ee:d][gb:e]C[B73 is fierce and ferocious, if Black invades at 'a', then W 'b', B 'c', W 'd', B 73 and White can cross over at 'e', Black can not be satisfied (see var a).];W[hc];B[gd];W[gc];B[hf]
+(;W[fd]LB[gh:a][ee:b][ih:c][hi:d][hh:e][je:f]C[If W78 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', Black can also fight (see var a).];B[fe];W[ee];B[fg];W[gg];B[gf];W[ef]
+;B[eg];W[hg];B[ig];W[ih];B[jf];W[hi];B[jh];W[ji];B[kh];W[fi];B[gj];W[gi];B[dh]
+;W[ki];B[ij];W[ii];B[lh];W[li];B[kd]C[Through 103, Black has succeeded in the fight.];W[md];B[kc];W[ge];B[gh];W[hh];B[he];W[jb]
+;B[mh]LB[ke:a][je:b][le:c][jd:d][mg:e][lg:f]C[B111: If Black tenukis, then after W 'a', B 'b', W 'c', B 'd', W 111, B 'e' and W 'f', Black will collapse.];W[rr];B[rs];W[sr];B[mp];W[hj];B[ea]
+;W[lb]C[Through 118, Black is favorable.];B[gl];W[hl]
+(;B[co]LB[hm:a][fk:b][fl:c][hk:d][em:e][dl:f][el:g][dk:h][ej:i][dj:j]C[B121: If Black plays at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', Black is no good (see var a).];W[cn];B[bn];W[bo]
+;B[bp];W[cp];B[ao];W[gk];B[fl];W[hm]
+(;B[me]LB[rf:a][re:b][se:c][qb:d][kq:e][lq:f][lp:g][kr:h][lr:i][jq:j][mq:k]C[B131 is questionable, Black should play at 'a', then W 'b', B 'c', W 'd', B 'e',  W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', Black would be favorable (see var a).];W[ne];B[mf]
+;W[rg];B[rh];W[lr];B[kq];W[lq];B[lp];W[kp];B[mr]LB[ll:a]C[B141: Black should play at 'a', this way the outcome of the game is still hard to guess.];W[lm]C[After W142, the game has been turned around.];B[mq];W[kr]
+;B[rf];W[re];B[sg];W[je];B[ke];W[id];B[if];W[br];B[kb];W[ka];B[se];W[qb];B[lc]
+;W[mb];B[fb];W[cs];B[fs];W[gb];B[lk];W[ds];B[gr];W[ll];B[mk];W[kk];B[od];W[nd]
+;B[sd];W[do];B[bo];W[ej];B[dj];W[fk];B[el];W[eh];B[ln];W[lj];B[da];W[fc];B[kn]
+;W[km];B[ko];W[jq];B[mn];W[oj]LB[pl:a][nj:b][fn:c]C[W188 is a mistake, White should play at 'a', making a miai of 'b' and 'c', White would win for sure.];B[nl];W[pl]
+(;B[pn]LB[ga:a][ha:b][ia:c][fa:d][qn:e][fh:f][dg:g][rd:h][qc:i][ib:j][hb:k][ja:l][ok:m][nj:n][mi:o]C[B191: Black has missed a winning chance, Black should play at 'a', then with the sequence of W 'b' to B 'o', Black could win by a small margin (see var a).]
+;W[qn];B[pm];W[ol];B[nm];W[nk];B[nj];W[ok];B[ni];W[of]C[After W200, Black already has no chance of winning.];B[og];W[gp];B[gq];W[nf]
+;B[ng];W[ga];B[oc];W[ob];B[sc];W[sb];B[fn];W[dl];B[dk];W[db];B[gn];W[hn];B[qm]
+;W[rm];B[ca];W[ms];B[ns];W[ls];B[jc];W[ib];B[sk];W[sl];B[sj];W[is];B[hs];W[js]
+;B[bs];W[as];B[di];W[fh];B[dg];W[ei];B[sf];W[rd];B[ld];W[mc];B[es];W[bs];B[aq]
+;W[pi];B[fe];W[fp];B[bm];W[gm];B[fm];W[ge];B[rb];W[ra];B[fe];W[en];B[fo];W[ge]
+;B[rn];W[sn];B[fe];W[mj];B[ml];W[ge];B[rq];W[rp];B[fe];W[sh];B[si];W[ge];B[hk]
+;W[ik];B[fe];W[oi];B[mi];W[ge];B[qs];W[fe])
+(;B[ga];W[ha];B[ia];W[fa];B[pn];W[qn];B[ga];W[fh];B[dg];W[fa];B[rd];W[qc];B[ga]
+;W[ib];B[hb];W[ja];B[ok];W[nj];B[mi]C[This way Black could win the game by a small margin.]))
+(;B[rf];W[re];B[se];W[qb];B[kq];W[lq];B[lp];W[kr];B[lr];W[jq];B[mq]C[This way Black would maintain his lead.]))
+(;B[hm];W[fk];B[fl];W[hk];B[em];W[dl];B[el];W[dk];B[ej];W[dj]C[This would be bad for Black.]))
+(;W[gh];B[ee];W[ih];B[hi];W[hh];B[je]C[Black can fight.]))
+(;B[gc];W[gd];B[fd];W[ee];B[hd];W[gb]C[White could bridge over and Black can not be happy.]))
+(;W[pg];B[qe];W[of];B[pe];W[rf];B[nd];W[md];B[ne];W[ob];B[og];W[ph];B[ng]C[White on the right seems superfluous.])) 

@@ -1,0 +1,34 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bm][ce][cf][ci][cj][ck][de][dg][dh][ee][ff][fg][fh]
+AW[bb][bd][bi][cd][cg][ch][dd][di][ed][ei][fe][fi][gd][gf][gg][gh]PL[W]C[White to play.
+
+Capture race - Reduce Opponent's Liberties]
+(
+;W[df]
+;B[ef]
+;W[eh]
+;B[eg]
+;W[ag]
+;B[af]
+;W[bh]
+(
+;B[bf]
+;W[ai]
+;B[bj]
+;W[ad]
+;B[aj]
+;W[ae]C[RIGHT
+Both Alive])
+(
+;B[bj]
+;W[bf]
+;B[bg]C[White Ok]))
+(
+;W[eh]
+;B[bg]
+;W[bh]
+;B[df]
+;W[ag]
+;B[bf]
+;W[ae]
+;B[bj]C[Black Ok]))

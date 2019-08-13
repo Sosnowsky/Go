@@ -1,0 +1,28 @@
+(;SZ[19]EV[5th Ing Cup semi final game 1]DT[2004-09-06]PC[China]KM[8]PB[Peng Quan]BR[5p]PW[Choi Cheolhan]WR[8p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[pq];W[dp];B[ce];W[od]
+;B[oc];W[nc];B[pc];W[dg]LB[nd:a][ed:b]C[If W10 at 'a', then Black probably will press with the knight's move at 'b'.];B[nd];W[mc];B[ne];W[jc];B[id]LB[ee:a][fd:b]C[If B15 at 'a', then W 'b', Black can't be satisfied.]
+;W[jd]LB[ic:a][hd:b][ke:c][ed:d]C[If W16 at 'a', then B 'b', W 'c' and B 'd', White is no good.];B[ie];W[de];B[ic]LB[kf:a][je:b][ke:c][kd:d]C[After B19, if W 'a', then B 'b', W 'c' and B 'd', White is no good.];W[je]
+;B[jf];W[kf];B[jb];W[kb];B[hb];W[ja];B[ia];W[ib];B[dd];W[ed];B[jb];W[if];B[jg]
+;W[ib];B[cd];W[ig];B[ih];W[hh];B[jh];W[ha];B[ec];W[ee];B[eb];W[cf];B[hi];W[gg]
+;B[gi];W[dj];B[gh];W[hg];B[fg];W[gf];B[ga];W[hc];B[ia];W[nf];B[jb];W[oe];B[ff]
+;W[ge];B[ka];W[fc];B[lb];W[me];B[kc];W[db];B[ea];W[bc];B[ke];W[pf];B[rf];W[po]
+;B[ch];W[cc];B[dh];W[cn];B[qo];W[pp]LB[qn:a][qp:b][pn:c][nq:d][qj:e]C[White's play of W78 is dangerous, to hane at 'a' is better, next B 'b', W 'c', B 'd' and W 'e', this variation is relatively steady.];B[qp];W[oq]
+;B[pn];W[qq];B[pr];W[rq];B[or];W[np];B[no];W[mp];B[on];W[op];B[rp];W[qn];B[rn]
+;W[qm];B[rr];W[rm];B[sq];W[ol];B[qk];W[pm];B[lo];W[lp];B[ko];W[kp];B[jo];W[jp]
+;B[io];W[ip];B[ho]C[After this move, it is time for noon break.];W[gq];B[oj]LB[og:a]C[B111: It is better for Black to first probe White at 'a', watching how White to respond.];W[og];B[pk];W[nj]LB[ni:a][nk:b][mi:c][nn:d][nm:e][mn:f][om:g][mm:h]C[After W114, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black will get captured (see var a).]
+
+(;B[om];W[pl];B[ni];W[mj];B[oi];W[ml];B[lh];W[lm];B[mo];W[im];B[lk];W[nm];B[jm]
+;W[jl];B[il];W[km];B[hm];W[ik];B[hl];W[kk];B[lj];W[kj]LB[rk:a][rj:b][sl:c][ql:d][ro:e][so:f][sn:g]C[After W136, Black already is hard to kill White, because White has the tactic of making an eye by a ko fight with the sequence of W 'a', B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g'.]
+;B[nk];W[mk];B[ok];W[nl];B[li];W[hk];B[gk];W[gl];B[gm];W[fl];B[fk];W[jn];B[en]LB[ll:a][cm:b]C[After B149, if W 'a', then B 'b', White is no good.]
+;W[el]LB[dm:a][fn:b][fo:c][fm:d][gn:e][eo:f]C[After W150, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is no good.];B[ep]LB[eq:a][dm:b]C[After B151, if W 'a', then B 'b' will work.];W[fo]LB[eo:a][fn:b][fp:c][hn:d]C[After W152, if B 'a', then W 'b', B 'c' and W 'd', Black is no good.]
+;B[fn]LB[fp:a][eo:b][gp:c][do:d]C[If B153 at 'a', then W 'b', B 'c' and W 'd', Black is no good.];W[go];B[do];W[eo];B[gp];W[dn];B[co];W[bo];B[cp]
+;W[fp];B[gn];W[hp];B[dm];W[cq];B[bp];W[bq];B[em];W[ll]C[After W170, Black already can't kill White.];B[bf];W[be];B[cg];W[df]
+;B[cm];W[ap];B[bm];W[sn];B[eh];W[ro];B[qr];W[re];B[qe];W[rg];B[qf];W[qg];B[mg]
+;W[mi];B[nh];W[nr];B[nb];W[mb];B[ma];W[ob];B[na];W[sf];B[bg];W[qb];B[pb]
+(;W[rd]LB[qc:a][pd:b][pa:c][rc:d][se:e][sg:f][sb:g][sc:h][qa:i][ra:j][oa:k][pe:l]C[W200: For White to play at 'a' is better, if Black plays at 200, then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', the corner will be seki (see var a), but with the play in the game, White also wins the game for sure.];B[rc]
+;W[se];B[rb];W[os];B[ph];W[pg];B[ri];W[ck];B[ek];W[dl];B[bk];W[bj];B[ak];W[fb]
+;B[ng];W[pe];B[fa];W[qi];B[rj];W[qh];B[rl];W[mf];B[lf];W[hd];B[ij];W[he];B[kd]
+;W[nn];B[oo];W[pd];B[qc];W[cl];B[hj];W[jk];B[bl];W[am];B[mn];W[in];B[kn];W[jm]
+;B[hn];W[so];B[sl];W[aj];B[cj];W[sm]C[The game 2 will take place on 9/8.])
+(;W[qc];B[rd];W[pd];B[oa];W[rc];B[se];W[sg];B[sb];W[sc];B[qa];W[ra];B[pa];W[pe]
+))
+(;B[ni];W[nk];B[mi];W[nn];B[nm];W[mn];B[om];W[mm])) 

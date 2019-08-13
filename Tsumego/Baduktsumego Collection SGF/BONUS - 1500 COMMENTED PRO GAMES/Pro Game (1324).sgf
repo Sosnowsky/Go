@@ -1,0 +1,19 @@
+(;SZ[19]EV[Japan 31st Meijin Title preliminary]KM[6.5]DT[2005-11-10]PB[O Meien]BR[9p]PW[Takao Shinji]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[fq];W[ip];B[dn]
+;W[fp];B[cq];W[eq];B[cp];W[gq];B[ck];W[qo];B[qk];W[nq]LB[op:a][np:b][oo:c][mn:d]C[After W16, if B 'a', then W 'b', B 'c' and W 'd', Black can't be satisfied.]
+;B[np];W[qq];B[oq];W[qr];B[mq]C[Through B21, White is also not bad.];W[nc];B[qf];W[pb];B[fc];W[cf];B[lc];W[qc];B[oc]
+;W[ob];B[nd];W[md];B[mc];W[nb];B[jd];W[ne];B[od]C[Through B37, it forms a situation of White's territory vs. Black's outside influence.];W[ci]LB[pi:a]C[W38: White can also consider to play at 'a'.];B[dg];W[cg]
+;B[nh];W[qd];B[of];W[db];B[fe]LB[pn:a][ji:b]C[B45 has no effect over White's upper-left corner, for Black to play at 'a' or 'b' is better.];W[ji]C[W46 is a good point.];B[jg]C[B47: Black can only play this way.];W[li];B[mj];W[qm]
+;B[kk];W[hi];B[ij];W[ii];B[hg];W[gk];B[ek]C[Through B57, Black's playing direction is not ideal.];W[pk];B[pl]C[B59 is a strong move.];W[ql];B[qj];W[nk]
+;B[ok];W[nj];B[mk];W[nl];B[pj];W[mi];B[ni];W[nn];B[kj];W[ki];B[ln];W[lp]C[W74 is a good move.];B[hl]
+;W[hj];B[om];W[nm];B[gl];W[kg];B[po];W[pp]
+(;B[no]LB[pn:a][qn:b][pm:c][ol:d][on:e][oo:f][oj:g][pk:h][oi:i][ph:j][pi:k][rh:l]C[B83 is questionable, Black should play at 'a', next W 'b', B83, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', White is also not safe (see var a).];W[on]
+;B[lg]C[B85: Black tries to kill White's dragon strongly.];W[kf];B[mg];W[km]C[W88 is a very thoughtful move.];B[lm];W[oj];B[fi];W[gh];B[de];W[ce];B[fg];W[jj]
+;B[jk];W[fk]LB[fl:a][fh:b][eh:c][ei:d][ej:e][di:f][hk:g][gg:h][gf:i][ef:j][eg:k][hf:l]C[After W98, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is not good (see var a).]
+(;B[ej];W[fl];B[fm];W[el];B[em];W[dl];B[cn];W[ik];B[il];W[hk];B[bl]LB[dk:a][dj:b][cj:c][fj:d][ei:e][gi:f]C[If B109 is omitted, then W 'a', B 'b', W 'c', B109, W 'd', B 'e' and W 'f', White can make life.]
+;W[jl]LB[jm:a][lk:b][lj:c][kl:d][ll:e][kn:f]C[After W110, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is not good, now we can see the cleverness of W88.];B[ll];W[jn];B[hn];W[kp];B[jo];W[io]
+;B[kl];W[jm];B[ko];W[in];B[mo];W[lo];B[mn];W[jf];B[if];W[je];B[ig];W[kh];B[id]
+;W[mr]LB[lr:a][op:b][qp:c]C[W130 is a clever move, if White plays at 'a', then B 'b', W 'c' and B130, White can't kill Black.];B[lr];W[nr];B[or];W[kr];B[ks];W[jr];B[jp];W[kq]C[Through W138, it forms a capturing race, White clearly has more liberties, Black has to concede defeat.]
+)
+(;B[fl];W[fh];B[eh];W[ei];B[ej];W[di];B[hk];W[gg];B[gf];W[ef];B[eg];W[hf]))
+(;B[pn];W[qn];B[pm];W[ol];B[no];W[on];B[oo];W[oj];B[pk];W[oi];B[ph];W[pi];B[rh]
+)) 

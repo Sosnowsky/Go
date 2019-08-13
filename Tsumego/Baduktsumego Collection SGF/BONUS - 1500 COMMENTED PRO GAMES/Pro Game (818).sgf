@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 52nd Oza Title main event semi final]DT[2004-06-24]PC[Japan]KM[6.5]PB[Yoda Norimoto]BR[9p]PW[Takao Shinji]WR[8p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd]C[Before this game, the overall record between them is 2 wins and 2 defeats.];W[dd];B[qp];W[dp];B[oq]
+;W[oc];B[kd];W[qg]LB[mc:a][of:b]C[W8: For White to play at 'a' or 'b' is rather common.];B[pf];W[pg];B[of];W[og];B[pc]LB[nf:a]C[B13 is questionable, Black should play at 'a'.];W[nf]C[After W14, Black's shape is not good.]
+;B[od];W[nd];B[nc];W[oe];B[ob];W[pe]C[As for the result up to W20, Black fails.];B[pl]C[B21 is a good point.];W[jq];B[cn];W[fp];B[bp];W[cm]LB[cq:a][ck:b][md:c]C[W26: For White to play at 'a' is better, next B 'b' and W 'c'.]
+;B[bm]LB[dm:a][cl:b][dl:c][bn:d][co:e][cj:f][dk:g][bi:h][cq:i][dq:j][bo:k]C[B27: If Black plays at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', this is just White's plan.];W[bn];B[cl]
+;W[dm];B[bo];W[dn]LB[bl:a][an:b][ck:c]C[If W32 at 'a', then B 'b', the ladder at 'c' is not working.];B[an];W[mq];B[gp]LB[ip:a][fq:b][eq:c][fo:d][ep:e][gr:f][dl:g][gn:h]C[B35 is a good move, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', Black can fight (see var a).]
+
+(;W[go]LB[gq:a][hq:b][hp:c][hr:d][fq:e][iq:f][gr:g][ep:h][fo:i][eo:j][fn:k][eq:l][do:m][dq:n][fm:o]C[W36 is a bad move, White should play at 'a', then B 'b', W 'c', B36, W 'd', B 'e', W 'f', B 'g', W 'b', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n' and W 'o', this result is better than the real game (see var b).]
+;B[hp];W[fq];B[jp];W[kp];B[jo];W[iq];B[ho];W[ko]LB[gn:a][lp:b][mn:c]C[If W44 at 'a', then B44, W 'b' and B 'c', White is not favorable.];B[gn];W[km]
+;B[il];W[gr]C[W48: White connects back in gote, White fails in the fight.];B[fc]C[B49 is an excellent point.];W[cf];B[md]LB[db:a][cc:b][hd:c]C[B51 is the urgent point, if Black plays at 'a' instead, then W 'b', B 'c' and W51, Black can't be satisfied.];W[qn]LB[qi:a][rf:b][qf:c][rg:d]C[W52: White starts to strike first, if White takes tenuki, then after B 'a', the tactic of B 'b', W 'c' and B 'd' will be effective, White is no good.]
+;B[pn];W[qm];B[pm];W[qo];B[pp];W[rk];B[qk];W[qj];B[pj];W[rj]C[Through W62, White gains some territory, but Black becomes very thick and has nothing to complain.];B[dc];W[cc];B[cb]
+;W[cd];B[eb];W[ci];B[hd]C[After B69, Black encloses a territory of about 40 points at the top, White's territory is inadequate.];W[cq];B[dl];W[el];B[em]C[B71 and B73 are sharp.];W[en];B[fm];W[ek];B[gk]
+;W[bj];B[nr]C[B79 is a big endgame worth 6 points in sente.];W[bq];B[bk];W[dk];B[ck];W[cj];B[do];W[eo];B[co];W[ak];B[bl];W[re]LB[mr:a][rf:b]C[If W90 at 'a', then B 'b', White can't be satisfied.]
+;B[gh]C[B91 is a good point.];W[ei];B[ro];W[rn];B[rp];W[rc];B[rd];W[sd];B[rb];W[qe];B[qc];W[gj]C[The sequence following W102 is game-deciding.]
+;B[hj];W[gi];B[hi];W[hh];B[gg];W[ih];B[ji]LB[hf:a][hg:b]C[After B109, if W 'a', then Black can push and cut at 'b', White is no good.];W[jh];B[ki];W[kh];B[li]
+;W[ge];B[he];W[gf];B[hg];W[hf];B[ig];W[if];B[jg]LB[jd:a][lg:b][jf:c][kg:d][jc:e]C[After B121, if W 'a', then B 'b', W 'c', B 'd' and W 'e', this result is also to Black's advantage.]
+;W[lh];B[jf];W[mi];B[ie];W[mj];B[kk];W[gl];B[hl];W[fk];B[fo]C[B131 is the right move.];W[hk];B[ik];W[mr]
+;B[ms];W[ls];B[ns];W[lq];B[eg];W[ee];B[lf];W[pi];B[bc];W[bd];B[bb]C[After B145, White already has no chance of winning.];W[dg];B[sc]
+;W[oj];B[rl];W[ql];B[pk];W[sl];B[po];W[eh];B[se];W[rf];B[sn];W[rm];B[mg];W[mh]
+;B[ng];W[ne];B[nh];W[ml];B[jn];W[nn];B[np];W[ap];B[al];W[aj];B[kn];W[ln];B[lo]
+;W[mn];B[lp];W[kq];B[no];W[oi];B[fg];W[me];B[le];W[jm];B[im];W[gd];B[gc];W[ef]
+;B[ad];W[ae];B[ac];W[lj];B[kl];W[lm];B[fn];W[ep];B[be];W[af];B[bf];W[ag];B[bg]
+;W[ah];B[ed])
+(;W[ip];B[fq];W[eq];B[fo];W[ep];B[gr];W[dl];B[gn])
+(;W[gq];B[hq];W[hp];B[go];W[hr];B[fq];W[iq];B[gr];W[hq];B[ep];W[fo];B[eo];W[fn]
+;B[eq];W[do];B[dq];W[fm])) 

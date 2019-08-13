@@ -1,0 +1,87 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bi][cb][cg][cj][ck][db][dd][dh][ed][eh][fe][fh][gg]
+AW[ai][bc][bh][cd][ce][cf][ch][eg]PL[W]C[White to play.
+
+Make life - Secure Eye Shape
+
+Source: Igo Hatsuyo-ron.]
+;W[dg]
+;B[df]
+;W[ci]
+;B[bj]
+;W[di]
+;B[ej]
+;W[bb]
+;B[ba]
+;W[ef]
+;B[de]
+(
+;W[bd]
+(
+;B[ae]
+;W[ab]
+;B[ad]
+;W[af]
+(
+;B[bg]
+;W[ag]
+;B[ff]
+;W[ac]
+;B[fg]
+;W[bf]C[RIGHT
+Both Capture])
+(
+;B[ah]
+;W[bg]C[RIGHT
+Both Alive]))
+(
+;B[ab]
+;W[ae]
+;B[ac]
+;W[bf]
+;B[ag]
+;W[ah]C[RIGHT
+])
+(
+;B[ad]
+;W[af]
+;B[ae]
+;W[ab]
+;B[bg]
+;W[ag]
+;B[ff]
+;W[ac]
+;B[fg]
+;W[bf]C[RIGHT
+Both Capture])
+(
+;B[af]
+;W[ab]
+;B[ad]
+;W[ah]
+;B[bg]
+;W[bf]
+;B[ae]
+;W[ac]C[RIGHT
+Both Capture]))
+(
+;W[ab]
+;B[ad]
+;W[bd]
+;B[af]
+(
+;W[ah]
+;B[ae]
+;W[bg]C[RIGHT
+Both Alive])
+(
+;W[bf]
+;B[ah]
+;W[ae]C[Ko Fight]))
+(
+;W[bf]
+;B[ad]
+;W[bd]
+;B[ae]
+;W[ab]
+;B[ah]C[White Death]))

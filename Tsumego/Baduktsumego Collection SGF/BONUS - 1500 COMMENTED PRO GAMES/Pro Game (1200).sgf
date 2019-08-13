@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 22nd Women Honinbo final game 4]DT[2003-11-05]PC[Japan]KM[5.5]PB[Kobayashi Izumi]BR[5p]PW[Yashiro Kumiko]WR[5p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[cp];B[eq];W[qo]
+;B[pl];W[lp];B[po];W[iq];B[hq];W[hp];B[gq];W[ip];B[cr];W[pp];B[op];W[qp];B[qq]
+;W[qm];B[ql];W[oo];B[np];W[pn];B[qg]C[Through 25, the opening is same as the one in the game 2 of 28th Gosei final between Kobayashi Koichi and Yoda Norimoto this year.];W[do]C[W26 is questionable, White should extend on the left or upper side to grab the big point.];B[ci]C[The splitting move of B27 is an excellent point.];W[ck];B[cf];W[ce];B[df]
+;W[fd]LB[fc:a]C[W32 is no better than the knight's move at 'a'.];B[hc];W[ge];B[ei]C[Through B35, Black is favorable for the game.];W[kc];B[he];W[gf];B[ke];W[nc];B[ob];W[nb]
+;B[cc];W[cd]LB[dc:a][be:b]C[W44: White can only tolerate by blocking at 'a', then B 'b' and W44.];B[eb]C[B45 is a good move.]
+(;W[bf]LB[fb:a][ec:b][fc:c][bc:d][ed:e][dc:f][ne:g]C[W46 is questionable, White should simply block at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).];B[bg];W[fb];B[ec];W[hb]LB[fc:a]C[W50: White still should connect at 'a'.]
+;B[ib];W[hd];B[gb];W[gc];B[ha];W[ic];B[hb]
+(;W[fc]LB[id:a][dc:b][jb:c][kd:d]C[W58: White should connect at 'a', then B58, W 'b', B 'c' and W 'd' (see var a).];B[jc];W[dc];B[kb]C[Through B61, White clearly has incurred some loss.];W[pc];B[qc];W[qd];B[qe]C[With the sequence following B65, Black doesn't give White any chance.]
+;W[rd];B[rc];W[pe];B[od];W[re];B[oc];W[qf];B[pg];W[oe];B[nd];W[ne];B[md];W[ng]
+;B[rg]C[Through B79, Black can be satisfied.];W[mq];B[nr];W[nq];B[oq];W[mr];B[lo];W[ni];B[mh];W[mg];B[mp];W[kp];B[nm]
+;W[rl];B[rk];W[rm];B[qj];W[lh];B[ek];W[cl]
+(;B[dm]LB[bq:a][dj:b][fh:c][ej:d][fj:e][fk:f][gj:g]C[B99 is questionable, Black should make the diagonal's extension at 'a', if White peeps at 'b', then B 'c', W 'd', B 'e', W 'f' and B 'g', White would have no any chance (see var a).];W[el]C[W100 is an inevitable counterattack.];B[fl];W[dl];B[fm];W[fp]
+;B[hi]LB[fk:a]C[B105 guards against White's cut at 'a'.];W[br];B[cq];W[bq];B[ep]LB[bp:a]C[B109: Black should first cut at 'a'.];W[eo];B[gp];W[go];B[bp]
+(;W[bo]LB[dr:a][dq:b][er:c][ir:d][gs:e][be:f][mi:g][kg:h][lf:i][lg:j][ig:k][nh:l][mj:m][kj:n]C[W114: White has missed a good opportunity, White should clamp at 'a', followed by B 'b', W114, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', this way White would still have a chance of winning the game (see var a).]
+;B[ir];W[jr];B[hr];W[be];B[mi];W[kg];B[lf];W[lg];B[ig];W[jh]LB[kj:a]C[W124: White should make the knight's move at 'a'.];B[mj];W[nh]
+;B[jj]C[After Black seals off with B127, White already have no chance of winning.];W[ih];B[hh];W[hg];B[if];W[kj];B[kk];W[ki];B[jk];W[pf];B[fa];W[db];B[da]
+;W[cb];B[em]C[Kobayashi Izumi successfully defended his title by 3:1.])
+(;W[dr];B[dq];W[bo];B[er];W[ir];B[gs];W[be];B[mi];W[kg];B[lf];W[lg];B[ig];W[nh]
+;B[mj];W[kj]))
+(;B[bq];W[dj];B[fh];W[ej];B[fj];W[fk];B[gj]))
+(;W[id];B[fc];W[dc];B[jb];W[kd]))
+(;W[fb];B[ec];W[fc];B[bc];W[ed];B[dc];W[ne])) 

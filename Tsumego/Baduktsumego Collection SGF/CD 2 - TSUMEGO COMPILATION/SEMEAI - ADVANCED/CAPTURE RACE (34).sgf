@@ -1,0 +1,77 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][ce][de][dg][ec][ed][gc][gf][gg][hc][hh][ic][jh][lg]
+AW[bc][bd][cg][ch][dc][dd][ee][ff][hd][hg][je]PL[W]C[White to play.
+
+Capture race - Reduce Opponent's Liberties
+
+Source: Igo Hatsuyo-ron.]
+;W[df]
+;B[cf]
+;W[ef]
+;B[eg]
+(
+;W[fe]
+(
+;B[fg]
+;W[fd]
+;B[fc]
+;W[he]
+;B[gd]
+;W[ge]
+;B[ie]
+;W[id]
+;B[jd]
+;W[if]
+;B[hf]
+;W[ie]
+;B[ke]
+;W[kd]
+;B[jc]
+;W[kf]
+;B[le]
+(
+;W[jf]
+;B[lf]
+;W[cd]C[RIGHT
+])
+(
+;W[lf]
+;B[jf]
+;W[jg]
+;B[ig]C[White Death]))
+(
+;B[ge]
+;W[fd]
+;B[fc]
+;W[gd]
+;B[id]
+;W[he]
+;B[ie]
+;W[fg]
+;B[fh]
+;W[hf]C[White Ok])
+(
+;B[fd]
+;W[ge]
+;B[he]
+;W[hf]
+;B[ie]
+;W[fg]C[White Ok]))
+(
+;W[fd]
+;B[fc]
+;W[gd]
+;B[fe]
+;W[ge]
+;B[fg]
+;W[fe]
+;B[id])
+(
+;W[ge]
+;B[fg]
+;W[fe]
+;B[he]
+;W[hf]
+;B[ie]
+;W[id]
+;B[if]))

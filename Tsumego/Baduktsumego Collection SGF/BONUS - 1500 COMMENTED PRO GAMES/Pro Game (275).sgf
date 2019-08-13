@@ -1,0 +1,45 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 5]KM[6.5]DT[2004-01-08]PB[Cho U]BR[9p]PW[Kobayashi Satoru]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dd];B[pp];W[dp];B[fc];W[hd];B[fe]
+;W[df];B[fg];W[dh];B[kd];W[if];B[fi];W[ih];B[dj];W[gf];B[ff];W[db];B[cn]LB[fk:a]C[B19: For Black to jump at 'a' is rather common.]
+;W[el]LB[fp:a]C[W20: White is not willing to give way, the usual move is jumping at 'a'.];B[fk];W[cl];B[en];W[fl];B[gk];W[gl];B[hk];W[fp];B[cp];W[do];B[co]
+;W[dn];B[dq];W[eq];B[cr]LB[dr:a][er:b][kf:c][cm:d][br:e]C[B35: If Black descends at 'a' instead, then W 'b', although Black can obtain sente and jump at 'c', but W 'd' is sente, Black needs to reinforce at 'e' to make life, White's shape would be thick, White would have nothing to complain.];W[dr];B[cq];W[gh];B[fh]
+;W[nd];B[lf];W[pd]C[White's pace following W42 is very light and fast.];B[qc];W[pf];B[qe];W[nf];B[lh];W[ji]LB[lj:a][jk:b][hl:c][le:d][ke:e][kf:f]C[After W48, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', White can fight (see var a).]
+
+(;B[jc]C[B49 is a good move.];W[gd];B[fd];W[gb];B[jk];W[kj];B[mi];W[qf];B[ob];W[pj];B[mk];W[kk];B[jm]
+;W[nj];B[mj];W[ll];B[ln];W[mm];B[ol];W[ql];B[no];W[jo]LB[fb:a][ip:b][dm:c]C[If W70 at 'a', then after B 'b', Black still aims to play hane at 'c', White can't be satisfied.];B[fb]C[B71: Black separates White and also leaves himself some room for making eye.]
+;W[nn];B[on];W[oo]
+(;B[op]LB[mn:a][nm:b][om:c][po:d][oq:e][mp:f][pq:g][qn:h][rq:i][jg:j][kn:k]C[If B75 at 'a', then W 'b', B 'c', W75, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', Black is no good (see var a).];W[om];B[po]
+;W[pm];B[oh];W[qh];B[pi];W[oi];B[mc]
+(;W[le]LB[kq:a][ld:b][md:c][me:d][ke:e][mf:f][lc:g]C[W84 is questionable, White should play at 'a', White would be easier to play, even if White wants to play at the top, White should play at 'b', then B 'c', W84, B 'd', W 'e', B 'f' and W 'g' (see var a).];B[jf]C[B85 is a good move, White doesn't have any good follow-up maneuver.];W[ld];B[lc];W[kf];B[jg]
+;W[kg];B[kh];W[ke];B[jh];W[je];B[ig];W[hf];B[hh];W[ii];B[hg];W[gg];B[hi];W[gi]
+;B[hj];W[kq]C[After W104, the game is close.];B[bg]C[B105 is a good move.];W[ej]LB[be:a][ci:b][nq:c]C[W106 should be at 'a', if B 'b', then W 'c', White's situation is not bad.];B[ek];W[di];B[ei];W[cj];B[dk]
+;W[bi];B[cc];W[cd]
+(;B[cf]LB[dc:a][bc:b][cb:c][bb:d][eb:e][nq:f]C[If B115 at 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is no good (see var a).]
+(;W[dc]LB[cg:a][ce:b][de:c][bd:d][bb:e][bc:f][bh:g][cb:h][ch:i][dg:j][ci:k]C[If W116 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W116, B 'g', W 'h', B 'i', W 'j' and B 'k', White is no good.];B[dg];W[cm]
+;B[lr]C[After B119, the situation has been turned around.];W[qn];B[ro];W[lq];B[mr];W[hn];B[jr];W[kr];B[ks];W[jq];B[ir];W[iq];B[rn]
+;W[rm];B[hr];W[fr];B[re]LB[mq:a]C[B135 is questionable, Black should play at 'a', this way White wouldn't have any chance.];W[or]C[W136 is sharp.]
+(;B[pr]LB[nr:a][rq:b][rp:c][qr:d][oq:e][pq:f][rs:g][mp:h][np:i][ns:j][qp:k][qq:l][ps:m][qs:n][os:o][mo:p]C[If B137 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W137, B 'o' and W 'p', Black is no good.]
+;W[rq]C[W138 again is a good move.]
+(;B[qq]LB[rp:a][oq:b][nq:c][pq:d][rr:e][sq:f][sr:g][ss:h][sp:i][so:j][qr:k][ps:l][mp:m][np:n][mo:o]C[If B139 at 'a', then W 'b', B 'c', W 'd', B 'e', W139, B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n' and W 'o', Black is no good either (see var a).]
+;W[mq];B[nr];W[eg];B[de];W[cg];B[ce];W[be];B[bf];W[bd];B[ni];W[oj];B[ph];W[qi]
+;B[ef];W[qo];B[rp];W[ib];B[hm];W[gn];B[dg];W[nq];B[oq];W[df];B[gq];W[gp];B[dg]
+;W[nc];B[nb];W[df];B[sh];W[rg];B[sg];W[sf];B[rf];W[si];B[se];W[rh];B[dg];W[pc]
+;B[pb];W[df];B[gc];W[kb];B[kc];W[hc];B[dg];W[bm];B[bn];W[df];B[ga]C[B189 is not big, if Black loses the game, this would be the losing move.];W[cs];B[bs]
+;W[ds];B[ar];W[jb];B[hb];W[ic];B[bh];W[gr];B[hq];W[hp];B[dg];W[lb];B[mb];W[hs]LB[ng:a]C[W204 should be at 'a'.]
+;B[gs];W[fq];B[js];W[ls];B[ms];W[ai];B[ch];W[ci];B[ng];W[lg];B[of];W[mf];B[sf]
+;W[pe];B[pk];W[qj];B[nl];W[mo];B[jn];W[ko];B[mn];W[nm];B[lo];W[il];B[jl];W[hl]
+;B[jj];W[ki];B[sm];W[sl];B[sn];W[pl];B[ok];W[qk];B[im];W[pg];B[og];W[mg];B[nh]
+;W[pn];B[qp];W[kn]LB[mp:a]C[W246 should be at 'a'.];B[mp];W[lp];B[oo];W[jd]LB[ae:a]C[W250 should be at 'a'.
+
+Because White makes several mistakes in a row, Black luckily won the game by half point.];B[ae];W[ad];B[gm]
+;W[fm];B[dl];W[dm];B[in];W[io];B[am];W[al];B[an];W[ck];B[ge];W[he];B[ea];W[da]
+;B[eh];W[ma];B[na];W[la];B[eb];W[ia];B[ha];W[af];B[oe];W[lm];B[mo];W[fs];B[ed]
+;W[bb])
+(;B[rp];W[oq];B[nq];W[pq];B[rr];W[qq];B[sq];W[sr];B[ss];W[sp];B[so];W[qr];B[ps]
+;W[mp];B[np];W[mo]))
+(;B[nr];W[rq];B[rp];W[qr];B[oq];W[pq];B[rs];W[mp];B[np];W[ns];B[qp];W[qq];B[ps]
+;W[qs];B[os];W[pr];B[os];W[mo]))
+(;W[cg];B[ce];W[de];B[bd];W[bb];B[bc];W[dc];B[bh];W[cb];B[ch];W[dg];B[ci]))
+(;B[dc];W[bc];B[cb];W[bb];B[eb];W[nq]))
+(;W[ld];B[md];W[le];B[me];W[ke];B[mf];W[lc]))
+(;B[mn];W[nm];B[om];W[op];B[po];W[oq];B[mp];W[pq];B[qn];W[rq];B[jg];W[km]))
+(;B[lj];W[jk];B[hl];W[le];B[ke];W[kf])) 

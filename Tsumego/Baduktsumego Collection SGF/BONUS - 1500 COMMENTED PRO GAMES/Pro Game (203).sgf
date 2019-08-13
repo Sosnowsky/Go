@@ -1,0 +1,31 @@
+(;SZ[19]EV[1st Jeongganjang Cup Women Go Contest semi-final game 3]DT[2003-02-20]PC[Beijing, China]KM[6.5]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Zhang Xuan]BR[8p]PW[Gueon Hyojin]WR[3p]RE[B+R];B[qd];W[dp];B[pq];W[dc];B[de];W[ce]
+;B[cf];W[cd];B[fq]
+(;W[cm]LB[cn:a][dr:b][cq:c][dg:d][fc:e][ck:f]C[W10 is a recently popular play, if White plays the knight's move at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White can not be satisfied (see var a).];B[cq];W[dq];B[cp];W[do];B[co];W[dr]LB[cn:a]C[W16 is a strong move, if White hits at 'a', then Black can hane underneath with B16 and connect in sente, White is not favorable.]
+;B[cn];W[dn];B[bm];W[cl];B[bl];W[ck];B[bk];W[iq];B[em];W[dm]LB[gp:a]C[In the final game 1 of China 5th Lebaishi Cup between Chang Hao 9p and Yu Bin 9p, W26 was played as the knight's cap move at 'a'.];B[fo];W[gp]
+;B[fp]C[Through 29, the resulting position is the same as that of a second round game between Chang Hao and Yoo Changhyeok in 7th Samsung Cup.];W[el]LB[fm:a][fk:b]C[W30: In that game, Chang Hao elected to clamp at 'a' and Black sticked his head out, leading to a complicated fight, in the postgame analysis, Chang Hao thought White's large jump move at 'b' is more steady, the play of W30 in this game is not good.];B[gm]C[B31 is a good move.];W[lq]LB[gk:a]C[W32: If White knights at 'a', then Black will make a checking extension at 32, White is discontent.];B[fl]C[Black is very happy with the tiger of B33.];W[fk];B[gk];W[fj]
+;B[gj];W[fi];B[gi];W[fh]
+(;B[ci]LB[hg:a][ff:b][bj:c]C[B41: Black should first knight at 'a' to exchange for White's jump at 'b', then B41. In addition, when B 'a', if White hanes at 'c', then Black can knight conceal at 'b', White is clearly no good (see var a).];W[gh];B[hh];W[hg];B[ih];W[ig];B[jh];W[jg];B[kg];W[kf]
+;B[lf];W[ke];B[lg];W[le];B[df];W[ed];B[me];W[md];B[nd];W[mc];B[nc];W[ne];B[mf]C[The sequence from 42 up to 63 has been done at one go, both sides seem to have no other choices.]
+;W[nb]LB[qk:a]C[W64 seems an overplay, making the splitting move at 'a' is commonsense.];B[ob];W[mb];B[qk]C[After B67, how White to reduce Black's big moyo on the right side is the key for the game.]
+(;W[po]LB[ok:a][pm:b][qj:c][rj:d][rk:e][rl:f][ql:g][sk:h][pk:i][qi:j][qm:k][oi:l][pj:m][pl:n][qn:o][om:p]C[W68 is doubtful, White should cap at 'a', it is the vital point, followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'e', W 'j', B 'k' and W 'l', White is beneficial (see var a). Moreover, when W 'c', if Black counteracts with the hane at 'm', then White can cut at 'i', followed by B 'j', W 'g', B 'd', W 'e', B 'c', W 'n', B 'o' and W 'p', this is also favorable for White (see var b).]
+;B[nq];W[qq];B[qr];W[qp];B[rr];W[no];B[mp]LB[ok:a]C[B75: Black certainly should grab the vital point of 'a'.];W[ok]C[After W76, Black is difficult.];B[ol];W[nl];B[om]
+;W[pk];B[ql];W[nm];B[on]LB[qn:a]C[B83 is a crude move, Black should jump to 'a'.]
+(;W[nn]LB[pl:a][qn:b][pm:c][pn:d][qm:e][rm:f][rl:g][rn:h][qj:i][rk:j][oi:k]C[W84 is inexplicable, now White's push at 'a' is the proper move, followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', this way White's advantage is self-evident (see var a).];B[nk]C[After B85, the situation becomes complicated.];W[oo]
+;B[qn];W[pi];B[qj]C[After this move, it is time for noon break.];W[or];B[oq];W[pd];B[pc];W[oe];B[pe];W[od];B[oc];W[qe]
+(;B[qc]LB[of:a][rc:b][re:c][qh:d][qb:e]C[B99 is a mistake, Black should wrap up at 'a', then reinforce with the tiger move at 'b', if White stands at 'c', then Black can jump to 'd', Black is favorable in the capturing race, in the corner, after W 'e', the position forms a "bulky five" shape, it is a dead shape but has plenty of liberties.];W[pf]C[After W100, Black sinks into a miserable situation.];B[mk];W[re];B[rd];W[rb];B[qb];W[sd]
+;B[sc];W[se];B[rc];W[lp];B[mo]
+(;W[nr]LB[mq:a][ln:b][np:c]C[W112 is the losing move, White should squeeze at 'a', if B 112, then W 'b', Black is no good (see var a), futhermore, when W 'a', if Black connects at 'c', then White can pull back at 112 in sente (see var b), comparing with the real game, this makes a vast difference.];B[mq];W[mr];B[pr];W[hl];B[gl];W[mi];B[lj];W[li];B[ki]
+;W[ll]LB[kn:a][ff:b]C[W122: White has missed the last chance, now if White sacrifices with the knight's move at 'a', then jump seal at 'b', the outcome of the game is still anybody's guess.];B[lo]C[After B123, White is in tatters, all three white groups are not completely alive, and one of them will die for sure. It seems that White doesn't know how to win a game by sacrifice.];W[kj];B[ni];W[lk];B[mj];W[ml];B[nj];W[ji];B[kh]
+;W[nh];B[mh];W[oi];B[lh];W[ko];B[kn];W[ln];B[jn];W[jo];B[io];W[ro];B[jp];W[rn]
+;B[rh];W[qm];B[rm];W[pm];B[pl];W[pn];B[qg];W[pg];B[qf];W[kp];B[lr];W[kq];B[kr]
+;W[jq];B[jr];W[ir];B[os];W[rl];B[rk];W[sm];B[rf]C[Zhang Xuan marches into the final which is scheduled to take place on 3/8-3/11 in Seoul, Korea.])
+(;W[mq];B[nr];W[ln])
+(;W[mq];B[np];W[nr];B[pr]))
+(;B[of];W[pf];B[nf];W[pe];B[rc];W[re];B[qh];W[qb];B[qc]C[White will die in the capturing race.]))
+(;W[pl];B[qn];W[pm];B[pn];W[qm];B[rm];W[rl];B[rn];W[qj];B[rk];W[oi]))
+(;W[ok];B[pm];W[qj];B[rj];W[rk];B[rl];W[ql];B[sk];W[pk];B[rk];W[qi];B[qm];W[oi]C[White is favorable.]
+)
+(;W[ok];B[pm];W[qj];B[pj];W[pk];B[qi];W[ql];B[rj];W[rk];B[qj];W[pl];B[qn];W[om]
+))
+(;B[hg];W[bj];B[ff]C[Black is better.]))
+(;W[cn];B[dr];W[cq];B[dg];W[fc];B[ck])) 

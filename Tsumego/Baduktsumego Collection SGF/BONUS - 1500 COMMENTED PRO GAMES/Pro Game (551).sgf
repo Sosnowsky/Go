@@ -1,0 +1,35 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 10]KM[6.5]DT[2003-02-13]PB[Cho U]BR[7p]PW[Mizokami Tomochika]WR[7p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dp];B[cd];W[pp];B[oc];W[ed];B[ec]
+;W[dd];B[dc];W[ce];B[fc];W[fd];B[gd];W[cc];B[bd];W[cb];B[bc];W[gc];B[hc];W[bb]
+;B[be];W[gb];B[fb];W[hb];B[db];W[cf]LB[ic:a]C[W26 was usually played as the atari move at 'a', nowadays it is seldom seen.];B[hd];W[ic];B[bf];W[ef];B[hf]LB[id:a]C[B31 is a novel play, the usual play is at 'a'.]
+
+(;W[lc]LB[id:a][ie:b][kd:c][je:d][mc:e][cg:f][dg:g][ch:h][ea:i][da:j][fa:k][ba:l][gf:m]C[W32 is questionable, White should play at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l' and W 'm' (see var a).];B[cg]
+;W[dg];B[ch];W[di];B[fe];W[ee];B[df];W[de]LB[eh:a]C[W40: White can also consider to make the diagonal's extension at 'a'.];B[eg]C[B41 is an intense tesuji.];W[ff];B[id];W[jc]
+;B[dh];W[eh];B[fg];W[gg];B[fh];W[gf];B[ei]C[Through 51, Black has clearly gained.];W[gh];B[ke];W[fi];B[eh];W[fj];B[dk]
+;W[jh];B[ga]C[B59: Black takes advantage with sente and makes White uncomfortable.];W[ia];B[md];W[mc];B[nd];W[pj];B[nb];W[mb];B[nq];W[qn];B[kq];W[qf]LB[qg:a][ld:b]C[W70: For White to extend at 'a' would be more steady, in the game White aims to push and cut at 'b'.]
+;B[kb];W[jb];B[fq]
+(;W[cn]LB[pd:a][pe:b][qe:c][qc:d][pf:e][cq:f][dq:g][cp:h][do:i][co:j][dn:k][dm:l]C[W74 at 'a' would be better, followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 74 and W 'l' (see var a).];B[dq]
+;W[cq];B[cr]C[B75 and B77 are good moves.];W[eq];B[dr];W[ep];B[er];W[fp];B[cp];W[bq]LB[gq:a][fr:b][pd:c]C[W84: It would be better for White to atari at 'a', if Black connects at 'b', then White can tenuki and attach at 'c'.]
+;B[bp];W[br];B[bs];W[co];B[ar];W[el]C[Through 90, Black obtains sente, White is dissatisfied.];B[pi]C[B91 is severe.];W[pd]C[W92 is the game-deciding move.];B[pe];W[pf]
+(;B[qi]LB[qj:a][qh:b][qc:c][qe:d][oe:e][od:f][rd:g][re:h][se:i][rf:j][rg:k][pc:l][sf:m][rb:n]TR[pd]C[If B95 at 'a', then W 'b', B 95, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 92 and W 'n', it is easily seen that the position of B 'a' is not ideal (see var a).]
+;W[qj];B[oi];W[qc];B[qe];W[oe];B[od];W[rd];B[re];W[se];B[rf];W[rg];B[pc];W[sf]
+;B[pd];W[og]LB[ld:a][ri:b]C[W110: White still aims to push and cut at 'a', crossing over at 'b' is common sense.];B[rh];W[qh];B[rj];W[sh];B[ri]
+(;W[mf]LB[rb:a][qb:b][rc:c][ng:d][nf:e][mg:f][lf:g][pb:h][ld:i][jd:j][lg:k]C[W116 is a mistake, White should play at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 116, B 'g', W 'h', B 'i', W 'j' and B 'k', this variation would be better for White (see var a).];B[rc];W[ld]
+;B[nf];W[ng];B[me]LB[le:a][mg:b]C[B121 is ingenuous, if W 'a', then B 'b', White is no good.];W[sc];B[sd];W[ea];B[da];W[rd];B[rb];W[ni];B[nj]
+;W[mi];B[mg];W[lf];B[le]C[Through 133, White has clearly failed.];W[fa];B[eb];W[fa];B[ba];W[ql];B[oj];W[np];B[oq];W[rk]
+;B[sd];W[sg];B[lg];W[mh];B[mj];W[ki];B[pl];W[pm];B[kj];W[jj];B[kk];W[jk];B[km]
+;W[kp];B[lp];W[lo];B[ko]
+(;W[jp]LB[kn:a][jn:b][ln:c][lm:d][mo:e][mm:f][jl:g][nl:h][im:i][in:j][hn:k]C[W160: If W 'a', then B 160, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', White is no good (see var a).];B[mo];W[ln]
+;B[mp];W[kn];B[kf]C[B165: Black takes in sente and is very happy.]
+(;W[of]LB[pg:a][si:b][qg:c][nh:d][oh:e][ph:f]C[W166: If White tenukis, then B 166, W 'a', B 'b', W 'c', B 'd', W 'e' and B 'f', White is no good (see var a).];B[om];W[on];B[rm];W[qm];B[mn];W[lm]
+;B[mm]C[After B173, White already has no chance of winning.];W[ll];B[qq];W[ol];B[ml];W[rq];B[kl];W[jn];B[jq];W[ip];B[qp];W[rp];B[qr]
+;W[gq];B[ro])
+(;W[mn]C[If White tenukis and plays here...];B[of];W[pg];B[si];W[qg];B[nh];W[oh];B[ph]C[Black is no good.]))
+(;W[kn]C[If White ataris here ...];B[jp];W[jn];B[ln];W[lm];B[mo];W[mm];B[jl];W[nl];B[im];W[in];B[hn]C[White is no good.]
+))
+(;W[rb]C[White should play here.];B[qb];W[rc];B[ng];W[nf];B[mg];W[mf];B[lf];W[pb];B[ld];W[jd];B[lg]))
+(;B[qj];W[qh];B[qi];W[qc];B[qe];W[oe];B[od];W[rd];B[re];W[se];B[rf];W[rg];B[pc]
+;W[sf];B[pd];W[rb]))
+(;W[pd]C[White can also play here.];B[pe];W[qe];B[qc];W[pf];B[cq];W[dq];B[cp];W[do];B[co];W[dn];B[cn]C[This would be better for White.]
+;W[dm]))
+(;W[id]C[White should play here.];B[ie];W[kd];B[je];W[mc];B[cg];W[dg];B[ch];W[ea];B[da];W[fa];B[ba]C[This is the normal sequence.]
+)) 

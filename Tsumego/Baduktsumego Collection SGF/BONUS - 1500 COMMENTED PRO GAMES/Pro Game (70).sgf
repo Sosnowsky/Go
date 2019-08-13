@@ -1,0 +1,42 @@
+(;SZ[19]EV[4th Chunlan Cup final game 1]DT[2003-03-16]KM[7.5]C[Copyright by gogameworld.com and weiqi.tom.com.]BR[9p]WR[9p]PB[Hane Naoki]PW[Lee Changho]RE[W+R]PC[Seoul, Korea];B[qd]C[Hane Naoki 9p of Japan is Black.];W[dp]C[Lee Changho 9p of Korea is White.];B[dc];W[ce];B[dh]LB[pq:a]C[B5 at 'a' will form the usual "Shusaku Opening".]
+;W[od];B[oe]LB[cd:a]C[B7: For Black to make the diagonal extension at 'a' can also make it a game.];W[ne]LB[qc:a]C[W8: White can also consider to attach at 'a'.];B[pe];W[nd];B[pc];W[gd];B[de]LB[ed:a][eg:b]C[B13: If Black makes the diagonal extension at 'a', then W 'b'.]
+
+(;W[dd]LB[df:a][ee:b][cd:c][cc:d][ef:e][fe:f]C[W14: If White hanes at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', this variation favors Black (see var a).];B[ed];W[cd];B[cc]
+(;W[bc]LB[ee:a][fe:b][df:c][fd:d]C[W18: If White ataris at 'a', then B 'b', W 'c' and B 'd', White will suffer a big loss (see var a).];B[fc];W[dg];B[df];W[cf];B[eg];W[cg];B[eh];W[bb]
+;B[jd];W[ci];B[jf];W[ng]LB[nf:a][mf:b][mg:c]C[W30 is the vital point, otherwise if B 'a', W 'b' and the double hane of B 'c', White is no good.];B[pg]LB[pp:a][ph:b]C[B31: If Black takes the empty corner at 'a', then W 'b'.];W[pp];B[qn]
+;W[nq];B[oi];W[ni]LB[mi:a][mf:b][nf:c][mh:d]C[W36: if White makes the knight's move at 'a', then B 'b', W 'c' and B 'd', White's shape is defective.];B[oj];W[gc]C[W38 is straightforward, the fight over here is very crucial.];B[fe];W[ge];B[gf];W[hf]
+;B[gg];W[fb]
+(;B[hg]LB[eb:a][hh:b][ff:c]C[B45: If Black blocks at 'a', then W 45, B 'b' and White can cut at 'c', this would be bad for Black (see var a).];W[eb];B[ec]LB[mf:a][nf:b][lj:c]C[B47 seems slow, Black can consider to attack the upper right white group, for example, B 'a', W 'b' and B 'c'.];W[jc]C[W48 is a top-notch unexpectedly strong move. After this move, it is time for noon break.]
+(;B[kd]LB[kc:a][lc:b][ld:c][ic:d][jb:e][ib:f][je:g][id:h][ie:i][li:j]C[B49: If Black hanes at 'a', then W 49, B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', White would connect his two groups together, Black is clearly bad (see var a); In addition, if Black hanes at 'd', then W 'f', B 'a', W 'e', B 49 and W 'j', Black is no good either (see var b).]
+(;W[kc]LB[ic:a][li:b][mk:c][kj:d][kl:e]C[W50: If White draws back at 'a', then B 50, W 'b', B 'c', W 'd' and B 'e', Black is favorable (see var a).]
+(;B[ic]LB[lc:a][lb:b][mb:c][mc:d][ld:e][nb:f][kb:g][ma:h][jb:i][ib:j][ka:k][id:l][db:m]C[B51: If Black hanes at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 51, W 'i', B 'j', W 'k', B 'l' and W 'm', White can fight (see var a).];W[lc]LB[ib:a][lb:b][mb:c]C[W52: If White hanes at 'a', then B 52, W 'b' and the double hane of B 'c' would be effective.]
+;B[hb];W[ib]C[W54 is a good move, which is hard to find.]
+(;B[hc]LB[id:a][ja:b][ob:c]C[B55: If Black connects at 'a', then B 'b', B 55, W 'c', White can be satisfied (see var a).];W[gb]
+(;B[ha]LB[jb:a][ia:b][id:c][ja:d][ie:e][ld:f][mc:g]C[B57: If Black ataris at 'a', then W 'b', B 57, W 'c', B 'd', W 'e', B 'f' and W 'g', Black will get captured (see var a).];W[db];B[nb];W[ld]C[B59 is the mutual good point.]
+(;B[if]LB[kf:a][li:b][mk:c][kj:d][kl:e][ig:f][he:g]C[B61: If Black doubles up at 'a', then after W 'b', B 'c', W 'd', B 'e', W 'f', B 61 and W 'g', Black can not look after the upper and lower groups at the same time (see var a).];W[rp]C[W62 is the good point for both sides.];B[li];W[mi];B[mf];W[nf]
+;B[mj];W[nj];B[nk];W[ke];B[id];W[mb];B[nc];W[lh];B[lj];W[kh]LB[kf:a][lf:b][lg:c][le:d][kg:e][mg:f][la:g][mc:h][me:i][oc:j][ob:k][na:l][pa:m][jb:n][ia:o][ja:p]C[Through 76, White is basically alive, for instance, B 'a', W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p' (see var a).]
+
+(;B[on];W[rn];B[rm];W[qo];B[pn];W[fq]LB[sm:a][nl:b][mk:c][rl:d]C[W82: White is reluctant to hane and connect at 'a', aiming to reserve the option of W 'b', B 'c' and W 'd', so far White is leading in territory.];B[cq];W[cp];B[dq]
+;W[eq];B[bp];W[bo];B[br];W[ap]LB[cn:a]C[W90: White is not willing to give way, making the tiger's move at 'a' is steady.];B[aq];W[bq];B[kf];W[lf];B[bp];W[pd];B[qb]LB[lg:a][le:b][kg:c][mg:d][la:e][jb:f][ia:g][ka:h][ja:i][lb:j]C[After B97, Black is left with the maneuver of ko-killing White with sequence of B 'a' to W 'j' (see var a).]
+
+(;W[bq];B[lg];W[le];B[bp];W[qe]LB[qf:a][re:b][rd:c][ph:d][oh:e][pf:f]C[W102 is a good move, if Black ataris at 'a', then W 'b', B 'c, W 'd', B 'e' and W 'f', Black would get killed (see var a).]
+(;B[og];W[rd];B[qc];W[qf];B[rc];W[bq];B[kg];W[mg];B[bp];W[qh];B[ok]
+(;W[ma]LB[qg:a][pi:b][rj:c][re:d][rf:e][sd:f][rl:g][la:h]C[W114: White is calm, if White connects at 'a' normally, then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White has no assurance of success (see var a).];B[ao];W[ri];B[re];W[rf];B[sd]
+;W[rk]C[Through 120, Black's territory on the right has been wrecked, the territorial difference between both sides turns bigger.];B[qj];W[rj];B[sn];W[ro];B[hq];W[lq]C[W126 is kind of play to ask for "concede defeat".];B[kp];W[hp];B[ip];W[ho];B[kq]
+;W[hr];B[iq];W[eo]LB[an:a]C[W134: White prepares to atari at 'a'.];B[bn];W[gq]C[After W136, Black already has no any chance to turn the game around. Lee Changho leads by 1:0, the game 2 will take place on 3/18.])
+(;W[qg];B[pi];W[rj];B[re];W[rf];B[sd];W[rl];B[la]C[White has no certainty of winning this way.]))
+(;B[qf];W[re];B[rd];W[ph];B[oh];W[pf]C[Black would get killed.]))
+(;W[bq];B[lg];W[le];B[kg];W[mg];B[la];W[jb];B[ia];W[ka];B[ja];W[lb]C[Black has the maneuver of killing White by winning this ko.]))
+(;B[kf];W[lf];B[lg];W[le];B[kg];W[mg];B[la];W[mc];B[me];W[oc];B[ob];W[na];B[pa]
+;W[jb];B[ia];W[ja]C[White is basically alive.]))
+(;B[kf];W[li];B[mk];W[kj];B[kl];W[ig];B[if];W[he]C[Black can not take care of his two groups at the same time.]))
+(;B[jb];W[ia];B[ha];W[id];B[ja];W[ie];B[ld];W[mc]C[Black would get killed.]))
+(;B[id];W[ja];B[hc];W[ob]C[White can be satisfied.]))
+(;B[lc];W[lb];B[mb];W[mc];B[ld];W[nb];B[kb];W[ma];B[ic];W[jb];B[ib];W[ka];B[id]
+;W[db]C[White can fight.]))
+(;W[ic];B[kc];W[li];B[mk];W[kj];B[kl]C[This would be good for Black.]))
+(;B[kc];W[kd];B[lc];W[ld];B[ic];W[jb];B[ib];W[je];B[id];W[ie]C[White would have linked his groups together.])
+(;B[ic];W[ib];B[kc];W[jb];B[kd];W[li]C[This would also favor White.]))
+(;B[eb];W[hg];B[hh];W[ff]C[This would be bad for Black.]))
+(;W[ee];B[fe];W[df];B[fd]C[This way White's loss would be very big.]))
+(;W[df];B[ee];W[cd];B[cc];W[ef];B[fe]C[This would be favorable for Black.])) 

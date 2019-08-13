@@ -1,0 +1,33 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 12]KM[6.5]DT[2003-02-27]PB[Rin Kaiho]BR[9p]PW[O Meien]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dd];B[fc];W[hd];B[fe];W[df];B[cc]
+;W[dc];B[db];W[eb];B[cb];W[fb];B[ce];W[de];B[gc];W[hc];B[gb];W[ec];B[be];W[ge]C[The variation up to 20 once appeared in professional games, it is generally regarded that White is favored.]
+;B[hb]C[B21 is a novel play after some research.];W[ff]LB[jc:a]C[If W22 at 'a', then B 22, White would be no good.];B[jc];W[lc];B[kc];W[ld];B[je];W[od];B[jg]LB[fd:a][gf:b]C[B29 is a wrong sequence play, Black should first connect at 'a', after W 'b', then B 29.]
+;W[qc];B[fd];W[gg];B[hf];W[hg]
+(;B[ef]LB[gf:a][if:b][fg:c][dg:d][eg:e][ee:f][cf:g][dh:h][bf:i][bh:j]C[B35: Black can also consider to cut at 'a', followed by W 'b', B 35, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', Black should be favorable in the capturing race.];W[eg];B[gf];W[fg]
+;B[if]C[As for the result up to 39, Black is a little dissatisfied.];W[cp];B[pp];W[eq]
+(;B[dk]LB[dl:a][bf:b][cf:c][cg:d][bg:e][bh:f][af:g][ci:h][eo:i]C[B43 at 'a' seems more light and nimble, followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i' (see var a).];W[bf];B[cf];W[cg];B[dh]
+;W[ch];B[ei];W[dg];B[cn];W[eo];B[en];W[fn];B[em]
+(;W[go]LB[nq:a][fo:b][gp:c][ep:d][fp:e][do:f][dp:g]C[W56 seems slow-paced, White should approach the corner at 'a', if Black cuts at 'b', then W 'c', B 'd', W 'e', B 'f' and W 'g', White would be favorable (see var a).];B[kq]C[B57 is a good point for both sides.];W[qn];B[nq];W[pd]LB[rd:a]C[W60: White can also consider to hane at 'a'.]
+;B[qe];W[qg]LB[rc:a][qj:b][ph:c][qo:d]C[If W62 at 'a', then B 'b', making a miai of the knight's reinforcing at 'c' and the diagonal's extension 'd', Black would definitely get one, White is no good.];B[rc];W[qb];B[rb];W[rf];B[pg];W[pf];B[qf]
+;W[pe];B[rg];W[qh];B[re];W[rh];B[sf];W[mp];B[mq];W[ae];B[bg]LB[bd:a][bh:b]C[If B79 at 'a', then later on W 'b' becomes sente, Black can not be satisfied.];W[cd]
+;B[bd];W[bc];B[af];W[bb];B[ac];W[ba];B[bi]C[Through 87, an exchange results, the outcome of the game is still not clear.];W[rp];B[pk];W[oh];B[qq];W[ql]C[W92 is a good move according to the current situation.]
+;B[pm]LB[qk:a][pl:b]C[B93: If Black blocks at 'a', then W 'b', Black is no good.]
+(;W[qm]LB[pl:a][rm:b][pn:c][qo:d][ol:e][qk:f][po:g][rl:h]C[W94: If White pushes at 'a', then B 94, W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', afterwards Black is still left with the cut at 'h', Black can fight.];B[bo]LB[hq:a]C[B95: The two-space extension at 'a' is also a very big move.];W[jq]C[W96 is a good move.];B[jp]
+;W[iq];B[kp];W[pl];B[nk];W[ol];B[hp]C[B103 is the game-deciding play.];W[ip];B[ho];W[io];B[hn];W[gr];B[ci];W[fm]
+;B[hl];W[el];B[dl];W[co];B[bn];W[bp];B[rq]
+(;W[ok]LB[im:a][in:b][jn:c][hm:d][ll:e]C[W118 is questionable, White should peep at 'a', then B 'b', W 'c', B 'd' and W 'e' (see var a).];B[mg]C[The sequence after B119 is very tight.];W[mh];B[lh];W[mi];B[li];W[ng];B[mj]
+;W[lg];B[ll]C[Through 127, Black surprising has a chance to enclose some territory in the center.];W[oj];B[lb];W[mb];B[kb];W[sh]LB[ii:a]C[W132 is no better than a play at 'a'.];B[ob]C[The endgame play after B133 is very clever.];W[nb];B[qa];W[pc]
+;B[le];W[kd];B[jd];W[ke];B[kf];W[me];B[gp];W[fr];B[ap];W[aq];B[ao];W[cq];B[jr]
+;W[ir];B[mc];W[md];B[ro]C[B153 is worth 8 points in gote.];W[qo];B[qp];W[rn];B[sp];W[nj];B[mk];W[ii];B[kr]C[B161 is worth 6 points more in gote.]
+;W[pa];B[ra];W[bh];B[ah];W[oc];B[lf];W[mf];B[jm]C[B169 is a thick play.]
+(;W[oo]LB[no:a][on:b][po:c][nm:d]C[W170 is no better than a move at 'a', followed by B 'b', W 170, B 'c' and W 'd' (see var a).];B[po];W[on];B[pn];W[om];B[fp];W[fo];B[gk]C[After B177, Black's advantage becomes clear.];W[op]
+;B[oq];W[kg];B[jf];W[kj];B[oa];W[pb];B[kh];W[hj];B[ik];W[ij];B[jk];W[ki];B[gi]
+;W[ih];B[fl];W[fj];B[gj];W[fi];B[ej];W[eh];B[do];W[dp];B[dn];W[ep];B[np];W[di]
+;B[dj];W[in];B[mn];W[kn];B[jn];W[hm];B[gm];W[im];B[gn];W[km];B[jo];W[mm];B[lm]
+;W[lj];B[mg];W[kl];B[ln];W[jl];B[il];W[kk];B[no];W[ml];B[lk];W[ko];B[lo];W[ab]
+;B[ee])
+(;W[no]C[White should play here.];B[on];W[oo];B[po];W[nm]))
+(;W[im]C[White should peep here.];B[in];W[jn];B[hm];W[ll]))
+(;W[pl]C[If White pushes here, ...];B[qm];W[rm];B[pn];W[qo];B[ol];W[qk];B[po]LB[rl:a]C[White is still left with the cut at 'a' and White is no good.]))
+(;W[nq]C[White should approach the corner here.];B[fo]C[If Black cuts, ...];W[gp];B[ep];W[fp];B[do];W[dp]C[This would be better for White.]))
+(;B[dl]C[Black may think to play here.];W[bf];B[cf];W[cg];B[bg];W[bh];B[af];W[ci];B[eo]C[This would be better for Black.]))
+(;B[gf]C[Black can also play here.];W[if];B[ef];W[fg];B[dg];W[eg];B[ee];W[cf];B[dh];W[bf];B[bh]C[Black would win in the capturing race.])) 

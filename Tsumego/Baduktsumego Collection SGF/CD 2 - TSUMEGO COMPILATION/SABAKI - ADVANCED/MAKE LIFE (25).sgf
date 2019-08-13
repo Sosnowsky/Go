@@ -1,0 +1,65 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cb][cc][ch][ck][dd][df][dg][ec][ee]
+AW[bc][cd][ce][cf][de]PL[W]C[White to play.
+
+Make life - Expand Territotary
+
+Source: Igo Hatsuyo-ron.]
+(
+;W[bb]
+(
+;B[ba]
+;W[bg]
+(
+;B[ab]
+;W[be]
+(
+;B[ac]
+;W[bh]
+;B[bi]
+;W[af]
+;B[ah]
+;W[bd]
+;B[ca]
+;W[ad]C[RIGHT
+])
+(
+;B[af]
+;W[ad]C[RIGHT
+]))
+(
+;B[be]
+;W[bd]
+;B[af]
+;W[bh]
+;B[bi]
+;W[ab]
+(
+;B[ad]
+;W[ah]C[RIGHT
+Both Alive])
+(
+;B[ah]
+;W[ad]C[RIGHT
+])))
+(
+;B[bg]
+;W[ad]
+;B[ba]
+;W[ab]C[RIGHT
+]))
+(
+;W[bg]
+;B[bb]
+;W[bh]
+;B[bi]
+(
+;W[ac]
+;B[be]
+;W[ae]
+;B[af]
+;W[bd]
+;B[ad]C[Ko Fight])
+(
+;W[ad]
+;B[be]C[White Death])))

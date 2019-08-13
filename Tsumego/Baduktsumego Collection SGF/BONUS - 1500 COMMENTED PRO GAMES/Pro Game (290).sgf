@@ -1,0 +1,34 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 26]DT[2003-06-05]KM[6.5]PB[Rin Kaiho]BR[9p]PW[Ryu Shikun]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+1.5];B[qd]C[Before this game, the overall record between them is Ryu Shikun 16 wins and 8 losses.];W[dd];B[fc];W[od];B[mc];W[qc]
+;B[cf];W[ee];B[cc];W[pd];B[qe];W[pf];B[rc];W[pb];B[qb];W[pc];B[rb];W[ld]LB[lc:a]C[W8 is a both offensive and defensive move, if Black crawls at 'a', then Black at the top would be in a lower position and have no possibility of making a big territory, Black can't be satisfied.]
+;B[jd];W[lc];B[cd];W[cp];B[oq];W[eq];B[qp];W[eg]LB[gd:a][fd:b]C[W26: If White simply makes the knight's move at 'a', then Black would push and cut at 'b', White is no good.];B[dh];W[gd];B[fd]
+;W[fe];B[eb];W[hc];B[jb];W[he];B[jf];W[jh];B[gf];W[hf];B[gc]
+(;W[gh]LB[gb:a][ge:b][hd:c][gg:d][hg:e][hh:f][gi:g][lh:h][dm:i]C[W40: If White plays at 'a', then B 'b', W 'c', B 'd', W 'e', B40, W 'f', B 'g', W 'h' and B 'i', it leads to an exchange and White is a little dissatisfied.];B[id];W[hd];B[hb]C[After Black crossover with B43, Black has gained some territory.]
+;W[cj]LB[cg:a]C[W44 is a tightly forcing move, aiming at the crosscut at 'a', which is the deserved compensation for White.];B[ip]LB[jp:a][hp:b]C[If B45 at 'a', then W 'b', Black is a little dissatisfied.];W[kp];B[in];W[kn];B[dk]C[B49 is a good move.];W[dj];B[fk];W[ho]C[White is trying to separate Black with the sequence after W52.]
+;B[io];W[gl];B[fi];W[bl];B[fh];W[fg];B[il]
+(;W[gk]LB[ik:a][jl:b][hk:c][di:d][ll:e]C[W60 is questionable, White should play at 'a', then B 'b', W 'c', B 'd' and W 'e' (see var a).];B[hj]C[B61 is an excellent point.];W[gj];B[gi];W[hh];B[hi]C[Through 65, Black has connected as a whole, Black is taking the lead.];W[fj]
+;B[fp];W[fq];B[gq];W[gr];B[gp];W[hr];B[ji];W[kh];B[ej]LB[ei:a][ek:b][fm:c][eh:d][di:e][ck:f][bj:g][bk:h][ak:i][dm:j][bm:k][en:l]C[B75 is a good move, if White counters at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', making a miai of 'k' and 'l', Black will get one for sure, White is no good (see var a).]
+
+(;W[fl];B[ek];W[dm];B[ck];W[hm]LB[el:a][em:b][fm:c]C[With W80, White guards against Black's tactic of a cut with B 'a', W 'b' and B 'c'.];B[lo]C[With the sequence after B81, both sides are not willing to give way.];W[im];B[ko];W[bk]
+;B[kl];W[jm];B[mm];W[jq];B[iq];W[ir];B[rg]C[Through 91, because there is still some aji left in White's lower left corner, so Black is still favorable for the game.];W[np]C[W92 is a play of desperate fight in order to have a chance to win.];B[lp];W[nq];B[op];W[no]
+;B[kq];W[jr];B[ln];W[km];B[jp];W[oo];B[qn];W[om];B[ll]C[After B105, White is still in an inferior situation.];W[qm];B[pn];W[pm];B[or]
+;W[rn]C[The moves after W110 have the implication of obtaining sente.];B[ro];W[pp];B[po];W[on];B[pq];W[kb]C[W116: White gets to play this big endgame, just from territory's viewpoint, White is not falling behind.];B[di];W[bi];B[ci];W[bj];B[dn]LB[cm:a][em:b][el:c][eo:d][dl:e][co:f][bo:g][dp:h][cq:i][dq:j]C[B121 is sharp, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White's territory would get ruined (see var a)]
+
+(;W[el]
+(;B[eo]LB[dp:a][ep:b][co:c][dq:d][fn:e][en:f][fo:g][gn:h][em:i][cm:j]C[B123 is slow, Black should play at 'a', then W 'b', B 'c', W 'd', B 'e', W123, B 'f', W 'g', B 'h', White is clearly no good (see var a); Moreover, if W123 at 'g', then B 'i', making a miai of 'j' and 'h', White is no good either (see var b).];W[bn]C[After W124, the difference between both sides has been narrowed down.];B[mf]C[B125 is a good move.]
+;W[ic];B[jc];W[ib];B[ia];W[gb];B[ha];W[mh];B[md];W[le];B[me];W[mb];B[lf];W[nc]
+;B[ph];W[oi];B[pi];W[oj];B[pj];W[pk];B[oh];W[nh];B[kf];W[nk];B[rj]C[Through 149, Black clearly has gained some profit.];W[bh];B[cg]
+;W[lj];B[rl];W[rm];B[mk];W[mj];B[cm];W[cl];B[cn];W[bm];B[bg]C[After B161, White already has no chance of winning.];W[qk];B[rk];W[qj]
+;B[qi];W[qg];B[rh];W[nr];B[pe];W[rq];B[rp];W[of];B[oe];W[ng];B[lr];W[qf];B[rf]
+;W[dc];B[db];W[dl];B[ei];W[os];B[ps];W[ns];B[nf];W[og];B[nd];W[nb];B[ig];W[ih]
+;B[hg];W[gg];B[hn];W[qr];B[pr];W[qq];B[sr];W[sq];B[sp];W[qs];B[pp];W[fn];B[dp]
+;W[dq];B[gn];W[en];B[fo];W[co];B[do];W[gm];B[ql];W[pl];B[nl];W[sl];B[sk];W[ii]
+;B[de];W[ed];B[df];W[lk];B[ml];W[jk];B[ah];W[ai];B[ag];W[ka];B[ja];W[ec];B[fb]
+;W[hq];B[hp];W[jn];B[jl];W[ik];B[jo];W[sm];B[rs];W[qa];B[ra];W[pa];B[kk];W[kj]
+;B[ij];W[jj];B[ef];W[ff];B[lg];W[lh];B[ks];W[js];B[if];W[ie];B[je];W[ge];B[qh]
+;W[kc];B[rr])
+(;B[dp];W[ep];B[co];W[dq];B[fn];W[eo];B[en];W[fo];B[gn];W[em];B[cm])
+(;B[dp];W[ep];B[co];W[dq];B[fn];W[fo];B[em]))
+(;W[cm]C[If White plays here, ...];B[em];W[el];B[eo];W[dl];B[co];W[bo];B[dp];W[cq];B[dq]C[White is no good.]))
+(;W[ei]C[If White ataris here, ...];B[ek];W[fm];B[eh];W[di];B[ck];W[bj];B[bk];W[ak];B[dm]C[White is no good.]))
+(;W[ik];B[jl];W[hk];B[di];W[ll]C[White should play this way.]))
+(;W[gb]C[If White blocks the connection here, ...];B[ge];W[hd];B[gg];W[hg];B[gh];W[hh];B[gi];W[lg];B[dm]C[The exchange would be a little favorable for Black.])) 

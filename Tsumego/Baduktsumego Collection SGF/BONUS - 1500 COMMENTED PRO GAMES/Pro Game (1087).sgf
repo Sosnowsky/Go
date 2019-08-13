@@ -1,0 +1,24 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 16]KM[6.5]DT[2003-03-20]PB[O Meien]BR[9p]PW[Mizokami Tomochika]WR[7p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+2.5];B[pd];W[dd];B[oq];W[fp]LB[pn:a]C[W4 has the implication of preventing Black from making the large-knight's corner enclosure at 'a', which is O Meien's common play while taking Black.];B[qp]
+;W[co];B[qj];W[di];B[fc];W[nc];B[cc];W[cd];B[dc];W[ed];B[ec];W[qf];B[pf]LB[nd:a]C[B17: For Black to press at 'a is usual, the play in the game puts more emphasis on the right side.]
+;W[pg];B[of];W[qc];B[qd]C[B21: Black carries out his strategy of attacking White on the right.];W[pc];B[od]
+(;W[mb]LB[rc:a][rd:b][oj:c][oc:d][ob:e][sc:f][qk:g][pl:h][qi:i]C[W24: White can also consider to stand at 'a', if B 'b', then W 'c', B 'd', W 'e', B 'f', W 'g' (see var a); Moreover, when W 'c', if B 'h', then W 'i' (see var b).];B[kp];W[ok]LB[rp:a][qo:b][oi:c][mi:d][qq:e]C[W26: White can first probe Black at 'a', if B 'b', then W 'c', B 26 and W 'd', later on White would be still left with the tactic of making life by the hane move at 'e', White can fight.]
+;B[pi];W[qk];B[rk];W[ql];B[rl];W[oi];B[oh];W[pj];B[qi];W[ni];B[nh];W[mi]C[As for the result up to 38, Black can be satisfied.];B[fi]
+;W[fj];B[dq]LB[gj:a][ej:b][fq:c]C[B41 is good timing, if Black first exchanges B 'a' for W 'b', then B 41, White may stand at 'c' to kill Black violently.]
+(;W[eo]LB[dp:a][eq:b][fq:c][ep:d][fr:e][gr:f][er:g][fo:h][bp:i]C[If W42 at 'a', then B 'b', W 'c', B 'd' W 42, B 'e', W 'f', B 'g', W 'h' and B 'i', Black can live easily (see var a).];B[gj];W[ej];B[fr];W[gq]
+;B[gr];W[iq];B[bq];W[gi];B[qm];W[rd];B[re];W[rc];B[rf];W[hi]LB[cp:a]C[W56: White perhaps should first peep at 'a'.];B[bo]C[With the sequence after B57, Black takes advantage in sente and makes White uncomfortable.]
+;W[cp];B[bp];W[bn];B[bm];W[an];B[cn];W[cm];B[dn];W[bl];B[cq];W[do];B[jo];W[hn]LB[fd:a][dm:b][cl:c][go:d]C[If W70 at 'a', then B 'b', W 'c' and B 'd', White would be difficult to answer.]
+;B[fd];W[fe];B[ge];W[ff];B[bd];W[be];B[bc];W[cf];B[dm];W[am];B[cl];W[ck];B[jm]
+;W[nn];B[pl];W[kn];B[jn];W[nq]C[The moves after W88 are the game-deciding plays.];B[np];W[mp];B[mo]C[B89 and B91 are good moves.];W[op];B[no];W[pq];B[or]
+;W[pp];B[qq];W[pr];B[nr];W[mq];B[mr];W[qo];B[ro];W[rp]LB[rn:a]C[W104 at 'a' would be better.];B[qn];W[po];B[rq]
+;W[pk];B[sp];W[on];B[bm];W[dl];B[hl];W[fm];B[mn];W[ol];B[ml];W[kj];B[gf];W[gg]
+;B[hg];W[gh];B[pm];W[nm];B[ll];W[jk];B[ji]C[B127 is a good move.];W[ki];B[jh];W[ij];B[jc]C[After B131, Black is favorable.];W[id]
+;B[jd];W[if];B[hd];W[je];B[ic];W[il];B[lg];W[jg];B[kh];W[ih];B[hf];W[ig];B[hq]
+;W[hp];B[hr];W[ip];B[im];W[hm];B[jl];W[ik];B[ir];W[kb];B[jb];W[jq];B[kr];W[qr]
+;B[lc];W[lb];B[fq];W[gp];B[nd];W[lf];B[mf];W[le];B[oc];W[ob];B[mc];W[nb];B[me]
+;W[rr];B[ie];W[sr];B[sq];W[os];B[lq];W[mm];B[lm];W[jr];B[js];W[kl];B[km];W[kk]
+;B[nl];W[om];B[mh];W[ps];B[ns];W[kd];B[kc];W[kg];B[io];W[ho];B[ao];W[cm];B[ae]
+;W[af];B[ad];W[nk];B[ld];W[ke];B[ka];W[la];B[ja];W[se];B[sf];W[sd];B[lh];W[li]
+;B[lk];W[mj];B[ep];W[dp];B[eq];W[jp];B[lp])
+(;W[dp]C[If Black presses here, ...];B[eq];W[fq];B[ep];W[eo];B[fr];W[gr];B[er];W[fo];B[bp]C[Black could easily make life this way.]))
+(;W[rc]C[White can also play here.];B[rd];W[oj];B[oc];W[ob];B[sc];W[qk]C[This is also possible.])
+(;W[rc]C[Furthermore, ];B[rd];W[oj];B[pl]C[If Black makes the small knight's move, ...];W[qi]C[White could attach here.])) 

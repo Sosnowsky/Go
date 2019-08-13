@@ -1,0 +1,21 @@
+(;SZ[19]EV[CJK 6th Nong Shim Cup Ring Contest game 8]DT[2004-11-27]PC[Korea]KM[6.5]C[Copyright by gogameworld.com and weiqi.tom.com.]BR[9p]WR[9p]PB[Choi Cheolhan]PW[Cho Chikun]RE[W+R];B[qd];W[dd];B[pq];W[po];B[oo];W[qq]
+;B[pp];W[qp];B[on];W[qn];B[or];W[dq];B[qr];W[qk];B[qi];W[co];B[ip];W[nc]
+(;B[ro]LB[pc:a][kc:b][fq:c][rl:d][rk:e][qm:f][pm:g][pn:h][rm:i][qo:j][ql:k]C[B19 is a hasty move, Black should play at 'a', next W 'b' and B 'c'. Furthermore, Black also can reserve the possibility of playing at 'd', if W 'e', then B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B19.];W[qo];B[rl]LB[rk:a][ql:b][pl:c][qm:d][pm:e][rn:f][sl:g][rm:h][pn:i][pk:j][pj:k][ok:l][qj:m][rp:n]C[B21 is miscalculation, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm' and B 'n', White will be captured, but this is just Black's wishful thinking (see var a).]
+
+(;W[rr]LB[rs:a][rk:b][ql:c][pl:d][qm:e][pm:f][rn:g][sl:h][rm:i][rp:j][pn:k][so:l]C[W22 is a good move, Black overlooks this move, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black will be killed (see var a).]
+(;B[rn]LB[ql:a][qs:b][pr:c]C[If B23 at 'a', then W 'b', B 'c' and W23, Black can't be satisfied.];W[qs];B[pr];W[qm];B[rm]LB[ql:a][pl:b][sl:c][rk:d]C[B27: Black also can only play at 'a', followed by W27, B 'b', W 'c' and B 'd'.];W[ql]
+;B[rp];W[rq];B[rj];W[rk];B[sk];W[oj];B[ol];W[qj];B[rh];W[nm];B[om];W[pi];B[ph]
+;W[oh];B[pg];W[og];B[ni];W[oi];B[pe];W[ne]C[Through W48, Black plays so many moves on the second line, Black's loss is obvious.];B[mk];W[li];B[md];W[nd];B[jd];W[hc]
+;B[lf];W[mg];B[he];W[fc];B[lg];W[lh];B[jh];W[ir]C[W62 is unexpected, this is Cho Chikun's unique thinking.];B[jq];W[jr];B[kq];W[gq];B[cp]
+;W[dp];B[mf];W[nf];B[bo];W[bp];B[kj];W[nk];B[nl];W[lk];B[lj];W[mj];B[ml];W[ji]
+;B[ki];W[kh];B[kg];W[nh];B[ih];W[ho];B[cn];W[do];B[cj];W[ce];B[ap];W[bq];B[bm]C[Through B93, as for the result, White has nothing to complain.]
+;W[jk];B[kk];W[kl];B[ll];W[jj];B[lk];W[ch]C[After W100, White's advantage becomes clear.];B[jl];W[kr];B[il];W[lq];B[lp];W[mq]
+;B[mp];W[cl];B[bl];W[dn];B[cm];W[nq];B[np];W[ci];B[bj];W[fh];B[cc];W[dc];B[hp]
+;W[gp];B[be];W[bf];B[cf];W[bd];B[bg];W[ae];B[cg];W[ef];B[bh];W[qb];B[df];W[gf]
+;B[de];W[cb];B[ee];W[fe];B[eg];W[ge];B[mc];W[rc];B[rd];W[nb];B[ic];W[hd];B[mb]
+;W[io];B[jo];W[hi];B[fi];W[hh];B[eh];W[hk];B[hb];W[gb];B[in];W[je];B[ke];W[id]
+;B[jc];W[jf]C[Cho Chikun 9p wins the game, on 11/28 Luo Xihe 9p of China  will challenge Cho Chikun.])
+(;B[rs];W[rk];B[ql];W[pl];B[qm];W[pm];B[rn];W[sl];B[rm];W[rp];B[pn];W[so]))
+(;W[rk];B[ql];W[pl];B[qm];W[pm];B[rn];W[sl];B[rm];W[pn];B[pk];W[pj];B[ok];W[qj]
+;B[rp]))
+(;B[rl];W[rk];B[qm];W[pm];B[pn];W[rm];B[qo];W[ql];B[ro])) 

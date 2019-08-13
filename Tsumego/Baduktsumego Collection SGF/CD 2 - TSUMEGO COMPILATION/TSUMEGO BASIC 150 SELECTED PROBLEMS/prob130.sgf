@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[eq][fq][gq][br][cr][dr][gr][gs]AB[ep][fp][gp][hp][bq][cq][dq][hq][ar][hr][ds][hs]C[Black to play.]
+(;B[er]C[RIGHT])
+(;B[fr]
+;W[er])
+(;B[fs]
+;W[er]
+(;B[es]
+;W[bs]C[White lives in seki.])
+(;B[bs]
+;W[es]
+(;B[cs]
+;W[as])
+(;B[aq]
+;W[cs])
+(;B[as]
+;W[cs])))
+(;B[es]
+;W[er]
+(;B[fs]
+;W[bs]C[White lives in seki.])
+(;B[cs]
+;W[fs])
+(;B[bs]
+;W[fs]))
+(;B[cs]
+;W[es])
+(;B[bs]
+;W[es]))

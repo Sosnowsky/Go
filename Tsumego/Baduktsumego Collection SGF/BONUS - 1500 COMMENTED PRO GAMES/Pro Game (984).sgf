@@ -1,0 +1,30 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 35]KM[6.5]DT[2005-08-04]PB[Yoda Norimoto]BR[9p]PW[Yamada Kimio]WR[8p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+R];B[qd];W[dc];B[dq];W[co];B[dk];W[cm];B[fp]
+;W[bq];B[jq];W[qq];B[ce];W[fd];B[oc];W[qi];B[np];W[pn];B[dn];W[dm];B[cp];W[bp]
+;B[cn]LB[bn:a][do:b][bo:c]C[After B21, if W 'a', then B 'b' and W 'c', White stays in a low position and can't tolerate.];W[do];B[bn];W[en]LB[eo:a][ep:b][fo:c][eq:d][fq:e][er:f][bm:g][fr:h][gr:i][bo:j][cl:k]C[After W24, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', it forms a situation of White's territory vs. Black's outside thickness (see var a).]
+
+(;B[bm];W[ep];B[eq];W[cl];B[bl];W[ck]LB[bo:a][fm:b][br:c][bk:d][fo:e][eo:f][cq:g][cd:h]C[After W30, to cut at 'a' is general thinking, next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h' (see var a).]
+
+(;B[em]C[B31 seems a little unreasonable.];W[bo];B[cj];W[bk];B[bj];W[el];B[fm];W[dl];B[ej];W[fl];B[fo];W[fn];B[gm]
+;W[gn];B[ak];W[gq]C[W46 is a good move.];B[hp];W[ho]LB[gp:a][hl:b][eo:c][hm:d][cr:e][al:f][am:g][ao:h][aj:i][br:j][dp:k][bs:l]C[After W48, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black can't be satisfied (see var a).]
+
+(;B[gl];W[gp];B[fq];W[ip];B[eo];W[gr];B[cr];W[br];B[dp];W[bs];B[ds];W[cs];B[fr]
+;W[fk];B[hj];W[es];B[go]LB[er:a][dr:b][pj:c][cq:d][qj:e]C[B65 is questionable, Black should play at 'a', next W 'b', B 'c', W 'd' and B 'e', this result is better than the real game.];W[hn];B[hq];W[al];B[am]
+;W[ao];B[aj];W[gk]C[After W72, White takes the initiative.];B[im];W[hk];B[hm];W[iq];B[hr];W[ir];B[gs];W[jn];B[jm];W[kn]
+;B[ij];W[gi]LB[gj:a][fj:b][fi:c][ik:d][jk:e][ei:f][fh:g][jj:h][hh:i][jl:j][kk:k][kl:l][il:m][km:n]C[After W84, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black will be captured (see var a).]
+
+(;B[in];W[io];B[jo];W[jp];B[ko];W[kq];B[lo];W[mq];B[lm];W[ik];B[nq];W[mr];B[jj]
+;W[kl];B[km];W[jk];B[kj];W[di];B[dj];W[fi];B[dg];W[mp]LB[ff:a]C[W106 is a slow move, White should play at 'a'.];B[om];W[pm];B[fe]
+;W[an];B[al];W[ll];B[ml];W[ol];B[nl];W[on];B[mm];W[lj];B[ok];W[pl];B[lk];W[kk]
+;B[mk];W[li];B[ig];W[gf];B[ge];W[hf];B[ff];W[hh];B[jf];W[je];B[kf];W[he];B[gd]
+;W[ni];B[pi];W[oj]LB[nj:a][ph:b][nk:c][pk:d][mf:e][ke:f][of:g]C[W138 is questionable, White should play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', Black is not good. Moreover when W 'a', if Black plays at 'c' instead, then W 'b', Black is also not good.];B[pk];W[pj];B[qk];W[ke]
+;B[lf];W[qj];B[ql];W[rn];B[rj];W[ri];B[sk];W[le];B[mf];W[qe];B[pe];W[qf];B[rd]
+;W[pf];B[oe];W[ic];B[gb];W[cd];B[be];W[bd];B[eb];W[de];B[df];W[db];B[of];W[og]
+;B[ng]LB[kc:a]C[B169: Black misses a good chance, Black should play at 'a'.];W[si]C[W170 is a good move.];B[rg];W[ph];B[oh];W[oi];B[pg];W[mj];B[mo];W[qg];B[nn]
+;W[lb]C[W180: White grabs the vital point.];B[nr]LB[bb:a]C[Although B181 is not small, but in an unfavorable situation, Black should play at 'a' in order to have a chance to win.];W[oo];B[no];W[bg];B[cf]LB[ee:a][bf:b]C[B185 should be at 'a' or 'b'.];W[ei];B[ci]LB[ch:a]C[B187 should be at 'a'.]
+;W[ch];B[bh];W[dh];B[cg];W[ah];B[bi];W[eg];B[ee];W[dd];B[fg];W[fc];B[hd];W[id]
+;B[hb];W[eh];B[ef];W[fb])
+(;B[gj];W[fj];B[fi];W[ik];B[jk];W[ei];B[fh];W[jj];B[hh];W[jl];B[kk];W[kl];B[il]
+;W[km]))
+(;B[gp];W[hl];B[eo];W[hm];B[cr];W[al];B[am];W[ao];B[aj];W[br];B[dp];W[bs]))
+(;B[bo];W[fm];B[br];W[bk];B[fo];W[eo];B[cq];W[cd]))
+(;B[eo];W[ep];B[fo];W[eq];B[fq];W[er];B[bm];W[fr];B[gr];W[bo];B[cl])) 

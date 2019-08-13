@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[jc][rc][dd][hd][qd][rd][re][hf][qf][sf][hg][ig][kg][mg][qg][rg][jh][kh][qh][ni][qi][kj][nj][ik][jk][nk][ok][pl][om][pm][cn][pn][qn][oo][qo][so][dp][qp][rp][nq]AB[qb][qc][pd][je][le][me][pe][qe][if][jf][pf][jg][hh][ih][oh][ph][rh][ri][ij][oj][pj][rj][hk][pk][qk][hl][ql][nm][qm][sm][nn][on][rn][po][ro][jp][pp][fq][pq][qq][rq]C[W to play. W wants to defend his central group.]PL[W]
+(;W[jm]
+;B[lo]C[In the game W made B stronger in the lower side, lowering the aji in that area.])
+(;W[no]C[W should exploit this aji (several moves can work)]
+;B[mo]
+;W[mp]
+;B[lo]
+;W[lp]
+;B[ko]
+;W[or]
+;B[pr]
+(;W[lr])
+(;W[mr]
+;B[kr]
+;W[kq]
+;B[jq]
+;W[lr]
+;B[sq]
+;W[lm]
+;B[mn]
+;W[jm])))

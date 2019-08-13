@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bc][be][bh][cb][cc][ci][dd][dh][ec][ed][eh][fe][ff][gc]
+AW[bd][bf][cd][ce][cf][db][dc][de][dg][ee]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties
+
+Source: Xuan-Xuan-Qi-Jin.]
+(
+;W[ab]
+;B[ef]
+;W[ba]
+;B[da]
+;W[ac]
+;B[ca]
+;W[ae]
+;B[eb]
+;W[bb]C[RIGHT
+])
+(
+;W[ae]
+;B[ef]
+(
+;W[ab]
+;B[da]
+;W[ac]
+;B[eb])
+(
+;W[ac]
+;B[da]))
+(
+;W[ef]
+;B[ae]))

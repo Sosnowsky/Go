@@ -1,0 +1,35 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 15]KM[6.5]DT[2003-03-20]PB[Cho Chikun]BR[9p]PW[Cho U]WR[8p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dq];B[qk];W[nq];B[op]LB[po:a][kq:b]C[B7 is an active play and Black invites fight, the normal play is, Black jumps to 'a' and White would make the two-space extension at 'b'.]
+;W[np];B[no];W[mo];B[lp];W[mp];B[iq];W[oo];B[po];W[nn];B[pn]C[Through 17, it is a rare opening.];W[gq];B[io]LB[lq:a]C[B19: For Black to stand at 'a' seems a little passive.]
+;W[lq];B[kq];W[kp];B[jp];W[lo];B[co];W[ck];B[fp];W[do]LB[fq:a]C[W28 seems unreasonable, blocking at 'a' is the proper move.];B[dn];W[eo];B[cp]
+;W[cq];B[fq];W[en];B[dm];W[bm];B[bn];W[eq];B[dk];W[dj];B[ek]LB[fr:a]C[B41: Black should stand at 'a'.];W[dl]LB[fr:a][cj:b]C[W42 is a clever move, if White directly bridges over at 'a', then Black would cut at 'b', White is no good.]
+;B[el];W[cl];B[em];W[fr]C[As for the result up to 46, White can be satisfied.];B[dh];W[ej];B[fj];W[ei];B[df];W[fi];B[gj];W[gi];B[cd]
+;W[cc];B[ce];W[hj];B[gl];W[dc];B[ci];W[cj];B[gc];W[fe];B[jc];W[hn];B[hk]
+(;W[eg]LB[cg:a][ee:b][fd:c][bi:d]C[If W68 at 'a', then B 'b', W 'c' and B 'd', White is no good (see var a).];B[bi];W[in];B[ij];W[hi];B[jr]LB[hr:a][gr:b]C[B73 is a mistake, Black certainly should first make the diagonal's extension at 'a', after Black connects at 'b', then Black plays 73.];W[hr]
+;B[qf];W[pc];B[oc];W[ob]
+(;B[pb]LB[qc:a][nc:b][rc:c][qd:d][qb:e]C[B79 is the proper move, if Black plays at 'a', then W 79, B 'b', W 'c', B 'd' and W 'e', because White in the center is thick, Black could not fully utilize his outside thickness. (see var a)];W[qc];B[qb];W[od];B[nc];W[qd];B[pe];W[nb]
+;B[rb];W[mc];B[nd];W[kc];B[jd];W[jb];B[ib];W[lb];B[ja];W[kb]C[Through 96, both sides have some gains.];B[ge]
+(;W[de]LB[bd:a][be:b][bc:c][dg:d][bg:e][bf:f][gf:g][he:h]C[W98 is questionable, Black should hane at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h' (see var a).];B[bc];W[bb];B[bd]C[B99 and B101 are good moves.];W[dg]
+;B[cf];W[cg];B[bg];W[bf];B[bh]LB[ef:a]C[After B107, Black is still left with the push at 'a', White can not be satisfied.];W[jf];B[fb]C[B109 is a steady and good move.];W[ef];B[lr]C[B111 is a long-waited move.];W[mr];B[fn]
+;W[he]C[The attack after W114 is not good timing and it is too early.];B[hd];W[gf];B[jn];W[jm];B[hp];W[kn];B[jo];W[gd];B[id];W[hc];B[hb];W[fc]
+;B[ic]C[Through 127, Black has lived in both the upper group and the lower group, White has failed in the attack.];W[qp]C[W128 is the game-deciding move.];B[qq];W[qm];B[rn]LB[rp:a][qj:b]C[If B131 at 'a', then W 'b'.];W[rm]
+(;B[pm]LB[pk:a][qn:b][qo:c][ro:d][rp:e][sn:f][rk:g][pp:h][ol:i][ne:j][ld:k][nj:l]C[B133 is questionable, Black should play at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 133, B 'h', W 'i', B 'j', W 'k' and B 'l', this would be favorable for Black (see var a).];W[qn]
+;B[qo];W[rk];B[rj];W[ql];B[sk];W[go];B[ir];W[sl];B[rl];W[ls];B[kr];W[rk];B[bq]
+;W[br];B[bp];W[sj]C[Through 150, Black has clearly incurred some losses, White now takes the lead.];B[ri];W[ro];B[rp];W[sn];B[or];W[eb];B[fa];W[ab];B[af];W[sp]
+;B[rq];W[rh]C[W162 is an intense tesuji.];B[qh];W[rg];B[qg];W[qi]C[W166 is a good sequence play.];B[qj];W[qe];B[oe];W[rf];B[rc];W[re]
+;B[ld]
+(;W[pa]LB[pi:a][md:b][pk:c][rd:d][og:e][pf:f][lf:g][kd:h][ik:i]C[W174 is no good and White should choose a simple play at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', making the miai of the push at 'h' and the cut at 'i', White would be favorable (see var a).];B[md];W[rd];B[qa];W[oa]
+;B[ma];W[mb];B[sa];W[sc];B[sd];W[se];B[sh];W[sg];B[si];W[pi];B[oj];W[pf]C[After W190, it leads to a chaotic fight.];B[pg]
+;W[of];B[og];W[nf];B[ng];W[mf];B[mg];W[lf];B[kd];W[oi];B[ok];W[ni];B[lg];W[kg]
+;B[li];W[lj];B[mi];W[mj];B[nj];W[pl];B[ol];W[om];B[mk];W[nl];B[nk];W[kk];B[sk]
+;W[ki];B[rl];W[ne];B[od];W[rk]
+(;B[lh]LB[kj:a][jj:b][rl:c][mh:d][ml:e][nm:f][fk:g][sm:h][gk:i]C[B223 is the losing move, Black should play at 'a', followed by W 'b', B 'c', W 223, B 'd', W 222, B 'e', W 'f', B 'c', W 'g', B 'h', W 'i' and B 142, Black wound win the game for sure (see var a).];W[sj];B[nh];W[ml];B[pj]
+;W[lk];B[sk];W[fk];B[rl];W[gk];B[sm];W[on];B[kh];W[jh];B[ji];W[kj];B[cr];W[cs]
+;B[gn];W[hm];B[ho];W[gp])
+(;B[kj]C[Black should play this way.];W[jj];B[rl];W[lh];B[mh];W[rk];B[ml];W[nm];B[rl];W[fk];B[sm];W[gk];B[sl]C[Black would win the game for sure.]
+))
+(;W[pi];B[md];W[pk];B[rd];W[og];B[pf];W[lf]))
+(;B[pk]C[Black should double up here.];W[qn];B[qo];W[ro];B[rp];W[sn];B[rk];W[pm];B[pp];W[ol];B[ne];W[ld];B[nj]C[This would be good for Black.]
+))
+(;W[bd]C[White should play here.];B[be];W[bc];B[dg];W[bg];B[bf];W[gf];B[he]))
+(;B[qc];W[pb];B[nc];W[rc];B[qd];W[qb]))
+(;W[cg]C[If White strikes here, ...];B[ee];W[fd];B[bi]C[This would be no good for White.])) 

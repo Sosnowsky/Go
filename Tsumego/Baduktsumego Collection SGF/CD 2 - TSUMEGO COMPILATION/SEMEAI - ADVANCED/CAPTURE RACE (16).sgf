@@ -1,0 +1,59 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bc][bd][be][cf][cg][dc][de][ec][ee]
+AW[cb][cc][cd][ce][df][ef][fe][ff][gc][hb]PL[W]C[White to play.
+
+Capture race - Reduce Opponent's Liberties
+
+Source: Gokyo Shumyo.]
+(
+;W[da]
+(
+;B[ea]
+(
+;W[ed]
+;B[db]
+;W[dd]
+;B[ca]C[RIGHT
+])
+(
+;W[eb]
+;B[dd]
+(
+;W[db]
+;B[fb]
+;W[fa]
+;B[ga])
+(
+;W[fa]
+;B[db]
+;W[ca]
+;B[fb])))
+(
+;B[db]
+;W[ea]))
+(
+;W[fa]
+;B[db]
+;W[da]
+;B[ea]
+;W[eb]
+;B[dd]
+;W[ca]
+;B[fb]C[Ko Fight])
+(
+;W[ea]
+;B[fa]
+(
+;W[da]
+;B[fb]C[White Death])
+(
+;W[eb]
+;B[db])
+(
+;W[fb]
+;B[da]))
+(
+;W[ed]
+;B[dd]
+;W[da]
+;B[db]))

@@ -1,0 +1,26 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 8]KM[6.5]DT[2005-01-20]PB[Yamashita Keigo]BR[9p]PW[O Meien]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dd];B[pq];W[dp];B[fc];W[id];B[oc]
+;W[fd];B[po];W[ec];B[cj];W[jq]LB[qj:a]C[W12: For White to split at 'a' is rather common.];B[cn];W[fp];B[qj];W[ch];B[cp];W[cq];B[bq]
+;W[co];B[bp];W[dn]LB[do:a][bo:b][cr:c][dl:d]C[W22: White normally will play at 'a', next B 'b', W 'c' and B22 or B 'd'.];B[bo];W[cm];B[do];W[eo];B[gd]LB[co:a][dm:b][dq:c]C[B27: Black seeks variation, the common move is to connect at 'a', next W 'b' and B 'c'.]
+
+(;W[fe]LB[co:a][bn:b][ed:c][ee:d][dc:e][ef:f][de:g][fg:h][gf:i][ff:j][dg:k]TR[fd]C[W28: White can also consider to take at 'a', followed by B28, W 'b', B 'c', W 'd', B marked, W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k' (see var a).];B[eb]
+;W[db];B[dq];W[co];B[cc];W[fb];B[do]
+(;W[bn]LB[eq:a][ep:b][en:c][dl:d]TR[dp]C[W36: For White to play at 'a' is better, next B 'b', W 'c', B marked and W 'd' (see var a).];B[ep];W[co];B[dp];W[fo]C[Through W40, each side gains some profit.];B[dl];W[cl];B[cf]LB[cg:a][bg:b][dh:c][dg:d][bh:e][ej:f][fl:g][df:h][ce:i][gj:j]C[B43: Black can also consider to attach at 'a', next W 'b', B 'c', W43, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j'.]
+;W[cg];B[df];W[eh]C[Through W46, we can see the improperness of B43.];B[cd];W[cb];B[ff];W[gh];B[fg];W[fh];B[hf];W[ge]LB[gb:a][gc:b][hc:c]C[After W54, Black loses the tactic of B 'a', W 'b' and B 'c'.]
+;B[hg];W[ii];B[je];W[jd];B[le];W[ki]C[Through W60, White forms a big moyo in the center, White is successful in the fight.];B[jh];W[ji];B[jn]C[The reduction point of B63 is very cunning.];W[ln];B[ko];W[lq]
+;B[lo];W[hm]LB[gm:a]C[W68 guards against Black's invasion at 'a'.];B[jl];W[im];B[mn];W[mm];B[kk];W[jf]C[W74 is a good move.];B[ie];W[ke];B[kf]
+;W[kd];B[lf];W[eg];B[ef];W[ih]LB[hk:a][lh:b]C[W82 seems to prevent B 'a', but White also loses the tactic of playing at 'b'.];B[jg];W[oo]C[W84 is a clever move.];B[pn];W[on];B[nm]
+;W[om];B[nl];W[pp]LB[qp:a][op:b][qq:c][oq:d]C[After W90, if B 'a', then W 'b', B 'c' and W 'd', Black is not good.];B[op];W[qp];B[qq];W[qo]LB[ro:a][pm:b][ol:c][pl:d][ok:e][np:f]C[If W94 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is not good.]
+;B[qn];W[rn];B[qm];W[oq];B[np];W[rq]C[W98 and W100 is good order.];B[rr]LB[or:a][rm:b][ql:c][mp:d]C[If B101 at 'a', then W 'b', B 'c' and W101, later on White is still left with the tactic at 'd', Black is not good.];W[rp];B[rm]
+;W[or];B[pr]LB[qr:a][so:b]C[B105 is a good move, if B 'a', then W 'b', Black is not good.];W[ps];B[qr];W[mq]LB[sr:a][nr:b][mi:c]C[If W108 at 'a', then after Black wraps tightly at 'b' in sente, B 'c', White's territory is inadequate.];B[sr]LB[mo:a][so:b][sq:c][mi:d][mc:e][nc:f][md:g][ne:h]C[B109 is a mistake, Black certainly should connect at 'a', next W 'b', B 'c', W109, B 'd', W 'e', B 'f', W 'g' and B 'h', Black is in a winning situation.]
+;W[mo];B[mp];W[nn];B[lp];W[jm];B[km]
+(;W[ml]LB[kn:a][jp:b][io:c][jo:d][lj:e][nj:f][li:g][pk:h][qk:i][pj:j][pi:k][oi:l]C[W116: White misses a good winning chance, White certainly should cut at 'a', followed by B 'b', W 'c', B 'd', W116, B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', and W 'l', this way White is favorable (see var a).];B[kn]
+;W[nj];B[lj]LB[pj:a]C[B119: For Black to play at 'a' is simple and clear.];W[ql];B[rl];W[qk];B[rk];W[pj];B[pi];W[qi];B[rj];W[oi];B[ph]
+;W[pl];B[mc];W[qc];B[rd];W[ng];B[ok];W[oh]LB[oj:a][pg:b][nf:c]C[W136 is a bad move, now White can only connect at 'a', next B 'b' and W 'c', fighting desperately with Black.];B[pg];W[ne];B[oj]LB[pk:a][ik:b][hk:c][ni:d][nk:e][mi:f]C[After B139, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White will be captured.]
+;W[nk];B[pk];W[ld];B[md];W[me];B[mh];W[od];B[mg];W[pc];B[pd];W[ol];B[pj];W[nc]
+;B[nd];W[oe];B[ob];W[mb];B[nb];W[lc];B[nc];W[mi];B[li];W[og];B[rc];W[kh];B[mf]
+;W[lh];B[ni])
+(;W[kn];B[jp];W[io];B[jo];W[ml];B[lj];W[nj];B[li];W[pk];B[qk];W[pj];B[pi];W[oi]
+))
+(;W[eq];B[ep];W[en];B[dp];W[dl]))
+(;W[co];B[fe];W[bn];B[ed];W[ee];B[fd];W[dc];B[ef];W[de];B[fg];W[gf];B[ff];W[dg]
+)) 

@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]RU[Japanese]SZ[19]KM[0.00]TM[]PW[White]PB[Black]AW[ap][bp][bq][cq][dq][eq][er][as][ds]AB[ao][bo][cp][dp][ep][fp][fq][br][fr][es][fs]C[Black to play.]
+(;B[cr];W[dr]
+;B[ar]C[RIGHT])
+(;B[cs]
+;W[cr]C[Ko.])
+(;B[bs];W[cr])
+(;B[ar];W[cr]
+(;B[bs]
+;W[cs]C[White lives in seki.])
+(;B[cs];W[bs];B[cs];W[bs]))
+(;B[dr];W[cr]))

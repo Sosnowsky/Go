@@ -1,0 +1,73 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bf][cf][ch][dc][dg][ec][eh][fd][fe][gg]
+AW[cc][cd][ce][cg][ed][ee][ef]PL[W]C[White to play.
+
+Make life - Sacrifice Stones
+
+Source: Igo Hatsuyo-ron.]
+;W[fc]
+;B[gc]
+;W[fb]
+;B[gb]
+;W[db]
+;B[eb]
+(
+;W[da]
+(
+;B[ea]
+;W[dd]
+;B[fa]
+(
+;W[ba]
+(
+;B[ab]
+;W[bb]
+;B[ac]
+;W[df]
+;B[cb]
+;W[bc]
+;B[ca]
+;W[bd]
+;B[ad]
+(
+;W[aa]C[RIGHT
+])
+(
+;W[ae]
+;B[af]
+;W[aa]C[RIGHT
+]))
+(
+;B[df]
+;W[ab]C[RIGHT
+])
+(
+;B[cb]
+;W[bb]
+;B[bd]
+;W[bc]C[RIGHT
+]))
+(
+;W[bb]
+;B[ba]
+;W[df]
+;B[cb]
+;W[bd]
+;B[ac]C[White Death]))
+(
+;B[fa]
+;W[bb]C[White Alive]))
+(
+;W[bb]
+;B[da]
+(
+;W[ca]C[Ko Fight])
+(
+;W[bd]
+;B[ba]
+;W[cb]
+;B[ca]
+;W[dd]
+;B[fa]
+;W[df]
+;B[ac]C[White Death])))

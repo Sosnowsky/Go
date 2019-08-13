@@ -1,0 +1,73 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ae][be][bg][cb][cc][cf][df][eb][ee][fc][fe]
+AW[ad][bd][ce][db][dc][dd][de]PL[W]C[White to play.
+
+Make life - Secure Eye Shape
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ba]
+(
+;B[ca]
+;W[da]
+;B[bb]
+(
+;W[cd]
+;B[aa]
+(
+;W[ac]
+;B[ea]
+;W[ab]
+;B[ec]
+;W[ba]C[RIGHT
+Ko Fight])
+(
+;W[ab]
+;B[ac]
+;W[bc]
+;B[ea]
+;W[ab]C[RIGHT
+Ko Fight]))
+(
+;W[ab]
+;B[aa]
+;W[bc]
+;B[ac]
+;W[cd]
+;B[ea]
+;W[ab]C[RIGHT
+Ko Fight]))
+(
+;B[bb]
+;W[ca]
+;B[ab]
+;W[cd]
+;B[bc]C[RIGHT
+Both Alive])
+(
+;B[cd]
+;W[ab]
+(
+;B[da]
+;W[ca]C[RIGHT
+])
+(
+;B[bc]
+;W[ac]C[RIGHT
+])))
+(
+;W[ca]
+;B[ba]
+;W[da]
+;B[bc]C[White Death])
+(
+;W[bb]
+;B[da]
+(
+;W[ba]
+;B[ca]
+;W[bc]
+;B[ab])
+(
+;W[bc]
+;B[ba])))

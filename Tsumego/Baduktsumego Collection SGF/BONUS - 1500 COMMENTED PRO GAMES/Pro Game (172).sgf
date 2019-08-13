@@ -1,0 +1,43 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 20]DT[2003-04-17]KM[6.5]PB[Cho Chikun]BR[9p]PW[Yamashita Keigo]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[dq];W[co];B[pp];W[od];B[cf]
+;W[ep];B[eq];W[fp];B[gq];W[ch];B[dd];W[ed];B[cc]
+(;W[ee]LB[cb:a][cd:b][eb:c][fd:d]C[W16 is a novel play, the common move is to hane at 'a', followed by B 'b', W 'c', B 16 and W 'd' (see var a).];B[ec];W[db];B[cb]
+(;W[fc]LB[de:a][cd:b][eb:c][fb:d][da:e][eh:f]C[W20: For White to atari at 'a' is usual, then B 'b', W20, B 'c', W 'd', B 'e' and W 'f' (see var a).]
+(;B[de]LB[eb:a][df:b][ef:c][cg:d][dh:e]C[If B21 at 'a', then W 'b', B21, W 'c', B 'd' and W 'e', White would get outside thickness (see var a).];W[eb];B[ef];W[ff];B[eg];W[fg];B[eh];W[ck]
+
+(;B[mc]LB[lc:a][jc:b][jd:c][ic:d][oc:e][nc:f][ob:g][nd:h][nb:i][pf:j]C[B29: Black can also consider to play at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i' (see var a); Moreover when B 'a', if W 'j', then B 'd', Black can also fight.];W[ob];B[pf];W[ne]
+;B[jc]LB[kd:a]C[B33: Black can also make the knight's move at 'a'.];W[ld];B[lc];W[kd];B[ib];W[jd];B[id];W[hc];B[ic];W[ie];B[nb];W[qh]
+;B[rg];W[qn];B[np];W[re]C[W48 is a surprisingly strong move.]
+(;B[qe]LB[rh:a][pe:b][pd:c][qi:d][rp:e][qc:f][nc:g][na:h][oa:i][mb:j][qb:k][rb:l][pc:m][qa:n][rc:o][pb:p][rd:q][oc:r]C[B49: If Black extends at 'a', then W49, B 'b', W 'e', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p', W 'q', B 'k' and W 'r', Black's corner would be killed (see var a).]
+;W[qg];B[rf];W[rh];B[nc];W[oc];B[qb];W[rp];B[qq];W[pl]C[As for the result up to 58, White can be satisfied.];B[cp];W[bo];B[kp];W[iq]
+;B[gp];W[kq];B[lq];W[lr];B[kr];W[jq];B[mr];W[lp];B[mq];W[ko];B[og];W[mg];B[pk]
+;W[qk];B[qj];W[ql];B[cm];W[dl];B[bi]C[The conception of B79 and B81 is very ingenious.]
+(;W[bq]LB[ci:a][bj:b][bk:c][dm:d][em:e][en:f][dn:g][el:h][fm:i][dk:j][cl:k][cj:l][ek:m][dj:n][fl:o][bp:p]C[If W82 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', W 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o' and B 'p', obviously White would suffer losses (see var a).]
+
+(;B[dm]LB[bp:a][ap:b][do:c][dp:d][cq:e][dn:f][br:g][fn:h][ci:i]C[B83: Black should push at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', Black can be satisfied (see var a).];W[em];B[bk]
+(;W[fq]LB[en:a][cj:b][fr:c][gr:d][hr:e][er:f][gs:g][dr:h]C[W86: White has miscalculated, White should first extend at 'a', then B 'b', W86, B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', White would be favorable.];B[fr];W[gr];B[hr]
+(;W[bl]LB[er:a][gs:b][dr:c][en:d][fm:e][fn:f][gm:g][dp:h]C[If W90 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'f' and B 'h', White would collapse (see var a).];B[do];W[en];B[dp];W[dn]C[Through 94, White has clearly suffered some losses.]
+;B[cj];W[cl];B[go];W[eo];B[cr];W[dj];B[bh];W[bp];B[br];W[ln]C[W104 is a calm move.];B[oi];W[nh];B[oh]
+;W[rj];B[hd];W[hb];B[ge];W[fe];B[kg]LB[mj:a]C[B113 is unreasonable, the knight's move at 'a' is the proper play.];W[qf];B[oe];W[nd];B[rd];W[ig]C[The attack after W118 is very severe.]
+;B[ki];W[mj];B[kk];W[rb]C[W122 is a tesuji.];B[qa];W[qc];B[rc];W[pb]
+(;B[pc]LB[kc:a][pa:b][pd:c][pe:d][qc:e]C[If B127 at 'a', then W 'b', B127, W 'c', B 'd' and W 'e', it would lead to a ko (see var a).];W[nf]LB[na:a][ma:b][ia:c][ja:d][kb:e][kc:f][lb:g]C[W128 is solid, if White directly hanes at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', Black's big dragon is not alive.]
+;B[md];W[lf];B[kf];W[je];B[mi];W[ni];B[nj];W[nk];B[oj];W[lj];B[me]LB[kj:a][kc:b][kb:c][ma:d][of:e]C[If B139 at 'a', then after W 'b', B 'c' and W139, the strike-kill at ''d' and the cut at 'e' would become miai, White would be sure to get one.]
+;W[le];B[kc];W[ng];B[mm]C[B143: Black puts the last resistance.];W[kj];B[jj];W[jk];B[kl];W[ij];B[ji];W[mk];B[ik];W[jl]
+;B[jm];W[il];B[lm];W[im];B[in];W[jn];B[km];W[hn];B[io];W[ho];B[hm];W[hk];B[hp]
+;W[mn]C[White's calculation after W166 is accurate.];B[nm];W[nn];B[ol]
+(;W[om]LB[on:a][pm:b][ok:c][li:d][nl:e][oo:f][pe:g][gn:h][ip:i][jp:j][ii:k][gm:l][gi:m][fh:n]C[After W170, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black would have no way of making life in the center. 
+So far the overall record between these two players is 8:1 in favor of Yamashita Keigo.]
+)
+(;W[om];B[on];W[pm];B[ok];W[li];B[nl];W[oo];B[pe];W[gn];B[ip];W[jp];B[ii];W[gm]
+;B[gi];W[fh]C[Black in the center can not make life]))
+(;B[kc];W[pa];B[pc];W[pd];B[pe];B[qc]))
+(;W[er]C[If White ataris here, ...];B[gs];W[dr];B[en];W[fm];B[fn];W[gm];B[dp]C[White would collapse.]))
+(;W[en]C[White should first play here.];B[cj];W[fq];B[fr];W[gr];B[hr];W[er];B[gs];W[dr]))
+(;B[bp]C[Black should push here.];W[ap];B[do];W[dp];B[cq];W[dn];B[br];W[fn];B[ci]))
+(;W[ci];B[bj];W[bk];B[dm];W[em];B[en];W[dn];B[el];W[fm];B[dk];W[cl];B[cj];W[ek]
+;B[dj];W[fl];B[bp]C[White would have clearly suffered losses.]))
+(;B[rh]C[If Black crawls here, ...];W[qe];B[pe];W[pd];B[qi];W[rp];B[qc];W[nc];B[na];W[oa];B[mb];W[qb];B[rb]
+;W[pc];B[qa];W[rc];B[pb];W[rd];B[qb];W[oc]C[Black's corner would get killed]))
+(;B[lc]C[Black can also play here.];W[jc];B[jd];W[ic];B[oc];W[nc];B[ob];W[nd];B[nb]))
+(;B[eb]C[If Black answers here, ...];W[df];B[de];W[ef];B[cg];W[dh]C[White's outside would be very thick.]))
+(;W[de]C[White will play here usually.];B[cd];W[fc];B[eb];W[fb];B[da];W[eh]C[This would be common.]))
+(;W[cb]C[White can also play here.];B[cd];W[eb];B[ee];W[fd]C[This would be a common variation.])) 

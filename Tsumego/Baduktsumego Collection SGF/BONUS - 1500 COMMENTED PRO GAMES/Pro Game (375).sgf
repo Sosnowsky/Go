@@ -1,0 +1,28 @@
+(;SZ[19]EV[Japan 32nd Meijin Title league game 2]DT[2006-12-07]KM[6.5]PC[Japan]PB[Yoda Norimoto]BR[9p]PW[Yamada Kimio]WR[9p]RE[W+1.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[qk];W[mq]
+;B[jq];W[pp];B[qp];W[qq];B[qo]LB[oq:a][pr:b][qr:c][or:d][po:e][rr:f][qn:g][rq:h][pm:i][np:j][nq:k][op:l][pn:m][ok:n][nr:o][oo:p][om:q]C[After B11, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', White is not good (see var a); Moreover if W 'i' at 'm', then B 'n', White is not comfortable; And if W 'c' at 'h', then B 'd', W 'e', B 'g', W 'o', B 'l', W 'k', B 'p', W 'm' and B 'q', White will be captured (see var b).]
+
+(;W[pr];B[oq];W[or];B[nq];W[nr];B[rq];W[qr];B[oo];W[fq]LB[mp:a][no:b][op:c]C[W20 should be at 'a', after B 'b', then W20. Moreover, when W 'a', if Black plays at 20, then W 'c', this result is better than real game.];B[mp]
+;W[lp];B[lq];W[mr];B[mo];W[lo];B[ln]LB[lr:a][mn:b][op:c][rr:d][gp:e]C[B27 appears to be vital point, but in fact it is not. For Black to play at 'a' is just the right move, if W 'b', then B 'c', W 'd' and B 'e', this way Black will be favorable.];W[ko]C[W28 is good move.];B[lr]
+;W[mn];B[mm]LB[nn:a][no:b][on:c][po:d][rr:e][lm:f][sr:g][rp:h][sp:i]C[After B31, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f'. Later on Black is still left with ko-killing tactic by B 'g', W 'h' and B 'i', White is not good.];W[np];B[nn];W[op]
+;B[gq];W[ip];B[jp];W[gp];B[in];W[jm];B[jn];W[po];B[qm]C[Through B43, it forms an exchange, White is favorable. Now we can see the improperness of B27.];W[nc];B[lc];W[ld];B[kd]
+;W[md];B[ob];W[ke];B[jd];W[je];B[id];W[lb];B[kb];W[mc];B[pf]LB[ie:a][hd:b][fd:c][he:d][kc:e][jb:f][hf:g][gf:h][ge:i][if:j][hg:k][le:l][jg:m][lf:n][kg:o][ne:p]C[After B57, W 'a' is the vital point, next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o' and B 'p', White can fight.]
+;W[fd]C[W58 is questionable and the losing move if White loses the game.];B[ie]C[After B59, the roles of attack and defense are switched.];W[jg];B[if];W[mg];B[jf];W[kf];B[ne];W[kh];B[hh]C[After B67, Black takes initiative.];W[cj];B[be]
+;W[bd];B[cd];W[cc];B[ce];W[bc];B[ch];W[fg]C[W76: White hopes to mess up the situation.];B[de];W[ed];B[dj];W[dk];B[di]C[B79 and B81 are simple and clear strategy.]
+;W[cl];B[gc];W[gd];B[gf];W[ff];B[eb];W[fi];B[fj]LB[gb:a][db:b]C[B89 is wrong order. Black should first play at 'a', after W 'b', then B89.];W[gi];B[ek];W[hc]C[W92: White grabs the chance.]
+;B[gb];W[hd];B[hb];W[kc];B[jb];W[ic];B[jc];W[ib];B[ia];W[db]C[Through B102, Black is still not alive, White again has some hope.];B[ii];W[ij];B[ji]
+;W[hi];B[ih];W[lj];B[jj];W[kl]LB[kn:a][ik:b][jk:c][lk:d]C[After W110, if B 'a', then W 'b', B 'c' and W 'd', Black is dangerous.];B[km];W[ik]LB[li:a][ki:b][lk:c][mj:d][kk:e][pj:f]C[After W112, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black can't be satisfied.]
+;B[lk];W[ll];B[li];W[mj];B[ki];W[nh];B[ni]C[B119 is good move.];W[kn];B[mi];W[lm];B[mf]C[Through B123, it forms an exchange. As a glance, it seems Black is favorable, but White is still left with some tactic.];W[el]
+;B[fl]C[Following B125, Black wants to proceed safely.];W[fm];B[em];W[dl];B[gl];W[fn];B[hm];W[jo];B[bj];W[bk];B[bi];W[hq];B[bm]
+;W[qd]C[W138 is White's early-planned tactic.];B[oc]LB[pc:a][qf:b][qg:c][re:d][rf:e][qe:f][rg:g][qb:h][qc:i][rc:j][pb:k][rb:l][se:m][sd:n][sf:o]C[B139 is questionable. Black should play at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n' and B 'o', this way White's corner only has three points.
+]
+;W[qe];B[qf];W[rf];B[rg];W[pe];B[oe];W[re];B[qh];W[qb]C[Through W148, White's corner becomes 8 points, Black clearly incurs loss.];B[bl]LB[cp:a][co:b][bo:c]C[B149 is the losing move. Black should play at 'a', if W 'b', then B 'c', White is difficult to kill Black.]
+;W[cn];B[ak]LB[bn:a][eh:b]C[B151: At any rate Black should play at 'a', Black has the tactic at 'b'. so Black shouldn't worry the life-being of dragon on the left side.];W[bn]C[After W152, Black already has no chance to win.];B[cm];W[dm];B[ck];W[en];B[ml];W[kk];B[mk]
+;W[pn];B[pm];W[bk];B[pb];W[rc];B[kj];W[ck];B[mn];W[io];B[dg];W[rr];B[al];W[qn]
+;B[rn];W[om];B[on];W[rm];B[ro];W[rl];B[rk];W[sq];B[ql];W[rp];B[sl];W[so];B[sm]
+;W[ea];B[ec];W[dc];B[fc];W[hn];B[fa];W[im];B[da];W[ca];B[an];W[bo];B[aj];W[ae]
+;B[af];W[ad];B[bg];W[ao];B[gj];W[ha];B[ja];W[hj];B[gg];W[ef];B[eh];W[df];B[cf]
+;W[fh];B[jk];W[gm];B[hl];W[il];B[hk];W[ei];B[ej];W[eg];B[dh];W[he];B[hf];W[sg]
+;B[sh];W[sf];B[jl];W[km];B[qa];W[ra];B[pa];W[pc];B[qc];W[qg];B[pg];W[pc];B[od]
+;W[qc];B[ea];W[ee];B[ge];W[sp];B[sn];W[am];B[sr];W[ss];B[an];W[fe];B[am])
+(;W[oq];B[pr];W[qr];B[or];W[po];B[rr];W[qn];B[rq];W[pm];B[np];W[nq];B[op])
+(;W[oq];B[pr];W[rq];B[or];W[po];B[qn];W[nr];B[op];W[nq];B[oo];W[pn];B[om])) 

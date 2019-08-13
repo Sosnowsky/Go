@@ -1,0 +1,19 @@
+(;SZ[19]EV[Japan 31st Tengen Title final game 3]DT[2005-11-24]KM[6.5]PC[Japan]PB[Kono Rin]BR[7p]PW[Yamashita Keigo]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dp];B[fq];W[ip];B[dd];W[qp]
+;B[dn];W[en]C[The play of B7 and W8 is all rarely seen.];B[em];W[eo];B[cq];W[dm]LB[dq:a]C[W12: For White to play at 'a' is also one joseki.];B[cn];W[cp];B[dl];W[fm];B[el]
+;W[dq];B[br]LB[fl:a][gm:b][gl:c][hm:d][ik:e][bo:f][jd:g]C[B19: Black can also consider to play at 'a', next W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g'.];W[bq];B[cr];W[dr];B[bp];W[bo]
+;B[aq];W[fl];B[fk];W[gk]LB[gj:a][cm:b]C[After W28, if B 'a', then W 'b', Black is not good.];B[fj];W[hl];B[gj];W[hj];B[hi];W[ij];B[kq]LB[ii:a]C[If B35 at 'a', it will lead to a territory race, Black has no assurance of success.]
+;W[jq];B[kp]LB[jp:a][iq:b][op:c]C[B37: Black can also consider to play at 'a', next W 'b' and B 'c'.];W[mp];B[io];W[jp];B[jo];W[hp];B[ho];W[gp];B[lo]LB[mq:a]C[B45: Black can also attach at 'a' to dodge.]
+;W[mo];B[go]C[B47: Black is very happy with sente moves.];W[fp];B[lm];W[mn];B[kl];W[nl];B[lj];W[ii];B[hh];W[ih];B[hg];W[nj]
+;B[lh];W[jf]C[Through W60, the outcome of the game is unclear.];B[ni];W[oi];B[nh];W[ki];B[li];W[ie];B[ge]LB[df:a]C[B67: For Black to play at 'a' is the original move, but Black is a little reluctant.];W[cd]LB[ce:a][be:b][de:c][bd:d][bf:e][dc:f][ec:g][db:h][eb:i][bg:j][cf:k][bb:l]C[After W68, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is not good.]
+;B[cc];W[bc];B[ce];W[bd];B[dc];W[be];B[cf];W[bf];B[bb]LB[cg:a]C[B77: Black should play at 'a'.];W[ci]LB[bh:a][cg:b][bi:c][cj:d][bg:e][dg:f][ef:g][bj:h][ag:i][ch:j][ac:k][aj:l][ad:m][cm:n]C[W78 is a good move, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black is not good (see var a).]
+
+(;B[ch];W[cg];B[dg];W[bg];B[dh];W[bh];B[bj];W[bi]LB[ai:a][ah:b][ac:c][ck:d]C[After W86, if B 'a', then W 'b', B 'c' and W 'd', Black can't kill White.];B[ke]LB[fn:a]C[B87 is sharp, Black aims to cut at 'a'.]
+;W[ic];B[kc];W[kj];B[kk];W[kf];B[le];W[lf]LB[gn:a][qi:b][qk:c]C[W94: White should simply connect back at 'a', next B 'b' and W 'c', this way the outcome of the game is difficult to imagine.];B[me];W[mk];B[lk]
+;W[oh];B[og];W[pg];B[ig];W[jg];B[kh];W[jh];B[fn];W[gn];B[ik]C[B107: Black happily delivers the killing move.];W[kb];B[jb];W[jc]
+;B[lb];W[kd];B[lc];W[ib];B[ka];W[gd];B[hd];W[he];B[gc];W[fd];B[fc];W[hk];B[fo]
+;W[hc];B[gb];W[ng];B[mg];W[of];B[mf];W[ek];B[fh];W[ej];B[ei];W[cl];B[cm];W[dk]
+;B[dm];W[df];B[fe];W[di];B[ck];W[dj];B[co];W[fg];B[gf];W[ef];B[gh];W[qd];B[qe]
+;W[pe];B[qc];W[rd];B[pc];W[kr]LB[lr:a][lq:b][jr:c][jk:d][il:e][jl:f][im:g][jm:h][hm:i][kn:j][ln:k][ko:l][lp:m][jn:n]C[After W154, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black will be captured.]
+;B[lq];W[bl];B[bk];W[rc];B[oe];W[jn];B[ko];W[de];B[ee];W[id];B[ed]C[The final game 4 will take place on 12/15.])
+(;B[bh];W[cg];B[bi];W[cj];B[bg];W[dg];B[ef];W[bj];B[ag];W[ch];B[ac];W[aj];B[ad]
+;W[cm])) 

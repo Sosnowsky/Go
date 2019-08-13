@@ -1,0 +1,29 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 28]KM[6.5]DT[2005-06-09]PB[Imamura Toshiya]BR[9p]PW[Yoda Norimoto]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+5.5];B[qd]C[Before this match, Yoda Norimoto's record this year is 9 wins and 14 defeats, this is his worst record since he became 1p. Imamura Toshiya's record this year is 17 wins and 6 defeats.];W[dd];B[pq];W[oc];B[pc]C[B5 is rare, its purpose is to obtain sente.];W[od]
+;B[pf];W[kc]LB[qe:a]C[Through W8, although Black obtains sente, Black is left with the weak point at 'a'.];B[cp];W[po];B[oo];W[on];B[op];W[qh];B[qf];W[pn];B[qp];W[mn]
+;B[lp]C[Through B19, it goes back to a common opening.];W[pp];B[oq];W[fq];B[cf];W[fd];B[bd];W[iq];B[cc];W[ro];B[rp];W[ob]C[W30 is to tie up Black and prevent Black from invading White's moyo on the right side.]
+;B[ef];W[dm];B[ep];W[dr];B[fp]LB[hp:a][hq:b][en:c]C[B35: For Black to first play at 'a' is better, after W 'b', then B35, when B 'a', if White counterattacks at 35, then B 'c', White is not favorable.];W[gq];B[ck];W[dk];B[cl]LB[cm:a][dl:b][em:c][el:d][fm:e][gp:f][hp:g][gn:h][fl:i][ho:j][fj:k][di:l][eh:m][dh:n][hm:o][jo:p][jm:q]C[After B39, for White to block at 'a' is a powerful play, if B 'b', then W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', b 'n', W 'o', B 'p' and W 'q', White is favorable (see var a).]
+
+(;W[dl];B[cm];W[dj];B[cj];W[di];B[ci]C[Through B45, Black can be satisfied.];W[ff];B[fg];W[eg];B[dg];W[eh];B[gf];W[fe]
+;B[gg];W[hd];B[hi];W[hk];B[ji];W[gi]LB[qb:a][oh:b][nf:c]C[W58: White can also consider to play at 'a', 'b' or 'c'.];B[ie];W[id];B[gj];W[gh]LB[hj:a][hh:b][ih:c][ig:d][jg:e][jf:f][kg:g][if:h][pk:i][rk:j]C[After W62, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', Black has no assurance of success (see var a).]
+
+(;B[hh];W[hj];B[ij];W[ig];B[jg]
+(;W[hl]LB[if:a][jf:b][he:c][je:d][hf:e][jh:f][pj:g][hg:h][pb:i]C[W68 is questionable, White should first play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W68 and B 'i', this way White is favorable (see var a).];B[pk];W[oh];B[nk];W[nf]
+;B[pi];W[ph];B[pb];W[pd];B[qc];W[rg];B[rf];W[rk];B[je];W[kg];B[jh];W[sf];B[se]
+;W[sg];B[re];W[lk]C[Through W88, it seems White still can fight.];B[rj];W[qj];B[qk];W[ri];B[rl];W[sj];B[qm];W[rn];B[ml]
+(;W[mp]LB[kn:a][ll:b][kk:c][kl:d][jk:e][jl:f][li:g]C[W98 is questionable, White should play at 'a', if B 'b', then W 'c', B 'd', W 'e', B 'f' and W 'g', White can fight (see var a).];B[ll];W[ol];B[ok];W[mq];B[nn];W[nm]
+;B[no];W[mo];B[mm];W[sl];B[nr];W[rm];B[jl]C[Through B111, White fails in the fight, Black's advantage is obvious.];W[km];B[kl];W[cd];B[bb];W[db];B[dh]
+;W[ei];B[mr];W[lq];B[lr];W[kq];B[fn];W[cb];B[fl];W[fk];B[le];W[cq];B[bq];W[br]
+;B[bp];W[mh];B[li];W[dc];B[bc];W[kd];B[ke];W[en];B[gm];W[el];B[md];W[mc];B[ld]
+;W[lc];B[oa];W[na];B[pa];W[nc];B[jd];W[jc];B[is];W[cn];B[bn];W[kr];B[ks];W[hr]
+;B[jn];W[sp];B[sq];W[so];B[rq];W[ql];B[pl];W[mj];B[mi];W[nj];B[ni];W[oj];B[pj]
+;W[oi];B[mg];W[nh];B[lh];W[mf];B[lg];W[he];B[hf];W[hm];B[hn];W[lf];B[kf];W[in]
+;B[io];W[im];B[jm];W[ho];B[go];W[gn];B[eq];W[er];B[hn];W[ce];B[be];W[gn];B[dq]
+;W[cr];B[hn];W[hp];B[ko];W[ln];B[fm];W[gk];B[rl];W[sm];B[lj];W[mk];B[nl];W[om]
+;B[kk];W[ls];B[ms];W[aq];B[ap];W[ar];B[ba];W[qi];B[ca];W[da];B[ge];W[gd];B[pe]
+;W[ik];B[jk];W[ee];B[df];W[hs];B[nq];W[jr];B[js];W[jp];B[jo];W[kp];B[lo];W[ql]
+;B[co];W[dn];B[rl];W[gn];B[fh];W[fi];B[ql];W[hn])
+(;W[kn];B[ll];W[kk];B[kl];W[jk];B[jl];W[li]))
+(;W[if];B[jf];W[he];B[je];W[hf];B[jh];W[pj];B[hg];W[hl];B[pb]))
+(;B[hj];W[hh];B[ih];W[ig];B[jg];W[jf];B[kg];W[if];B[pk];W[rk]))
+(;W[cm];B[dl];W[em];B[el];W[fm];B[gp];W[hp];B[gn];W[fl];B[ho];W[fj];B[di];W[eh]
+;B[dh];W[hm];B[jo];W[jm])) 

@@ -1,0 +1,32 @@
+(;SZ[19]EV[7th LG Cup semi-final]PC[Korea]DT[2003-02-11]KM[6.5]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Lee Sedol]BR[3p]PW[Jo HanSeung]WR[5p]RE[B+2.5];B[pd]C[Black is Lee Sedol 3P];W[dp]C[White is Cho Hanseung 5P];B[qp];W[dc];B[fq]
+;W[cn];B[kq];W[qj];B[pk]LB[qk:a]C[B9: Black can also consider to attach at 'a'.];W[qk];B[ql];W[rl];B[pj]LB[qm:a]C[B13: For Black to extend at 'a' can also make it a game.];W[rm];B[qi]
+;W[pl];B[pi];W[qm]LB[ol:a]C[W18: White's extending to 'a' is also possible.];B[pn];W[om];B[no];W[lp]C[W22 is worth study.];B[kp];W[lo];B[mq];W[mm]
+;B[ko];W[qq];B[pq]C[Through 29, Black can be satisfied.];W[nc];B[pc];W[kc];B[df];W[fd];B[cj];W[pg]C[W36: White elects to mutually destroy each other's territory.];B[nd];W[md]
+;B[ne];W[rg];B[rh];W[ng];B[me];W[re];B[mj];W[mh];B[nl];W[on];B[ld]C[Through 49, it seems Black can fight.];W[ki];B[kj]
+;W[ji];B[jj];W[ij];B[li];W[lh];B[ii];W[jg];B[jd]C[B59: Black tenukis to attack first, it is fierce and malicious.];W[ik];B[kl];W[kn];B[mn]C[The sabaki play following B63 puts White at the end of his tether.]
+;W[ln];B[nm];W[lq];B[lr];W[mr];B[nr];W[nn];B[mo]C[After this move, it is time for lunch break.];W[in];B[ms]C[For the result up to 73, White has gained very little.];W[fp]C[W74 seems slack.];B[gp]
+;W[fo];B[hi]C[B77: Black tenukis again to initiate a counter-attack, it is very severe.];W[gk];B[hg];W[if];B[jc]C[After 81, Black is clearly leading in territory, how White to attack Black on the left side effectively is the key for the game.];W[di]C[White's attempt of separating Black following W82 is undisguised.];B[ci];W[dh];B[ch];W[dg];B[cf]
+;W[ef];B[ge];W[id];B[ic];W[ke]C[W90 and W92 are good moves.];B[kd];W[gd]C[After W94, Black looks dangerous...];B[gj]LB[fk:a][eg:b][ff:c][hk:d][hl:e][hj:f][il:g][ej:h][dj:i][dk:j][ek:k][fh:l][eh:m][fg:n][fj:o][fi:p][ei:q][cg:r][hf:s][he:t][gf:u][de:v][gh:w]C[B95 is the winning move, if White extends to 'a' next, then with the sequence from B 'b' to B 'w' (see var a), Black can live, White is no good.
+When Black wedges at 'd', if White ataris at 'f',  it will lead to an exchange and the result is not favorable for White either (see var b).](;W[dj]LB[fk:a][eg:b][ff:c][hk:d][hj:e][jm:f][jn:g][hl:h][il:i][im:j][hm:k][hn:l][gl:m][ho:n]
+;B[fk];W[cg];B[bg];W[ck];B[gl];W[hk];B[hd];W[he];B[ie];W[hf];B[gf];W[kg];B[eg]
+;W[ee];B[dk]C[B111: Black delivers White the fatal blow.];W[bh];B[hn]C[B113: Black attacks first, White is hard to answer.];W[fl];B[fm];W[el];B[ek];W[gm];B[bi];W[dl];B[ei]
+;W[bf];B[ah];W[ce];B[cl]C[Through 125, Black has achieved a tremendous success and established his superiority at one stroke.];W[cm];B[bk];W[im];B[rj];W[po];B[qo];W[oo];B[pp];W[qn]
+;B[ro];W[rk];B[lm];W[bl];B[af];W[de];B[ck];W[eq];B[qf];W[qg];B[rc];W[gg];B[gq]
+;W[ip];B[iq];W[hb];B[gn];W[hl];B[fn];W[ia];B[hc];W[gb]
+(;B[cq]LB[cr:a][dr:b][cp:c][co:d][bp:e][en:f][dn:g][eo:h][do:i][fr:j][er:k][ep:l][dq:m][kb:n][bo:o]C[B157 is a big mistake, Black should strike at 'a', then with the sequence of W 'b' to B 'n', Black wins for sure (see var a). Besides, when B 'a', if White stands at 'k', then Black can make the elegant large knight's move at 'o', White is no good (see var b).]
+;W[er];B[cp];W[do];B[en];W[dn];B[fr];W[ds]C[Through 164, Black has suffered a heavy damage, the difference in the game has been narrowed.];B[jl];W[hm];B[kb];W[ka];B[la];W[ja]
+;B[lb];W[gh];B[gi];W[ae];B[fg];W[ff];B[fh];W[fe];B[bm];W[bn];B[al]C[After B181, it becomes a close game but slightly favors Black.];W[eh];B[fi]
+;W[ej];B[fj];W[fs];B[hp];W[gs];B[hr];W[ol];B[ni];W[nk];B[ml];W[ok];B[gc];W[fc]
+;B[io];W[rd];B[oh];W[og];B[sc];W[qd];B[qc];W[pe];B[oe];W[pf];B[ib];W[fb];B[hh]
+;W[an];B[ag];W[cr];B[eo];W[ep];B[op];W[gf];B[je];W[mi];B[nj];W[lj];B[mk];W[lk]
+;B[br];W[bp];B[ha];W[ga];B[ap];W[aq];B[bq];W[ao];B[jb];W[ha];B[ar];W[ap];B[sd]
+;W[am];B[bl];W[se];B[mf];W[kf];B[mp];W[km];B[ll];W[oj];B[nh];W[mg];B[co];W[bs]
+;B[dq];W[go];B[ho];W[sn];B[so];W[rn];B[jn];W[jm];B[jo];W[dm];B[hs];W[sj];B[ri]
+;W[sg];B[le];W[lf];B[si];W[sk];B[kk];W[li];B[jh])
+(;B[cr];W[dr];B[cp];W[co];B[cq];W[bq];B[en];W[dn];B[eo];W[do];B[fr];W[er];B[ep]
+;W[dq];B[kb]C[Black then wins for sure.])
+(;B[cr];W[er];B[bo]C[White is no good.]))
+(;W[fk];B[eg];W[ff];B[hk];W[hl];B[hj];W[il];B[ej];W[dj];B[dk];W[ek];B[fh];W[eh]
+;B[fg];W[fj];B[fi];W[ei];B[cg];W[ej];B[hf];W[he];B[gf];W[de];B[gh]C[White can live like this.])
+(;W[fk];B[eg];W[ff];B[hk];W[hj];B[jm];W[jn];B[hl];W[il];B[im];W[hm];B[hn];W[gl]
+;B[ho]C[This exchange also favors Black.])) 

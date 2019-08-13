@@ -1,0 +1,33 @@
+(;SZ[19]EV[16th Fujitsu Cup round 1]DT[2003-04-12]KM[6.5]PC[Tokyo, Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Yoda Norimoto]BR[9p]PW[Chang Hao]WR[9p]RE[B+R];B[qd];W[dc];B[dq];W[pp];B[ce];W[ed]
+;B[oc];W[do];B[cm];W[nd]LB[cq:a][en:b]C[W10 has the implication of serving as the ladder-breaker, but from the result, it is no better than the attachment at 'a' or the diagonal's extension at 'b'.]
+(;B[fp]LB[nc:a][cq:b][cr:c][cp:d][gq:e][em:f][cj:g][er:h][dr:i][eq:j][ep:k][dp:l][fq:m]C[B11: If Black extends at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W11, Black would be captured in the ladder (see var a).];W[nc]
+;B[od];W[ne];B[en];W[df];B[nq];W[qn];B[kp];W[cf];B[id];W[pf];B[if];W[mg];B[ch]
+;W[dh];B[di];W[eh];B[ih]C[Through 29, the game is easier for Black to play, Black is also leading in territory.];W[ci];B[bh];W[bi];B[bf]
+(;W[be]LB[bg:a][cg:b][ag:c][de:d][dj:e]C[W34: White has no other choice, if White plays the wedge at 'a', then B 'b', W34, B 'c', W 'd' and B 'e', White is no good (see var a).];B[bd];W[bg];B[ae];W[cg];B[bb]C[Through 39, the number of black and white stones on the left side is same, but White's territory is clearly inferior to Black's.];W[cq]C[W40 is inevitable.]
+;B[cr];W[eq];B[er];W[dp];B[dr];W[fq];B[ep];W[gq];B[eo];W[iq];B[jq];W[jr];B[kr]
+;W[jp];B[kq];W[jo]
+(;B[dn]LB[bp:a][bq:b][co:c][br:d][bm:e]C[B57 is the proper move, if Black fails to reinforce, then White has the tactic of playing the inverse tiger's move at 'a', followed by B 'b', W 'c', B 'd' and W 'e', Black is no good (see var a).];W[rf];B[nb];W[mb];B[ob];W[pk];B[ip];W[ho]
+
+(;B[ko]LB[hq:a][ir:b][hp:c][gp:d][hr:e][io:f][gr:g][ln:h]C[B65: If Black ataris at 'a', then after W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', White's center moyo would be huge, Black has no certainty of success.];W[io];B[ir];W[hp];B[hr];W[jm]
+;B[jk];W[kn];B[lk];W[jg];B[ig];W[pr]C[Through 76, the difference in territory has been narrowed down, but because White at the bottom is still not completely alive, so the game is still to Black's advantage.];B[nk];W[oi];B[pl];W[ql];B[pm];W[qm];B[ok]
+;W[pj];B[il];W[kl];B[kk];W[nm]LB[lm:a]C[W88 is the last losing move, White should simply make life by playing at 'a', this way White may have a chance of winning.];B[lm]C[B89 is the vital point.];W[ln];B[mm];W[mn];B[no];W[gm]
+
+(;B[nn]LB[km:a][gn:b][gl:c][fl:d][fk:e][hl:f][gk:g][hk:h][hj:i]C[B95 is a solid move, if Black tries to destroy eyes by playing at 'a', it would be more severe, followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', White would get killed (see var a).];W[im];B[hq];W[hl];B[gp]
+;W[ll];B[ml];W[mj];B[mk];W[on];B[lc];W[mc];B[re];W[qe];B[rd];W[hj];B[lb];W[ib]
+;B[hc];W[hb];B[gc];W[cc];B[bc];W[jc];B[jd];W[kd];B[ma];W[bl];B[cl];W[bk];B[bm]
+;W[oo];B[om];W[np];B[mo];W[mp];B[lo];W[mq];B[oe];W[of];B[pe];W[qf];B[me];W[nf]
+;B[mr];W[nr];B[ns];W[or];B[sf];W[sg];B[se];W[rg];B[gb];W[kc];B[de];W[ee];B[ff]
+;W[ef];B[gk];W[ik];B[jl];W[gj];B[fk];W[hk];B[fj];W[ii];B[jh];W[fi];B[gh];W[gi]
+;B[ld];W[ke];B[lf];W[kg];B[lg];W[kh];B[lh];W[ki];B[mf];W[je];B[ji];W[kb];B[km]
+;W[lr];B[jn];W[dj];B[dk];W[ge];B[ie];W[ja];B[li];W[la];B[ka];W[le];B[md];W[la]
+;B[jf];W[kf];B[ka];W[kj];B[jj];W[la];B[lj];W[na];B[oa];W[am];B[an];W[al];B[bn]
+;W[ck];B[ma];W[ha];B[ej];W[ei];B[nh];W[pn];B[nl];W[el];B[dl];W[em];B[ek];W[ni]
+;B[ls];W[ms];B[in];W[hm];B[mr];W[hh];B[hg];W[ms];B[hn];W[gn];B[kn];W[go];B[mr]
+;W[qc];B[lq]C[Yoda Norimoto advances to the final sixteen, the round 2 will be held in 4/14.
+])
+(;B[km]C[Black could play here to kill.];W[gn];B[gl];W[fl];B[fk];W[hl];B[gk];W[hk];B[hj]C[White would get killed.]))
+(;B[hq]C[If Black ataris here, ...];W[ir];B[hp];W[gp];B[hr];W[io];B[gr];W[ln]C[White would get a big moyo in the center.]))
+(;B[rf]C[Let's suppose Black plays here.];W[bp]C[White can hang here.];B[bq];W[co];B[br];W[bm]C[Black is no good.]))
+(;W[bg]C[If White plays the wedge here, ...];B[cg];W[be];B[ag];W[de];B[dj]C[White is no good.]))
+(;B[nc]C[If Black extends here, ...];W[cq];B[cr];W[cp];B[gq];W[em];B[cj];W[er];B[dr];W[eq];B[ep];W[dp];B[fq]
+;W[fp]C[Black would get killed in a ladder.])) 

@@ -1,0 +1,49 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ae][ba][be][bf][ca][cb][cc][cd][cg][ch]
+AW[ab][af][bg][bi][ce][cf][ci][da][db][dc][dd][dg][dh]PL[B]C[Black to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties]
+(
+;B[bc]
+;W[ac]
+(
+;B[ah]
+;W[bh]
+;B[ag]
+;W[ai]
+;B[ad]
+;W[af]
+;B[ag]C[RIGHT
+])
+(
+;B[ag]
+;W[ah]C[Ko Fight]))
+(
+;B[ac]
+;W[bc]
+;B[bd]
+;W[ad]C[Ko Fight])
+(
+;B[bd]
+;W[ac])
+(
+;B[ah]
+(
+;W[bc]
+(
+;B[bd]
+;W[bh])
+(
+;B[bh]
+;W[bd]
+;B[ag]C[Capture Half Stones]))
+(
+;W[bd]
+;B[ag]
+;W[bc]
+;B[bh]C[Capture Half Stones]))
+(
+;B[ag]
+;W[bc]
+;B[bh]
+;W[bd]C[Capture Half Stones]))

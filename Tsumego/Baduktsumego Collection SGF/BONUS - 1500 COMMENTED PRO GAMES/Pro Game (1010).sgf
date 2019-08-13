@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 7]KM[6.5]DT[2005-01-20]PB[Sakai Hideaki]BR[6p]PW[Imamura Toshiya]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+R];B[pd];W[dp];B[pp];W[dd];B[fq];W[cn];B[jq]
+;W[qn];B[np];W[qj];B[fc];W[hc];B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec]
+;B[cf];W[nc];B[qf];W[qc];B[pc];W[pb];B[ob];W[qb];B[oc];W[re];B[qe];W[rf];B[nd]
+;W[qg];B[pg];W[qh];B[jc]C[Through B37, Black can be satisfied.];W[md];B[me];W[kd];B[jd];W[ne];B[nf];W[od];B[oe];W[je]
+;B[kc];W[ie];B[le]C[Through B49, although Black obtains some territory, but White also strengthens his top-left side, both sides gain profit.];W[dr];B[hp]LB[fo:a][hq:b][eq:c][dq:d][ip:e]C[B51 is over-solid and almost the losing move, now Black certainly should jump to 'a', if White invades at 'b', then B 'c', W 'd' and B 'e'.];W[qq]C[W52 is alert.];B[qp]
+;W[rp];B[pq];W[rr];B[qr];W[rq]LB[fo:a][er:b][cq:c][om:d]C[Through W58, we can see the improperness of B51, if B51 at 'a', then Black can make the diagonal at 'b', next W 'c' and B 'd', in the real game, Black has no good follow-up tactic.];B[fe]LB[cg:a]C[B59: For Black to play at 'a' is better.];W[ff]
+;B[gf];W[ge];B[he];W[gd];B[hf]LB[fg:a][fd:b][hd:c][fb:d][fa:e][ga:f][ea:g][hb:h][df:i][cg:j][id:k][ic:l][ig:m]C[After B65, White can consider to extend at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l' and W 'm', White is favorable (see var a).]
+
+(;W[hd];B[fg];W[ef];B[id];W[eg];B[jf]LB[gh:a]C[B71 again is a mistake, Black should play at 'a'.];W[fh]C[After W72, Black's moyo at the bottom clearly is affected, White's situation is favorable.];B[pn]LB[om:a]C[B73: For Black to simply play at 'a' is better.];W[pm]
+;B[on];W[qo];B[om];W[pl];B[ib]LB[hm:a]C[B79 should be at 'a'.];W[ko]LB[bg:a]C[W80: White can also consider to play at 'a'.];B[kp];W[po];B[pr]LB[oo:a][or:b][qs:c][nk:d][nr:e][hl:f]C[If B83 at 'a', then W83, B 'b', W 'c', B 'd', W 'e' and B 'f', this variation is perhaps better than the one in the real game.]
+;W[oo];B[no];W[mm];B[bg];W[ip];B[jo];W[hq];B[gq];W[op];B[nq];W[io];B[iq];W[jp]
+;B[lp];W[jn]C[Through W98, White is successful in the fight.];B[cj];W[cl];B[mn]LB[fd:a][gb:b][hb:c][gc:d]C[B101: Black should play at 'a', next W 'b', B 'c' and W 'd', White's upper-left corner is still not alive completely, Black may still have a chance.];W[hb]C[After W102, White's advantage is obvious.];B[km];W[nl]
+;B[ho];W[hn];B[fo];W[jm];B[gn];W[hm];B[er];W[cq];B[oh];W[oa]C[The hane and connection of W114 is too early.];B[na];W[pa];B[nb]
+;W[ki];B[ii];W[ni];B[lm]LB[oi:a][nj:b][qi:c][pi:d][rg:e][rh:f][rd:g][qd:h][se:i][sg:j][rb:k][rc:l][sc:m]C[B121: Black should play at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', it leads to ko-kill, this is due to the improperness of W114.
+]
+;W[jk];B[mk];W[hh];B[jh];W[kh];B[jg];W[oi];B[kn];W[kk];B[ml];W[nm];B[nk];W[ol]
+;B[kl];W[nh];B[bk];W[bl];B[dh];W[dg];B[ch];W[ep];B[jl];W[il];B[lo];W[oq];B[or]
+;W[eq];B[in];W[im];B[jo];W[nr];B[mr];W[ko];B[qd];W[rd];B[jo];W[ce];B[be];W[ko]
+;B[al];W[am];B[jo];W[gg];B[hg];W[ko];B[ak];W[cm];B[jo];W[lk];B[ll];W[ko];B[bm]
+;W[bn];B[jo];W[ck];B[bj];W[ko];B[rc];W[rb];B[jo];W[ji];B[gi];W[gh];B[ih];W[ko]
+;B[ha];W[ga];B[ia];W[gp];B[hr];W[fp];B[go];W[fb];B[jo];W[ij]C[After W196, Black already has no winning chance.];B[hi];W[ko];B[gb]
+;W[gc];B[jo];W[fr];B[gr];W[es];B[in];W[og];B[pf];W[ph];B[nn];W[qs];B[eh];W[fi]
+;B[hk];W[ik];B[fj];W[ei];B[mj];W[kg])
+(;W[fg];B[fd];W[hd];B[fb];W[fa];B[ga];W[ea];B[hb];W[df];B[cg];W[id];B[ic];W[ig]
+)) 

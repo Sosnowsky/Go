@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[0.00]AW[db][eb][hb][dc][ic][jc][kc][lc][cd][ed][jd][ld][od][pd][ce][ke]
+[cf][df][ef][ff][of][pf][qf][og][ch][dh][di][cj][nj][pj][dk][nk]
+[cl][nl][bn][eo][jo][qo][ro][bp][fp][lp][mp][op][pp][rp][bq][cq]
+[dq][fq][kq][nq][cr][er][gr][kr][ds][fs]AB[ec][fc][gc][nc][pc][qc][dd][id][nd][de][ee][fe][ge][ie][je][le]
+[ne][kf][nf][bg][cg][dg][ng][pg][bh][bi][ci][dj][ej][ek][mk][el]
+[km][mm][dn][fn][in][ao][bo][co][fo][cp][dp][ep][gp][qp][eq][hq]
+[lq][mq][pq][qq][rq][lr][nr][or][ms]PL[W]C[Identify the biggest yose. W to play. (Against Severin Hanevik 3d)]
+(;W[jn];B[jm];W[io];B[hn];W[mj];B[fh];W[kj];B[jj];W[kk];B[jk]
+;W[ki];B[ji];W[kh];B[gf];W[qd]
+;B[mb]C[Here the game is over (Black is over 95%).])
+(;W[mb];B[nb];W[fh];B[eh];W[fi];B[ei];W[jn];B[jm];W[io];B[hn]
+;W[rd]C[This is an even game]))

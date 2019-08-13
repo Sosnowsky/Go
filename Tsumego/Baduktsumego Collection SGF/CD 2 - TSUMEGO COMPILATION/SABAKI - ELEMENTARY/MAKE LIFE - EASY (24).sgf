@@ -1,0 +1,27 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[af][bf][cd][ce][cf][db][dc]
+AW[ba][bb][bd][be][cc]PL[W]C[White to play.
+
+Make life - Capture Stones]
+(
+;W[ae]
+;B[ac]
+;W[ab]
+;B[bc]
+;W[ad]
+;B[bc]
+;W[cb]
+;B[ac]
+;W[bd]C[RIGHT
+Take off boot reverse])
+(
+;W[cb]
+;B[ad])
+(
+;W[ac]
+;B[ae]
+;W[ad]
+;B[cb])
+(
+;W[ab]
+;B[ad]))

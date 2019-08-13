@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 1]KM[6.5]DT[2003-12-04]PB[Imamura Toshiya]BR[9p]PW[Cho Chikun]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dd];B[pp];W[dq];B[fc];W[cf];B[kc]
+;W[qj];B[co];W[dl];B[gq];W[fp];B[gp];W[fo];B[go];W[fn];B[hm]LB[mq:a][em:b]C[If B17 at 'a', then White will play at 17, Black can't be satisfied, in the game Black also aims to play at 'b' later on.];W[nq]
+;B[lq]
+(;W[qn]LB[pn:a][np:b][mp:c][mq:d][qp:e][oq:f][qq:g][ql:h]TR[qj]C[If W20 at 'a', then after B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', the position of the marked white stone is no good, Black would be still left with the invasion at 'h' (see var a).];B[pn];W[pm];B[on];W[qq]
+;B[qo];W[pq];B[or]LB[qm:a][mq:b][lp:c]C[B27 is surprisingly severe, the common play is to atari at 'a', then W 'b' and B 'c', Black can also fight.];W[oq];B[nr];W[qm];B[ro];W[mq];B[mr];W[lp]
+;B[kq];W[mn];B[om]
+(;W[ml]LB[kp:a][jp:b][oo:c][op:d][no:e][po:f][kn:g]C[W38 is questionable, to press at 'a' is the vital point, then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).];B[ok];W[qg];B[kp]C[After B41, White instantly feels constrained, Black takes control of the game at one stroke.];W[oo];B[po]
+;W[km];B[lo];W[mo];B[mp];W[no];B[nj];W[lj];B[nh];W[oc]LB[cp:a]C[W52: For White to make the diagonal at 'a' is the original move.];B[pe];W[qb];B[ne]C[B55 is a good move for both offense and defense.]
+;W[rc]LB[mc:a]C[W56: White should make one space extension at 'a'.];B[rd]
+(;W[pk]LB[ri:a][qi:b][rh:c][rg:d][qh:e][ph:f][rj:g][rk:h][qk:i]C[W58: If White tenukis, then B 'a', W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', White would collapse (see var a).];B[nb];W[ob];B[kk]LB[jj:a][kh:b]C[B61 is no better than a move at 'a', if White plays at 61, then B 'b'.]
+;W[kj];B[kl];W[lk];B[ph];W[qh];B[pi];W[rk];B[cq];W[cr];B[dp];W[bq];B[bp]C[Black initiates a ko fight with B73, Black is favorable in ko threats.];W[cp]
+;B[nc];W[od]LB[cq:a]C[W76: White should connect the ko at 'a', fighting desperately with Black by sacrificing the upper right corner.];B[oe]
+(;W[qc]LB[oa:a][pa:b][pc:c][pb:d][ra:e]C[If White doesn't strengthen with W78, then B 'a', W 'b', B 'c', W 'd' and B 'e', White will get killed (see var a).];B[cq];W[jd]C[W80 is a game-deciding move.];B[jg];W[ij];B[jm];W[jc];B[gf]
+;W[hc];B[dc];W[cc];B[ed];W[db];B[eb];W[ec];B[gj]C[After B93, White already has no chance of winning.];W[gi];B[hi];W[hj];B[fi];W[gh]
+;B[hh];W[fh];B[gk];W[jh];B[eh];W[ei];B[fg];W[fj];B[gg];W[fi];B[kh]LB[eq:a][dc:b]C[After B109, even if White's big dragon can make life, but Black can atari at 'a' or take the ko at 'b', White is also no good.
+
+So far, the overall record between them is Imamura 4 wins and 5 defeats.]
+)
+(;W[cq];B[oa];W[pa];B[pc];W[pb];B[ra]))
+(;W[cp];B[ri];W[qi];B[rh];W[rg];B[qh];W[ph];B[rj];W[rk];B[qk]))
+(;W[kp];B[jp];W[oo];B[op];W[no];B[po];W[kn]))
+(;W[pn];B[np];W[mp];B[mq];W[qp];B[oq];W[qq])) 

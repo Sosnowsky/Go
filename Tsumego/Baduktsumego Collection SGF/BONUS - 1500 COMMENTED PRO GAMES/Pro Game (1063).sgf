@@ -1,0 +1,23 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 19]KM[6.5]DT[2005-04-14]PB[Imamura Toshiya]BR[9p]PW[Yamada Kimio]WR[8p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dd];B[qp];W[op];B[dp];W[qq];B[nc]
+;W[rp];B[qo];W[ro];B[pq];W[qr]LB[qn:a][pp:b]C[After W12, for Black to play at 'a' or 'b' immediately seems heavy.];B[cf];W[fc];B[bd];W[cc];B[ci];W[fq]
+
+(;B[jq]LB[hq:a][cq:b][dq:c][cp:d][cr:e][br:f][dr:g][co:h][do:i][dn:j][en:k][dm:l][bm:m][bn:n][cl:o][dl:p]C[B19: Black can consider to play at 'a', if W 'b', then B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p', Black can fight (see var a).]
+;W[cn]LB[cq:a]C[W20 is better than entering the corner at 'a'.]
+(;B[co]LB[eq:a][fp:b][dn:c][dm:d][en:e][ep:f][bq:g][io:h][br:i][cr:j][cq:k][cp:l][dr:m]C[The direction of B21 is questionable, Black should play at 'a', next W 'b', B 'c', W 'd', B 'e', W21, B 'f', W 'g' and B 'h' (see var a), later on Black is still left with the tactic of B 'i', W 'j', B 'k', W 'l' and B 'm' to make a ko, this result is better than the real game.];W[dn]
+;B[fp];W[gp];B[fo];W[eq];B[ep];W[dq];B[cq];W[cr]LB[hq:a]C[W30: For White to play at 'a' is also possible.];B[br];W[bq];B[cp];W[bs]
+;B[gq];W[ar];B[fr];W[er];B[es];W[dr]
+(;B[hq]LB[hr:a][hp:b][io:c][ip:d][jo:e][jp:f][kp:g][kq:h][ho:i][gr:j][jr:k][lq:l][iq:m][kr:n][ir:o][go:p][hs:q]C[B41: For Black to play at 'a' is better, if W 'b', then B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W41, B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p' and W 'q', Black is clearly favorable (see var a).]
+;W[qn];B[dk]LB[ip:a]C[B43: Black aims to guard against White's strike at 'a'.];W[ph]LB[qf:a][pi:b][od:c][oc:d][rd:e][qc:f][of:g][oe:h][rc:i]C[W44 is questionable, White should play at 'a', if B 'b', then W 'c', B 'd', W 'e', B 'f' and W 'g', White is favorable. Moreover when W 'a', if Black plays at 'h' instead, then W 'e', B 'i' and W 'g', White is also favorable.]
+;B[hc];W[df];B[dg];W[ef];B[eg];W[ce]LB[be:a][cg:b][bf:c][fg:d][ei:e]C[After W50, if B 'a', then W 'b', B 'c', W 'd' and B 'e', Black can't be satisfied.];B[ff];W[bf]
+;B[cg];W[be];B[qf]C[After B55, Black's situation is better.];W[kd];B[je];W[md];B[og]C[B57 and B59 are all good moves.];W[mc];B[nb];W[kf];B[ig];W[lh]
+;B[oh];W[pj]LB[jh:a][ih:b]C[W66: For White to play at 'a' is better, if Black plays at 66, then W 'b'.];B[jh]C[B67 is the vital point, White is painful.];W[nd];B[pc];W[oi];B[ni];W[pg];B[of];W[pf]
+;B[pe];W[nh];B[oe];W[nj];B[mi];W[lk];B[li];W[ic];B[hd];W[hb];B[gb];W[ib];B[gc]
+;W[mb];B[jd];W[jc]C[Through W90, although White makes life, White ends in gote, the situation is still to Black's advantage.];B[mp];W[rg];B[mn];W[nl]LB[lm:a]C[W94: White should play at 'a'.];B[jk];W[cl]C[W96 is a game-deciding move.];B[bo];W[ck]
+;B[cj];W[dl];B[em];W[dj]LB[ek:a][el:b][fl:c][fk:d][ej:e][fm:f][gl:g][gm:h]C[After W102, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', black has no assurance of success.];B[ej]C[B103 is a calm move.]
+;W[ek];B[ei];W[bn]LB[fm:a]C[W106: White should play at 'a', perhaps White would still have chance.];B[bk];W[en];B[fm];W[fn];B[gn];W[gm];B[fl];W[fk];B[gl]
+;W[hm];B[hl];W[im];B[hp];W[hj];B[ik])
+(;B[hr];W[hp];B[io];W[ip];B[jo];W[jp];B[kp];W[kq];B[ho];W[hq];B[gr];W[jr];B[lq]
+;W[iq];B[kr];W[ir];B[go];W[hs]))
+(;B[eq];W[fp];B[dn];W[dm];B[en];W[co];B[ep];W[bq];B[io]))
+(;B[hq];W[cq];B[dq];W[cp];B[cr];W[br];B[dr];W[co];B[do];W[dn];B[en];W[dm];B[bm]
+;W[bn];B[cl];W[dl])) 

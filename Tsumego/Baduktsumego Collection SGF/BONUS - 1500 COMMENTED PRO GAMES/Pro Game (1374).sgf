@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 51st NHK Cup round 3]DT[2004-01-11]PC[Japan]PB[Ryu Shikun]BR[9p]PW[Takao Shinji]WR[8p]KM[6.5]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dc];B[dp];W[pp];B[ce];W[ed]
+;B[ch];W[nc];B[kd];W[pf];B[nd];W[qc];B[qd];W[md]LB[pc:a][oc:b]TR[pf]C[If W14 at 'a', then Black will wedge at 'b', the position of the marked white stone is not good.];B[od]LB[ne:a][pc:b]C[If B15 at 'a', then W 'b', Black can't be satisfied.]
+;W[ld];B[nf]LB[ke:a]C[B17: For Black to play at 'a' is rather common.];W[ke];B[jd];W[je];B[id];W[pb];B[oc];W[nb];B[ob];W[oa];B[lb]
+;W[lc];B[kc];W[lf];B[qg];W[hc];B[ie];W[if];B[ge];W[df];B[cf];W[dg];B[cd];W[hf]
+;B[gc];W[hd];B[he];W[gd]
+(;B[gf]LB[mb:a][mc:b][jb:c][ic:d][ma:e][na:f][ka:g]C[B45: For Black to make life right away by playing at 'a' is better, followed by W b', B 'c', W 'd', B 'e', W 'f' and B 'g' (see var a).];W[gg];B[fg];W[fh];B[ee];W[hh];B[dh]
+;W[fd];B[eg];W[fq];B[dn];W[iq];B[qn];W[ql];B[qj]LB[qf:a]C[B59 guards against White's pulling out at 'a'.];W[pn];B[gi];W[gh];B[qq]
+;W[pq];B[qp];W[po];B[rn];W[in]LB[qm:a]C[W68: The usual play is to hit at 'a'.]
+(;B[kn]LB[pm:a][om:b][ol:c][pl:d][qm:e][nl:f][ok:g][nm:h][nk:i][mk:j][mj:k]C[B69: Playing hane out at 'a' is better, next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', this way it would be a close game (see var a).];W[kp];B[mn]
+;W[lo];B[ml];W[ok];B[ol];W[pl];B[om];W[pj];B[pm];W[qm];B[qi];W[ph];B[pi];W[oi]
+;B[nj];W[oj];B[pg];W[oh];B[qh];W[mh]C[After W90, Black in the center comes under attack, White takes the initiative.];B[jl];W[qr];B[rr];W[pr];B[rm];W[rl];B[rk]
+;W[sl];B[rs];W[ln];B[lm];W[lk];B[kk];W[kj];B[hl];W[ik];B[il];W[gm];B[gl];W[fm]
+;B[ek];W[dm]C[W112: White takes the chance to invade Black's territory, White is favorable for the game.];B[fp];W[eq];B[ep];W[eh];B[fe];W[cn];B[dq];W[di];B[ck];W[cl];B[en]
+;W[fl];B[fk];W[bp];B[dl];W[em];B[bl];W[cm];B[gq];W[gr];B[bq];W[cp];B[cq];W[go]
+;B[gp];W[hr];B[ip];W[jp];B[ho];W[hn];B[fo];W[gn];B[dr];W[cc]C[After W146, White's advantage becomes clear.];B[np];W[no];B[mo]
+;W[mp];B[jj];W[nn];B[mm];W[cg]C[W154 delivers Black a fatal attack.];B[bg];W[bh];B[ci];W[cj];B[bi];W[bj];B[ah];W[dj]
+;B[lj];W[ki];B[li];W[lh];B[ji];W[kh];B[mk];W[fr];B[co];W[bo];B[do];W[hj];B[mq]
+;W[lp];B[nr];W[lr];B[on];W[oo];B[or];W[ps];B[nq];W[mr];B[ij];W[gj];B[gk];W[sm]
+;B[qo];W[sp]C[After W190, Black already has no chance of winning.];B[sn];W[rq];B[rp];W[sr];B[sq];W[aq];B[ar];W[rq];B[sk];W[pk];B[sq]
+;W[aj])
+(;B[pm];W[om];B[ol];W[pl];B[qm];W[nl];B[ok];W[nm];B[nk];W[mk];B[mj]))
+(;B[mb];W[mc];B[jb];W[ic];B[ma];W[na];B[ka])) 

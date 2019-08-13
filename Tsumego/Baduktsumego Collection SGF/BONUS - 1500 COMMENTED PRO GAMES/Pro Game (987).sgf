@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 31st Tengen Title final game 4]DT[2005-12-15]KM[6.5]PC[Japan]PB[Yamashita Keigo]BR[9p]PW[Kono Rin]WR[7p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qe];W[pp];B[ec];W[cd];B[od];W[hd]
+;B[ef];W[ed]LB[cg:a][jd:b]C[If W8 at 'a', then B 'b', the position of B5 is to Black's advantage.];B[fd];W[fe]LB[ee:a][dd:b][ge:c]C[After W10, if B 'a', then W 'b', the ladder with B 'c' is not working, Black is not good.];B[dd];W[ee];B[de]
+;W[dc];B[cc];W[db];B[ce];W[fc];B[dp];W[df];B[be]LB[bd:a][dg:b][bf:c]C[B21 is the right move, if Black takes at 'a' instead, then after W 'b', White can take advantage in sente by jumping to 'c', Black can't be satisfied.];W[qn];B[ff]
+;W[eb];B[dg];W[cn]LB[cl:a][fp:b][dn:c][dm:d][cm:e][dq:f][co:g][cq:h]C[After W26, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', this is a common variation.];B[dn];W[dm];B[co]C[B27 and B29: Black elects to force White into Black's thickness.]
+;W[en];B[do]LB[bn:a][em:b][dl:c][bo:d]C[After B31, if W 'a', then B 'b', W 'c' and B 'd', White is not good.];W[fl]LB[em:a]C[W32: For White to connect at 'a' appears heavy.];B[cm];W[dl];B[gp];W[iq]
+;B[ho];W[bn];B[bl]LB[fq:a][fp:b][cq:c][dq:d][dr:e][gq:f][er:g][bq:h][br:i][cp:j][gr:k]C[After B39, W 'a' is the vital point, if B 'b', then W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', White can be satisfied (see var a).]
+
+(;W[eq]LB[fq:a][gq:b][fp:c][fo:d][bo:e][bp:f][eo:g][ep:h][fn:i][go:j][gr:k]C[W40: White should play at 'a', if B 'b', then W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', Black is not good (see var b).];B[dq];W[gq]
+;B[fq]C[B43 is a good move.];W[fp];B[fr];W[gr];B[fo];W[ep];B[er];W[eo];B[jp];W[jq]LB[kp:a][lr:b][fn:c][em:d][hl:e][gj:f][ij:g][bk:h][bm:i][al:j][bo:k][dj:l][np:m]C[After W52, B 'a' is common, next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm'.]
+;B[kq]LB[em:a]C[B53 is to prepare to play at 'a'.];W[kr];B[em];W[fn];B[fm];W[go];B[gm];W[hp];B[el];W[dk]C[W62: If White doesn't escape, then Black's territory on the left side is too big.];B[ek]
+;W[dj];B[bm]LB[ej:a][fj:b][fi:c][ei:d]C[After B65, if W 'a', then B 'b', W 'c' and B 'd', White is not good.];W[fi];B[ej];W[ei];B[di];W[dh];B[ci];W[ch]
+;B[cj];W[bi];B[bj];W[eg];B[cf];W[hi]C[Through W78, as for the result, Black can be satisfied.];B[fg];W[eh];B[ig];W[ji];B[jl];W[kh];B[ie]
+;W[jc];B[kd];W[kc];B[pj];W[kk];B[ld]LB[bc:a][gi:b]C[B91 is a thick move, White's tactic at 'a' disappears and Black can also aim to wedge and cut at 'b'.];W[kl];B[jn];W[ph]C[W94 is the game-deciding move.];B[ni]LB[qm:a]C[B95 is the strongest answer, the common move is to dodge at 'a'.]
+;W[nh];B[ij];W[ii];B[mh];W[oi];B[ng]LB[oj:a][oh:b][pi:c][pm:d]C[After B101, if W 'a', then B 'b', W 'c' and B 'd', White is not good.];W[oh];B[li]C[B103 is a good move.];W[nj]
+;B[mi];W[mg];B[lg];W[mf];B[lh];W[jk];B[oj]C[After B111, Black wins the game for sure.];W[of];B[nk];W[qf];B[il];W[ml];B[mk]
+;W[ik];B[pe];W[rf];B[re];W[qi];B[lm];W[ll];B[qj];W[km];B[pf];W[qg];B[pq];W[qq]
+;B[oq];W[qr];B[op];W[po];B[lq];W[mc];B[nb];W[mb];B[cb]LB[on:a]C[B139 is a steady move, if Black plays at 'a' instead, it is afraid that White's big dragon is also difficult to make life.];W[lr];B[kn];W[nn]
+;B[mo];W[no];B[mq];W[np];B[nq];W[gk];B[hl];W[ln];B[lo];W[lf];B[kg];W[mn];B[nc]
+;W[md];B[gh];W[gj];B[ma];W[la];B[na];W[lc];B[rm];W[nd];B[pc];W[qm];B[rl];W[rj]
+;B[rk];W[ri];B[rn];W[ro];B[io];W[pl];B[pk];W[kf];B[so])
+(;W[fq];B[fp];W[cq];B[dq];W[dr];B[gq];W[er];B[bq];W[br];B[cp];W[gr])
+(;W[fq];B[gq];W[fp];B[fo];W[bo];B[bp];W[eo];B[ep];W[fn];B[go];W[gr])) 

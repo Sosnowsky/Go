@@ -1,0 +1,33 @@
+(;SZ[19]EV[Japan 52nd Oza Title challenger final]DT[2004-08-30]PC[Japan]KM[6.5]PB[Yoda Norimoto]BR[9p]PW[Yamashita Keigo]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[dq];W[pp];B[ce];W[di]
+;B[ge]LB[fe:a]C[B7: For Black to play at 'a' is rather common.]
+(;W[co]LB[gc:a][ed:b][ec:c][hc:d][de:e][df:f][ee:g][cd:h][cc:i][ef:j][ff:k][fe:l][fc:m][eh:n]C[If W8 at 'a', then B 'b', W 'c' and B 'd', Black can fight. Furthermore, if W8 at 'e' instead, then B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm' and B 'n', Black is also not bad (see var a).]
+;B[gc];W[nc];B[lc]C[For Black to attack with the pincer of B11 is inevitable.];W[qc];B[pc];W[pd];B[qb];W[rc];B[od];W[pe];B[oc];W[rb]C[As for the result up to W20, Black's distance at the top seems narrow, White can be satisfied.
+
+After this move, it is time for noon break.]
+;B[ep]LB[dk:a]C[B21: For Black to play at 'a' is better.];W[dl];B[of];W[oe];B[ne];W[qe];B[nd];W[jq];B[hq];W[de]LB[df:a][ee:b][cd:c][ef:d][dg:e][eg:f][cc:g][fc:h][gb:i][dh:j]C[After W30, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', Black can't be satisfied (see var a).]
+
+(;B[cd];W[dd];B[cg];W[cc];B[df];W[ef];B[eg];W[ff];B[bi]C[Through B39, both sides are roughly acceptable.];W[if]LB[fg:a][eh:b][id:c][hg:d]C[W40 is a good move, if White plays at 'a' first, then B 'b', W40, B 'c' and W 'd', White can't be satisfied.]
+;B[hg]LB[id:a]C[B41: Black is already reluctant to defend at 'a'.];W[eh]LB[fg:a][hf:b][id:c][gf:d]C[W42 is the related tesuji to W40, if White plays at 'a' instead, then B42, W 'b', B 'c' and W 'd', White's shape is no good.];B[fg];W[gf];B[id]LB[hf:a]C[B45 is a little weak, for Black to play at 'a' is better.];W[gg]LB[hf:a]C[W46: White should simply connect at 'a'.]
+;B[fh];W[hh];B[fi];W[nq];B[qn];W[qo];B[pn];W[pk];B[hf];W[ih];B[ig];W[jg];B[he]
+;W[gh];B[no];W[ro]
+(;B[nl]LB[lo:a][lq:b][nj:c][pi:d][qf:e][re:f][oh:g][qg:h][jh:i]C[B63: Black is not initiative, Black should jump to 'a' instead, followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i' (see var a).];W[nj];B[nh];W[mh]
+(;B[mg]LB[oj:a][ok:b][nk:c][oi:d][ni:e][mj:f][pj:g][oh:h][qk:i][ng:j][lq:k]C[B67: Black should play at 'a', next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k' (see var a).];W[mi];B[pl]
+;W[qk];B[lg];W[ki]C[After W72, Black is not optimistic.];B[lo];W[lq];B[kp];W[kq];B[op];W[oq];B[po];W[qp];B[cp]LB[cm:a][ch:b][bh:c][eo:d][fo:e][en:f][cl:g][dk:h][ck:i][dg:j][dh:k][fp:l]C[If B81 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is no good.]
+;W[do];B[dk];W[ck];B[cj];W[dj];B[ek];W[bk];B[el]LB[ci:a]C[If B89 at 'a', then W89, Black's territory is inadequate.];W[bh];B[ch];W[ci];B[bg]
+;W[bj];B[ah];W[dm];B[bo];W[bn];B[bp];W[fb];B[fc];W[eb];B[gb];W[fn]LB[bm:a]C[W104 prevents Black from trying to kill White by playing at 'a' .];B[hj]
+;W[kg];B[lh]LB[qg:a][ll:b]C[B107: If Black plays at 'a', then W 'b', Black is no good.];W[li];B[kk];W[je];B[jd];W[kd];B[kc];W[nk];B[ll];W[pg]C[W116 is huge.]
+;B[ph];W[og];B[ng];W[qg];B[bc];W[bb];B[bd];W[ab];B[oh];W[qh];B[ir];W[gm];B[ls]
+;W[jr];B[js];W[mr];B[pb];W[hl]C[W134 ensures the safety of the big dragon on the left side.];B[gk];W[kn];B[ln];W[km];B[ql];W[ga];B[ha];W[fa]
+;B[hb];W[gp];B[hp];W[gq];B[gr];W[fq];B[go];W[fo];B[fp];W[ho];B[fr];W[gn]C[After W154, Black already has no chance of winning.];B[rk]
+;W[rj];B[rl];W[dh];B[dg];W[pi];B[sj];W[ri];B[an];W[bm];B[ke];W[kf];B[le];W[ml]
+;B[mk];W[ol];B[mm];W[om];B[ip];W[nm];B[ec];W[db];B[ra];W[nn];B[mn];W[jp];B[ik]
+;W[ml];B[lm];W[mj];B[nl];W[mp];B[mo];W[ml];B[lk];W[jj];B[jk];W[rn];B[eq];W[go]
+;B[oi];W[oj];B[jm];W[np];B[oo];W[jn];B[im];W[gl];B[ij];W[em];B[ji];W[kj];B[kh]
+;W[jh];B[ii];W[ed];B[ms];W[ns];B[ks];W[am];B[ao];W[aj];B[ai];W[gi];B[fk];W[fd]
+;B[fe];W[ee];B[gd];W[ac];B[ad];W[pf];B[nf];W[lf];B[mf];W[iq];B[io];W[in];B[nl]
+;W[hr];B[hs];W[ml];B[eo];W[en];B[nl];W[dp];B[cq];W[ml];B[cn];W[dn];B[nl];W[jo]
+;B[hr];W[ml];B[sb];W[rd];B[nl];W[il];B[jl];W[ml]C[Yamashita Keigo won the right to challenge.])
+(;B[oj];W[ok];B[nk];W[oi];B[ni];W[mj];B[pj];W[oh];B[qk];W[ng];B[lq]))
+(;B[lo];W[lq];B[nj];W[pi];B[qf];W[re];B[oh];W[qg];B[jh]))
+(;B[df];W[ee];B[cd];W[ef];B[dg];W[eg];B[cc];W[fc];B[gb];W[dh]))
+(;W[de];B[df];W[ee];B[cd];W[cc];B[ef];W[ff];B[fe];W[ec];B[eh])) 

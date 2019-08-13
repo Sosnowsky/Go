@@ -1,0 +1,32 @@
+(;SZ[19]EV[Japan 23rd NEC Cup final]DT[2004-03-06]PC[Tokyo, Japan]PB[Kobayashi Koichi]BR[9p]PW[Mimura Tomoyasu]WR[9p]KM[6.5]RE[B+2.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[cp];B[eq];W[ip]
+;B[en];W[cm];B[kp];W[in];B[dl];W[dm];B[em];W[el];B[co];W[dp];B[cn];W[dn];B[do]
+;W[eo];B[ep];W[fo];B[bp];W[fm];B[bm];W[fn]C[Through W26, the variation is one joseki.];B[fc]LB[bl:a][bo:b][bn:c][bq:d][ao:e][dr:f][er:g][cq:h][ar:i][fr:j]C[B27: In the past, Black used to extend at 'a', but nowadays taking tenuki is often seen, White is left with the tactic of W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j' to reduce liberties (see var a).]
+
+(;W[id];B[cc]LB[cf:a]C[If B29 at 'a', then White will play at 29, the fight would not be to Black's favor.];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf];W[qf];B[nc]
+;W[qo];B[np]C[B41 is a steady move.];W[pj];B[kc];W[of];B[ql];W[qq];B[qr];W[pp];B[oq];W[ol];B[ke]C[B51 is a mutual good point.]
+;W[qc]LB[eg:a]C[W52: White can consider to make the knight's move at 'a'.];B[qd];W[rd];B[pc];W[rb];B[qb];W[rc];B[fe]C[B59: Black starts to counterattack.];W[df];B[cg];W[gd]
+;B[fd];W[gb];B[gc];W[hb];B[fb];W[fa];B[hc];W[ic];B[jb];W[ib];B[if];W[jf]LB[hf:a][he:b][ie:c]C[If W74 at 'a', then B 'b', W 'c' and B74, Black can fight.]
+;B[je];W[ie];B[ig];W[ge];B[ff];W[hg];B[eh];W[ih];B[jg];W[fg];B[eg]
+(;W[gg]LB[fh:a][ef:b][bl:c][bn:d][dg:e][dh:f][ch:g]C[W86: For White to play at 'a' would be more severe, next B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', White can fight (see var a).];B[ef];W[kf]LB[jh:a]C[W88: White is not bad either if pressing at 'a'.];B[lf];W[kg]
+;B[qj];W[lg];B[pi];W[le];B[ld];W[mf];B[pk]C[Through B97, Black obtains some profit on the right side.];W[rr]C[W98: White seeks compensation.];B[rq];W[rp]C[W100: White initiates a ko fight, because White's ko threats are rich, Black is difficult to play.];B[qp];W[bl]
+;B[bn];W[qq];B[da];W[ea];B[qp];W[md];B[mc];W[qq];B[iq];W[sq]LB[pr:a][dg:b]C[W112 is somewhat soft-hearted, White should answer at 'a' to continue playing the ko, because White has the ko threat of pushing at 'b', Black is not good.];B[cj]LB[hq:a]C[B113 is a mistake, Black should play at 'a'.]
+;W[oj];B[ok];W[nk];B[qh];W[jq]C[W118 is a strong move, Black sinks into a bitter battle.];B[jp];W[kq];B[lq];W[ir];B[hq];W[lr];B[mq];W[hr]
+;B[gq];W[mr];B[nr];W[gr];B[fr];W[gs];B[ms];W[kr];B[js];W[is];B[ls];W[jr]C[Through W138, White clearly gains.];B[kn]
+
+(;W[ck]LB[nj:a][rm:b][rl:c][ri:d][rh:e][rj:f]C[W140: White should first play at 'a', if Black takes tenuki, then W 'b', B 'c', W 'd', B 'e' and W 'f', Black would be dangerous (see var a).];B[nj]C[B141 is a game-deciding move.];W[lo]LB[dr:a][dq:b]C[W142: White should first play at 'a', now Black can only answer at 'b', then W142.];B[ln]
+;W[mo];B[ns];W[ko]LB[ks:a]C[W146: White should simply take at 'a'.];B[jo];W[jn];B[lp];W[ks];B[nn];W[mn];B[mm];W[lm];B[km]
+;W[nm];B[ll];W[no];B[mk]C[B159 is completely an unexpected fortune!];W[oo];B[io];W[bj]LB[hp:a][hn:b][gp:c][im:d]C[If W162 at 'a', then B 'b', W 'c' and B 'd', Black is favorable.];B[ci];W[nl]
+;B[mi];W[hn];B[ho];W[lj];B[mj];W[dr];B[er]C[Through B171, the improperness of W142 can be easily seen.];W[pb];B[ob];W[qa];B[lb]C[After B175, Black's small victory already can't be overturned.];W[ag]
+;B[bh];W[ah];B[be];W[jl];B[gi];W[hi];B[li];W[ki];B[dk];W[ek];B[dj];W[cl];B[kj]
+;W[kk];B[lk];W[jj];B[rn];W[am];B[cq];W[an];B[dq];W[fi];B[jm];W[il];B[kh];W[ji]
+;B[fh];W[gh];B[lh];W[jh];B[mg];W[hf];B[fj];W[gj];B[ej];W[rg];B[rh];W[jc];B[kd]
+;W[ja];B[ne];W[qm];B[rm];W[qn];B[fk];W[sh];B[si];W[sg];B[pl];W[ri];B[rk];W[sj]
+;B[pm];W[pn];B[om];W[on];B[pr];W[oe];B[nd];W[oh];B[oi];W[gl];B[rs];W[ro];B[ao]
+;W[al];B[qe];W[re];B[kl];W[lj];B[im];W[hm];B[kj];W[jk];B[gk];W[hk];B[kb];W[af]
+;B[ei];W[ng];B[mh];W[fs];B[es];W[gp];B[go];W[fp];B[hp];W[nf];B[pg];W[me];B[nh]
+;W[og];B[qg];W[pf];B[sk];W[ae];B[ad];W[gi];B[fl];W[em];B[ka];W[bi];B[ia];W[dg]
+;B[dh];W[bg];B[ch];W[od];B[oc];W[hd];B[oa];W[sn];B[sm];W[so];B[gn];W[gm];B[pa]
+;W[qb];B[lj];W[nn];B[ml];W[sr]C[Kobayashi Koichi 9p won the champion.])
+(;W[nj];B[cl];W[rm];B[rl];W[ri];B[rh];W[rj]))
+(;W[fh];B[ef];W[bl];B[bn];W[dg];B[dh];W[ch]))
+(;W[bo];B[bn];W[bq];B[ap];W[dr];B[er];W[cq];B[ar];W[fr])) 

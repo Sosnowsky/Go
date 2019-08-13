@@ -1,0 +1,22 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 22]KM[6.5]DT[2004-05-06]PB[O Meien]BR[9p]PW[Cho Chikun]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[dp];W[pq];B[de];W[ce];B[df]
+;W[cf];B[dd];W[cd];B[ec];W[dg];B[cc];W[db];B[bc];W[cb];B[cg];W[ch];B[bb];W[eb]
+;B[bg];W[bf];B[bh];W[bd]
+(;B[fc]LB[ci:a][fe:b][eg:c][ff:d]C[B25 is a popular play recently, in the past, the common sequence is B 'a', W 'b', B 'c', W25 and B 'd' (see var a).];W[eg];B[fe];W[ci];B[ba];W[fb]LB[gb:a][gc:b][hb:c][ic:d][ib:e][ff:f][gd:g][hc:h][gf:i][he:j][ge:k][hf:l][gg:m][jb:n]C[After W30, if B 'a', W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black will collapse (see var a).]
+
+(;B[bi];W[bj];B[cj];W[dj];B[ck];W[bk];B[dk];W[cl];B[dl];W[cm];B[gb];W[gc];B[hb]LB[ic:a][fg:b][fh:c][gg:d][hc:e][ef:f][eh:g][ib:h][jb:i][jc:j]C[After B43, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is no good (see var a).]
+
+(;W[ff]LB[gg:a][hd:b][dm:c]C[W44: White should play at 'a', next B 'b' and W 'c'.];B[gd];W[dm]LB[hf:a][id:b]C[W46: White makes mistake again, White should first jump to 'a', after B 'b', then W46.];B[ej];W[dh];B[gf]C[B49 is the vital point, Black is favorable for the game.];W[gg]
+;B[hf];W[hg]LB[oc:a]C[W52: For White to approach the corner at 'a' is better.];B[ig];W[if];B[jf];W[ie]LB[ed:a][fd:b]C[W56: White should first play at 'a', after B 'b', then W56, it makes two-point difference from the game.];B[hc];W[ih]LB[jg:a][kf:b][gh:c]C[if W58 at 'a', then B58, W 'b' and B 'c', White is no good.]
+;B[jg];W[hi];B[od];W[fq];B[jh]C[Black's play following B63 is very bold.];W[ji];B[ki];W[jj];B[kj];W[jk];B[kk];W[kl];B[ll]
+;W[lm];B[ml];W[dr];B[ho];W[mm]LB[km:a][hq:b][fo:c][kq:d]C[If W76 at 'a', then B 'b', W 'c' and B 'd', Black is favorable.];B[km];W[jl];B[nm];W[mo]
+;B[nl];W[hq];B[iq];W[ko];B[hp];W[gq];B[jp];W[lq];B[fo];W[cq]LB[gn:a][fp:b][em:c]C[If W90 at 'a', then B 'b', W90 and B 'c', White is difficult to kill White.]
+;B[fm]LB[gm:a][em:b]C[B91 is a good move, if Black plays at 'a', then W 'b', Black looks thin and weak.];W[gn]LB[hm:a][em:b]C[If W92 at 'a', then B 'b', Black's eye shape is abundant.];B[jo];W[in];B[hn];W[jn];B[gm];W[em]
+
+(;B[en]LB[kq:a][eq:b][er:c][dn:d][ep:e][el:f][fl:g][di:h][fk:i][fj:j][gj:k][gk:l][gl:m][hl:n][hk:o][cn:p][cp:q][bm:r][bl:s][bn:t][al:u][bp:v]C[After B99, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p', W 'q', B 'r', W 's' and B 't', next 'u' and 'v' becomes miai, White can't kill Black (see var a).]
+)
+(;B[en];W[kq];B[eq];W[er];B[dn];W[ep];B[el];W[fl];B[di];W[fk];B[fj];W[gj];B[gk]
+;W[gl];B[hk];W[hl];B[cn];W[cp];B[bm];W[bl];B[bn]))
+(;W[ic];B[fg];W[fh];B[gg];W[hc];B[ef];W[eh];B[ib];W[jb];B[jc]))
+(;B[gb];W[gc];B[hb];W[ic];B[ib];W[ff];B[gd];W[hc];B[gf];W[he];B[ge];W[hf];B[gg]
+;W[jb]))
+(;B[ci];W[fe];B[eg];W[fc];B[ff])) 

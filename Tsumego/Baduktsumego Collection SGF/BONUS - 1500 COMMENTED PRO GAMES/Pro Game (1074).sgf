@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 16th Women Meijin title match 1]DT[2004-02-25]KM[6.5]PC[Japan]PB[Kobayashi Izumi]BR[5p]PW[Inori Yoko]WR[5p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[pd];W[dd];B[pq];W[dp];B[qo];W[fq]LB[jq:a][kq:b]C[W6: For Black to extend at 'a 'or 'b' is rather common.]
+;B[cj];W[ch];B[cm];W[nc];B[qf];W[pb];B[pj];W[kq];B[lc];W[qc];B[oc];W[ob];B[nd]
+;W[md];B[mc];W[nb];B[jd];W[nq];B[me];W[fc]LB[co:a][cf:b][di:c]C[W26: White can also consider to play at 'a', then B 'b' and W 'c'.];B[bp];W[cl];B[bl]
+;W[co];B[dl]LB[bo:a][cn:b][bn:c][dm:d]C[If B31 at 'a', then W 'b', B 'c' and W 'd', Black can't tolerate.];W[bo];B[iq]LB[cq:a][dq:b][lp:c][lq:d][np:e]C[B33 is an overplay, Black should play at 'a', then W 'b', B 'c', W 'd' and B 'e', Black can fight.]
+;W[jo];B[io];W[jn];B[in];W[jm];B[im];W[jl];B[cq];W[dq]C[Through W42, we can see the exchange from B33 to W40 is clearly damaging for Black.];B[dr];W[br];B[cr];W[er]
+;B[bs]C[After this move, it is time for noon break.];W[em];B[el];W[gl]C[The cut of W50 is very severe.];B[il];W[ik];B[fm];W[gm];B[hk];W[fl];B[hl];W[ar]
+;B[ap];W[fj]C[After W60, Black is all not stable on the right and left side.];B[ij];W[jk];B[dh];W[cg];B[ci];W[bn];B[ds];W[fh];B[fn];W[gn];B[fo]
+;W[hp];B[dn]LB[ip:a]C[If B73 at 'a', then White will play at 73, Black is no good.];W[ip];B[jp]C[B75: Black has no other choice.];W[go];B[kp];W[lp];B[ko];W[lo]LB[jq:a][mp:b]C[W80: For White to cut at 'a' is already very adequate, next B80 and W 'b'.]
+;B[kn];W[ln];B[jq];W[km];B[lq];W[lr];B[kr];W[mr];B[gr];W[gq];B[hr];W[fr];B[mp]
+;W[mq];B[lm]
+(;W[mn]LB[no:a][mm:b][nn:c][jj:d][kk:e][lj:f]C[If W96 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White would get captured (see var a).];B[mm];W[nn];B[ki];W[ll];B[kk];W[lj]
+;B[jj];W[kl];B[nm];W[om];B[nl];W[lk];B[on];W[oo];B[mi];W[nk];B[ol];W[li];B[lh]
+;W[ni];B[pm];W[np];B[mj];W[mk];B[nj];W[oj];B[mh];W[ok];B[pk];W[oi];B[pi]
+(;W[ng]LB[og:a][hi:b][of:c][hj:d][gk:e][fk:f][ji:g]C[W128: White should play at 'a', then B 'b' and W 'c', Black at the lower side clearly would get killed in the capturing race, White can win the game easily (see var a); Moreover if Black doesn't reinforce at 'b', then W 'd', B 'e', W 'b', B 'f' and W 'g', Black would be no good (see var b).];B[gi];W[oe]LB[pg:a]C[W130 again is a mistake, White certainly should jump to 'a' to strengthen, Black at the bottom would still get killed.];B[og]C[B131 is the vital point.]
+;W[pg];B[oh];W[nh];B[nf]C[After B135, White's liberty is clearly tight.];W[mg];B[kg];W[kf];B[jf];W[ke];B[je]LB[ph:a][lg:b]C[B141: Black should connect at 'a', then W141 and B 'b', White would get killed.]
+;W[of];B[ph];W[ne];B[ld];W[mf];B[od];W[kj];B[jh];W[ce];B[pf];W[lf];B[pe];W[js]
+;B[ks];W[is];B[rd];W[rc];B[hq];W[gs];B[hs];W[fs];B[nf];W[kq]C[Through W164, it leads to a ko fight, the situation is still to Black's advantage.];B[cc];W[qp];B[pp]
+;W[po];B[ro];W[qn];B[rn];W[eb];B[lq];W[pn];B[kd];W[ls];B[lg];W[kq];B[be];W[bf]
+;B[lq];W[ig];B[jg];W[kq];B[bd];W[jr];B[bb]C[After B187, White already has no chance of winning.];W[qm];B[dc];W[ed];B[sc];W[sb];B[sd]
+;W[rb];B[hc];W[db];B[cb];W[ql];B[df];W[dg];B[ef];W[ff];B[fe];W[gf];B[ee];W[gd]
+;B[cf];W[bg];B[eg];W[eh];B[di];W[bi];B[af];W[ae];B[ad];W[ah];B[ae];W[ag];B[aj]
+;W[bj];B[ak];W[rq];B[qq];W[rr];B[rp];W[qs];B[or];W[hj];B[gj];W[hi];B[hh]C[The title match 2 will take place on 3/2.])
+(;W[og];B[hi];W[of])
+(;W[og];B[pg];W[hj];B[gk];W[hi];B[fk];W[ji]))
+(;W[no];B[mm];W[nn];B[jj];W[kk];B[lj])) 

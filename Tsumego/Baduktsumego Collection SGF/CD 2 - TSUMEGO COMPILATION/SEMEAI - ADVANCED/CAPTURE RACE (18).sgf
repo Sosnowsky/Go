@@ -1,0 +1,62 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ch][dc][dd][de][dg][eb][ee][fb]
+AW[cb][db][ec][ed][gc][ge][hb]PL[B]C[Black to play.
+
+Capture race - Reduce Opponent's Liberties
+
+Source: Igo Hatsuyo-ron.]
+;B[bb]
+(
+;W[cc]
+;B[bc]
+;W[cd]
+;B[bd]
+;W[ce]
+;B[cf]
+;W[be]
+(
+;B[ba]
+;W[gb]
+;B[ca]
+;W[da]
+(
+;B[ae]C[RIGHT
+])
+(
+;B[bf]C[RIGHT
+]))
+(
+;B[bf]
+;W[ba]
+(
+;B[ae]
+;W[ad]
+;B[ac]
+;W[ab]C[Ko Fight])
+(
+;B[ab]
+;W[ad])
+(
+;B[ad]
+;W[ae]
+;B[ab]
+;W[gb]
+;B[da]
+;W[ca]
+;B[af]
+;W[ea]
+;B[fa]
+;W[ga]
+;B[da]C[Ko Fight])))
+(
+;W[bc]
+;B[cc]
+;W[ba]
+;B[ab]
+;W[ac]
+;B[da]
+;W[aa]
+;B[bb]
+;W[ab]
+;B[ea]C[RIGHT
+]))

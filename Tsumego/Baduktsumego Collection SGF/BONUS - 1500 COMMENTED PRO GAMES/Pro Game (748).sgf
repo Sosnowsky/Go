@@ -1,0 +1,22 @@
+(;SZ[19]EV[16th Fujitsu Cup round 2]DT[2003-04-14]KM[6.5]PC[Tokyo, Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Hane Naoki]BR[9p]PW[Lee Sedol]WR[6p]RE[W+R];B[qd];W[dp];B[pp];W[dd];B[oc];W[qj]
+;B[cj];W[cl];B[cf];W[ch];B[bh]LB[ef:a]C[B11 is rarely seen nowadays, the usual play is to jump at 'a'.];W[bg]LB[fc:a]C[W12: White initiates a direct confrontation, it is a fierce move, to make the knight's move at 'a' is a steady play.];B[cg];W[bi]
+(;B[bf]LB[dh:a][ci:b][di:c][bj:d][bd:e]C[B15: If Black ataris at 'a', then W 'b', B 'c', W 'd', B 15 and W 'e', White can not be satisfied (see var a).];W[ci];B[cc];W[cd];B[dc];W[bc];B[ed]LB[bb:a][bd:b]C[B21 is a good sequence play, if Black first exchanges B 'a' for W 'b', it would help White.]
+(;W[de]LB[ee:a][fd:b][df:c][bd:d]TR[ed]C[W22: If White hanes at 'a', then Black will draw back at 'b', White still need to connect with W22, if White hangs at 'c', then Black can cut at 'd', White is no good (see var a), this is also the reason why Black just simply hanes with the marked stone earlier.];B[fd];W[eg];B[dg]LB[ef:a][ee:b]C[B25: If Black crosscuts at 'a', then White can push at 'b', Black is no good.]
+(;W[ef]LB[eh:a][df:b][bd:c][be:d][ad:e]C[W26: If White draws back at 'a', then B 26, W 'b', B 'c', W 'd' and B 'e', White is no good (see var a).];B[dh];W[fi];B[eh];W[fh];B[ej];W[bj];B[fj]
+;W[hd];B[gg]LB[he:a]C[B35: Black can also consider to attach out at 'a'.];W[gf];B[hf];W[ge];B[fg];W[hg];B[gh];W[ff];B[bb];W[bd];B[hc]
+;W[gi];B[hh];W[gc]C[W48 is a good move.];B[gd];W[he];B[ih];W[gj];B[gk];W[ij];B[fl];W[hb]C[W56: White is ferocious and ruthless.];B[ic]
+;W[gb];B[ib];W[ec];B[fc];W[eb];B[fb];W[cb]C[Through 64, an exchange results, White has gained some territory but Black obtains sente, the outcome of the game is still not clear.];B[il];W[kj];B[kh];W[ke];B[je];W[jd]
+;B[kc];W[jl];B[jm];W[im];B[hl];W[jk]
+(;B[km]LB[in:a][hm:b][hn:c][gm:d][fo:e]C[B77: Black takes a big risk, for Black to capture at 'a' is the proper move, if White escapes at 'b', then B 'c', W 'd' and B 'e', White would be killed (see var a).];W[in]C[After W78, Black is difficult.];B[mi]C[After 79, it leads to a chaotic fight.];W[mj];B[nj];W[mk];B[ni]
+;W[mm];B[ko];W[mo];B[io]C[B87 is the game-deciding move.];W[gn];B[gm];W[jn];B[kn];W[jo];B[jp];W[ip];B[iq];W[ho]
+;B[gp];W[fn];B[kq]C[Through 99, Black has successfully settled the low side, if White can not adopt an efficient attack on the left-side black stones, the game would be favorable to Black.];W[ek];B[fk];W[ah];B[dl]
+(;W[dk]LB[dm:a][em:b][dn:c][ck:d][bk:e][en:f]C[W104 is strong and brutal , the hane move at 'a' is commonsense, followed by B 'b', W 'c', B 'd', W 'e' and B 104, Black can live and Black is also left with the tactic of pushing at 'f', White is no good (see var a).];B[el];W[ck];B[dn];W[eo];B[cp]LB[cm:a][co:b]C[B109: If Black hangs at 'a', then W 'b', Black is no good.]
+;W[cq];B[co];W[cm];B[en];W[bq];B[hm];W[hn];B[eq];W[dq];B[ep];W[fo];B[do]C[Through 121, White seems to have sunk into a difficult situation.];W[fp]
+;B[fq];W[hq];B[gq];W[ir];B[dr];W[cr];B[er];W[bp];B[bo];W[ap]LB[gr:a][ar:b]C[W132 is wonderful! If White simply hanes at 'a', then B 'b', White would die in the capturing race.];B[ar]
+;W[ao];B[bn];W[an];B[bm];W[am];B[bl];W[al];B[bk];W[ak]C[After W142, Black could not look after both the left side and the lower side, Lee Sedol's deep and thoughtful calculation wins everybody's admiration!];B[jq];W[hp];B[gr];W[hr]
+;B[fs];W[lp];B[kp];W[ds];B[hs];W[jr];B[kr];W[js]LB[dj:a][mq:b]C[After W154, 'a' and 'b' become miai, White is sure to get one, Black has to concede defeat.])
+(;W[dm]C[If White plays the common hane move ...];B[em];W[dn];B[ck];W[bk];B[dk]C[Black could make life.]))
+(;B[in]C[Black should atari here.];W[hm]C[If White runs out ...];B[hn];W[gm];B[fo]C[Black can kill White.]))
+(;W[eh]C[If White retreats here ...];B[ef];W[df];B[bd];W[be];B[ad]C[White would die.]))
+(;W[ee]C[If Black hanes here];B[fd];W[df];B[bd]C[Black can cut, this would be bad for White.]))
+(;B[dh]C[If Black ataris here ...];W[ci];B[di];W[bj];B[bf];W[bd]C[Black would not be happy.])) 

@@ -1,0 +1,37 @@
+(;SZ[19]EV[1st Jeongganjang Cup Women Go Contest final game 2]DT[2003-03-09]KM[6.5]PB[Zhang Xuan]BR[8p]PW[Rui Naiwei]WR[9p]PC[Seoul, Korea]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[fq];W[hq]
+;B[cf];W[fc];B[cn];W[fp];B[cq];W[dq];B[cp];W[do];B[cr]LB[co:a]C[B15: Black aims to obtain sente, if Black connects at 'a', then White would tenuki and play somewhere else.];W[dr]LB[cl:a]C[If W16 is omitted, then Black's turn at 16 is very big, in the game although White ends in gote, but afterwards, White's forcing move at 'a' is kind of sente.]
+;B[qo];W[qf];B[pi];W[nc];B[pf];W[pg];B[of];W[qd]LB[qe:a]C[W24: For White to extend at 'a' is the usual play.];B[qc]LB[qe:a]C[B25: For Black to wedge at 'a' is also playable.];W[qe]
+;B[pc];W[og];B[md];W[qh]LB[pe:a]C[W30: White prepares to push at 'a' later on.];B[qi];W[mc];B[nd];W[ld];B[ng];W[oh];B[jd]LB[nj:a]C[B37 is no better than the knight's move at 'a'.]
+;W[ke];B[mh]LB[mf:a]C[B39: For Black to simply hang at 'a' is better.];W[oi];B[pk];W[ok];B[pl];W[me];B[ne];W[pe];B[mf]LB[od:a]C[B47: Black's connecting at 'a' is the proper play.]
+;W[od];B[oc];W[oe];B[le];W[nf];B[of];W[kd];B[kf];W[je];B[ob];W[jf];B[kg]C[As for the result up to 59, Black is a little dissatisfied.];W[ce]
+;B[df];W[di];B[eh];W[cl];B[co];W[dh];B[eg];W[fj];B[hh];W[ge];B[hf];W[gg];B[gh]
+;W[oq]C[W74 seems unreasonable.];B[mq]C[The counterattack of B75 is very severe.];W[pr];B[qq];W[qr];B[rr];W[nq];B[mp];W[no];B[iq]C[After this move, it is time for noon break.];W[ir];B[jq]
+;W[jr];B[hp];W[kq]LB[gq:a]C[W88: White has no certainty of success, retreating at 'a' is the proper move.];B[kp];W[kr];B[gq];W[hr];B[gp]C[Through 93, White can not be satisfied.];W[lp];B[fo];W[em]
+;B[fm];W[fl];B[gl];W[gm];B[fn];W[el];B[mo];W[jp];B[nr];W[or];B[mr];W[po];B[qn]
+;W[nn];B[ko];W[ip];B[nl]C[Through B113, both the upper and lower White's groups are not stable, it seems that Black can fight.];W[nm];B[nk];W[lm];B[kn];W[in];B[jm];W[lk];B[kl];W[nj]
+;B[hm];W[gk];B[hl];W[gr];B[np];W[op];B[cc];W[be];B[fd]C[B131 is a good move, White is difficult to answer.];W[gd];B[ec];W[ed];B[fe]LB[dc:a][gc:b][eb:c][fb:d][hd:e][hc:f][he:g][gb:h][ic:i][jc:j][hb:k]C[After B135, if White ataris at 'a', then B 'b', W 'c', B 'd', W 133, B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', this would be bad for White (see var a).]
+
+(;W[gc];B[dc];W[bf];B[gf];W[eb];B[db];W[fb];B[bg];W[cg];B[id]C[After B145, White on the upper side has a very bad aji.];W[ie];B[ee]LB[bd:a][bb:b][bh:c]C[B147: Black has obviously miscalculated, Black should play at either 'a' or 'b', because Black can extend to 'c', White couldn't kill Black.]
+;W[bb]LB[bh:a]C[W148 is questionable, White should play at 'a', Black's corner is dead unconditionally, White would win the game for sure.];B[he]LB[jb:a]C[B149 is a mistake, Black should jump to 'a', White is very hard to reply.];W[jb]C[W150 is a good move, Black apparently has overlooked this move.];B[hd]LB[ib:a][ic:b]C[B151: If Black attaches at 'a', then White will wedge at 'b', Black is no good.];W[ib];B[ab]C[B153 is a good move to live.]
+
+(;W[bh]LB[ba:a][bi:b][cd:c][de:d][bd:e][bc:f][ch:g][ah:h][dg:i][ag:j]C[W154: If White stands at 'a', then B 154, W 'b', B 'c', W 'd' and B 'e', this would be bad for White (see var a); If White extends to 'f', then B 'c', W 'd', B 'e', W 154 and B 'a', a ko results (see var b). However, W154 is not the right move either, White should squeeze at 'c', followed by B 'f', W 'a', B 154, W 'b', B 'g', W 'h', B 'i' and W 'j', this way the game would be in the bag for White (see var c).];B[ba];W[bc];B[cd]
+;W[de];B[bd];W[ac];B[ad]C[Through 161, it leads to a ko fight, the game has been turned around.];W[aa];B[mj];W[mk];B[ab];W[ln];B[lo];W[aa];B[ni];W[oj]
+;B[ab];W[bm]
+(;B[fr]LB[bn:a][cb:b][ao:c][ap:d][an:e][bo:f][ar:g][bq:h][aq:i]C[B173 is a mistake, Black should simply block at 'a' or eliminate the ko at 'b', afterwards, if White knights at 'c', then B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', although it becomes a ko, but Black's ko threats are obviously favorable, this way Black would win the game (see var a).];W[es]C[W174 is a good move.];B[dn];W[en]
+;B[eo];W[fs];B[bn]LB[cs:a]C[Through 179, Black not only has lost several ko threats, and also White is left with the tactic of the hane move at 'a', Black has apparently suffered some losses.];W[aa];B[ol];W[lj];B[ab];W[jk];B[kk];W[kj];B[ij];W[jj]
+;B[jl];W[ik];B[hn];W[aa];B[ml];W[ll];B[ab];W[ig];B[jg];W[aa];B[lc];W[kc];B[ab]
+;W[ih];B[ii];W[jh];B[hg];W[aa];B[mi];W[kh];B[lh];W[ri];B[rj];W[rg];B[ab];W[jn]
+;B[km];W[aa];B[hk];W[if];B[ab];W[cs];B[br]TR[fr]C[B221: Black is painful, which is all caused by the improperness of the marked black stone.];W[aa];B[ks];W[js];B[ab];W[bs]
+;B[bp];W[aa];B[gs];W[hs];B[ab];W[lg];B[lf];W[aa];B[dg];W[ag];B[ab];W[pf];B[nf]
+;W[aa];B[ji];W[ki];B[ab];W[il];B[im];W[aa];B[ch];W[ci];B[ab];W[aq];B[ar];W[aa]
+;B[si];W[rc];B[rb];W[rd];B[ab];W[lb]C[White is very happy with the ko threat of W258.];B[sb];W[aa];B[rh];W[ph];B[ab];W[nb];B[oa]
+;W[aa];B[sg];W[sf];B[ab];W[qb];B[qa];W[aa];B[se];W[rf];B[ab];W[ra];B[pb];W[aa]
+;B[sc];W[sd];B[ab];W[rq];B[rp];W[aa];B[mn];W[mm];B[ab];W[sq];B[sp];W[aa];B[cb]
+;W[ca];B[da];W[ea];B[ba];W[qp];B[sr];W[ca];B[on];W[oo];B[ba];W[an];B[dl];W[dk]
+;B[dm];W[ek];B[ao];W[ca];B[ck];W[ae]C[After White eliminates the ko with W310, Black already has no chance of winning.];B[bk];W[bj];B[bl];W[pp];B[rq];W[hj];B[hi]
+;W[gj];B[ei];W[ej];B[fg];W[pj];B[qj];W[sh]C[The series is tied at 1:1, the decisive game 3 will take place on 3/11.])
+(;B[cb];W[ao];B[ap];W[an];B[bo];W[ar];B[bq];W[aq]C[It would lead to a ko fight but Black's ko threats are favorable.]))
+(;W[ba];B[bh];W[bi];B[cd];W[de];B[bd]C[White would be dead.])
+(;W[bc];B[cd];W[de];B[bd];W[bh];B[ba]C[This would be a ko.])
+(;W[cd];B[bc];W[ba];B[bh];W[bi];B[ch];W[ah];B[dg];W[ag]))
+(;W[dc];B[gc];W[eb];B[fb];W[ec];B[hd];W[hc];B[he];W[gb];B[ic];W[jc];B[hb]C[White would be no good.])) 

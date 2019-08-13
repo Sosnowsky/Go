@@ -1,0 +1,30 @@
+(;SZ[19]EV[CJK 4th CSK Cup Asian Team Contest round 3]DT[2005-05-03]PC[Seoul, Korea]KM[6.5]PB[Gu Li]BR[7p]PW[Lee Sedol]WR[9p]RE[W+2.5]C[Simple commentary,
+Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dp];B[pp];W[dd];B[pj];W[nc]
+;B[pf];W[pb];B[jp];W[hq];B[cf];W[ch];B[ef];W[ce];B[bf];W[fd];B[di];W[nq];B[oq]
+;W[np];B[pn];W[dh];B[ci];W[ei];B[bh];W[ej];B[lp];W[qq];B[or];W[qo];B[po];W[qn]
+;B[qp];W[rp];B[rq];W[rr];B[qm];W[io];B[km];W[eg];B[de];W[cd];B[bj];W[ff];B[cm]
+;W[jd];B[qc];W[ld];B[hc];W[jc];B[hg];W[he];B[lg];W[kk];B[ik];W[jl];B[hm];W[il]
+;B[hl];W[hk];B[ep];W[eo];B[fo];W[eq];B[fp];W[fq];B[do];W[cp];B[ij];W[gk];B[ih]
+;W[jn];B[hn]LB[kn:a][fg:b]C[After B73, if W 'a', then B 'b', White is not good.];W[hi]LB[ii:a][kn:b][fg:c][gg:d][fh:e][gf:f][gh:g][hh:h][eh:i][gi:j][dg:k][ig:l]C[After W74, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is not good (see var a).]
+
+(;B[hj];W[kn]LB[fg:a][gg:b][fh:c][gi:d][gh:e][ii:f][gf:g][fe:h][ji:i][hh:j][ig:k][jj:l]C[After W76, if B 'a', then W 'b', B 'c', and W 'd', making a miai of 'e' and 'f', White must get one to play, Black is not good (see var a). Moreover, when W 'b', if Black plays at 'g' instead, then W 'c', B 'h', W 'f', B 'i' and W 'j', making a miai of 'k' and 'l', White will get one to play, Black is not good either.]
+
+(;B[gj]LB[fg:a][ip:b]C[After B77, if W 'a', then B 'b', White is not good.];W[en]LB[dn:a][ho:b][fg:c][em:d]C[After W78, B 'a', then W 'b', 'c' and 'd' become miai, Black can't be satisfied.];B[fn];W[lm];B[fg];W[em]LB[cn:a][fk:b][el:c][fl:d][ek:e][fm:f][fj:g][co:h][dn:i][dk:j][dl:k][cl:l][dm:m][bm:n]C[After W82, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black will be captured (see var a).]
+
+(;B[ip];W[hp];B[fk];W[cn]C[Through W86, White is successful in the fight.];B[gf];W[ek];B[el];W[dl];B[fl];W[dm];B[fe];W[bg];B[fc]
+;W[ed];B[eb];W[ah];B[cb];W[bi];B[gd];W[lo];B[lq];W[mo];B[nr];W[db];B[dc];W[gb]
+;B[hb];W[qb];B[mk];W[jr];B[kr];W[jq];B[ka];W[kb];B[nd];W[md];B[nf];W[cc];B[da]
+;W[bb];B[ba];W[ec];B[fb];W[db];B[ca];W[ge];B[df];W[ia];B[jb];W[ib];B[ic];W[ja]
+;B[ie];W[id];B[hd];W[ha];B[hf];W[sq];B[rm];W[rc];B[rd];W[sb];B[ll];W[mm];B[kl]
+;W[jm];B[jk];W[nk];B[nj];W[ok];B[ml];W[nl];B[mi];W[pk];B[qk];W[mf];B[ne];W[lf]
+;B[mg];W[kg];B[kh];W[pc];B[qd];W[sd];B[re];W[af];B[be];W[sn];B[rn];W[ro];B[pm]
+;W[om];B[pr];W[qr];B[kp];W[se];B[sf];W[sc];B[rf];W[fh];B[iq];W[ir];B[kf];W[ke]
+;B[jf];W[ae];B[ad];W[ag];B[bd];W[fm];B[ho];W[pl];B[ql];W[gm];B[gl];W[gh];B[dg]
+;W[eh];B[me];W[le];B[on];W[nn];B[gc];W[ga];B[fa];W[la];B[js];W[oj];B[oi];W[hr]
+;B[sm];W[is];B[ks];W[ii];B[ji];W[od];B[oe];W[oc];B[ko];W[ln];B[gp];W[gn];B[go]
+;W[gq];B[gg];W[so];B[qs];W[rs];B[ps];W[mq];B[mr];W[kq];B[cg];W[gi];B[fj];W[je]
+;B[hh];W[jo];B[lr];W[mp];B[op];W[no];B[fi];W[oo])
+(;B[cn];W[fk];B[el];W[fl];B[ek];W[fm];B[fj];W[co];B[dn];W[dk];B[dl];W[cl];B[dm]
+;W[bm]))
+(;B[fg];W[gg];B[fh];W[gi]))
+(;B[ii];W[kn];B[fg];W[gg];B[fh];W[gf];B[gh];W[hh];B[eh];W[gi];B[dg];W[ig])) 

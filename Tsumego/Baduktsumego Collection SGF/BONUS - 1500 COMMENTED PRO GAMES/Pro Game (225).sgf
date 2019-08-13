@@ -1,0 +1,37 @@
+(;SZ[19]EV[4th Chunlan Cup fianl game 2]DT[2003-03-18]KM[7.5]C[Copyright by gogameworld.com and weiqi.tom.com.]BR[9p]WR[9p]PB[Lee Changho]PW[Hane Naoki]PC[Seoul, Korea]RE[B+R];B[qd];W[dc];B[cp];W[pp];B[eq];W[de]
+;B[jc]C[B7 is very rarely seen.];W[cj];B[qn]
+(;W[ql]LB[nq:a][pk:b][od:c][oe:d]C[W10: If White makes the knight's move at 'a', then B 'b', followed by White's approach at 'c' and Black's attachment at 'd', this variation is favorable for Black (see var a).]
+(;B[nq]LB[on:a][np:b][rp:c][qq:d][pi:e]C[B11 is plain and clear, if Black jumps to 'a', then after W 'b', B 'c', W 'd' and B 'e', it will easily lead to a fierce fight (see var a).];W[pn];B[qq];W[qp];B[pq];W[op];B[rq];W[rp]C[Through 18, it is a recently popular joseki.]
+;B[oc];W[cn]LB[qf:a]C[For W20 to check at 'a' may be better.];B[qk]C[B21 is tight.];W[pk];B[qj]
+(;W[pg]LB[pj:a][rl:b][qm:c][qi:d][pi:e][ph:f][oh:g]C[W24: If White presses at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 24, as a result, Black's territory is too big, White can not be satisfied (see var a).];B[pl]LB[pj:a]C[B25 is a good move, if Black simply turns at 'a', then White would connect at 25, Black couldn't make any other use.];W[ol];B[pj];W[pm]
+;B[nj]LB[rl:a]C[After B29, Black is still left with the hane at 'a'.];W[mg];B[rl];W[hc];B[ld];W[oe];B[od];W[pe];B[qm]C[Through 37, Black has succeeded in the fight on the right side.];W[eo]LB[mp:a]C[The play of W38 is questionable, White's jump at 'a' would be better.]
+;B[np];W[no];B[mo];W[nn];B[lp]LB[mp:a]C[B43: Black protects the cut at 'a'.];W[lm];B[be]C[B45: Black has many places to choose, the play in the game is brutal and unyielding. After this move, it is time for noon break.]
+(;W[ce]LB[cf:a][bf:b][bg:c][cb:d]C[W46: If White makes the diagonal extension at 'a', then B 'b', W 'c' and B 'd', White couldn't kill Black (see var a).];B[cc]C[B47 is the skip tesuji.]
+(;W[db]LB[cd:a][ch:b][bf:c][cb:d][ec:e][bc:f][cl:g]C[W48: If White hits at 'a', then Black could invade at 'b', followed by W 'c', B 48, W 'd', B 'e', W 'f' and B 'g', Black can fight (see var a).];B[ci]C[B49 is a good move.];W[di]C[W50 is the strongest answer.];B[cd]C[The sabaki after B51 is wonderful.];W[bf]
+;B[dd];W[ed];B[ee];W[fd];B[cf];W[df];B[cg];W[bd];B[dj]LB[ei:a][ck:b][bj:c][bk:d][bi:e][ch:f][dk:g][ej:h][fj:i][ek:j][dl:k][fi:l]C[B61 adds the finishing touch, White is very painful, if White extends to 'a', then Black would atari at 'b', followed by W 'b', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and Black's cut at 'l', White would collapse.]
+
+(;W[bi];B[ef]C[B63 makes White uncomfortable.];W[ae];B[dg];W[be];B[ch];W[ck];B[ei];W[dk];B[ej]C[Through 71, Black's reduction is successful.];W[fq];B[fr]
+;W[er];B[dr];W[ep];B[dq];W[gr];B[es];W[fh];B[eh]LB[gj:a]C[B81: Black can also consider to jump to 'a'.];W[fg];B[eg];W[gj];B[bh]
+
+(;W[gp]LB[fl:a][bj:b][bk:c][ai:d]C[W86: White should first seal Black with the knight's move at 'a', followed by B 'b', W 'c' and B 'd', then White can reinforce with 86 (see var a).];B[ek];W[lj]
+(;B[re]LB[qh:a][rd:b][qe:c][qc:d]C[B89: If Black makes the one-space extension at 'a', then W 'b', B 'c' and W 'd', Black has no certainty of success (see var a).];W[rh];B[rf]C[B91 is in good order.];W[ph];B[ri];W[kq];B[lq];W[el];B[gi]
+;W[hi];B[fl];W[fk];B[gd]C[B101 is very timely.];W[hh];B[gc];W[fe];B[bj];W[bk];B[ai];W[gb];B[hq];W[gq]
+;B[io];W[nd];B[nc];W[gl];B[hr];W[hs];B[is];W[gs];B[jr];W[bo];B[bp];W[ib];B[ff]
+;W[ge];B[hd];W[jb];B[ic];W[hb];B[kc];W[he];B[id]
+(;W[md]LB[ip:a][hp:b][ho:c][jp:d][in:e][jo:f][jn:g]C[W132: White should consider to crosscut at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', White could conceal the center territory and have a chance of winning (see var a).];B[mc];W[le];B[mi];W[li];B[ke];W[lf]
+;B[ak];W[bl];B[fc];W[fb];B[hn]C[After 143, Black is leading in the game.];W[ko];B[kp];W[im];B[hm];W[in];B[ho];W[fm]LB[hl:a]C[W150 is the last losing move, White certainly should blockade at 'a', perhaps White still have a chance.]
+;B[il];W[jl];B[hl];W[al];B[ec];W[cb];B[gf];W[if];B[aj];W[sq];B[rr]C[B161 is a safe play, White already has no chance of winning.];W[lb];B[lc]
+;W[kb];B[mb];W[rg];B[rn];W[jo];B[jp];W[jm];B[fn];W[en];B[ig];W[nk];B[oj];W[mj]
+;B[jf];W[ie];B[je];W[bc];B[nh];W[fs];B[br];W[sr];B[oq];W[er];B[co];W[bn];B[ds]
+;W[mh];B[ni];W[jg];B[kg];W[jh];B[kf]C[Now on the board Black is leading about 13 points in territory, the komi is 7.5 points.];W[qf];B[pl];W[ok];B[kn];W[ln];B[mk];W[ql]
+;B[lg];W[mf];B[pl];W[nm];B[lo];W[jn];B[hf];W[dd];B[lh];W[og];B[ji];W[ii];B[jj]
+;W[kk];B[qh];W[ng];B[hg];W[ih];B[gh]C[Lee Changho won the champion by 2:0.])
+(;W[ip];B[hp];W[ho];B[jp];W[in];B[jo];W[jn]C[White would have a chance.]))
+(;B[qh];W[rd];B[qe];W[qc]C[Black would have no certainty of success.]))
+(;W[fl];B[bj];W[bk];B[ai];W[gp]C[This would be better for White.]))
+(;W[ei];B[ck];W[bj];B[bk];W[bi];B[ch];W[dk];B[ej];W[fj];B[ek];W[dl];B[fi]C[White would collapse this way.]))
+(;W[cd];B[cg];W[bf];B[db];W[cb];B[ec];W[bc];B[cl]C[This way Black can fight.]))
+(;W[cf];B[bf];W[bg];B[cb]C[Black could live in the corner.]))
+(;W[pj];B[rl];W[qm];B[qi];W[pi];B[ph];W[oh];B[pg]C[Black's territory would be too big.]))
+(;B[on];W[np];B[rp];W[qq];B[pi]C[This would lead to a fierce fight immediately.]))
+(;W[nq];B[pk];W[od];B[oe]C[This would be favorable for Black.])) 

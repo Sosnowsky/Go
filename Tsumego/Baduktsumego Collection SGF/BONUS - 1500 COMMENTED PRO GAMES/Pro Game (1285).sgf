@@ -1,0 +1,23 @@
+(;SZ[19]EV[Korea 17th Kisung title match 2]DT[2006-03-29]PC[Korea]KM[6.5]PB[An Choyoung]BR[9p]PW[Park YuongHoon]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+R];B[pd];W[dd];B[pq];W[dp];B[qo];W[gq]
+;B[ci];W[cg];B[cl];W[nc];B[qf];W[pb];B[qc];W[ne];B[jd];W[pg];B[qg];W[ph];B[qi]LB[hc:a][ie:b][cc:c]C[After B19, if W 'a', then B 'b', Black is still left with the tactic of striking the corner at 'c', White can't be satisfied.]
+;W[jf];B[gc];W[jc];B[kc];W[ic];B[md];W[nd];B[id];W[kb];B[lb];W[kd];B[lc];W[hd]
+;B[ke];W[hc];B[kf];W[mh];B[jg];W[if];B[he];W[gd];B[cc];W[cd];B[dc];W[bc];B[bb]
+;W[bd];B[ed];W[ee];B[fd];W[fe];B[fb];W[gb];B[fc];W[eb];B[da];W[ig];B[jh]C[After this move, it is time for lunch break.];W[hi]
+;B[lg];W[mg];B[jj];W[oj];B[cn];W[bo];B[iq];W[bn];B[fq];W[eq];B[fp];W[fr];B[gp]
+;W[gr];B[io];W[hk];B[jl];W[cm];B[bg];W[bf];B[dm];W[bm];B[ek];W[hm];B[gl];W[gk]
+;B[dg];W[ch];B[dh];W[fn];B[bh];W[cf];B[bj];W[oq];B[op];W[nq];B[pr];W[mo];B[im]
+;W[qb];B[lq];W[oo];B[np];W[mp];B[no];W[nn];B[pp];W[mq];B[mn];W[jp];B[ip];W[lr]
+;B[mm];W[jr];B[gg]LB[pi:a][oi:b][pk:c][ok:d][pl:e]C[B113 is the losing move, Black should play at 'a', next W 'b', B 'c', W 'd' and B 'e', this way the outcome of the game is still difficult to imagine.];W[gf];B[ih];W[hh];B[hg];W[fg]
+;B[hf];W[gh];B[ld];W[ge];B[ie]C[Through B123, Black captures three stones in gote, it is not to Black's advantage.];W[ei];B[di];W[fa];B[ec];W[qj]C[W128 is a huge move, White starts to take initiative.];B[ri];W[nm]
+;B[nl];W[ol];B[nk];W[pm];B[pi];W[oi];B[ok]LB[pk:a][ql:b][ml:c][mk:d][ll:e][pl:f][om:g][qm:h][ln:i][pj:j]C[After B137, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White can't be satisfied (see var a).]
+
+(;W[pj]LB[ql:a][qm:b][rl:c][rj:d][rm:e][rc:f][rd:g][sb:h][sd:i][pe:j][qe:k][si:l]C[After W138, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black will be captured.];B[pl]
+;W[ql];B[om];W[rc];B[rd];W[sb]LB[re:a][sd:b][qe:c][se:d]C[After W144, if Black takes tenuki, then W 'a', B 'b' and W 'c', Black is not good; Moreover, when W 'a', if Black plays at 'd', then W 'b', Black becomes ko-alive and is not favorable.];B[sd];W[ej];B[dj];W[fk]
+;B[el]C[Through B149, we can see the improperness of B113 (the marked stone).]TR[gg];W[bl];B[bk];W[rj];B[qh];W[qm]C[Through W154, White is successful in the fight.];B[rn];W[on];B[df];W[de];B[ko]
+;W[lo];B[kq];W[jq];B[kp];W[kr];B[kn];W[ir];B[mj];W[pe];B[qe];W[pf];B[or];W[ab]
+;B[ba];W[dn];B[nr];W[mr];B[en];W[do];B[rm];W[si];B[sh];W[sj];B[sf];W[mb];B[mf]
+;W[nf];B[ka];W[hb];B[ea];W[ol];B[sc];W[rb];B[om];W[hq];B[rl];W[ol];B[eh];W[fh]
+;B[om];W[cb];B[db];W[ol];B[mi];W[pk];B[lh];W[eo];B[go];W[ik];B[hn];W[jk];B[kk]
+;W[em];B[dl];W[fl];B[il];W[jo];B[jn];W[hp];B[gn];W[hl];B[nh];W[ng];B[ni];W[rk]
+;B[gm];W[ij];B[jb];W[ji];B[kj];W[ii];B[ki];W[pc];B[qd];W[od])
+(;W[pk];B[ql];W[ml];B[mk];W[ll];B[pl];W[om];B[qm];W[ln];B[pj])) 

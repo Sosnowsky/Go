@@ -1,0 +1,29 @@
+(;SZ[19]EV[Japan 52nd Oza Title round 2]DT[2004-06-10]PC[Japan]KM[6.5]PB[Takao Shinji]BR[8p]PW[Imamura Toshiya]WR[9p]RE[B+3.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[cp];B[qp];W[op];B[cd];W[pn]
+;B[oq];W[nq];B[pq];W[mp];B[fq];W[ed];B[jp];W[df];B[ec];W[fc];B[dc];W[gd];B[mc]
+;W[be];B[bd];W[ro];B[rp]C[The opening up to B23 is very rare nowadays.];W[qi]LB[qh:a][qf:b]C[If W24 at 'a', then B 'b', it is not necessarily to White's favor.];B[qn];W[qo]LB[qm:a][pm:b]C[W26: White can also consider to play at 'a', if B26, then W 'b'.];B[po]
+;W[oo];B[pp];W[qm];B[rn];W[rm];B[so];W[pm]C[Through W34, W24 is a little close to thickness.];B[do];W[dp]
+(;B[eo]LB[ep:a][co:b][bo:c][bn:d][bp:e][dm:f][fo:g][hq:h][fm:i][dk:j][dr:k]C[B37 seems slow, Black should play at 'a', if W37, then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', Black can fight (see var a).];W[bn];B[ep]
+;W[kc]LB[dm:a][jd:b]C[W40 is a surprising move, the normal play is at 'a', next B 'b'.];B[dl]LB[qe:a]C[B41: For Black to protect the corner at 'a' is better.];W[ob]LB[oc:a][qc:b][nb:c][re:d][qd:e][rd:f][qb:g][rb:h][pb:i][pf:j]C[After W42, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', White can fight (see var a).]
+
+(;B[nd];W[qc];B[qd];W[rc];B[rd];W[oc];B[od];W[mb]C[As for the result up to W50, White can be satisfied.];B[cr];W[dr];B[er];W[ck];B[bo]LB[co:a][cn:b][cm:c][dn:d][bp:e][bm:f][ao:g][cl:h][br:i]C[After B55, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', Black is favorable.]
+
+(;W[br];B[co];W[cq];B[dk];W[cj];B[dj];W[ci];B[qg];W[lc];B[km]C[B65 is an excellent point.];W[oi];B[ri]LB[rh:a]C[If B67 is omitted, then W 'a', Black is hard to tolerate.]
+;W[rj];B[rh];W[jj];B[di];W[dh];B[eh];W[cg];B[lq];W[mr];B[lr];W[eb];B[db];W[fb]
+;B[bb];W[or];B[pr];W[cm]LB[hj:a]C[W84 is questionable, jumping at 'a' is the vital point.];B[mm];W[nn];B[ik]LB[il:a]C[B87: Although for Black to play at 'a' is steady, but Black has no certainty of victory.];W[jl];B[jk];W[kl]
+;B[kj];W[ll];B[lm];W[jm];B[jn];W[in];B[jo];W[lj];B[ki];W[lo];B[kn];W[li];B[kh]
+;W[mg]LB[nl:a]C[If W104 at 'a', then it will be a close game.];B[ml];W[mk];B[ol];W[qj];B[jd];W[ke]LB[hg:a][gh:b]C[W110 is questionable, White should play at 'a', next B110 and W 'b', this way the outcome of the game is hard to imagine.];B[je];W[jf]
+;B[kd];W[ld];B[kf];W[le];B[if];W[jg];B[ig];W[kg];B[jh];W[lg];B[kk];W[lk];B[om]
+;W[on];B[he]C[Through B127, White clearly fails in the fight.];W[pf]LB[rf:a][og:b][nf:c][of:d]C[If W128 at 'a', then B 'b', W 'c' and B 'd', White can't kill Black.];B[qf];W[sd];B[se]LB[re:a][sc:b][rf:c][si:d]C[After B131, if W 'a', then B 'b', W 'c' and B 'd', White is no good.]
+;W[sc];B[pg];W[of];B[rf];W[ic];B[ff]C[After B137, White already has no chance of winning.];W[hl];B[hk];W[ho];B[hp];W[gl];B[aq];W[ar]
+;B[gk];W[ps];B[qs];W[ns];B[os];W[eg];B[fg];W[ps];B[qr];W[ls];B[kr];W[bf];B[og]
+;W[ng];B[go];W[gn];B[io];W[hn];B[fn];W[ge];B[gf];W[fm];B[el];W[fl];B[fk];W[id]
+;B[ie];W[cl];B[cn];W[am];B[nc];W[nb];B[ef];W[dg];B[pk];W[sj];B[qk];W[rk];B[nj]
+;W[ni];B[pj];W[oj];B[nk];W[fh];B[ei];W[oh];B[mq];W[ok];B[pl];W[mj];B[nl];W[kp]
+;B[jq];W[lp];B[ds];W[cs];B[es];W[ap];B[bp];W[bq];B[ao];W[dq];B[mn];W[qh];B[si]
+;W[ne];B[pc];W[pb];B[jc];W[jb];B[ce];W[pe];B[qe];W[ad];B[ac];W[ae];B[ea];W[fa]
+;B[da];W[hd];B[md];W[me];B[sm];W[sl];B[ql];W[rl];B[il];W[im];B[lh];W[mh];B[os]
+;W[nr];B[fe];W[fd];B[cf];W[bg];B[oe];W[nf];B[an];W[bm];B[kq];W[em];B[eq];W[gp]
+;B[fo];W[dm];B[hq];W[mo];B[ks];W[np];B[sn];W[ms];B[ps];W[aq])
+(;W[co];B[cn];W[cm];B[dn];W[bp];B[bm];W[ao];B[cl];W[br]))
+(;B[oc];W[qc];B[nb];W[re];B[qd];W[rd];B[qb];W[rb];B[pb];W[pf]))
+(;B[ep];W[eo];B[co];W[bo];B[bn];W[bp];B[dm];W[fo];B[hq];W[fm];B[dk])) 

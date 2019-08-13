@@ -1,0 +1,35 @@
+(;SZ[19]EV[Japan 7th Women Saikyo final]DT[2005-12-08]PC[Japan]PB[Konishi Kazuko]BR[8p]PW[Kobayashi Izumi]WR[6p]KM[6.5]RE[W+3.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[pp];B[dc];W[cp];B[ep];W[hp]
+;B[dm];W[eo];B[fo];W[en];B[dp];W[cn];B[cq];W[co];B[fn];W[em];B[dr];W[ci];B[ce]
+;W[nc];B[pc];W[kc];B[ic];W[nq];B[qk];W[ne];B[pg];W[qm];B[ok];W[fm];B[ho];W[io]
+;B[hn];W[jp];B[md];W[mc]C[Through W36, both sides have played very steadily.];B[ej];W[dj]LB[dk:a]C[W38 is better than playing at 'a'.];B[dh];W[ch];B[dg];W[cd];B[dd]
+;W[be];B[bd];W[cf];B[de];W[id];B[hd];W[jd];B[he]LB[hc:a][gc:b][hb:c][ib:d][gb:e][fb:f][fc:g][ha:h][gd:i][ga:j][ge:k][eb:l][ec:m]C[After B51, if White plays at 'a' immediately, then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'b', B 'k', W 'l' and B 'm', White will be captured (see var a).]
+
+(;W[jf];B[qp];W[qq];B[qo]LB[po:a][rq:b][rr:c][qr:d][pq:e][sr:f][rs:g][ro:h][pr:i][rm:j]C[After B55, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White can't be satisfied (see var a).]
+
+(;W[pq];B[pn];W[pm];B[on];W[om];B[nn];W[nm];B[mn];W[nk]LB[nj:a][lm:b]C[After W64, if B 'a', then W 'b', Black is dangerous.];B[ko];W[in]
+;B[ll];W[oj];B[pj];W[oi];B[pi]LB[ph:a]C[B71 is a strong move, the common move is to play at 'a'.];W[oh];B[lq];W[pe];B[qe];W[mp];B[lp];W[hm]
+;B[gp];W[mo];B[lo];W[jm];B[km];W[hq]C[Through W84, White can be satisfied with the result.];B[mq];W[op];B[lj]
+(;W[pf]LB[og:a][ph:b][qh:c][qg:d][qf:e][qi:f][rg:g][pk:h]C[W88 is questionable, White should simply play at 'a', next B88, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', and W 'h', White is favorable (see var a).];B[qg];W[og];B[mi];W[ol];B[pk]
+;W[mj];B[li];W[bf]C[W96 is a huge move.];B[di];W[dk];B[lf]LB[jb:a]C[B99: For Black to play at 'a' is better.];W[mg];B[lg];W[kh];B[lh];W[qf]C[Following W104, White aims to strengthen in sente.]
+;B[rf];W[re];B[rg];W[qb];B[pb];W[qc];B[pd];W[rd];B[rb];W[rc];B[qa];W[od];B[sc]
+;W[cc];B[bc];W[cb];B[bb];W[fb]C[W122 is a good move.];B[eb];W[hc];B[gc];W[hb];B[gb];W[ib]C[After W128, it becomes a close game.];B[ig]
+;W[fc];B[ga];W[ob];B[se];W[if];B[hf];W[hg];B[ih];W[gg];B[fd];W[hi];B[il];W[jl]
+;B[mk];W[nj];B[ii];W[ij]LB[hj:a][kk:b][lk:c][hh:d][jj:e][ik:f][ji:g][gj:h][hk:i][jk:j][gk:k][fj:l]C[After W146, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is not good (see var a).]
+
+(;B[jj];W[hj];B[hl];W[gl];B[im];W[gm];B[jk];W[ik];B[kl];W[hk]C[After W156, White's advantage becomes clear.];B[fg];W[fq];B[fp]
+;W[er];B[bp];W[bo];B[gn];W[fh];B[fi];W[hh];B[jg];W[eg];B[df];W[rq];B[cg];W[bg]
+;B[ek];W[el];B[jr];W[ir];B[jq];W[bq];B[br];W[ap];B[iq];W[ip];B[hr];W[gr];B[is]
+;W[gq];B[ar];W[ad];B[rl];W[ab];B[db];W[eq];B[dq];W[kg];B[ji];W[kf];B[mf];W[qn]
+;B[po];W[nf];B[ld];W[fe]LB[ha:a]C[W202 is a very bad move, White should simply play at 'a'.];B[ee]LB[jb:a][jc:b][ia:c][kb:d][ja:e][ka:f][ha:g][gd:h][ie:i]C[B203: Black misses a good chance, Black should play at 'a' right away, White can only answer at 'b', next B 'c', W 'd', B 'e', W 'f', B 'f', W23, B 'h' and W 'i', this way the outcome of the game is difficult to imagine.]
+;W[ge];B[gd];W[ha]C[After W206, Black already has no chance to win.];B[ae];W[mr];B[ac];W[lr];B[kr];W[bh];B[lc];W[lb];B[rp];W[rm]
+;B[sq];W[sr];B[sp];W[rr];B[oa];W[na];B[sd];W[oc];B[kd];W[jc];B[ff];W[gf];B[ef]
+;W[kp];B[kq];W[ph];B[qh];W[eh];B[do];W[dn];B[mm];W[nl];B[aq];W[ml];B[lk];W[ki]
+;B[kj];W[gs];B[hs];W[bp];B[ei];W[gh];B[ma];W[pa];B[nr];W[or];B[oa];W[nb];B[oe]
+;W[of];B[ls];W[ns];B[nd];W[ds];B[cs];W[es];B[sl];W[ie];B[ca];W[af];B[jn];W[jo]
+;B[kn];W[fk];B[gj];W[gk];B[ks];W[ms];B[sn];W[sm];B[rn];W[ql];B[rk];W[ke];B[pa]
+;W[ad];B[cj];W[ck];B[ae];W[np];B[ad])
+(;B[hj];W[kk];B[lk];W[hh];B[jj];W[ik];B[ji];W[gj];B[hk];W[jk];B[gk];W[fj]))
+(;W[og];B[pf];W[ph];B[qh];W[qg];B[qf];W[qi];B[rg];W[pk]))
+(;W[po];B[rq];W[rr];B[qr];W[pq];B[sr];W[rs];B[ro];W[pr];B[rm]))
+(;W[hc];B[gc];W[hb];B[ib];W[gb];B[fb];W[fc];B[ha];W[gd];B[ga];W[gc];B[ge];W[eb]
+;B[ec])) 

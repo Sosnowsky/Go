@@ -1,0 +1,26 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 17]KM[6.5]DT[2003-03-20]PB[O Rissei]BR[9p]PW[Rin Kaiho]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[pd]C[Before this game, the overall result between these two players is 19:8, O Rissei has an overwhelming advantage.];W[dp];B[fq];W[pp];B[cn];W[dn]LB[eo:a]C[W6 at 'a' is also possible.]
+;B[dm];W[en];B[co];W[cp];B[gp];W[eq];B[er];W[fp];B[fr];W[go]LB[dr:a][cr:b]C[W16: For White to block at 'a' is also common joseki, but due to the clamp of B 'b', this is rarely seen nowadays.];B[hp]
+;W[dk]C[W18 is the vital point for attacking.];B[em];W[fm];B[el];W[jq]C[W22: White can also consider to take the empty corner in the upper left, the play in the game leads to a fierce fight.];B[ek];W[di];B[mp];W[jo];B[in];W[jn];B[im]
+;W[gn];B[dq];W[ep];B[cq]LB[dr:a][hr:b]C[B31 and B33 are bases for both sides, if White blocks at 'a', then the knight's move of W 'b' would become sente, Black is not comfortable.];W[bp];B[io];W[cm];B[cl];W[bm];B[kp];W[jp]
+;B[lm];W[kl];B[pn];W[oq];B[nq];W[km];B[qq];W[or];B[ro];W[qo];B[rn];W[rp];B[qp]
+;W[po];B[qn];W[on];B[om];W[nn];B[nm];W[mn]LB[ln:a][mo:b][mm:c][lo:d][pr:e][no:f]C[If W60 at 'a', then B 60, W 'b', B 'c', W 'd', B 'e' and W 'f', Black would obtain sente, White has not gained much.]
+;B[ln];W[mm];B[ll];W[ml];B[lk];W[rq];B[kk];W[lq];B[lp];W[mr]C[Through 70, it seems White can fight.];B[qr];W[rr];B[nr]
+;W[ns];B[nk]LB[mk:a][mj:b][nj:c][nl:d][oo:e][pj:f][ni:g][mi:h][nh:i][ph:j][mh:k][ki:l][no:m][np:n][op:o][mo:p][rs:q]C[B75 is a strong move, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', Black can fight (see var a); Furthermore, when B 'd', if W 'e' is omitted, then B 'e', W 'm', B 'n', W 'o', B 'p', W 'e' and B 'q', White's corner would get killed (see var b).]
+
+(;W[qf]LB[pj:a][pg:b][nl:c][ok:d][ol:e][pk:f]C[If W76 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is no good (see var a).];B[qh];W[ph];B[qi];W[of];B[nd];W[pi]
+;B[qj];W[rd];B[qg];W[qc];B[qe];W[re];B[pf];W[rf];B[pg]C[Through 91, Black is favorable in the local exchange, but White takes sente, the outcome of the game is still not clear.];W[dc]C[W92: White takes the empty corner, it is a very big move.];B[cf]
+(;W[cd]LB[ej:a][cc:b][dd:c][bc:d][cb:e][de:f][ed:g][ce:h][bb:i][fk:j][ck:k]C[W94 seems slow, White should play at 'a', followed by B 'b', W 94, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', White is favorable (see var a). Moreover, when W 'a', if B 'k', then W 'j', Black is no good.];B[cj];W[dj]
+;B[bn];W[bl];B[ck];W[bk];B[bj];W[bo];B[ch];W[dh]LB[dl:a][ef:b]C[W104: White should cut at 'a' or cap at 'b', these are all better than the real game play.];B[ak];W[do];B[dg]
+;W[ci];B[bi];W[bh];B[cg];W[dl];B[bg];W[fj];B[fc];W[fg];B[be]C[As for the result up to 117, White is not advantageous.];W[fd];B[gc];W[nb]
+;B[ed];W[ec];B[fe];W[bd];B[ir];W[jr];B[fi];W[ej];B[hi]C[After B129, Black is clearly favorable.];W[oc]LB[ke:a][kc:b][he:c]C[W130 is the last losing move, White should play at 'a', if B 'b', then W 'c', this way the outcome of the game is still hard to imagine.]
+;B[me];W[je]C[W132 is the game-deciding move.];B[he];W[jg];B[if];W[lf];B[mf]LB[kd:a]C[B137 is a solid play, the knight's move at 'a' is also playable.];W[lc];B[mc]
+(;W[jc]LB[lb:a][ke:b][le:c][ld:d][kd:e][kf:f][lg:g][jf:h][md:i]C[If W140 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', it would lead to a ko, White is no good.];B[ld];W[kd];B[lb];W[kc]
+;B[mb];W[lh];B[al];W[an];B[gk];W[gj];B[hj];W[hk];B[hl];W[fk];B[gl];W[fl];B[mg]C[After B157, White already has no chance of winning.]
+;W[ji];B[jf];W[kf];B[ih];W[id];B[jh];W[kh];B[ib];W[gf];B[jk])
+(;W[lb]C[If White stands here, ...];B[ke];W[le];B[ld];W[kd];B[kf];W[lg];B[jf];W[md]C[It would lead to a ko, White is no good.]))
+(;W[ej]C[White should play here.];B[cc];W[cd];B[dd];W[bc];B[cb];W[de];B[ed];W[ce];B[bb];W[fk]C[White is favorable.]))
+(;W[mk]C[If White pushes here, ...];B[mj];W[nj];B[nl];W[oo];B[pj];W[ni];B[mi];W[nh];B[ph];W[mh];B[ki]C[Black can fight.]
+)
+(;W[mk]C[Moreover, ...];B[mj];W[nj];B[nl];W[ni]C[Let's say if White plays here instead, ...];B[oo];W[no];B[np];W[op];B[mo];W[oo];B[rs]C[Black would take the corner.]
+)
+(;W[pj]C[If White plays here, ...];B[pg];W[nl];B[ok];W[ol];B[pk]C[White is no good.])) 

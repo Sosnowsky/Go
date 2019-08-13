@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]RU[Japanese]SZ[19]KM[0.00]TM[]PW[White]PB[Black]AW[do][eo][cp][ep][cq][eq][cr][er][fr][fs]AB[cn][dn][en][co][fo][bp][fp][bq][fq][hq][br][dr][gr]C[Black to play.]
+(;B[ds];W[cs]
+;B[dq]C[RIGHT This is not seki.])
+(;B[cs];W[ds]
+(;B[bs];W[dq])
+(;B[es];W[dq])
+(;B[dq];W[dp])
+(;B[dp];W[dq]))
+(;B[dq];W[ds])
+(;B[dp];W[ds]))

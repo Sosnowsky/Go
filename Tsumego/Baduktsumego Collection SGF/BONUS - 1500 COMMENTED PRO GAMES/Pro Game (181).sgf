@@ -1,0 +1,37 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 15]KM[6.5]DT[2004-03-11]PB[Rin Kaiho]BR[9p]PW[Imamura Toshiya]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd]C[Before this game, the overall record between these two players is Rin 6 wins and 3 defeats.];W[dd];B[pq];W[dp];B[fq];W[cn]
+;B[ip];W[po];B[pl];W[op]C[W10 is a novel play.];B[oq];W[mp];B[np]LB[nq:a]C[If B13 at 'a', then White will play at 13, White would become very thick.];W[no];B[nq];W[mn];B[lo]
+;W[mo];B[ml]LB[qg:a]C[B19: For Black to simply make the large knight's move at 'a' is better.];W[mq]LB[qq:a][qr:b][qp:c][rr:d][mr:e]C[After W20, White's attachment at 'a' is effective and followed by B 'b', W 'c', B 'd', then White's descent at 'e' becomes sente.];B[qg];W[jc];B[cf];W[cd]LB[fd:a]C[W24 is questionable, jumping at 'a' is the right move.]
+;B[dj];W[nc];B[hc]C[B27 is the perfect spot to invade.];W[fc]LB[ne:a][ec:b][df:c]C[If W28 at 'a', then B 'b' and W 'c', it would lead to a fight.];B[lc]C[B29: Black invades again, taking the initiative.];W[qc]LB[je:a][pc:b][md:c][jb:d]C[If W30 at 'a', then B 'b', W 'c' and B 'd', White is no good.]
+;B[pc];W[pb];B[qd];W[rb];B[rc];W[qb];B[oc];W[rd];B[re];W[sc]C[Through W40, the position of white stones is low and White can't be satisfied.];B[fb];W[ec];B[he]
+;W[nd];B[nf];W[je];B[le];W[hf];B[gf];W[hg];B[jb];W[gg];B[ie];W[ff];B[ge]
+(;W[dh]LB[ch:a][ci:b][di:c][cg:d][dg:e][bf:f][df:g][be:h][fe:i]C[If W56 at 'a', then B56, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', White is no good (see var a).];B[ch];W[dg];B[ci];W[ck]
+;B[dk];W[cl];B[be]LB[dq:a]C[B63 is a steady move in a favorable situation, otherwise Black will consider to attach at 'a'.];W[eq];B[fp];W[em];B[jg]C[B67 is "one move for two purposes".];W[ob];B[qm];W[qp];B[qq]
+;W[kq];B[jr];W[km];B[bd];W[bc];B[bb];W[cc];B[gb];W[fk]LB[fj:a]C[W80: White should play at 'a'.];B[ac];W[pj]C[W82 is a game-deciding move.]
+;B[nj];W[qk];B[rl];W[ph];B[qh];W[ni];B[mi];W[oj];B[nh]LB[nk:a]C[B91: Black can also consider to play at 'a'.];W[ol];B[oi];W[om]
+;B[rj];W[rq];B[rr];W[rk]LB[fr:a][gr:b][er:c][im:d]C[W98: For White to play the hane at 'a' is better, followed by B 'b', W 'c' and B 'd', then White plays W98.];B[pk];W[qj];B[ok];W[ql];B[pm]
+;W[rm];B[rn];W[sl];B[qn];W[ro];B[sq];W[ri]C[Through W110, White gains some territory, but as for the whole game, it is still to Black's advantage.];B[fe]
+(;W[ee]LB[df:a][de:b][fj:c][gj:d][fi:e]C[If W112 at 'a', then B112, W 'b', B 'c', W 'd' and B 'e', White is no good (see var a).];B[fh]C[B113 is the urgent point for attacking.];W[fg];B[df];W[ef];B[fj];W[gj];B[gi]
+;W[hi];B[gk];W[hj];B[fl]C[Through B123, Black gains some profit.];W[jf];B[if];W[ig];B[jh];W[ei];B[er]C[The hane and connect of B129 is huge, Black's advantage is obvious.];W[dr];B[fr]
+;W[sp];B[rp];W[jq];B[iq];W[rq];B[sr];W[kr];B[mb];W[nb];B[bj]LB[ir:a]C[B141: For Black to connect at 'a' is also playable.];W[ir];B[hr]
+;W[js];B[ds];W[cr];B[do];W[co];B[ep];W[dq];B[cs]LB[gn:a]C[B151: For Black to make the knight's move at 'a' is better.];W[es];B[fs];W[bs];B[db]C[B115 is hard to understand.]
+;W[eb];B[ea];W[cb];B[ca];W[gn];B[go];W[me];B[mf]LB[ld:a]C[B163: For Black to connect at 'a' is more steady.];W[ad];B[ae];W[kb]
+(;B[kc]LB[lb:a][ib:b][kd:c][gc:d][hb:e][fa:f][ga:g][hd:h][id:i][ic:j][jd:k][gd:l][ja:m]C[B167 should be at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', White would get killed (see var a).];W[ib]
+;B[lb];W[ja];B[gc];W[dc];B[da];W[fa];B[ga];W[id];B[kd]LB[ha:a][lf:b][md:c][kg:d]C[If B177 at 'a', then W 'b', B 'c' and W 'd', Black is no good.]
+;W[ha];B[jd];W[ic];B[fi]LB[hb:a][hd:b]C[If B181 at 'a', then W 'b', Black couldn't connect back.];W[ek];B[ej];W[el];B[kf];W[hb]C[After W186, the situation has been turned around.];B[hn]
+;W[gm];B[mr];W[in];B[hm];W[hl];B[im];W[jn];B[ik];W[hk];B[il];W[kk];B[jj];W[qo]LB[bk:a]C[W200 should be at 'a'.]
+;B[al];W[sn]C[W202 should be reserved.];B[nk]LB[on:a]C[After B203, Black's hane at 'a' is working.];W[bm];B[es];W[br];B[lm]C[After B207, the game is slightly to Black's advantage.]
+(;W[ln]LB[ll:a][mm:b][lk:c][kl:d][kj:e]C[If W208 at 'a', then B 'b', W208, B 'c', W 'd' and B 'e', the game would be still favorable for Black (see var a).]
+(;B[jp]LB[kl:a][ho:b][jm:c][io:d][hp:e][kn:f][hs:g]C[B209 is a miscalculation, Black should play at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', Black lives (see var a).];W[ll]C[After W210, the outcome of the game becomes hard to judge.];B[mm];W[lj]LB[oe:a][pi:b][pf:c][qf:d]C[W212: White should first play at 'a', then B 'b', W 'c', B 'd' and W212, this way White would probably win the game by half point.]
+;B[ko];W[kp];B[jo];W[kn];B[ih];W[hh];B[rp];W[ki];B[hs];W[rq];B[pi];W[oe];B[pf]C[After B225, White already has no chance of winning.]
+;W[fo];B[io];W[eo];B[rp];W[so];B[rh];W[se];B[rf];W[nm];B[qi];W[sj];B[mk];W[kh]
+;B[lk];W[kl];B[kj];W[ji];B[kg];W[cg];B[bg];W[ii];B[lh];W[lr];B[nr];W[of];B[og]
+;W[pe];B[qe];W[li];B[ma];W[ka];B[lp];W[lq];B[ne];W[od];B[md];W[fd];B[gd];W[ce]
+;B[bf];W[de];B[sf];W[sd];B[pn];W[on];B[pp];W[oo];B[dl];W[dm];B[am];W[an];B[bk]
+;W[bl];B[ak];W[cj];B[bi];W[eg];B[di];W[na];B[eh];W[ms];B[ns];W[ls];B[sh];W[si]
+;B[is];W[jr];B[mj];W[rq];B[ho];W[rp])
+(;B[kl];W[ho];B[jm];W[io];B[hp];W[kn];B[hs]))
+(;W[ll];B[mm];W[ln];B[lk];W[kl];B[kj]))
+(;B[lb];W[ib];B[kd];W[gc];B[hb];W[fa];B[ga];W[hd];B[id];W[ic];B[jd];W[gd];B[ja]
+))
+(;W[df];B[ee];W[de];B[fj];W[gj];B[fi]))
+(;W[ch];B[dh];W[ci];B[di];W[cg];B[dg];W[bf];B[df];W[be];B[fe])) 

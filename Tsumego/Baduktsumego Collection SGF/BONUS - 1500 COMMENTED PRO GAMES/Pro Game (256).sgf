@@ -1,0 +1,37 @@
+(;SZ[19]EV[2003 Japan-Korea Dual Meet game 1]DT[2003-06-30]KM[5.5]PC[Japan]PB[Yokota Shigeaki]BR[9p]PW[Mok Jinseok]WR[6p]RE[W+12.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[cp];W[pp];B[nq];W[qn]
+;B[iq];W[cg];B[jc];W[qf];B[nd];W[rd];B[qc];W[ph];B[qj];W[qi]LB[dl:a][rh:b]C[W16: If White makes the extension at 'a', then Black would make the knight's move at 'b', White is painful.];B[pj]
+;W[nh];B[mj];W[pr]LB[nn:a]C[W20: White can also consider to play at 'a'.];B[no];W[ep];B[dn];W[cq];B[bq];W[dq];B[br];W[hp]LB[gq:a][ho:b]C[W28: For White to extend at 'a' would be usual, in the game White may be worried that Black could attack with a knight's move at 'b', however the play in the game is not necessarily to White's advantage.]
+;B[ip];W[ho];B[hq];W[io];B[jo];W[jn];B[ko];W[dl]
+(;B[cn]LB[fn:a][fo:b][gn:c][co:d][do:e][dp:f][bp:g][en:h][em:i][dm:j]C[B37: If Black jumps to 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', Black is no good (see var a).];W[fo]LB[ec:a]C[W38: If Black protects the corner with the diagonal's extension at 'a', then Black will play at 38, White is no good.]
+;B[or]C[B39 is the vital point.];W[oq];B[nr]
+(;W[on]LB[ec:a][qr:b][ps:c][qq:d][pq:e][ro:f][rn:g][qo:h][po:i][qp:j]C[W42 is the proper play, if White protects the corner at 'a' instead, then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White would be dangerous (see var a).];B[cc]
+(;W[cd]LB[dc:a][ce:b][be:c][bf:d][de:e][cf:f][db:g][eb:h][cb:i][fc:j][ee:k][fd:l][bd:m]C[W44 is the right play at this time, if White blocks at 'a', then B 44, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B k', W 'l' and B 'm', this way White can not be satisfied (see var a).];B[dc]
+;W[ec];B[eb];W[fb];B[fc];W[ed];B[gb];W[db];B[fa];W[cb];B[rc]C[The play of B55 is valuable.];W[bm];B[dh];W[ch]
+;B[dj];W[fl];B[cl]C[B61 is sharp.]
+(;W[ck]LB[cm:a][dm:b][el:c][dk:d][ek:e]C[W62: If White pushes at 'a', then B 'b', W 62, B 'c', W 'd' and B 'e', White is no good (see var a).];B[dk]LB[cm:a]C[B63: If Black connects at 'a', then White will connect at 63, Black is no good.]
+(;W[el]LB[cm:a][dm:b][em:c][en:d][fm:e]C[W64: If White ataris at 'a', then B 64, W 'b', B 'c', W 'd' and B 'e', White is no good (see var a).];B[bk];W[cm];B[bl];W[dm];B[bn];W[bi]LB[an:a][ao:b][am:c]C[W70: If White plays the hane at 'a', then B 'b', W 'c' and B 70, White can not be satisfied.]
+;B[bj];W[ci];B[cj];W[fj]LB[am:a]C[W74: If White separates Black at 'a', then Black will play at 74, White would get nothing.];B[am];W[ql];B[oi];W[oh];B[li];W[lh];B[kh];W[ki]LB[jh:a][kj:b][kk:c]C[W82 is the game-deciding play, if Black extends at 'a', then W 'b' and B 'c', this will lead to a complicated variation.]
+
+(;B[kj]LB[mh:a][lg:b][mg:c][ni:d][lf:e][kg:f][mi:g][nj:h][jh:i]C[B93: Black can consider to atari at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i' (see var a).];W[ji];B[jj];W[kg];B[jh]
+;W[ii];B[mh];W[lg];B[mg];W[ni];B[mi];W[nj];B[ih];W[if]C[W96 is the strongest answer.];B[hh];W[hc];B[bc];W[bb]
+;B[id]LB[fd:a][gf:b]C[If B101 at 'a', then W 'b'.];W[hd];B[he];W[ie];B[ge]LB[hf:a]C[B105 is questionable, Black should attach at 'a', White would be quite dangerous.];W[hf]C[W106 is a good move.];B[fd];W[jd];B[ic]
+;W[kd];B[kc];W[ld];B[lc];W[md];B[nc];W[ij]C[W116 is unyielding.];B[gg]LB[ik:a][gi:b][fh:c][gf:d]C[B117: If Black plays the hane at 'a', then W 'b', B 'c' and W 'd'.];W[mf]
+;B[nf];W[me];B[ik];W[gi];B[jl];W[gf];B[ff];W[fg];B[fh];W[eg]LB[gh:a][hg:b][gj:c]C[W128: If White ataris at 'a', then B 'b', W 128 and B 'c', White will get killed.]
+;B[gh];W[hk];B[hl]
+(;W[gk]LB[ei:a][fi:b][gj:c][eh:d][di:e][ej:f][gl:g][dg:h]C[W132: If White makes the diagonal's extension at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White is no good (see var a).];B[fi];W[hi];B[jg];W[jf];B[di]
+;W[ef];B[gm];W[im];B[il];W[en];B[fm];W[em];B[fe];W[mk]C[W146 is a good move, Black is painful.];B[ng];W[kf]C[Thorugh 148: White has safely made life, Black has failed in the fight.];B[nn]
+;W[ol]C[After W150, Black already has no chance.];B[fq];W[kn];B[ln];W[lk];B[lj];W[lm];B[pf];W[qe];B[oo];W[po];B[ps];W[qr]
+;B[dg];W[df];B[da];W[op];B[bf];W[be];B[ba];W[ac];B[ca];W[bd];B[np];W[mn];B[lo]
+;W[nm];B[qs];W[rs];B[os];W[rr];B[gj];W[hj];B[se];W[sd];B[qg];W[pg];B[rg];W[of]
+;B[pe];W[ne];B[oe];W[og];B[ri];W[rk];B[rj];W[qh];B[rh];W[mc];B[mb];W[hb];B[gc]
+;W[er];B[fr];W[ai];B[cr];W[dr];B[gp];W[go];B[oj];W[ok];B[sj];W[sk];B[mo];W[mm]
+;B[ek];W[fk];B[dp];W[eq];B[do];W[eo];B[fs];W[fp];B[gq];W[ee];B[ib];W[aj];B[pk]
+;W[ak];B[al];W[pl];B[qk];W[rl];B[cs])
+(;W[ei];B[fi];W[gj];B[eh];W[di];B[ej];W[gl];B[dg]C[White is no good.]))
+(;B[mh];W[lg];B[mg];W[ni];B[lf];W[kg];B[mi];W[nj];B[jh]C[This is playable for Black.]))
+(;W[cm]C[If White pushes here, ...];B[el];W[dm];B[em];W[en];B[fm]C[White is no good]))
+(;W[cm]C[If White pushes here, ...];B[dm];W[ck];B[el];W[dk];B[ek]C[White is no good.]))
+(;W[dc]C[If White blocks this side, ...];B[cd];W[ce];B[be];W[bf];B[de];W[cf];B[db];W[eb];B[cb];W[fc];B[ee];W[fd]
+;B[bd]C[White is no good.]))
+(;W[ec];B[qq];W[pq];B[qr];W[ps];B[ro];W[rn];B[qo];W[po];B[qp]))
+(;B[fn]C[If Black jumps here, ...];W[fo];B[gn];W[co];B[do];W[dp];B[bp];W[en];B[em];W[dm]C[Black is no good.])) 

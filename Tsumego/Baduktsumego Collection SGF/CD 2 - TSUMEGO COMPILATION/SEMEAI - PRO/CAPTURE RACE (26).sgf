@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][cc][ce][cf][dc][ec][ee][ef][fc][fd]
+AW[bd][cd][cg][dd][dg][ed][eg][fe][fg][ge]PL[W]C[White to play.
+
+Capture race - Reduce Opponent's Liberties
+
+Source: Guan-Zhi-Pu.]
+;W[ae]
+;B[bf]
+;W[bg]
+;B[af]
+(
+;W[ff]C[RIGHT
+])
+(
+;W[ag]C[RIGHT
+])
+(
+;W[df]
+;B[de]
+(
+;W[ag]C[RIGHT
+])
+(
+;W[ff]C[RIGHT
+]))
+(
+;W[de]
+;B[df]
+(
+;W[ag]C[RIGHT
+])
+(
+;W[ff]C[RIGHT
+])))

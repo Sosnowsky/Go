@@ -1,0 +1,26 @@
+(;SZ[19]EV[Japan 25th Kakusei final]DT[2003-02-24]PC[The Nihon Ki-in]PB[Yuki Satoshi]BR[9p]PW[Hane Naoki]WR[9p]KM[5.5]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[cp];B[ep];W[qo]
+;B[pl];W[lp];B[np];W[ip];B[co];W[bo];B[do];W[cn];B[bn];W[bm];B[bp];W[an];B[cq]
+;W[qq];B[qr];W[rr];B[qp];W[rq];B[pp];W[rp];B[gq]C[B27 looks small but it is big in reality, the two white stones on the lower side become weak instantly.];W[on];B[lo];W[mp];B[no];W[mo]
+;B[nn];W[mn];B[nm];W[ll];B[rn];W[pr]LB[ro:a][qm:b]C[W38: If White connects at 'a', then Black would connect at 38, although White can make life by playing at 'b', but Black has too many aji to exploit on the right side, White is not favorable.];B[or];W[qs];B[fc];W[cf];B[ic]
+;W[qf];B[pf];W[pg];B[qe];W[of];B[pe];W[rf];B[og];W[ph];B[oh]C[B53 is a strong move.];W[re];B[rd];W[qc]
+;B[pc];W[nf]C[W58 seems cumbersome.];B[oi];W[pi];B[oj];W[rc];B[md]TR[nf][of]C[Through 63, though White has gained some territory on the right, but Black also becomes very thick on the outside, the two marked white stones are hard to pull out, White is not beneficial.]
+(;W[dn]LB[je:a][kd:b][hd:c][hc:d][fd:e]C[W64: White can also consider to reduce at 'a', if Black makes the knight's move at 'b', then W 'c', B 'd' and W 'e' (see var a).];B[fe];W[ec];B[fb];W[eg];B[gg];W[fi]LB[ki:a]C[W70 is doubtful, White should simple reduce at 'a'.]
+;B[gi]C[B71 is strong and brutal, White is hard to answer.];W[gj];B[hi];W[ki];B[fj]TR[fi]C[After Black cuts with B75, the improperness of the marked white stone is clear.];W[fh];B[fk]C[Through 77, Black has obtained the initiative.];W[hj];B[ij];W[gl]
+(;B[en]LB[jk:a][hl:b][lk:c][gh:d]C[B81: If Black makes the diagonal extension at 'a', then W 'b', B 'c' and White would push and cut at 'd', Black has no assurance of success (see var a).];W[hl];B[dm];W[ii];B[ck];W[bk];B[hg];W[jh];B[cj]
+;W[cm];B[em];W[ap];B[bq];W[eb];B[bj];W[bl];B[qd];W[sd];B[qb];W[rb];B[pb];W[pj]
+;B[pk];W[qk];B[ql];W[rk]C[Through 106, Black is favorable.];B[cg];W[bg]C[W108 is clearly unreasonable.];B[df]C[Black counterattacks with B109, White has no follow-ups.];W[dg];B[ce];W[ch];B[de];W[ff]
+;B[be]C[Through 115, White has suffered a heavy loss.];W[ge]
+(;B[ed]LB[fd:a][gf:b][if:c]C[B117: Black has missed the chance to win the game at one stroke, Black should simply connect at 'a', then W 'b' and B 'c', White would have no any chance of winning (see var a).];W[gd];B[fd];W[if];B[ie]LB[jd:a]C[B121: Black should simply make the diagonal extension at 'a'.];W[je];B[jd];W[he]
+;B[id];W[kf];B[aq];W[fo];B[ao]LB[eo:a]C[B129 is an overplay, Black should connect at 'a'.];W[eo];B[bn];W[nd];B[am];W[nc]C[After W134, the situation becomes complicated.];B[se]
+;W[sf];B[mc];W[mb];B[lb];W[nb];B[ra];W[sc];B[ne];W[oe];B[me];W[od];B[hf];W[gf]
+;B[mf];W[ng];B[qj];W[ri];B[mg];W[nh];B[lh];W[kh];B[ni];W[la];B[kb];W[ob];B[oa]
+;W[na];B[mh];W[pa];B[qa]
+(;W[rl]LB[se:a][oa:b][sa:c][ka:d][sb:e]C[W166: White should connect at 'a', if Black takes the ko at 'b', then W 'c', B 'd' and W 'e', Black would create a double ko and Black will get captured (see var a), so when White takes the ko at 'c', Black has to play this ko with White, if Black can take the ko and then play at 'd', this will form the rare superko and leads to a no-result (see var b).
+];B[oa];W[sa];B[sb];W[se];B[oc]C[Through 171, it becomes a tight ko, Black wins for sure.];W[pa];B[ig]
+;W[jf];B[oa];W[aj];B[ai];W[pa];B[ef];W[fg];B[oa];W[bi];B[ak];W[pa];B[kg];W[jg]
+;B[oa];W[dp];B[dq];W[pa];B[gk];W[hk];B[oa])
+(;W[se];B[oa];W[sa];B[ka];W[sb]C[White would win for sure.])
+(;W[se];B[oa];W[sa];B[sb]C[This would lead to a rare triple ko situation which yields no-result.]))
+(;B[fd];W[gf];B[if]C[Black would have won the game at one stroke.]))
+(;B[jk];W[hl];B[lk];W[gh];B[hh];W[hg]C[This way Black would have no certainty of success.]))
+(;W[je];B[kd];W[hd];B[hc];W[fd]C[This would be also possible for White.])) 

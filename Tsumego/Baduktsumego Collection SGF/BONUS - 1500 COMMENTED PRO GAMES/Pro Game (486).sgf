@@ -1,0 +1,31 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 7]KM[6.5]DT[2003-01-23]PB[Mizokami Tomochika]BR[7p]PW[Takemiya Masaki]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dp];B[pq];W[dd];B[cf];W[dh]
+;B[ef];W[fd];B[bd];W[cc];B[bh];W[po];B[pl];W[no];B[mq];W[pi];B[qg];W[lp];B[mp]
+;W[mo];B[lo];W[kp];B[ln];W[nm];B[io]
+(;W[qq]LB[iq:a][lr:b][kr:c][qp:d][qo:e][jn:f][gq:g]C[W26: White can also consider to make the knight's move at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).];B[jp];W[oq];B[ko];W[ok]LB[pr:a][pp:b][or:c]C[Through W30, an exchange results, Black is still left with the endgame maneuver of standing at 'a', followed by W 'b' and B 'c', White is a little dissatisfied.]
+;B[hc];W[ge];B[cq];W[cp];B[dq];W[eq];B[ep];W[fq]
+(;B[dr]LB[bp:a][bo:b][bq:c][cn:d][fo:e]C[B39 is a good move in the current circumstance, if Black plays the usual sequence of B 'a', W 'b', B 'c', W 'd', B 39 and W 'e', it is hard for Black to use his thickness on the lower side (see var a).]
+(;W[bq]LB[bp:a][er:b][br:c][cs:d][ds:e][aq:f][ar:g][bs:h][eo:i][bn:j][ap:k][ao:l][gr:m]C[If W40 at 'a', then B 40, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', the ensuing fight is not to White's advantage (see var a).
+];B[br]
+;W[bp];B[fp]LB[fo:a]C[B43: Black guards against W 'a'.];W[gp];B[en]LB[cs:a][fr:b][gr:c][er:d][gq:e][ar:f][bs:g][fs:h][ds:i][cr:j]C[After B45, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', and B 'j', it is a seki, White is no good (see var a).]
+
+(;W[hq]LB[er:a][cs:b][es:c][ds:d][ar:e][gq:f][gr:g][hr:h][fs:i][fr:j][iq:k][ir:l][jr:m][bs:n][as:o][aq:p][is:q]C[If W46 at 'a', then B 'b', W c', B 'd', W 'e', B 'f', W 'g', B 46, W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p' and B 'q', it leads to a ko, this would be bad for White (see var b).]
+;B[gr];W[gq];B[er];W[fr];B[ar];W[es];B[cs];W[jr];B[kq];W[cm]C[Through 56, both sides are roughly acceptable.];B[fn];W[kr]LB[hr:a]C[W58 is questionable, reinforcing cleanly at 'a' is the proper move.]
+;B[lr];W[nr];B[ck];W[dl];B[dk];W[el];B[ek];W[fl];B[go]LB[hn:a]C[B67: The usual play is at 'a'.];W[fk];B[fj];W[gj]TR[go]LB[hn:a][gk:b]C[Through 79, it is evident that if the marked black stone at 'a', then Black can cut immediately at 'b'.]
+;B[gi];W[fi];B[ej];W[hj];B[hi];W[ii];B[ih];W[ij];B[hg];W[gg];B[fh];W[jh];B[jg]
+;W[gh];B[hh];W[hf];B[ei];W[if];B[kh];W[ji];B[ig];W[jc]C[Through 92, White clearly has gained some profit.];B[qi];W[qj];B[rj];W[qk]
+;B[rk];W[qc]LB[pc:a][qd:b][qe:c][qh:d][ri:e][pg:f][rh:g][qf:h][ph:i][re:j][pe:k][rg:l]C[W98 is a good move, if Black blocks at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is no good (see var a).]
+
+(;B[ql];W[qh];B[ri];W[qd];B[ph];W[lc];B[pe];W[ob]
+(;B[hl]LB[ks:a][js:b][ir:c][ls:d][jq:e][mr:f][lq:g][ms:h][is:i][iq:j][rn:k]C[B107: If Black elects to kill White immediately at 'a', then W 'b', B ''c, W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'a', B 'j' and W 'k', this way Black still has no assurance of winning the game.];W[il];B[hm]
+;W[hk];B[jf];W[lj];B[ie];W[id];B[he];W[hd];B[gf];W[bc];B[qp]LB[ks:a]C[B119 should be at 'a'.];W[pp];B[rq]
+;W[pr];B[qo];W[oh];B[pg];W[bl]LB[jq:a][rr:b][bk:c][oi:d]C[W126: White has missed the last chance to live, now White should atari at 'a', after B 'b', W 126, B 'c' and W 'd', White is a little favorable.];B[ks];W[jq];B[ir]TR[go]LB[hn:a]C[B129: Black delivers the killing move happily, White has obviously miscalculated here, now the resourceful purpose is clear as to why the marked black stone is not played at 'a'.]
+)
+(;B[ks];W[js];B[ir];W[ls];B[jq];W[mr];B[lq];W[ms];B[is];W[ks];B[iq];W[rn]C[Though Black can capture several white stones, but Black has no certainty of winning.]))
+(;B[pc];W[qd];B[qe];W[qh];B[ri];W[pg];B[rh];W[qf];B[ph];W[re];B[pe];W[rg]C[This would be bad for Black.]))
+(;W[cs];B[fr];W[gr];B[er];W[gq];B[ar];W[bs];B[fs];W[ds];B[cr]C[A seki would result and this would be bad for White.])
+(;W[er];B[cs];W[es];B[ds];W[ar];B[gq];W[gr];B[hq];W[hr];B[fs];W[fr];B[iq];W[ir]
+;B[jr];W[bs];B[as];W[aq];B[is]C[This would be a ko and bad for White.]))
+(;W[bp]C[If White tries to kill the corner ...];B[bq];W[er];B[br];W[cs];B[ds];W[aq];B[ar];W[bs];B[eo];W[bn];B[ap];W[ao]
+;B[gr]C[The fight would not be favorable for White.]))
+(;B[bp]C[If Black plays the normal moves ...];W[bo];B[bq];W[cn];B[dr];W[fo]C[Black can not utilize the thickness on the lower side.]))
+(;W[iq]C[White can also play the knight's move here.];B[lr];W[kr];B[qp];W[qo];B[jn];W[gq]C[This variation is also possible.])) 

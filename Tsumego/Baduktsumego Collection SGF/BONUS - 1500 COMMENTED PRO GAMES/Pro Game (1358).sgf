@@ -1,0 +1,14 @@
+(;SZ[19]EV[Korea 14th Kisung challenger final game 3]DT[2003-01-10]PC[Korea]KM[6.5]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Cho Hunhyun]BR[9p]PW[Yun Junsang]WR[1p]RE[B+R];B[pd];W[dd];B[qp];W[dq];B[do];W[op]
+;B[cq];W[qq];B[cf];W[ch]LB[fc:a]C[W10 can also be considered to play as the small knight's move at 'a'.];B[ck];W[df]LB[de:a]C[After W12, Black can wedge at 'a', White is a little dissatisfied.];B[dr];W[rp]LB[eq:a]C[W14 perhaps should draw back at 'a'.]
+;B[qo]LB[eq:a][de:b]C[B15 is a good move, if Black simply capture at 'a', then White will atari at 15 too, thus White is very thick in the lower right corner, Black may lose the maneuver of wedging at 'b'.];W[ro];B[pq];W[pp];B[qn];W[qr];B[eq];W[pj];B[ok];W[pk];B[om]
+;W[ol]LB[lp:a][pg:b][nk:c]C[W26 is questionable, White should extend at 'a', if Black checks at 'b', White can clamp at 'c', White can fight.];B[nl];W[pl];B[np]C[B29 is a good move, White suddenly seems to be restricted in shape.]
+(;W[pn]LB[nq:a][mq:b][mp:c][no:d][oq:e][dg:f][cg:g][lp:h]C[If W30 hanes at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h' will capture one white stone in the ladder, White is no good. (see var a)];B[de]C[B31 is good timing.];W[ee];B[ce];W[cd]LB[dg:a][ef:b]C[If W34 retreats at 'a', then B 34, White still leave the cut point at 'b', White is not favorable.]
+;B[dg];W[ef];B[cg];W[eg];B[dh]C[Through 39, Black has clearly gained.];W[no]LB[jp:a]C[W40 should be considered to pincer near 'a'.];B[mo]C[The sacrificing sequence after B41 is elegant.];W[mn];B[nn];W[oo];B[ln]
+;W[mm];B[lo];W[ml];B[kl]C[Through 49, Black's advantage is clear.];W[eh];B[di];W[kq]C[W52 has no choice.];B[mq];W[iq];B[jr]C[B55 is fierce and relentless, White sinks into a deep trouble.];W[kr];B[ir]
+;W[hq];B[hr];W[lp];B[mp];W[gr];B[gq];W[in];B[il];W[nr]C[W66 looks like damaging to White's own eye shapes, this directly impacts on the life and death of Black's group on the left.];B[mr];W[hl];B[hk];W[im]
+;B[ik];W[jq];B[jo];W[fq];B[gp];W[er];B[ep];W[ds];B[cr];W[hs];B[hp];W[ko];B[ed]C[The cut at B83 leaves White at a loss as to how to proceed.]
+;W[ec];B[fd];W[fc];B[gd];W[gc];B[hd];W[hg];B[hc];W[jg];B[dc];W[cc];B[db];W[eb]
+;B[ke];W[lg];B[cb];W[bb];B[bc]C[The moves after B101 initiate a ko fight, when White will concede defeat is only a matter of time.];W[bd];B[ab];W[ac];B[ba];W[aa];B[fr];W[fs];B[ab]
+;W[kn];B[mk];W[aa];B[fp];W[fr];B[ab];W[pc];B[qc];W[aa];B[cs];W[js];B[ab];W[od]
+;B[oc];W[aa];B[oe];W[ca];B[nd]C[After 127, Black wins for sure.];W[ie];B[jd];W[nm];B[jn]C[Cho Hunhyun won the challenger final by 2:1 and will challenge the current title hoder Lee Changho.])
+(;W[nq];B[mq];W[mp];B[no];W[oq];B[dg];W[cg];B[lp])) 

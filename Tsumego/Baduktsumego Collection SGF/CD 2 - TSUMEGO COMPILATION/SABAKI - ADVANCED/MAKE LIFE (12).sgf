@@ -1,0 +1,37 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ag][bc][bg][cc][cg][dd][df]
+AW[bb][bh][cb][ch][dc][dg][ec][ee][eg][fc][fe][fg]PL[B]C[Black to play.
+
+Make life - Secure Eye Shape]
+(
+;B[ac]
+;W[de]
+(
+;B[ae]
+(
+;W[bf]
+;B[cf]
+;W[be]
+;B[ce]
+;W[bd]
+;B[cd]C[RIGHT
+Both Alive])
+(
+;W[ce]
+;B[be]C[RIGHT
+]))
+(
+;B[ce]
+;W[ae])
+(
+;B[be]
+;W[cd]
+;B[bd]
+;W[cf]
+;B[bf]
+;W[ae]))
+(
+;B[de]
+;W[be]
+;B[bd]
+;W[ae]))

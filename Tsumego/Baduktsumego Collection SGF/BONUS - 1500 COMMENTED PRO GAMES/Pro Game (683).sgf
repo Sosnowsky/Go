@@ -1,0 +1,28 @@
+(;SZ[19]KM[7.5]EV[19th Fujitsu Cup quarter final]DT[2006-06-03]PC[China]PB[Zhou Heyang]BR[9p]PW[Park YuongHoon]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[qp];W[dq];B[co];W[dl]
+;B[fo];W[gq];B[hp];W[gp];B[go];W[ho];B[jp];W[ip];B[io];W[hq];B[hn];W[jo];B[hp]
+;W[iq];B[kp];W[jn];B[lo]C[The variation up to B23 is common joseki.];W[op]LB[jl:a][km:b]C[W24 is a strong move, the common move is to play at 'a' or 'b'.];B[hl];W[jl];B[mm];W[jj];B[hj]
+;W[om];B[qn];W[mp];B[kk]LB[mo:a]C[B33 is questionable, Black should play at 'a'.];W[ll]C[W34 is alert];B[kl];W[km];B[lm];W[jk];B[lk];W[mo]C[After W40, White takes initiative.]
+;B[mn];W[po];B[qo];W[lp];B[ko];W[kq];B[li];W[jq];B[ln]C[Through B49, White can be satisfied.];W[jh];B[di];W[lg];B[nj]LB[ii:a][ji:b]C[B53 is wrong sequence, Black should first exchange B 'a' and W 'b', then play B53.]
+;W[gk]LB[cg:a]C[W54 is a strong move, generally White will play at 'a'.];B[hk];W[ei]C[After W56, it leads to a fierce fight.
+
+After this move, it is time for lunch break.];B[dj];W[ej];B[eh];W[dh];B[eg];W[dg];B[ek];W[fi]
+;B[dk];W[ef]LB[ii:a][ji:b][gh:c][fg:d]C[After W66, if B 'a', then W 'b' and B 'c', White is not good, but when B 'a', if W 'd', then B 'b', it leads to an exchange, the result is to White's advantage, now we can see the improperness of B53.];B[fg];W[gh];B[ff];W[hg];B[df];W[cf];B[ee]
+;W[de];B[ed];W[dc];B[ec];W[id]C[Through W78, White is favorable.];B[hd];W[ie]C[W80 is thick, since there is a ko fight in the upper left corner, White can't exert power.];B[ic];W[hc];B[hb];W[gc];B[gd]
+;W[jc];B[ib];W[jb];B[gb];W[nc];B[qf];W[pq]LB[do:a][dn:b][cp:c]C[W92: White can consider to play at 'a', next B 'b' and W 'c'.];B[cq];W[qq];B[pl]
+;W[dp];B[cp];W[ch];B[bj];W[bi];B[nd];W[md];B[oc];W[ne];B[od];W[mb];B[ng]LB[nb:a][mc:b]C[B107: Black should play at 'a', after W 'b', then B107.]
+;W[pm]LB[qm:a][pk:b][ol:c][nl:d][ml:e][ql:f][ok:g][qk:h][nk:i][oj:j]C[After W108, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black is not good (see var a). Moreover when W 'b', if B 'f', then W 'c', B 'g', W 'i', B 'j' and W 'e', eight black stones will be captured (see var b).]
+(;B[ql];W[ol]LB[ok:a][qm:b][rm:c][nk:d]C[After W110, if B 'a', then W 'b', B 'c' and W 'd', Black has no answer.];B[oj];W[nf];B[og];W[ob];B[pb];W[pa];B[qa]
+;W[oa];B[qb];W[fk]C[Through W120, White is favorable.];B[el];W[gm];B[gi];W[fh];B[gl];W[bk]LB[aj:a][cj:b][ci:c][bh:d][ck:e][fl:f][fm:g][em:h]C[After W126, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black will collapse.]
+;B[fl];W[aj];B[bl];W[cr];B[br];W[dr]LB[en:a]C[After W132, White is left with the knight's move at 'a'.];B[db];W[cb];B[eb];W[bc];B[hf];W[if]
+;B[mg];W[lf];B[ck];W[en]LB[eo:a][do:b][dn:c][cn:d][dm:e][bo:f]C[After W142, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is not good.];B[ak];W[rq];B[im]
+;W[pk];B[qk];W[sn];B[rm];W[jm];B[kh];W[ok];B[pj];W[lj]LB[jg:a]C[W154 is questionable, White should simply play at 'a'.];B[mk]LB[kj:a][ml:b]C[If B155 at 'a', then W 'b', Black will collapse.]
+;W[jg]LB[kj:a][ih:b][ii:c][ji:d][ig:e][hh:f][kg:g][lh:h][hi:i]C[If W156 at 'a', then B 'b', W 'c', B156, W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', White will be captured.];B[kj]C[Through B157, White clearly incurs loss.];W[ji];B[hh]
+;W[gg];B[gf];W[fj]LB[bg:a][bh:b][ah:c][lh:d]C[After W162, if B 'a', then W 'b' and B 'c', Black can cross over but ends in gote, White will grab the big endgame at 'd', Black is not happy.];B[bf]C[B163 is the winning move.];W[be];B[bg];W[bh];B[cg];W[ef]
+;B[ja];W[ka];B[df];W[ce];B[ai];W[af]C[Through W174, Black obviously gains.];B[ia];W[kb];B[bs];W[dn];B[ci];W[ag];B[lh]C[After B181, White's half-point loss can't be redeemed.]
+;W[cn];B[bn];W[ho];B[mf];W[me];B[hp];W[in];B[fn];W[ho];B[fp];W[do];B[cm];W[fq]
+;B[fm];W[dm];B[rp];W[sp];B[sm];W[so];B[on];W[pn];B[no];W[np];B[cs];W[ds];B[ep]
+;W[eq];B[kg];W[kf];B[ca];W[ba];B[da];W[qm];B[rn];W[he];B[ge];W[il];B[hm];W[cl]
+;B[bm];W[oe];B[pe];W[of];B[pf];W[ef];B[nk];W[df];B[rl];W[pp];B[nn];W[nl];B[ml]C[Zhou Heyang advances to the semi final, which will take place on 7/1.]
+)
+(;B[qm];W[pk];B[ol];W[nl];B[ml];W[ql];B[ok];W[qk])
+(;B[qm];W[pk];B[ql];W[ol];B[ok];W[nk];B[oj];W[ml])) 

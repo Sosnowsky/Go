@@ -1,0 +1,28 @@
+(;SZ[19]EV[China 2003 National Team Level A round 4]DT[2003-07-10]KM[7.5]PC[China]PB[Yu Ping]BR[6p]PW[Nie Weiping]WR[9p]RE[W+R]C[Commentary by Chang Hao 9p,
+Source:China Sports Weekly,
+Translation:GoGameWorld.];B[pd]C[Teacher Nie Weiping is in a good state recently, in the last round, he took White and defeated Yu Ping 6p, helping Guizhou Team beat Sichuan Team.];W[dd];B[pq];W[dq];B[qk]
+;W[mp];B[po];W[jp];B[do];W[dl];B[eq]LB[ep:a][dp:b]C[The attachment of B11 is Yu Ping's favorite move, and it is also the outcome of his study, no matter White answers by the hane move at 'a' or the hit at 'b', the enusing variations would be all very complicated.];W[er]C[As for teacher Nie, the simplest hane move of W12 is very clever.];B[ep];W[fr];B[cq]
+;W[cr];B[bp]LB[dp:a][dr:b][hp:c]C[B17: Normally Black would atari at 'a', White connects at 'b',  then Black can consider to hang at 17 or jump at 'c', the real game play is acceptable for both sides.];W[gp];B[dp];W[dr];B[br];W[cf];B[mc];W[qd];B[qc]
+
+(;W[pc]LB[qe:a][rc:b]C[W24 and W26 are the style of teacher Nie. If White extends at 'a' with W26, then Black would descend at 'b', it seems tasteless (see var a).]
+(;B[rc]LB[od:a][rd:b][pb:c][qb:d][qg:e][qe:f]C[B27: If Black extends at 'a', then White stands at 'b', B 'c', W 27, B 'd', W 'e', this way White would take some advantage in points comparing with the extension at 'f' (see var a).];W[nc];B[pe];W[md];B[lc];W[ld];B[kc]
+;W[kd];B[jc];W[ne];B[hd]LB[gc:a][fc:b]C[B37: For Black to make a two-space extension at 'a' would be better, in the game, White is left with the good checking point at 'b', Black is dissatisfied.];W[fc];B[gc];W[fb]LB[fd:a]C[W40: If it were me, I would elect to extend at 'b', this way the corner is thick.];B[fd];W[ed]
+;B[fe]C[After the tiger's move of B41 and the extension of B43, White's corner seems a little thin.];W[nq];B[og];W[lg];B[ok]C[B45 and B47 are good moves!];W[ob]LB[pr:a]C[The tiger's move of W48 is too slow, White should attach at 'a', which is huge.];B[pb];W[oc];B[or]C[After Black makes the diagonal's extension of B51, Black is a little favorable for the game.];W[hb]
+;B[gb];W[ga];B[hc];W[ib];B[ha];W[ia];B[jb];W[oi];B[lq]C[For Black to make life with the sequence after B61 is the follow-up maneuver of B51, White has no other choice.];W[nr];B[jq];W[ip];B[kp]
+;W[ko];B[hr];W[lp];B[kq];W[fq];B[mr];W[ns];B[iq];W[ms];B[ls];W[jn];B[js];W[qi]
+;B[qg];W[mi];B[ch];W[ef];B[dj]LB[on:a][lo:b]C[B81 and B83 are unnecessary, Black should protect his side territory by the diagonal's move at 'a', aiming at the cut at 'b' as well.];W[cn]TR[ch][dj]C[The sequence after W84 is excellent to attack the two marked stones by "borrowing strength".];B[dn];W[dm];B[bn]
+;W[co];B[cm];W[bm];B[cl];W[ck];B[bl];W[bk];B[al];W[dk];B[bd];W[ff];B[gf];W[gg]
+;B[hf];W[hg]LB[bf:a]TR[bd]C[However, W102 is an impulsive move, White certainly should stand at 'a' to capture the marked black stone, this way the outcome of the game would be still unclear, in the game, Black tenukis to make life in the corner, Black takes the lead again in territory.];B[bf];W[ge];B[if];W[bg];B[fn];W[qm];B[on];W[rk];B[fl]
+;W[fk];B[gk];W[fj];B[be];W[cg];B[cc];W[db];B[cb];W[ro]LB[mn:a]C[The knight's move of W120 is a game-deciding move, normally White should protect the cut at 'a'.];B[ho];W[hp];B[ql]
+
+(;W[pm]LB[rl:a][qn:b][lo:c]C[W124 is also the follow-up tactic of W120, if White blocks at 'a', then B124, W 'b', and the cut of B 'c' would be very severe (see var a).];B[rl];W[qp];B[pp];W[qr]LB[rm:a]TR[qm][pm]C[W128: At any rate, White should clamp at 'a', in the game, the two marked stones get captured, White's territory is clearly inadequate.];B[qq];W[rq]
+;B[qo];W[rp];B[rn];W[pr];B[oq];W[os];B[rr];W[rs];B[sr];W[sq];B[nm];W[rm];B[sm]
+;W[qb];B[rb];W[pa];B[gj]LB[ra:a]C[B147 is inexplicable! For Black to reinforce at 'a' would simpler and Black is winning.];W[rf]C[The strike of W148 is severe.];B[re]LB[mn:a][gl:b][rg:c][rd:d]C[B149 is the last losing move! After White takes advantage in sente, W 'a' also becomes sente, then White cuts at 'b', the game has been completely turned around.];W[qf]
+;B[qe];W[pf];B[rg];W[of];B[sf];W[qj];B[pj];W[pi];B[ra];W[oj];B[pk];W[sj];B[sl]
+;W[mn];B[nj];W[gl];B[hl];W[gm];B[fm];W[hm];B[gi];W[fh];B[il];W[im];B[kl];W[ll]
+;B[mk];W[ml];B[nl];W[lk];B[kk];W[km];B[ig];W[ij];B[ji];W[ii];B[jj];W[ik];B[jl]
+;W[ih];B[jh];W[hk];B[pg];W[jg];B[mh];W[ni];B[lh];W[mg];B[nh];W[ng];B[oh];W[kg]
+;B[gh];W[hh];B[fi];W[ek];B[eh];W[fg];B[bh];W[ah];B[ai];W[ag])
+(;W[rl];B[pm];W[qn];B[lo]C[The cut would be very severe.]))
+(;B[od];W[rd];B[pb];W[rc];B[qb];W[qg]))
+(;W[qe];B[rc];W[qh]C[This is a common continuation.])) 

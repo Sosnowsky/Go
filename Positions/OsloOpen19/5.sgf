@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[bb][cb][hb][cc][ec][jc][kc][lc][pc][rc][dd][kd][pd][qd][de][fe][bf][cf][ef][kf][mf][of][qf][rg][rh][fn][fo][no][jp][op][pp][qp][fq][mq][nq][dr][mr][or][pr][qr]AB[pb][qb][rb][bc][dc][gc][nc][qc][cd][id][jd][ld][md][be][ce][je][ke][le][df][bg][cg][dg][oh][qh][qi][ri][em][qm][cn][en][ro][dp][np][rp][cq][oq][pq][qq][rq][sq][nr][rr]C[W to play.]PL[W]
+(;W[fm]
+(;B[gp]
+;W[fp]
+;B[jo]C[In the game W pushed to build in the lower side, and B invaded and some fight started.])
+(;B[hc]C[B can start this in sente.]
+;W[gb]
+;B[fb]
+;W[ic]
+;B[ga]
+;W[ib]
+;B[fc]
+(;W[db])
+(;W[eb]
+;B[he]
+;W[mb]
+;B[nb]
+;W[kb]
+;B[fl]C[To destroy many W's points and come back and answer the push.])))
+(;W[hc]C[To prevent that, W should cut the B stone.]
+;B[gl]
+;W[fh]C[B has not enough points.]))

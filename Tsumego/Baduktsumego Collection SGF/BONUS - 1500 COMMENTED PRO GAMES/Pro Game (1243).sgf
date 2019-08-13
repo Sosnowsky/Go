@@ -1,0 +1,17 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 24]DT[2003-05-08]KM[6.5]PB[Takemiya Masaki]BR[9p]PW[Cho U]WR[8p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+8.5];B[pd];W[dd];B[pp];W[dp];B[pj]C[Through B5, Black forms sanrensei, nobody has played this fuseki for a very long time.];W[nc]
+;B[jp];W[ne];B[pf];W[ng]C[W8 and W10: It is obvious that White vigilantly guards against Takemiya's "Cosmic Style".];B[mf];W[nf];B[oc];W[nb];B[ph];W[oi];B[pi];W[qq];B[qp]
+;W[pq];B[nq];W[gc];B[oq];W[dj];B[li]LB[mj:a][nh:b][oh:c][ni:d]C[B25 is Takemiya's style, if W 'a', then B 'b', W 'c' and B 'd', Black can separate White.];W[fq]LB[go:a]C[W26: For White to play at 'a' would be better.]
+;B[kf]LB[ji:a][ce:b][jd:c]C[B27: Black can consider to simply jump to 'a', if W 'b', then Black will invade at 'c'.];W[kd];B[gp];W[gq];B[hj];W[jh]
+(;B[ji]LB[ii:a][ki:b][kj:c][lh:d][mi:e][mh:f][ni:g]C[B33: For Black to make the diagonal's extension at 'a' would be better than the play in the game, followed by W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g' (see var a).];W[ii];B[ij];W[ki];B[jj];W[lh];B[kj]
+;W[kh];B[mi];W[ce];B[hh];W[hg];B[gg];W[ih]LB[hf:a]C[W46: For White to draw back at 'a' is the proper move, the play in the game takes a tremendous risk.]
+(;B[hi]LB[hf:a][ig:b][fd:c][fc:d][gf:e][mh:f][mg:g][he:h][ff:i][lg:j]C[B47: Black has missed a good opportunity, Black should play at 'a', if W 'b', B 'c', W 'd', B 47, W 'e', B 'f', W 'g' and B 'h', making a miai of 'i' and 'j', Black would definitely get one.];W[gf];B[fg];W[hf]C[Through 50, White has clearly gained advantage.]
+;B[rp]LB[cn:a][cp:b][dl:c][dh:d]C[B51 is questionable, Black should play at 'a' first, followed by W 'b', B 'c', W 'd', then Black plays at 51.];W[co]C[After W52, Black is already very difficult to invade the left side.]
+(;B[hq]LB[iq:a][hp:b][go:c][ho:d][fp:e][hn:f]C[B53: Black should make the diagonal's extension at 'a', followed by W 'b', B 53, W 'c', B 'd', W 'e' and B 'f', this variation is clearly better for Black (see var a).];W[iq]C[W54 is a good move.];B[hp];W[hr];B[ip];W[jr];B[jq]
+;W[ir];B[ob]LB[kr:a]C[B61 is a mistake again. Black should block at 'a', B61 is worth about 25 points, but the block at 'a' is worth about 30 points.];W[kq];B[kp];W[lq];B[lp];W[od];B[qc];W[dh]C[After W68, the komi already becomes Black's burden.];B[na];W[ma]
+;B[oa];W[mb];B[ek];W[dk];B[el];W[fi];B[fj];W[dl];B[em];W[mq];B[mp];W[nr];B[or]
+;W[ei];B[gi];W[ef]C[Through 86, White is already leading on the board.];B[eo];W[dn];B[ep];W[eq];B[do];W[cn];B[mr];W[lr];B[mh];W[mg]
+;B[ns];W[oh];B[oj];W[of];B[pe];W[en];B[fn];W[ls];B[eg];W[dg];B[ff];W[fe];B[oe]
+;W[nd];B[dm];W[cm];B[fp];W[ms];B[ni];W[ej];B[fk];W[pg];B[qg];W[og];B[nr]C[Through 121, this game has created a new game record, the least number of moves with counting (total 121 moves).])
+(;B[iq]C[Black should play here.];W[hp];B[hq];W[go];B[ho];W[fp];B[hn]C[This is better for Black.]))
+(;B[hf]C[Black should atari here.];W[ig];B[fd];W[fc];B[hi];W[gf];B[mh];W[mg];B[he]))
+(;B[ii];W[ki];B[kj];W[lh];B[mi];W[mh];B[ni])) 

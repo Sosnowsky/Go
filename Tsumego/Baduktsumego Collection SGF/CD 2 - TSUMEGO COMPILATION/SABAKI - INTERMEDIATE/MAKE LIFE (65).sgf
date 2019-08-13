@@ -1,0 +1,30 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ba][bh][cb][cf][ch][ci][db][de][df][dg][ec][ed]
+AW[bb][be][bf][bg][cc][ce][cg][dd]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties]
+(
+;W[ad]
+;B[cd]
+(
+;W[ab]
+;B[dc]
+;W[bc]C[RIGHT
+])
+(
+;W[bd]
+;B[ab]
+;W[ac]C[Ko Fight]))
+(
+;W[bc]
+;B[ad])
+(
+;W[ab]
+;B[ad]
+;W[bd]
+;B[dc]
+(
+;W[ac]C[Ko Fight])
+(
+;W[cd]
+;B[ac])))

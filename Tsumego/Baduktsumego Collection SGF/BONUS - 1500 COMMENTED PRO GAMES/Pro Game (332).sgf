@@ -1,0 +1,34 @@
+(;SZ[19]EV[2nd CSK Cup Asian Team Contest round 3]DT[2003-04-29]PC[Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]KM[6.5]PB[Yuki Satoshi]BR[9p]PW[Ding Wei]WR[8p]RE[B+R];B[qd];W[dp];B[cd];W[qp];B[op];W[lp]
+;B[pl]C[B7 is Yuki's favorite play.];W[od];B[oe]LB[qq:a]C[B9: Black can also attach under at 'a'.];W[ne];B[pe];W[md];B[fc];W[oo];B[no];W[on];B[pp]
+;W[qo];B[qq];W[qm];B[nn]
+(;W[nm]LB[np:a][mp:b][nq:c][mq:d][or:e][pr:f][mr:g][lq:h][lr:i][kq:j][kr:k][jq:l][rr:m][rq:n][jr:o][iq:p]C[W22: If White cuts at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o' and B 'p', White is no good (see var a).]
+;B[lo];W[rq];B[mp]C[B25 is the vital point for shape.]
+(;W[qc]LB[dj:a][cj:b][pj:c][rr:d][qr:e][pq:f][sr:g][om:h][nl:i][rp:j][rs:k][qn:l]C[W26: White can also consider to extend at 'a or 'b', if White immediately pincer-attacks at 'c', then Black's hane move at 'd' would be a good move, followed by W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', next Black's wedge at  'l' would be an excellent move, White is no good (see var a).];B[pc]
+;W[pd];B[oc];W[nd];B[qb];W[qe];B[rc];W[rd];B[qc];W[pf]C[The variation up to 36 almost becomes a joseki.]
+(;B[rr]LB[om:a][nl:b][rk:c][nk:d][mk:e][mj:f][lk:g][of:h]C[B37 is dubious, Black should first cut at 'a', followed by W 'b', B 37, W 'c', B 'd', W 'e', B 'f' and W 'g', then Black could escape at 'h'.];W[ol]C[W38 is a good move.];B[do]C[B39 aims to serve as a ladder breaker.];W[eo]C[Revolving around the ladder breaker, a fierce battle starts with the sequence after W40.]
+;B[en];W[dn];B[co];W[fn];B[em];W[cp]LB[qf:a][of:b][re:c][qg:d][rg:e]C[W46 is the mutual good point, if Black ataris at 'a', then W 'b', B 'c', W 'd', Black takes and W e', this would be favorable for White (see var a).]
+(;B[bp]C[B47 is a good move.];W[bq]LB[ep:a][bo:b]C[W48: If White connects at 'a', then Black can either extend at 48 or connect at 'b' and Black can fight.];B[ep];W[fo];B[eq];W[bo];B[cn]
+(;W[bn]LB[dm:a][dl:b][cm:c][el:d][fm:e][ap:f][gm:g][bm:h][of:i]C[W54: If White extends at 'a', then B 'b', W 'c', B 54, W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', it would lead to a chaotic fight (see var a).];B[cm];W[dr];B[fm];W[of]C[W58: White has no other alternative.]
+;B[gp]
+(;W[hn]LB[ho:a][hp:b][jp:c][hl:d]C[W60 is no better than a move at 'a', followed by B 'b', W 60, B 'c' and W 'd', this variation would be better than the real game (see var a).];B[ho];W[gm];B[in]LB[gl:a][il:b][ko:c]C[B63: If Black hanes at 'a', then W 63, B 'b' and W 'c', Black has no certainty of success.];W[gl];B[fp]
+;W[gn];B[dj];W[im];B[jn];W[kl];B[gi];W[ii];B[hg];W[cl];B[bm];W[dl];B[dm];W[ek]
+;B[fk];W[fj];B[fl];W[ej];B[gk];W[gj];B[hk];W[hj];B[jk]C[After 87, the game becomes complicated and both sides are ruining each other's territory.];W[kn];B[ko];W[kk];B[jj]
+;W[il];B[ik];W[li]LB[lj:a]C[After W94, White's shape is flawed, White should make the diagonal's extension at 'a'.];B[hl];W[hm];B[jh]C[B97 is a good move, White is hard to deal with.];W[ji];B[kj]
+(;W[ki]LB[lj:a][kh:b][lh:c][kg:d][jl:e][jm:f][lk:g][ll:h][mk:i][nj:j][ml:k][mm:l][lm:m]C[W100: If White blocks at 'a', then after B 100, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', White would get captured (see var a).];B[lj]
+;W[ml];B[nj]C[Through 103, Black has succeeded in the fight.];W[pj];B[bk]C[B105: Black selects a simple and easy play.];W[di];B[bi];W[qr];B[pq];W[hd]LB[fe:a]C[W100 seems sluggish, White should consider to play at 'a'.];B[ge];W[he]
+;B[gf];W[ch];B[bh];W[sr];B[cf]C[After 117, Black is leading in the game.];W[gc];B[fb];W[er];B[fr];W[nb];B[hi];W[ij];B[jf]
+;W[jd];B[km];W[jl];B[oi];W[pi];B[dq];W[cq];B[gb];W[hb];B[gd];W[re];B[ob];W[kg]
+;B[hc];W[ic];B[jg];W[fg];B[es];W[cr];B[oh];W[hh];B[an];W[ap];B[pr];W[rs];B[ef]
+;W[ps];B[or];W[bl];B[al];W[lm];B[ln];W[os];B[ns];W[qs];B[nr];W[cj];B[ib];W[gc]
+;B[lk];W[ll];B[hc];W[bj];B[aj];W[gc];B[ph];W[qh];B[hc];W[ck];B[ak];W[gc];B[qg]
+;W[oj];B[mi];W[jb];B[hc];W[ia];B[rh];W[qi];B[pg]C[After 185, White already has no chance of winning.];W[ri];B[nc];W[mb];B[mc];W[lc]
+;B[rg];W[ff];B[fe];W[cg];B[bg];W[eg];B[dg];W[dh];B[df];W[gh];B[si])
+(;W[lj]C[If White blocks here, ...];B[ki];W[kh];B[lh];W[kg];B[jl];W[jm];B[lk];W[ll];B[mk];W[nj];B[ml];W[mm]
+;B[lm]C[White would be killed.]))
+(;W[ho]C[White is better to play here.];B[hp];W[hn];B[jp];W[hl]))
+(;W[dm]C[If White extends here, ...];B[dl];W[cm];B[bn];W[el];B[fm];W[ap];B[gm];W[bm];B[of]C[This would lead to a chaotic fight.]))
+(;B[qf]C[If next Black ataris here, ...];W[of];B[re];W[qg];B[pe];W[rg]C[This would be favorable for White.]))
+(;B[om]C[Black should cut first.];W[nl];B[rr];W[rk];B[nk];W[mk];B[mj];W[lk];B[of]C[Black would escape this way.]))
+(;W[pj]C[If White immediately pincers here, ...];B[rr];W[qr];B[pq];W[sr];B[om];W[nl];B[rp];W[rs];B[qn]C[Black has this brilliant wedge and White is no good.]))
+(;W[np];B[mp];W[nq];B[mq];W[or];B[pr];W[mr];B[lq];W[lr];B[kq];W[kr];B[jq];W[rr]
+;B[rq];W[jr];B[iq])) 

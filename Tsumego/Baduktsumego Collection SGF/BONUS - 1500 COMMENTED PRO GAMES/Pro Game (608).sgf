@@ -1,0 +1,23 @@
+(;SZ[19]EV[Japan 31st Meijin Title league game 7]KM[6.5]DT[2006-01-19]PB[Yamada Kimio]BR[9p]PW[Takao Shinji]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+R];B[qd];W[dc];B[pq];W[dq];B[ce];W[ci];B[do]C[B7 is rarely seen.]
+;W[cd];B[de];W[fd];B[eh]LB[ei:a]C[B11: Black can consider to play at 'a'.];W[dj];B[fp]LB[eq:a]C[B13: For Black to play at 'a' is also possible.];W[fi];B[gg];W[hd]LB[cg:a][ff:b]C[W16 looks slow, for White to play at 'a' or 'b' is better.]
+;B[oc];W[eo];B[ep];W[dp]LB[en:a][co:b][fo:c][cn:d]C[After W20, if B 'a', then W 'b', B 'c' and W 'd', Black can't be satisfied.];B[dn];W[fo];B[go];W[em];B[cp]
+;W[cq];B[bp];W[fr]LB[er:a][gp:b][bq:c][cl:d][fm:e][bn:f][jp:g]C[W28 is questionable, White should play at 'a', B 'b', W 'c', B 'd' and W 'e', next 'f' and 'g' become miai, White is favorable.];B[bq];W[br]
+(;B[ar]LB[gr:a][gq:b][gp:c][fq:d][hq:e][hr:f][ir:g][gs:h][ip:i][jq:j][iq:k][fm:l][cl:m]C[B31 is questionable, Black should play at 'a', next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', Black can be satisfied (see var a).];W[cr]LB[gr:a][gq:b][gp:c][hr:d]C[After W32, if B 'a', then W 'b', B 'c' and W 'd', now we can see the improperness of B31.]
+;B[gq];W[gr]LB[cl:a][fm:b][iq:c][hr:d][jo:e]C[After W34, B 'a' is steady, followed by W 'b', B 'c', W 'd' and B 'e'.];B[en]C[B35 is a strong move, but Black has no assurance of success.];W[fn];B[fm];W[gn];B[ho];W[fl]
+;B[bm];W[gm]C[Through W42, Black is not successful.];B[hr];W[aq]C[W44 is good order.];B[ap];W[fq]LB[hq:a][co:b][cn:c][bo:d][ao:e][bl:f]C[After W46, if B 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is not good in the capturing race.]
+;B[gp];W[eq];B[bk];W[ir]C[W50 is a good move.];B[hq]LB[hs:a][jq:b][iq:c][ip:d][jp:e][jr:f][is:g][gs:h][fs:i][jo:j][kp:k][lq:l][lp:m][mq:n][in:o][io:p][kn:q][kq:r]C[After B51, W 'a' is a strong move, if B 'b', then W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p' and W 'q', Black is not good (see var a). Therefore when W 'a', Black can only play at 'e', next W 'r', this result is better than the real game.]
+
+(;W[kq]C[The play of W52 is also not a bad move.];B[gs];W[fs];B[jr];W[iq];B[hs];W[ip];B[io];W[jo];B[im];W[jn];B[hm];W[hi]LB[cl:a][bl:b][jk:c]C[W64: White can also consider to play at 'a' instead, next B 'b' and W 'c'.]
+;B[jm];W[ds];B[lm];W[np]C[Through W68, it is also to White's advantage.];B[mq]LB[nq:a][mp:b][nr:c][lr:d][kr:e][lq:f]C[The counterattack of B69 is very severe, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White will collapse.];W[lo];B[nq]
+;W[op];B[oq];W[nm];B[pn]LB[mk:a][ok:b][pm:c][on:d][nn:e][om:f][ol:g][qm:h][ml:i][kj:j]C[B75 is a little weak, Black should play at 'a', next W 'b', B75, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', this way the outcome of the game is difficult to imagine.]
+;W[pm];B[qm];W[pl];B[on];W[nn];B[qn];W[mk];B[lk];W[mj]LB[lj:a][kj:b][li:c][ml:d][nl:e][nk:f][ki:g][kh:h][jh:i][lh:j][ii:k][hh:l][jg:m][hg:n]C[W84 is questionable, White should play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f', W84, B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', White is clearly favorable.]
+;B[lj];W[li];B[ki];W[kh];B[lh];W[mi];B[jh];W[kg];B[jj];W[ii];B[ji];W[hg];B[jg]LB[hf:a][bd:b][bc:c][bh:d]C[After B97, if W 'a', then B 'b', W 'c' and B 'd', White is difficult to kill Black.]
+;W[cg];B[pj]C[B99 is severe, now we can see the improperness of W84.];W[oi];B[bd];W[bc];B[bh];W[ch];B[kf];W[hf];B[lg]LB[oj:a][ml:b][ll:c][kl:d][pi:e][qj:f][pg:g][nh:h][ni:i][rk:j][oe:k][qe:l]C[B107 is the losing move, Black should first play at 'a', after W 'b', then B107, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', this way Black can fight.]
+;W[pi];B[ic];W[hc];B[hb];W[gb];B[bi];W[bg];B[qj];W[oj]C[After W116, White's advantage becomes clear.];B[rk];W[kc];B[id]C[B119 is the strongest resistance.]
+;W[ob];B[pc];W[ie];B[jd];W[nc];B[jb];W[mb];B[pb];W[pa];B[qa];W[oa];B[md]LB[nh:a]C[B131: Black should play at 'a' instead, waiting for chances.]
+;W[nd];B[me];W[qb];B[rb];W[ra];B[rc];W[ne];B[of];W[nf];B[ng];W[og];B[nh];W[pg]
+;B[pe];W[pf];B[oe];W[re])
+(;W[hs];B[jq];W[iq];B[ip];W[jp];B[jr];W[is];B[gs];W[fs];B[jo];W[kp];B[lq];W[lp]
+;B[mq];W[in];B[io];W[kn]))
+(;B[gr];W[gq];B[gp];W[fq];B[hq];W[hr];B[ir];W[gs];B[ip];W[jq];B[iq];W[fm];B[cl]
+)) 

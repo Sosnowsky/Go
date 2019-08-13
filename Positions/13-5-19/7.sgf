@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[fc][kc][nc][dd][gd][hd][kd][pd][gf][kf][fg][ch][oh][qh][di][fi][fj][ij][fk][qk][el][en][in][jn][kn][ko][ep][op][cq][dq][fq][lq][oq]AB[cc][hc][jc][qc][bd][id][rd][ie][cf][ef][ff][of][qf][ig][cj][dj][ej][fl][hl][cm][em][fm][qm][hn][ho][io][jo][po][cp][dp][qp][jq][pq]LB[kf:A]C[W just played A thinking that the connection between the groups on the left is safe. However W missed a sequence. B to play and punish.]PL[B]
+(;B[jh]C[In the game B played here.]
+;W[hf]C[And W fixed. (W should have played this move before)])
+(;B[ge]C[B should wedge.]
+;W[he]
+(;B[fe])
+(;B[hf]
+;W[fe]
+;B[gg]
+;W[gh]
+;B[ge]C[This is good for B.])))

@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 28th Meijin Title preliminary group 3 final]KM[5.5]DT[2002-11-07]PB[Takemiya Masaki]BR[9p]PW[Kudo Norio]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[pd];W[dd];B[pp];W[dq];B[do];W[eo];B[en]
+;W[ep];B[dn]LB[dm:a][cq:b][cp:c]C[B9: If Black tigers at 'a', then later if Black attaches under at 'b', then White may hane at 'c'.];W[fn];B[fm];W[gm];B[gn];W[fo];B[fl];W[gl];B[gk]
+;W[hn];B[hk];W[cg];B[cq];W[cr];B[cp];W[jc];B[jp];W[go];B[dk]C[B27 is solid.];W[qn];B[nq];W[rp]
+;B[ql];W[qq];B[qo];W[po]LB[ro:a]C[W34 is the old joseki, for White to block at 'a' is also possible.];B[pn];W[oo];B[rn];W[qp];B[qm];W[oq];B[np];W[op]
+;B[or];W[no]LB[pr:a][qf:b][lp:c]C[W44: White aims to take sente, if White blocks at 'a', then B 'b', W 44 and B 'c'.];B[pr];W[pq];B[lp]LB[rr:a]C[After B47, Black is left with the maneuver of taking away White's eyes by striking at 'a'.];W[qf];B[nc];W[rd]LB[qi:a]C[W50: White can also consider to make a two-space extenstion at 'a'.]
+;B[hc];W[fc];B[he];W[je];B[mf];W[lc];B[kd];W[kc]
+(;B[qh]LB[qg:a][pg:b][rg:c][qc:d][ph:e][qi:f][rh:g][rf:h][pf:i]C[B59 is not tight enough, Black should attach at 'a', if White hanes at 'b', then Black retreats to 59, W 'c', B 'd', W 'e' and B 'f' (see var a), Black is favorable; moreover when Black attaches at 'a', if W 'c', then B 'g', W 'h', B 59, W 'd' and B 'i' (see var b), this is also better than the real game for Black.];W[qg];B[ph];W[qc]C[After W62, Black appears weak instead.]
+;B[md];W[ld];B[hg];W[cj];B[ck];W[dj]C[W66 and 68 are good moves.];B[hq];W[lo];B[ko];W[mp];B[mq];W[mo];B[kp]LB[rr:a]C[B75: Black is reluctant to give up the option of striking at 'a'.]
+;W[br];B[mm];W[jg]C[W78 is a good point.];B[le];W[ke];B[lg];W[gd];B[cd]C[B83 is an unusual tactic, so far White is leading in territory, Black has to play this way.];W[cc];B[dc];W[db]C[W86 is a safe and steady play.];B[de]
+;W[ec];B[cf];W[dg];B[ef];W[eg];B[ff];W[hd]C[For the result up to 94, White has nothing to complain.];B[fq];W[er];B[im]LB[bj:a]C[B97: The hane and connection move at 'a' is more profitable.];W[nm]
+;B[nl];W[om];B[ol];W[ih];B[gi];W[bg]LB[bk:a][ek:b]C[W104: White should hane and connect at 'a', leaving the option of the hane move at 'b', White is better.];B[rr];W[qr];B[qs];W[rs];B[ss]
+;W[ps];B[os];W[ro];B[on];W[sq];B[mr];W[rq];B[bj];W[bi];B[bk]C[B117 and B110 are huge moves.];W[bd]LB[ei:a]C[W120 is questionable, if White reinforces at 'a', the game is still a little favorable for White.]
+;B[be];W[ce];B[ie];W[id];B[cd];W[bf];B[bq];W[gr];B[bc];W[df];B[ad];W[ee];B[cb]
+;W[ce]LB[dc:a][ab:b]C[If W134 at 'a', then B 'b', Black is still ko living.];B[dc];W[hr];B[ir];W[cc];B[gq];W[fr];B[dc];W[nn];B[cc]C[After B143, the game has been turned around, now Black is advantegeous.]
+;W[rh];B[ri];W[rg];B[kj]
+(;W[og]LB[pm:a][pl:b][qi:c][pi:d][qj:e][rj:f][nh:g][ne:h][me:i][of:j][nd:k]C[W148 is a wrong sequence, White should first play at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 148, B 'g', W 'h', B 'i' and W 'j' (see var a), afterwards, White can cut and capture one black stone by squeezing at 'k'.];B[pg];W[pf]
+;B[of];W[ii];B[ej];W[qi];B[pi];W[qj];B[pj];W[rj];B[qk];W[ei];B[fi];W[pc];B[hs]
+;W[in];B[oe];W[fg];B[gg];W[fj];B[ek];W[hj];B[gj];W[kh];B[li];W[pm];B[qn];W[ll]C[W176 is an overplay.]
+;B[kn]C[B177 is severe.];W[pl];B[pk];W[lh];B[mh];W[ml];B[lm];W[jl];B[ik];W[jm];B[hm];W[jn];B[kk]C[B189 is the winning move.]
+;W[km];B[ln];W[ip];B[hp];W[ar]C[W194: White has no choice but to strengthen.];B[kl]C[After Black cuts with 195, Black wins for sure.];W[eb];B[rk];W[si];B[ps];W[sr];B[rs]
+;W[so];B[nb];W[aq];B[dp];W[eq];B[ap];W[mb];B[qa];W[ra];B[oa];W[mc];B[oc];W[pb]
+;B[pa];W[io];B[iq];W[rb];B[fe];W[ge];B[gf];W[fh];B[hi];W[di];B[fd])
+(;W[pm];B[pl];W[qi];B[pi];W[qj];B[rj];W[og];B[nh];W[ne];B[me];W[of]))
+(;B[qg];W[pg];B[qh];W[rg];B[qc];W[ph];B[qi])
+(;B[qg];W[rg];B[rh];W[rf];B[qh];W[qc];B[pf])) 

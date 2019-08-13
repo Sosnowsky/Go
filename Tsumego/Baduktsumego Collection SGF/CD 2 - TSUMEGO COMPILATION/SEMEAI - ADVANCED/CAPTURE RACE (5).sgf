@@ -1,0 +1,45 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][af][bc][bd][be][cf][ci][dc][dd][de][df][dg][dh][ec][ei][gd][jc]
+AW[ba][bb][bf][bg][bi][ca][cb][cc][cd][ce][cg][ch][da][db][di][dj][ej][hc][hd][he]PL[W]C[White to play.
+
+Capture race - Extend Liberties]
+(
+;W[ga]
+;B[gb]
+;W[hb]
+;B[fa]
+;W[fb]
+;B[ha]
+;W[eb]
+;B[gc]
+(
+;W[ad]C[RIGHT
+])
+(
+;W[ag]
+;B[ad]C[Ko Fight]))
+(
+;W[fb]
+;B[eb]
+;W[ea]
+;B[gb]
+;W[ga]
+;B[fc]
+;W[hb]
+;B[fa]C[Ko Fight])
+(
+;W[fa]
+;B[eb]
+;W[ea]
+;B[gb])
+(
+;W[eb]
+;B[fb]
+;W[gb]
+;B[fa]
+;W[fc]
+;B[gc]
+;W[fd]
+;B[hb]
+;W[ge]
+;B[ga]))

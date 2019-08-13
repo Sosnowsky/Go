@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 41st Judan final game 3]DT[2003-04-10]KM[5.5]PB[O Rissei]BR[9p]PW[Takao Shinji]WR[8p]PC[Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[pd];W[dd];B[pq];W[dp];B[qo];W[kq]
+;B[cf];W[fc];B[cj];W[cn];B[cd]LB[ch:a]C[The sequence after B11 aims to alleviate the effect of White's invasion at 'a'.];W[cc];B[bc];W[dc];B[be];W[nq];B[nc]LB[hc:a]C[B17: For Black to extend and check at 'a' can also make it a game.]
+;W[ic];B[qi];W[oo];B[dr];W[fr];B[cq]LB[eq:a]TR[fr]C[B23: If Black makes the diagonal's extension at 'a', then White would play at 23, as a result, the marked white stone will become the vital point for Black's eye shape.];W[cp];B[br];W[fq];B[bp];W[bo]
+;B[kp];W[lq];B[jm];W[pm];B[po];W[on];B[qe];W[lc];B[id];W[jc];B[gd];W[gc];B[ap]
+;W[jp]LB[jk:a]C[W42: The cap at 'a' is the usual play in this situation.];B[jo];W[ip];B[jk];W[rn];B[ro];W[ji];B[fg];W[di]C[W50 is a strong move.];B[dj];W[fi]
+;B[ej];W[fh];B[gg];W[dg];B[df];W[gk];B[hi];W[hh];B[gh];W[gi];B[hj];W[fk];B[ci]
+;W[ih];B[hk]C[After this move, it is time for lunch break.]
+(;W[gm]LB[if:a][ef:b][eg:c][ff:d]C[W68 is a wrong sequence play, White should first jump to 'a', waiting for Black to connect back at 'b', then White jumps to 68, moreover, when W 'a', if Black plays at 68, then W 'c', B 'b' and W 'd', Black is no good (see var a).];B[ke]C[B69 is an alert move.];W[li];B[hm];W[hn];B[in];W[gn];B[pk]LB[lk:a][mk:b]C[B75 seems unreasonable, sticking the head out at 'a' or 'b' is the proper play.]
+;W[mk]C[The confinement after W76 makes Black uncomfortable.];B[lk];W[ll];B[lj];W[mj];B[ml];W[mm]C[The attack after W82 is brilliant.];B[nl];W[kl];B[kk];W[mi];B[lm]
+;W[ok];B[nm];W[mn];B[kn]LB[hl:a]C[After B91, White is left with the tactic of playing the atari at 'a', Black has failed in the fight.];W[ol]LB[me:a][ef:b]C[W92 is a little slow, White should make the knight's move at 'a', aiming to hane out at 'b'.];B[md];W[ch];B[bh];W[bg]
+;B[cg];W[dh];B[bf];W[qc];B[rd];W[pc]LB[qg:a]C[W102: White should simply invade at 'a'.];B[oc];W[qg];B[rf];W[qh];B[pi];W[ri]
+;B[rj]C[The exchange of W108 for B109 is not necessarily favorable to White.];W[og];B[mg];W[oh];B[oi];W[nh];B[qm];W[oe];B[od]
+(;W[ql]LB[qn:a][rm:b][pn:c][sn:d][rl:e][qk:f][rk:g][or:h][pr:i][mb:j][nb:k]C[W118 is the fatal mistake, White should push at 'a', then B 'b', W 'c', B 'd', W 118, B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', White would clearly take the lead (see var a).];B[pl];W[om]
+;B[qn]C[Through 121, White has inflicted a heavy loss, the game has been turned around.];W[rk];B[qj];W[rg];B[si];W[sh];B[rh];W[ob]C[The sequence after W128 is the game-deciding moves.];B[nb];W[ri];B[sj];W[na]
+;B[ma];W[pa];B[oa];W[bi];B[ag];W[na];B[kh];W[ki];B[oa];W[bk];B[bj];W[na];B[hl]C[It is correct for Black to make life in the center completely, so B145 is the proper move.]
+;W[mb];B[oa];W[qk];B[pj];W[na];B[mh];W[lf]C[W152: White makes the last-ditch effort.];B[oa];W[le];B[ld];W[kd];B[kf];W[nf]
+;B[if];W[mf];B[na];W[ef];B[jh];W[ii];B[ee];W[eg];B[ed]LB[fd:a]C[B167 is a mistake, Black should play at 'a'.];W[fd];B[fe]
+(;W[hd]LB[ge:a][ff:b][de:c][hf:d]C[W170: White has missed the chance to turn the table again, White should attach at 'a', then B 'b', W 170, B 'c' and W 'd' (see var a).];B[ge];W[he];B[ec];W[eb];B[de];W[hf];B[fb];W[gb]
+;B[db];W[fa];B[dm];W[cl];B[dl];W[en];B[or];W[cb];B[bb];W[da];B[dn];W[eo];B[ls]
+;W[ks];B[ns];W[lr];B[kb];W[kc];B[jl];W[rc];B[pb];W[sf];B[re];W[qb];B[ra];W[ao]
+;B[es];W[er];B[dq];W[fs];B[ds]C[O Rissei lead 2:1, the game 4 will take place on 4/17.])
+(;W[ge]C[White should atari here, ...];B[ff];W[hd];B[de];W[hf]C[... White would win the game.]))
+(;W[qn]C[White should push here, ...];B[rm];W[pn];B[sn];W[ql];B[rl];W[qk];B[rk];W[or];B[pr];W[mb];B[nb]C[White would be clearly favorable for White.]
+))
+(;W[if]C[White should first jump here.];B[gm]C[If Black plays here, ...];W[eg];B[ef];W[ff]C[... Black is no good.])) 

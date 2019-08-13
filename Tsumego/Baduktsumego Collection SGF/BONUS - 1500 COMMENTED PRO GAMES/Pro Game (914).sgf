@@ -1,0 +1,20 @@
+(;SZ[19]EV[Japan 51st Oza Title round 3]DT[2003-08-14]PC[Japan]KM[5.5]RE[B+R]PB[Kato Masao]BR[9p]PW[Takao Shinji]WR[8p]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dd];B[cp];W[pp];B[nq];W[qn]
+;B[iq];W[oc];B[ld];W[oe];B[pf];W[ph];B[of];W[me];B[ng];W[le]LB[qc:a][rc:b][pd:c][qe:d]C[W16: For White to attach at 'a' is also playable, followed by B 'b', W 'c', B 'd' and W16.]
+;B[jd];W[kd];B[kc];W[ke];B[gc];W[jc];B[jb];W[ic];B[ib];W[lc];B[kb];W[cg]LB[ec:a][cn:b][ep:c][ck:d][cf:e][ch:f][fd:g]C[W28 is questionable, because later on protecting the corner at 'a' has no influence on Black, so White is better to play at 'b', then B 'c' and W 'd', when Black approaches the corner at 'e', White has three choices, playing at 'f', 'g' or tenuki.]
+;B[dk];W[lq]LB[ep:a]C[W30: White can also consider to approach the corner at 'a'.];B[no];W[oq];B[or]LB[nr:a][lo:b][nm:c][lm:d]C[B33 at 'a' is rather common, followed by W 'b', B 'c' and W 'd'.];W[pr];B[op]
+;W[pq];B[kp]LB[nr:a][lp:b]C[After B37, White is left with the atari at 'a' and escaping at 'b', Black is not comfortable.];W[ep]C[W38 is a big point.];B[dq];W[do];B[co];W[dm];B[cn];W[gm];B[cc]
+;W[cd];B[dc];W[ed];B[ec];W[lp]LB[fd:a][fc:b][fb:c][bc:d][hc:e][cb:f][db:g][da:h][eb:i][cm:j][fk:k][el:l][ek:m][hl:n]C[W50: White is a little hasty, now to extend at 'a' is the vital point, if Black tenukis, then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', White can take advantage in sente. Moreover, to block at 'j' is also possible, followed by B 'k', W 'l', B 'm' and W 'n', White can fight.]
+;B[lo];W[kq]LB[ko:a]C[W52: If White cuts at 'a', then B52, White is no good.];B[ko];W[jq];B[ip];W[mp];B[np];W[mo];B[mn];W[mr]LB[nn:a]C[W60: If White cuts at 'a', then B60, White is no good.]
+;B[hm]LB[nr:a][nn:b]C[B61: If Black directly connects at 'a', then White will cut at 'b', the fight is not to Black's advantage.]
+(;W[nn]LB[jp:a][jo:b][gl:c][io:d][ho:e][in:f][hn:g][ln:h]C[W62 is wrong sequence, White should first play at 'a', then B 'b', W62, B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', White is better (see var a).];B[gl];W[jp];B[fm];W[io];B[ho]
+;W[hp];B[ir];W[gp];B[go];W[mm];B[gr]C[Through B73, it leads to an exchange, Black is favorable.];W[pe];B[qe];W[qg];B[qf];W[nh];B[mh];W[ni]
+;B[pc]LB[qb:a]C[B81 guards against White's knight's move at 'a'.];W[cj];B[ck];W[mi];B[bj];W[fd];B[hc];W[ob];B[pb];W[in];B[jl];W[km]
+;B[mc]C[B93 is huge.];W[md];B[mb]LB[nd:a]C[After B95, Black is still left with the tactic at 'a'.];W[lh];B[mg];W[lg];B[bd]LB[jm:a][jn:b][dh:c]C[B99 is questionable, Black should play at 'a', then W 'b' and B 'c'.];W[be]
+;B[bc];W[fk];B[ci]LB[dh:a]C[B103: Black still needs to play at 'a'.];W[ik]C[W104 is a good move.];B[gk];W[il]C[Clearly White has gained with W106.];B[hj];W[fh]LB[fg:a]C[W108 is the losing move, White should play at 'a', this way it would be a close game.];B[ij]
+;W[jj];B[ji];W[kj];B[ff]C[B113 is sharp, White is hard to answer.];W[ef];B[eg];W[fg];B[df];W[ee];B[oh];W[pi]LB[oi:a][qh:b]C[If W120 at 'a', then B 'b', White is no good.]
+;B[dg];W[cf];B[ei];W[gf];B[im];W[jm];B[ge]C[With the sequence following B127, Black starts to kill White's dragon.];W[fe];B[if];W[ih];B[jg]
+(;W[jh]LB[ig:a][hf:b][hg:c][kf:d][lf:e][bh:f][gh:g]C[If W132 at 'a', then B 'b', W 'c', B 'd', W 'e', B132, W 'f' and B 'g', White will get captured (see var a).];B[hh];W[he];B[gd]
+(;W[ie]LB[hg:a][ig:b][hi:c][kh:d][gh:e][lf:f][kf:g][kg:h][li:i][mf:j][ii:k]C[If W136 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W136 and B 'k', White at the top will get killed.];B[hg])
+(;W[hg];B[ig];W[hi];B[kh];W[gh];B[lf];W[kf];B[kg];W[mf];B[li]))
+(;W[ig];B[hf];W[hg];B[kf];W[lf];B[jh];W[bh];B[gh]))
+(;W[jp];B[jo];W[nn];B[gl];W[io];B[ho];W[in];B[hn];W[ln])) 

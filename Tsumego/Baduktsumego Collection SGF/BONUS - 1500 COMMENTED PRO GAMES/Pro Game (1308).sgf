@@ -1,0 +1,19 @@
+(;SZ[19]EV[apan 42nd Judan final game 4]DT[2004-04-15]KM[6.5]PB[O Rissei]BR[9p]PW[Cho U]WR[9p]PC[Japan]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[pp];B[ec];W[dp];B[df];W[nd]
+;B[lc];W[pf]LB[oe:a][pe:b][pd:c][od:d][of:e][re:f][rd:g][pg:h][og:i][me:j][ph:k][qh:l][qi:m]C[After W8, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black couldn't play the double hane at 'm', White can fight (see var a).]
+
+(;B[od];W[oe];B[oc];W[mf];B[nc];W[qe];B[rd]C[Through B15, both sides are roughly acceptable.];W[qm];B[jq];W[hq];B[jo];W[nq];B[fq]
+;W[ho];B[jm];W[cn]LB[dq:a][fo:b]C[If W24 at 'a', then B 'b', Black can fight.];B[dq];W[cq];B[ep]
+(;W[do]LB[dr:a][eq:b][cp:c][co:d][dl:e][dn:f][fr:g][cj:h]C[W28 is a calm move, if White plays at 'a' instead, then B28, W 'b', B 'c', W25, B 'd', W 'e', B 'f', W 'g' and B 'h', Black can fight (see var a).];B[qp];W[qq]LB[qo:a]C[W30 is no better than playing at 'a'.];B[cr]
+;W[dr];B[er];W[eq];B[pq];W[pr];B[dq];W[kn];B[jn];W[eq];B[po];W[oq];B[dq];W[kp]LB[pd:a]C[W44: White should play at 'a' instead, Black is difficult to continue.]
+;B[ds];W[jp];B[ko];W[ip]C[Through W48, an exchange has resulted, White is not favorable.
+
+After this move, it is time for noon break.];B[ol]C[The selection of B49 is superb, White is hard to answer.];W[pn]LB[qk:a][on:b][bf:c][bd:d][ch:e]C[W50: For White to play at 'a' is better, next B 'b', W 'c', B 'd' and W 'e', White is still left with the possibility of attacking Black in the center.];B[on]
+;W[oo];B[nn];W[pk];B[ok];W[oj];B[pl];W[ql];B[pj];W[qk];B[nj];W[oi];B[ni];W[pi]C[Through W64, Black's center becomes very thick, White's loss outweighs his gain.]
+;B[cl]C[B65 is an excellent point, Black is leading in the game.];W[mk];B[nk];W[lo]C[The set pattern following W68 is not necessarily to White's advantage.];B[ln];W[mn];B[lm];W[mo];B[mm];W[bf]LB[kd:a][ld:b][kf:c]C[W74 is also questionable, White should play at 'a', followed by B 'b' and W 'c', aiming to fight a prolonged war.]
+;B[bd];W[ch];B[en]C[B77 is severe, White couldn't look after both sides.];W[bq];B[eh];W[cj];B[el];W[ej];B[di];W[dj];B[bm];W[bn];B[bk]
+;W[bj];B[fk];W[am];B[bl];W[br];B[gi];W[cf];B[de];W[dg];B[eg];W[dh];B[ei];W[bg]
+;B[kf]C[After B101, Black's advantage becomes clear.];W[fc]LB[kg:a]C[W102 is a game-deciding move, if White simply reduces by attaching at 'a', White's territory would be inadequate.];B[eb];W[ig];B[jf]C[Black didn't make any mistake with the sequence following B105, not giving White any chance.];W[if];B[id];W[hi];B[kh];W[hd];B[gg]
+;W[gj];B[fj];W[gh];B[hh];W[fi];B[fh];W[gi];B[ih];W[kd];B[ic];W[ie];B[jh];W[cd]
+;B[dd];W[le];B[jb]C[O Rissei achieves four consecutive Judan titles.])
+(;W[dr];B[do];W[eq];B[cp];W[dq];B[co];W[dl];B[dn];W[fr];B[cj]))
+(;B[oe];W[pe];B[pd];W[od];B[of];W[re];B[rd];W[pg];B[og];W[me];B[ph];W[qh])) 

@@ -1,0 +1,30 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 19]KM[6.5]DT[2003-04-11]PB[Cho U]BR[8p]PW[O Meien]WR[9p]RE[B+3.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[cd];W[oq];B[po];W[qp];B[qo]
+;W[rp];B[pk];W[fd];B[nc];W[cc];B[dc];W[dd];B[db];W[cb];B[bb];W[bd]LB[bc:a]C[W18: For White to turn at 'a' is common.];B[ce]
+;W[bc];B[fb];W[de];B[cf];W[df];B[cg];W[ab];B[hc];W[dg];B[ch];W[hd];B[ic];W[ei]
+;B[ck];W[je]C[Through W34, both sides have gained some profit.];B[fq]C[B35: For Black to tenuki and approach the corner here is inevitable.];W[cm]LB[be:a][np:b][dn:c][pi:d]C[W36 is questionable, because B 'a' is sente, so White has no good maneuver for attacking Black on the left side, W36 at 'b' is better, next If Black double pincers at 'c', then White can check at 'd', opening the battle field on the right side.];B[cq];W[dq];B[dr]LB[bj:a]C[The simple hane of B39 is a good move at this time, it has the implication of preventing W 'a'.]
+;W[er];B[cr];W[eq];B[bo];W[co];B[cp];W[eo];B[cn];W[dn]C[W46 and W48: White aims to obtain sente.];B[do];W[dj];B[cj];W[co]
+;B[bn];W[jp]C[W54 is a good point, which White is expecting for.];B[np]LB[no:a][op:b][oo:c][ro:d]C[B55 is a bold and decisive move, if Black jumps to 'a' then W 'b', B 'c' and W 'd', Black is not satisfied.];W[op]C[The push and cut of W56 and W58 are inevitable.];B[oo];W[no];B[mp];W[nn]LB[mo:a][lo:b]C[If W60 at 'a', then B 'b', White is no good.]
+;B[lo]
+(;W[ro]LB[om:a][pm:b][ok:c][pj:d][ol:e]C[If W62 at 'a', then B 'b', W 'c' and B 'd', because Black's block at 62 is sente, White needs to reinforce the corner, so after White connects at 'e', Black can tenuki and play somewhere else, White can't be satisfied (see var a).];B[qm];W[om];B[nl]C[B65 is the vital point, White is not comfortable.]
+(;W[pm]LB[qn:a][pn:b][rn:c][ql:d][rl:e][qk:f][rk:g][qj:h][pl:i]C[If W66 at 'a', then B 'b', W 66, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', after Black separates White, White is hard to handle (see var a).];B[qn];W[ok];B[pj];W[ln]
+;B[ko];W[km];B[kn];W[ol]TR[pm]C[Through 74, the position of the marked stone is not good, White can't be satisfied.];B[jm];W[jl];B[oj];W[nj];B[ni];W[kl];B[in];W[hp]
+;B[il];W[ik];B[hl];W[hk];B[nr];W[or];B[gl];W[mj]LB[ql:a][pl:b][rk:c]C[W90: White aims at the tactic of W 'a', B 'b' and W 'c'.];B[fr];W[jo]
+;B[jn];W[fs];B[gs];W[es];B[iq]
+(;W[hq]LB[jq:a][ho:b][fo:c][gr:d][fp:e][fn:f][gn:g][el:h][fm:i][em:j]C[W98 is questionable, White should block at 'a', then B 'b', W 98, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', Black's big group would be still not alive, White can fight (see var a).];B[hr];W[jr];B[fp]
+;W[fo]C[W102: White has no other choice.];B[ip];W[io];B[ho];W[go]C[W106 is the only move.];B[jq];W[ir];B[kp]C[B109: Black is very happy to take one stone in sente.];W[gr];B[qr];W[pp];B[rn]C[After Black reinforces with B113, Black has succeeded in the fight.]
+;W[kr]LB[gq:a][gp:b][ep:c][js:d]C[If W114 were not played, then B 'a', W 'b', B 114, W 'c' and B 'd', White's two stones would be captured.];B[oh]C[After B115, Black is favorable for the game.];W[qc];B[pc];W[rd];B[qe];W[mi];B[mh];W[lh]
+;B[mg];W[lg];B[mn]LB[lf:a]C[B125 is no better than the hane move at 'a'.];W[mf];B[nf];W[ne];B[of];W[oe];B[rc];W[pf];B[og];W[ql]
+;B[rl];W[me];B[pe]C[Through 137, the game is still to Black's advantage.];W[kc];B[jb];W[gc];B[gb];W[gk];B[lm]LB[lr:a][pr:b][gq:c]C[B143: Black should play at 'a', later on Black still has the endgame maneuver at 'b' and 'c'.]
+;W[mr]C[W144 is a huge move and worth 15 points in counter-sente.];B[be];W[ad];B[ld];W[md];B[kd];W[jd];B[lc];W[mc];B[lb];W[ll];B[nm];W[ml]
+;B[mm];W[nk];B[dk];W[el];B[ek];W[fj];B[nq];W[ns];B[id];W[ie];B[jc];W[ke];B[mb]
+;W[bm];B[bl]LB[do:a]C[B171: Black should first take the ko at 'a'.];W[an]C[After W172, Black also has some burden.];B[do];W[qb];B[re];W[co];B[gq];W[gp];B[do];W[pl]
+;B[qk];W[co];B[le];W[lf];B[do];W[sd];B[se];W[co];B[dm]
+(;W[dl]LB[bp:a][do:b][ci:c][en:d][bi:e][gn:f][ep:g]C[W190: White should play at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', an exchange would result, the game is still a little favorable for Black, but White can fight (see var a).];B[ao];W[on];B[am]C[After B193, White already has no chance of winning. So far the total result between these two players is 7:5, in favor of Cho U.];W[nh];B[ng]
+;W[em];B[gn];W[mo];B[ln];W[lq];B[lp];W[ae];B[dh];W[eh];B[af];W[cl];B[bk];W[di]
+;B[ci];W[od];B[ed];W[ee];B[ec];W[oc];B[ob];W[pd];B[pb];W[gd];B[do];W[sn];B[ds]
+;W[co];B[da];W[ca];B[do];W[ep];B[fm];W[co];B[eg];W[fe];B[do];W[en];B[sm];W[so]
+;B[rk];W[fk];B[fl];W[co];B[rm];W[do])
+(;W[bp]C[White should play here.];B[do];W[ci];B[en];W[bi];B[gn];W[ep]C[This exchange is better for White.]))
+(;W[jq];B[ho];W[hq];B[fo];W[gr];B[fp];W[fn];B[gn];W[el];B[fm];W[em]))
+(;W[qn]C[If White wedges here, ...];B[pn];W[pm];B[rn];W[ql];B[rl];W[qk];B[rk];W[qj];B[pl]C[After the cut, White would be no good.]))
+(;W[om]C[If White plays here, ...];B[pm];W[ok];B[pj];W[ol]C[Black could tenuki.])) 

@@ -1,0 +1,32 @@
+(;SZ[19]EV[China 2003 National Team Level A round 6]DT[2003-07-24]KM[7.5]PC[Beijing, China]PB[Wang Yuhui]BR[7p]PW[Kong Jie]WR[7p]RE[W+R]C[Commentary: Wang Yi 5p,
+Source: China Sports Weekly,
+Translation:GoGameWorld.];B[qd]C[In the round 6, Kong Jie, the chief player of Beijing Team, defeated Wang Yuhui of Guizhou Team, from the beginning to the end, this game is intense and has been in a capturing race, it is extremely brilliant!];W[dc];B[df]C[B3: Black directly approaches the corner instead of taking one of the two empty corners, showing Wang Yuhui's eagerness of seeking fights.];W[dp];B[cc]
+;W[cd];B[dd];W[de];B[ed];W[ce]
+(;B[bc]LB[ee:a][cb:b][bb:c][ec:d][db:e][cf:f][bd:g][be:h][ad:i][fg:j][pp:k]C[B11 is a good move according to the current situation. If Black plays as the joseki, B 'a', W 'b', B11, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', this way locally both sides are acceptable, but White takes sente to grab the last empty corner at 'k', Black's tempo seems slow (see var a).];W[ee];B[fd]
+;W[hd];B[fe]LB[ge:a][ch:b][pp:c]C[The turn of B15 is a vulgar play. Black should make the diagonal's extension at 'a', forcing White to defend at 'b', then Black  gets to play at 'c' to take the enticing empty corner.];W[ef];B[ff];W[eg];B[kd];W[hf]LB[if:a][gh:b][dj:c][fg:d][ie:e]C[W20: For White to get out with a knight's move at 'a' is lighter. If Black plays at 'b', White still can defend at 'c'; If Black tenukis, White's turn at 'd' will be still very big. In the game, after the jump of W20 and the peep of B 'e', White connects and becomes heavier.]
+;B[ie];W[he];B[gg];W[hg];B[gh];W[dj];B[jh]LB[pp:a][od:b]C[B27 is unreasonable. Black should take the empty corner at 'a', if White approaches the corner at 'b', then Black can jump out and fight with White.];W[hh];B[hi];W[kf]C[W30 is the vital point.]
+
+(;B[jg]LB[jf:a][kg:b][je:c][ig:d][ke:e]C[B31: Black is painful. Black should play at 'a', but White can wedge at 31, then B 'b', W 'c', B 'd' and W 'e', Black is hard to handle (see var a).];W[ii];B[ih]
+(;W[fb]LB[db:a][eb:b][ec:c][hb:d][cb:e][jf:f][if:g][jd:h][id:i][je:j][ic:k][jc:l][hc:m][gc:n][ig:o][ib:p][gd:q][od:r]C[W34 is a wrong sequence play. Kong Jie said, White should first stand at 'a' to exchange for B 'b', then W 34, followed by B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p', B 'q' and W 'r', by sacrificing, White would have taken the lead at one stroke.]
+;B[db];W[gc];B[ei];W[gi];B[hj];W[gj];B[gk];W[hk];B[ij];W[fk];B[gl];W[fj];B[eb]
+;W[jd]LB[jf:a][ik:b][pp:c][od:d]C[W48: White should first push at 'a', Black needs to reinforce at 'b', then White can net at 48, B 'c' and W 'd', White would still take the lead.];B[ke];W[jf];B[je];W[if];B[ji]LB[ik:a][jk:b]C[B53 is a bad move. Black certainly should atari at 'a'. In the game, Black takes with B53 and White is left with the severe jump at 'b', Black has incurred a big loss.];W[md]
+;B[le];W[kb];B[kc];W[jb]
+(;B[lb];W[lc];B[mc]LB[me:a][lf:b][ic:c][hb:d][nd:e][nc:f][od:g][pb:h][mh:i]C[B59 and B61 are no good, after being sealed off by W 'a' and W 'b', Black is painful. With B59, Black should first strike at 'c', then W60, B 'a', W 'd', B 'e', W 'f', B 'g', W 71, next Black can play at either 'h' or 'i', Black would have built a big moyo (see var a).];W[me];B[ld]
+;W[lf];B[mf]LB[od:a][oe:b]C[B65 is the losing move. After being separated by W 'a' and W 'b', Black has to make life grievously on the second line, damaging both the side and the corner, Black has suffered a big loss.];W[od];B[nf];W[oe];B[nb];W[pc];B[pb];W[qc];B[jc];W[id]
+;B[hb];W[ic];B[lc];W[ib];B[oc];W[qe];B[mh]LB[qb:a][lh:b][rc:c][hl:d]C[B81 is a bad move. At any rate, Black should crawl at 'a', followed by W 'b', B 'c' and W 'd'. Although this way the game would be still to White's advantage, but the outcome of the game would be still not decided.];W[qb]LB[qa:a]C[W82: Black takes advantage in sente, later on W 'a' is still sente, White's corner profit is huge, Black has lost a lot of points.]
+;B[pa];W[fa];B[pp];W[jk]C[W86 is a tesuji, hitting Black's vital point.];B[di];W[cj];B[ik];W[hl];B[gm];W[il];B[jl];W[hn];B[ci]
+;W[bj];B[fh];W[bi];B[fo];W[em];B[in];W[jm];B[kl];W[im];B[do];W[ep];B[eo];W[jj]
+;B[ii];W[lk];B[kk];W[li];B[lj];W[mj];B[kj];W[gn]LB[cp:a][lh:b]C[W116; White has captured Black's key stones, making a miai of 'a' and 'b', Black has suffered an overwhelming loss.];B[cp];W[cq];B[bq]
+;W[bp];B[co];W[br];B[dq];W[cr];B[qf];W[pf];B[lh];W[eq];B[bo];W[aq];B[hp];W[qg]
+;B[cg];W[bg];B[fp];W[jq];B[er];W[fq];B[gq];W[fr];B[gr];W[dr];B[io];W[nq];B[lq]
+;W[kp];B[lp];W[lo];B[kn];W[mp];B[lr];W[ko];B[jn];W[hm];B[mo];W[ln];B[no];W[km]
+;B[lm];W[ll];B[mm];W[mn]
+(;B[nm]LB[nn:a][ml:b][oo:c]C[B163: Black wants badly to conceal at 'a', but White can cut at 163, B 'b', the clamp of W 'c' is a clever move, Black is still no good.];W[nn];B[oo];W[on];B[pn];W[om];B[mk];W[nk];B[ml];W[pm]
+;B[qn];W[iq];B[hs];W[kr];B[kq];W[jr];B[mq];W[ip];B[ho];W[fn];B[pk];W[qm];B[rl]
+;W[rm];B[rn];W[qk];B[qj];W[rk])
+(;B[nn];W[nm];B[ml];W[oo]C[White can play a tesuji here, Black is no good.]))
+(;B[ic];W[lc];B[me];W[hb];B[nd];W[nc];B[od]))
+(;W[db];B[eb];W[fb];B[ec];W[hb];B[cb];W[jf];B[if];W[jd];B[id];W[je];B[ic];W[jc]
+;B[hc];W[gc];B[ig];W[ib];B[gd];W[od]C[White is favorable.]))
+(;B[jf];W[jg];B[kg];W[je];B[ig];W[ke]))
+(;B[ee]C[This is a joseki.];W[cb];B[bc];W[bb];B[cf];W[bd];B[be];W[ac];B[fg];W[pp]C[White takes another corner and Black seems slow.])) 

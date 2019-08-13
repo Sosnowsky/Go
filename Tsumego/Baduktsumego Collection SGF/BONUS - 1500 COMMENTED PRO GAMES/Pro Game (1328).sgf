@@ -1,0 +1,18 @@
+(;SZ[19]EV[Japan 17th Women Meijin title match 3]DT[2005-03-09]KM[6.5]PC[Japan]PB[Kobayashi Izumi]BR[6p]PW[Koyama Terumi]WR[5p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[de];W[pp];B[cc];W[cp]
+;B[fq];W[hq];B[cq];W[dq];B[dp];W[cr];B[bq];W[ep];B[do];W[eq];B[br];W[en];B[eo]
+;W[fo];B[co];W[fp]C[Through W22, the opening is same as that in the game 2.];B[nq]LB[oc:a]C[B23: Black starts to vary, in the game 2 Black played at 'a'.];W[lp];B[qq];W[pq];B[qp];W[po];B[pr];W[or]
+;B[qr];W[oq];B[qn];W[oc];B[md];W[ne];B[pe];W[me];B[ld];W[oe];B[pg];W[cb];B[cd]
+;W[gc];B[pn]LB[le:a][mg:b][kg:c]C[B45: For Black to turn at 'a' is rather common, next W 'b' and B 'c'.];W[kf]C[W46 is an excellent point.];B[hd];W[gd];B[he];W[ge];B[hf];W[gf]
+;B[hc]LB[hg:a][jd:b][jc:c]C[If B53 at 'a', then W 'b', B53 and W 'c'.];W[dg];B[bb];W[hg];B[ig];W[je]LB[if:a][ih:b][jf:c]C[B58: For Black to directly cut at 'a' is better, if B 'b', then W 'c'.];B[jc]
+;W[if];B[ih];W[gg]C[After this move, it is time for lunch break.];B[mh];W[kh]LB[le:a][mb:b]C[W64 is wrong order, White should first exchange W 'a' and B 'b', then W64.];B[jg]C[B65 is sharp.];W[kc]C[W66 is a bait.];B[kd]LB[kb:a][lb:b][kg:c][le:d]C[B67 is questionable, Black should play at 'a', if W67, then B 'b', W 'c' and B 'd', White is not good.]
+;W[jd];B[jb];W[ke];B[kg];W[nh]LB[ng:a][mg:b][lg:c][og:d][mf:e][le:f][lb:g][pf:h][qf:i][of:j]C[W72 is a good move, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', White is not good (see var a).]
+
+(;B[mg];W[ng];B[le]LB[lb:a][mf:b]C[If B75 at 'a', then W 'b', Black is not good.];W[lf];B[mf];W[lb];B[lg];W[mc];B[ph];W[ni];B[ie]
+;W[nd];B[jf];W[lc]C[After W86, the eye shape of Black's big dragon is inadequate.];B[mo]LB[nf:a]C[B87 aims to push and cut at 'a'.];W[pi]C[With the sequence following W88, White starts to attack first, it is very severe.];B[qi];W[lj];B[nr]C[B91 is a game-deciding move.];W[np];B[mp]
+;W[mq];B[mr];W[lq];B[lr];W[hi];B[jj];W[ii];B[ji];W[li];B[mi];W[mj];B[nj];W[nf]
+;B[jh];W[lo];B[no];W[ln];B[kk];W[nn];B[hk];W[mn];B[fk];W[dk]LB[os:a]C[W116: White should play at 'a', Black wouldn't have any chance.];B[jr];W[gj]
+;B[gk];W[jl];B[kl];W[nk];B[jm];W[im];B[il];W[jn];B[jk];W[db];B[cg];W[ch];B[bh]
+;W[bg];B[cf];W[bi];B[dh];W[ci];B[bf];W[ah];B[ba];W[ns];B[hr];W[iq];B[op];W[oo]
+;B[ir];W[kr];B[gq];W[kq];B[gp]LB[er:a][dr:b][gs:c]C[B149 is an obvious miscalculation, now Black can only play at 'a', W 'b', Black can make life, although this way White is still favorable, but Black will have a chance.];W[fr];B[gr];W[ho];B[er];W[es]C[After W154, Black already has no chance of winning.]
+;B[fs];W[ds];B[eh];W[ej];B[ed];W[fj]C[Koyama Terumi won Women Meijin title by 2:1.])
+(;B[ng];W[mg];B[lg];W[og];B[mf];W[le];B[lb];W[pf];B[qf];W[of])) 

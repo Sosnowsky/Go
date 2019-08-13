@@ -1,0 +1,27 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 12]KM[6.5]DT[2004-02-26]PB[O Rissei]BR[9p]PW[O Meien]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[pd];W[dd];B[qp];W[dp];B[fq];W[ip];B[cn]
+;W[fo]C[The play of W8 was used many times by O Meien in his recent games.];B[dq];W[cq];B[cp]LB[eq:a][dr:b][ep:c][er:d][co:e][bp:f][bo:g][bq:h][dn:i][dm:j][en:k]C[After B11, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', this is the variation played in the game between O Meien and Mimura Tomoyasu (see var a).]
+
+(;W[co];B[bp];W[eq];B[dr];W[bo];B[do];W[ep];B[bn];W[bq];B[ao];W[er]C[As for the result up to W22, White has nothing to complain.];B[oq];W[qj]
+;B[cf];W[fc];B[bd];W[cc]LB[dg:a][cg:b]C[W28: White can also consider to directly make the shoulder-hit at 'a' or attach at 'b'.];B[dh];W[cj]LB[nc:a]C[W30 is strong and unyielding, to approach the corner at 'a' is rather common.];B[ej];W[bh];B[de]
+;W[cl];B[dk]LB[el:a][ek:b][bk:c]C[If B35 at 'a', then W35, B 'b' and W 'c', White can immediately make life.];W[dl];B[en];W[el];B[fn];W[go];B[bl];W[bk];B[bm]
+;W[ck];B[ql];W[qf];B[nc];W[rd];B[qh];W[of];B[pi];W[qc];B[kc];W[jc]LB[pj:a]C[W54 is again a strong move, White wants to obtain sente here, then gets to play at 'a' to stick the head out.];B[kd]
+;W[jd];B[je];W[ke];B[ie];W[hd];B[he];W[gd];B[ed];W[ec];B[cd];W[dc]
+(;B[ge]LB[le:a][kf:b][lf:c][kg:d][lg:e][kh:f][lh:g][ki:h][ff:i][li:j]C[If B67 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', and W 'j', Black is not good (see var a).];W[le];B[md];W[me]
+;B[pc];W[fe];B[ff];W[qb];B[kb];W[jb];B[ja];W[id];B[pb];W[pj];B[ni];W[oj];B[oi]
+;W[kg]C[White has no choice but to play W84, otherwise after being sealed off, White needs to strengthen in order to make life in the upper right corner, White couldn't tolerate.];B[nj];W[pl];B[qm];W[nk];B[mk];W[nl];B[ml];W[pn];B[qn];W[mm]
+(;B[ki]LB[lm:a][mj:b][lj:c][mi:d][mh:e][li:f][lh:g][kh:h][ji:i]C[If B95 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W95, B 'h' and W 'i', Black is not good (see var a).];W[lm];B[kl];W[jh];B[ij]
+;W[fj];B[fi];W[gj];B[gi];W[ld];B[lc];W[mb];B[mc];W[oe];B[rf];W[qe];B[nb];W[od]
+;B[oc];W[hj];B[hi];W[ik];B[jj];W[lq]C[After W118, White is favorable for the game.];B[rg];W[re];B[mg];W[mf];B[mp];W[mq]LB[lp:a]C[W124 is the losing move, White should play at 'a', this way the outcome of the game is still hard to guess.]
+;B[lp]LB[np:a][ko:b]C[If B125 at 'a', then W 'b', Black wouldn't have any chance of winning.];W[kp];B[ko];W[np];B[kq];W[jp];B[no];W[nq];B[op];W[oo];B[mo]
+;W[nn];B[jn];W[or];B[pr];W[jm]LB[ns:a]C[W140 is questionable, White should simply hang at 'a'.];B[im];W[il];B[hk]C[B143 is fierce and relentless, White sinks into a terrible situation.]
+(;W[gl]LB[km:a][in:b][hl:c][gn:d][jl:e][kr:f]C[If W144 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is not good (see var a).];B[km];W[ns];B[pm];W[om];B[pk];W[ll]
+
+(;B[kk]LB[lk:a][ok:b][qk:c][ln:d][lo:e][kn:f][jo:g][jl:h][in:i]C[If B151 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B151 and W 'i', Black would get killed (see var a).];W[lk];B[mj];W[lj];B[li]
+;W[ri];B[qk];W[ok];B[rk]LB[mn:a]C[B159 should be at 'a', but it already has nothing to do with the result.];W[qi];B[ph];W[rh];B[qg];W[ln];B[po];W[kn];B[jo]
+;W[kj];B[jk];W[ji];B[hl];W[mh];B[on];W[nh];B[mi];W[lh];B[mn];W[nm];B[pg];W[og]
+;B[lo];W[pf];B[rj];W[kh];B[sg];W[sh];B[ol];W[pa];B[oa]C[After this game, the overall record between them is O Rissei 16 wins and 14 defeats.])
+(;B[lk];W[ok];B[qk];W[ln];B[lo];W[kn];B[jo];W[jl];B[kk];W[in]))
+(;W[km];B[in];W[hl];B[gn];W[jl];B[kr]))
+(;B[lm];W[mj];B[lj];W[mi];B[mh];W[li];B[lh];W[ki];B[kh];W[ji]))
+(;B[le];W[kf];B[lf];W[kg];B[lg];W[kh];B[lh];W[ki];B[ff];W[li]))
+(;W[eq];B[dr];W[ep];B[er];W[co];B[bp];W[bo];B[bq];W[dn];B[dm];W[en])) 

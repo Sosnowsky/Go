@@ -1,0 +1,21 @@
+(;SZ[19]EV[Japan 52nd NHK Cup round 1]DT[2004-04-11]PC[Japan]PB[Cho Sonjin]BR[9p]PW[Kubo Katsuaki]WR[9p]KM[6.5]RE[B+R]C[Simple Commentary,
+Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dc];B[qp];W[dq];B[do];W[op]
+;B[fp];W[cf];B[mp];W[on];B[qn];W[qq];B[rq];W[pq];B[ro];W[mq];B[lq];W[lp];B[kq]LB[mr:a][nq:b][lo:c]C[B19: The common play is to play atari at 'a', followed by W 'b', B19 and W 'c', but after this sequence, how Black to strengthen is a difficult problem.]
+;W[mo];B[kp];W[np];B[er];W[bo];B[cp];W[cl];B[jc];W[gc];B[nc];W[jd];B[id];W[ic]
+;B[kc];W[ie];B[hd];W[hc];B[he];W[je];B[hf];W[jg];B[hh];W[ii];B[gj]LB[ih:a]C[B43: Black can consider to push and cut at 'a'.];W[ih]
+;B[fh];W[ci];B[ik];W[ko];B[jo];W[jn];B[kn];W[lo];B[io];W[gi];B[fi];W[hi];B[dk]
+;W[ck];B[di];W[ch];B[jm];W[qg]LB[rd:a]C[W62: For White to invade at 'a' is better.];B[qe];W[qj];B[de]LB[gg:a]C[B65: Black wants to mitigate White's peep at 'a' indirectly.];W[fe]C[W66: White strikes back bravely.]
+;B[ff];W[ef];B[fd]
+(;W[ee]LB[gd:a][ge:b][df:c][gf:d][eg:e][gh:f][ce:g][dl:h]C[W70 is questionable, White should push at 'a', then B70, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', this way this outcome of the game is still hard to predict (see var a).];B[gd];W[ec];B[gh];W[dl];B[fk]
+;W[qc];B[pc];W[og];B[fc];W[fb];B[ed];W[dd];B[eb]C[With the sequence following B83, Black pounds at White's thinness.];W[gb];B[db];W[cb];B[ce]
+(;W[bd]LB[cd:a][cc:b][df:c][dg:d][be:e][eg:f][bb:g][ba:h][bc:i][ca:j][bg:k][cg:l][bf:m]C[If W88 at 'a', then B88, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', White can't kill Black (see var a).];B[be]
+;W[cd];B[df]C[Through B91, Black clearly gains some profit.]
+(;W[bp]LB[iq:a][cq:b][dp:c][co:d][fq:e]C[W92: White has lost the last chance, White should probe Black at 'a', then play at 'b', followed by B92, W 'c', B 'd' and W 'e', this way White can fight (see var a).];B[cq];W[re];B[rd];W[rf];B[rc];W[rm];B[qm]
+;W[rl];B[qr];W[pr];B[rr];W[ld];B[lc];W[bq];B[lf];W[le];B[nf];W[ng];B[mf];W[lh]
+;B[ad];W[ac];B[ae];W[bc];B[ib];W[nd];B[mc];W[dn];B[cr];W[en];B[gn];W[eo];B[ep]
+;W[co];B[dp];W[mr];B[lr];W[pl];B[lk];W[lj];B[kj];W[mj];B[ql];W[qk];B[mk];W[nk]
+;B[nl];W[ki];B[ok];W[nj];B[ol];W[jp];B[jq];W[ls];B[ks])
+(;W[iq];B[jq];W[cq];B[bp];W[dp];B[co];W[fq]))
+(;W[cd];B[bd];W[cc];B[df];W[dg];B[be];W[eg];B[bb];W[ba];B[bc];W[ca];B[bg];W[cg]
+;B[bf]))
+(;W[gd];B[ee];W[ge];B[df];W[gf];B[eg];W[gh];B[ce];W[dl])) 

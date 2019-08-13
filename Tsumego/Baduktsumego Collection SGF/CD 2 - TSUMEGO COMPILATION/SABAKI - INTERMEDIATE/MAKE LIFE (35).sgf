@@ -1,0 +1,36 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ba][bg][ca][cc][cd][cg][db][eb][ec][ed][ee][ef][eg]
+AW[ab][bb][cb][ce][cf][dc][dd][de]PL[W]C[White to play.
+
+Make life - Expand Territotary]
+(
+;W[ae]
+;B[bd]
+;W[bc]C[RIGHT
+])
+(
+;W[ad]
+;B[bc]
+;W[bf]
+;B[af]
+;W[ae]
+;B[bd])
+(
+;W[bc]
+;B[ad])
+(
+;W[bd]
+;B[ae])
+(
+;W[bf]
+;B[bd]
+(
+;W[ad]
+;B[bc]
+;W[af]
+;B[be]C[Handle 5])
+(
+;W[bc]
+;B[ad]
+;W[ae]
+;B[df])))

@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[gc][nc][bd][dd][gd][ce][de][ef][dg][pn][qo][ro][dp][np][op][pp][fq][qq][qr]AB[bc][cc][dc][fc][cd][ed][jd][pd][ee][qf][oo][po][qp][rp][nq][oq][pq][rq][rr]C[B to play. (Against Kevin, young 3kyu)]PL[B]
+(;B[qn]
+;W[rn]
+;B[qm]
+;W[pm]
+;B[no]
+;W[mp]
+;B[rm]
+;W[mq]TR[rn][qo][ro]C[This is the game variation. B was satisfied for capturing the marked stones, however])
+(;B[mp]
+;W[no]
+;B[on]C[B should aim at capturing the whole thing.]
+;W[mo]
+;B[pm]
+;W[mq]
+;B[mr]
+;W[lp]
+;B[lr]C[And exchanging an atari first allows B to go here.])
+(;B[on]))

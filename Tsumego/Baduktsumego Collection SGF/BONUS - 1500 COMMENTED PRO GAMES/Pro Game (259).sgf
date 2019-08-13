@@ -1,0 +1,32 @@
+(;SZ[19]EV[2nd CSK Cup Asian Team Contest round 2]DT[2003-04-28]PC[Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]KM[6.5]PB[Yuki Satoshi]BR[9p]PW[Song TaeKon]WR[4p]RE[B+R];B[qd];W[dd];B[qo]C[B3 is Yuki's favorite play.];W[dq];B[nc]
+;W[qq];B[op];W[oq];B[np];W[ro];B[qn];W[nq];B[mp];W[rn];B[qm];W[pp];B[po];W[qp]C[Through 18, the position was a popular joseki in the past with White's territory battling Black's outside influence.]
+;B[do];W[co];B[cn];W[cp];B[fc];W[cf];B[fe]C[With the direct jump of B25, Black takes into account the whole board's configuration.];W[dn]LB[dh:a][di:b]C[W26: White can also consider to play at 'a' or 'b'.];B[cc]LB[dg:a]C[B27 is severe, the shoulder hit at 'a' is also playable.]
+;W[dc]LB[di:a][ne:b]C[W28 at 'a' is also possible, followed by B 28 and W 'b'.];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[bf];W[bg];B[be];W[id]LB[di:a]C[W38 is unexpected, strengthening at 'a' is usual, in the game Black welcomes White's invasion.]
+;B[fb];W[fa];B[ga];W[ea];B[hb];W[di];B[he]C[After B45, White's lonely stone at the top clearly comes under attack.];W[jf];B[ih]LB[hh:a][jh:b][ig:c]C[B47: Black is faced with multiple choices, for example, 'a', 'b' or 'c', it is very difficult to judge which spot is the best.]
+;W[kg];B[ej]C[The play of B49 is very ferocious.];W[ei];B[fi];W[fj];B[fh]LB[ek:a]C[B53 is a steady move, Black has no assurance of success if retreating at 'a'.];W[ek];B[dm]LB[en:a][dj:b][ci:c][fk:d][gj:e][dk:f][el:g][em:h][fl:i][fm:j]C[B55 is a good move, if White extends at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is no good (see var a).]
+
+(;W[cl]LB[en:a][dj:b][dk:c][cj:d][ck:e][ci:f][dh:g][ch:h][dg:i][bh:j]C[W56: If White extends at 'a', if B 'b' and W 'c', then B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is no good either (see var b).];B[en]C[After B57, Black takes the lead.];W[fp];B[ne]
+;W[ki];B[gj]C[With the sequence after B61, Black has adopted a bold fighting strategy.];W[fk];B[gk];W[fm]
+(;B[gl]LB[ep:a][eq:b][gn:c][fn:d][fo:e][go:f][dj:g][cj:h][dk:i][dl:j][gp:k][eo:l][fl:m][el:n]C[But B65 is questionable, now Black should make the diagonal's extension at 'a', then W 'b' and B 'c', next if W 'd', then B 'e', W 'f' and Black creates the ko threat at 'g', W 'h', B 'i', W 'j' and Black initiates the ko at 'k', after W 'l', B 'm', W 'n' and B 'e', Black would not answer any ko threat (see var a).]
+;W[fl];B[go];W[fo];B[fn];W[gn];B[gm];W[hn];B[hp];W[ip]LB[im:a][eq:b]C[W74: If White makes the diagonal's extension at 'a', then Black would cross-cut at 'b', White is no good.];B[ho];W[in]
+;B[io]
+(;W[jn]LB[jo:a][jp:b][iq:c][fq:d][jl:e]C[If W78 at 'a', then B 'b', W 78, B 'c', W 'd' and B 'e' (see var a).];B[jp];W[ko]LB[eq:a][dp:b][ep:c][fq:d][er:e][eo:f][fr:g][dn:h][kk:i][em:j]C[After W80, if Black cross-cuts at 'a', then W 'b', B 'c' W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', Black is no good.]
+
+(;B[lh]C[Perhaps B81 should be played earlier.];W[ii]C[W82: White protects the cut with sente, Black is not comfortable.];B[hi];W[kp];B[kq];W[lq];B[kr];W[gq]C[After W88, Black instead comes under attack.];B[kk];W[li];B[mk];W[mh]C[After W92, Black has no other choice but to kill White as a whole.]
+;B[lg];W[ij];B[ik];W[jo];B[iq];W[hq];B[ir];W[lr];B[lp];W[mn];B[nn];W[hr]C[After W104, White's territory from the left to the bottom is about 95 points.];B[pi]LB[qk:a]C[B105: Black has no certainty of success if jumping to 'a'.]
+;W[ph];B[qi]C[B107: Black doesn't want to leave any aji for White to make use of.];W[lf];B[mg];W[mf];B[ng];W[nf];B[oe];W[of];B[oh];W[qh];B[rh]
+(;W[qf]LB[rg:a][pg:b][qg:c][pf:d][og:e][nh:f][pe:g][qe:h][rf:i][re:j][sg:k][pd:l][oc:m][pc:n][le:o]C[W118 is the last losing move, White should hane at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 118, W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n' and B 'o', this way the outcome of the game is still hard to decide (see var a).]
+;B[qg];W[pg];B[rg];W[md];B[ie];W[je];B[kc];W[oi];B[ni];W[oj];B[nj];W[ri];B[rj]
+;W[si];B[sj];W[qj];B[sh];W[ri];B[si];W[pj];B[ln];W[gp];B[ip];W[js]LB[jl:a][jm:b]C[W142: If White tenukis, then B 142, W 'a' and B 'b', White would get captured.]
+;B[qk];W[qc];B[pc];W[kd];B[jc];W[ri];B[qi];W[lc];B[ob];W[ll];B[lk];W[pl];B[ql]
+;W[nl];B[ok];W[pk];B[nk];W[ol];B[ml];W[on];B[mm];W[rd];B[qb];W[hf];B[if];W[ig]
+;B[hg];W[jh];B[jg];W[pm];B[pn];W[ig];B[hh];W[me];B[mc];W[ld];B[ke];W[kb];B[jb]
+;W[mb];B[nb])
+(;W[rg]C[White should hane here, ...];B[pg];W[qg];B[pf];W[og];B[nh];W[pe];B[qf];W[qe];B[rf];W[re];B[sg];W[pd]
+;B[oc];W[pc];B[le]C[The outcome of the game would be still up in the air.]))
+(;B[eq]C[If Black cross-cuts now, ...];W[dp];B[ep];W[fq];B[er];W[eo];B[fr];W[dn];B[kk];W[em]C[Black is no good.]))
+(;W[jo]C[If White turns here, ...];B[jp];W[jn];B[iq];W[fq];B[jl]C[White is no good.]))
+(;B[ep]C[Black should play here, ...];W[eq];B[gn];W[fn];B[fo];W[go];B[dj];W[cj];B[dk];W[dl];B[gp];W[eo];B[fl]
+;W[el];B[fo]C[Black would not answer any ko threat.]))
+(;W[en]C[If White extends here, ...];B[dj];W[ci];B[fk];W[gj];B[dk];W[el];B[em];W[fl];B[fm]C[This would not be favorable for White.])
+(;W[en];B[dj];W[dk]C[If Black blocks here, ...];B[cj];W[ck];B[ci];W[dh];B[ch];W[dg];B[bh]C[White would be no good either.])) 

@@ -1,0 +1,31 @@
+(;SZ[19]EV[Japan 28th Meijin Title preliminary]KM[5.5]DT[2002-11-07]PB[Mizokami Tomochika]BR[7p]PW[Morita Michihiro]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+2.5];B[qd];W[dd];B[pq];W[cp];B[oc];W[qn];B[qp]
+;W[pj];B[eq];W[hp];B[go]LB[en:a][cm:b]C[If B11 at 'a', then W 'b', because of the configuration of W6 and W8, Black can't hope to accomplish anything by attacking W10.];W[dn];B[gp];W[hq];B[gq];W[dq];B[ho]LB[kp:a]C[B17 attacking by the pincer move at 'a' is better.]
+;W[jp];B[dr]LB[io:a][mq:b]C[B19 is a good sequence play, if B19 extends to 'a', then White will extend to 'b', Black is not satisfied.];W[cr];B[hr];W[ir];B[jr]
+(;W[jq]LB[gr:a][iq:b][hs:c][ip:d][kr:e]C[If W24 at 'a', then B 'b', W 'c', B 'd', W 24, B 21, W14, and B 'e' (see var a), White is no good.];B[is];W[op]LB[on:a][mp:b][qg:c][qh:d][nq:e]C[The direction of W26 is wrong, White should jump to 'a', if B 'b', then White extends to 'c', White is favorable, besides, when W 'a' jumps, if Black extends to 'd', W 'e'.]
+;B[oq];W[mp];B[qh];W[jc];B[cf];W[df]LB[fd:a]C[W32 simply jumping to 'a' is better.];B[dg];W[ce];B[ef];W[de];B[bf];W[eg]
+;B[dh];W[eh];B[di];W[ff];B[be];W[cc]C[Through 44, it is a common joseki.];B[cl]LB[fr:a][dp:b][cq:c][bo:d]C[B45 is the perfect spot, afterwards, the tiger move of B 'a' is kind of sente, if White tenukis, the attack of B 'b', W 'c' and B 'd' is very severe.];W[oh]LB[mc:a]C[W46 making two-space extension at 'a' is usual.]
+;B[no];W[mo];B[pl];W[qi]LB[ql:a][qk:b]C[If W50 attaches under at 'a', White worries that B 'b' may hane.];B[qk];W[rh];B[om];W[np];B[po];W[rj];B[rk]
+;W[qf]C[Through 58, an exchange results, Black is obviously beneficial.];B[lc];W[pc];B[qc];W[mc];B[mb];W[md];B[nb]LB[lb:a]C[B65 is solid, connecting at 'a' is more powerful.];W[ld];B[kc];W[kd]
+;B[jb];W[kb];B[lb];W[ib];B[ka];W[id]C[Through 74, White has formed a moyo in the center, how Black to reduce is the key for the game.];B[je]LB[ii:a]C[B75 seems unreasonable, the shallow reduction at 'a' is the proper move.];W[jg]LB[jd:a][ih:b]C[W76 is a certain counterattack, if White connects at 'a', B 'b' can easily run out.];B[ie]
+;W[jd];B[gg];W[hh];B[gh];W[hg]
+(;B[jh]LB[hc:a][hb:b][gf:c][hi:d][fi:e][fh:f][hf:g][ee:h][ig:i]C[B83 is a bad move, Black should first peep at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g' (see var a), later Black can extend out at 'h' or wedge at 'i', White is hard to respond.];W[hi];B[ei];W[gf]C[From the result up to 86, Black has obviously failed.]
+;B[oe];W[bm];B[dp];W[cq];B[bl];W[nf];B[mr];W[ml];B[jl];W[oo];B[pn];W[jj];B[ne]
+;W[mf];B[ll];W[lm];B[lk];W[km];B[jk];W[lr]C[W106 is a good move.];B[li];W[nr];B[lg]
+(;W[mh]LB[kh:a][kg:b][lh:c][ki:d][lj:e][ij:f]C[W110 is slow-paced, White should hane at 'a', then B 'b', W 'c', B 110, W 'd', B 'e' and W 'f' (see var a), White is advantageous.];B[lh];W[kf];B[bn];W[ep];B[fr];W[cm]
+;B[am];W[dl];B[dk];W[bo];B[ia];W[hb];B[ha];W[ga];B[ja];W[gb];B[bc];W[bb];B[kr]
+;W[mq];B[kq];W[kp];B[lq];W[ms];B[iq];W[ps];B[os];W[or];B[pr];W[nm];B[lp];W[lo]
+;B[ip];W[sk];B[sl];W[sj];B[rm];W[ns];B[qr];W[bd];B[re];W[fi];B[rf];W[rg];B[jn]
+;W[jm];B[ij];W[im];B[hk];W[ko];B[cs];W[bs];B[ds];W[bq];B[ae];W[ad];B[pf];W[qg]
+
+(;B[el]LB[in:a][ek:b][dm:c][dj:d][fj:e][bj:f]C[B169 is questionable, Black should play at 'a', followed by W 'b', B 169, W 'c', B 'd', W 'e' and B 'f' (see var a), Black is better.];W[dm];B[ih];W[ig];B[fj];W[gj];B[fk]
+;W[ii];B[hj];W[ck];B[bk];W[gi];B[ji];W[al];B[ak];W[cj];B[bj];W[qs];B[rs];W[os]
+;B[rq];W[dj];B[ek];W[qe];B[pe];W[in];B[oi];W[rd];B[rc];W[ni]LB[pi:a][nj:b][ok:c]C[If W198 should simply play at 'a', if B 'b', then W 'c' diagonals.]
+;B[oj];W[pi];B[nj];W[cn]LB[mk:a][mj:b][on:c]C[W202 makes another mistake, White should extends to 'a', B 'b', W 'c', this way White still get a chance.];B[eo];W[do];B[pg];W[ph];B[nl];W[mm]
+;B[on];W[nn];B[mk];W[mi];B[fp];W[mj];B[pk];W[en];B[dp];W[rl];B[ql];W[ep];B[fo]
+;W[sf];B[sd];W[kh];B[ki];W[kl];B[kk];W[kg];B[io];W[jo];B[le];W[lf];B[me];W[ke]
+;B[mg];W[nd];B[od];W[gk];B[hl];W[lj];B[kj];W[nh];B[ej];W[an];B[fm];W[gl];B[il]
+;W[nq];B[ks];W[ls];B[al];W[dp])
+(;B[in];W[ek];B[el];W[dm];B[dj];W[fj];B[bj]))
+(;W[kh];B[kg];W[lh];B[mh];W[ki];B[lj];W[ij]))
+(;B[hc];W[hb];B[gf];W[hi];B[fi];W[fh];B[hf]))
+(;W[gr];B[iq];W[hs];B[ip];W[hr];B[jq])) 

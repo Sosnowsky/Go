@@ -1,0 +1,34 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bc][cb][dc][df][ed][ef][fd][fe][ff]
+AW[bd][cc][cd][ce][cf][ch][dg][eb][ee][eg][fg][gc][gd][ge][gf]PL[B]C[Black to play.
+
+Make life - Make Use of Opponent's Weakness]
+(
+;B[fb]
+;W[fc]
+;B[ec]
+;W[gb]
+;B[db]
+;W[fa]
+;B[de]C[RIGHT
+])
+(
+;B[db]
+;W[ec]
+;B[dd]
+;W[de]
+;B[ac]
+;W[da])
+(
+;B[de]
+(
+;W[ec]
+;B[dd]
+;W[db])
+(
+;W[db]))
+(
+;B[dd]
+;W[db]
+;B[fb]
+;W[fc]))

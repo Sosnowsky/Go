@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[db][eb][lb][nb][dc][ic][lc][oc][pc][qc][rc][cd][ed][fd][gd][ld][rd][ge][gf][mf][of][pf][qf][rf][og][rg][oh][oi][pi][cj][dp]AB[cb][kb][cc][ec][kc][nc][dd][kd][nd][od][pd][qd][ce][de][fe][je][le][me][qe][re][se][pg][qg][ch][kh][ph][rh][qi][qk][pm][qp][nq]TR[of][pf][og]C[B wants to attack the marked group. B to play.]PL[B]
+(;B[qh]C[In the game B connected here.]
+;W[pk]
+;B[pl]
+;W[qj]
+;B[rj]
+;W[pj]
+;B[rl]
+;W[kg]C[W took sente and setteled his group.])
+(;B[lf]LB[mb:E][if:C][ig:B][mg:D][ih:A]C[Instead B should play from the outside (there are many possible moves, all the marked ones).]
+;W[qh]
+;B[cq]C[If W takes (should do), B takes sente.]))

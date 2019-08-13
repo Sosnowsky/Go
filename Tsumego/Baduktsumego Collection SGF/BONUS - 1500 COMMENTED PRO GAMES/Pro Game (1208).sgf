@@ -1,0 +1,26 @@
+(;SZ[19]EV[Korea 16th Kisung title match 3]DT[2005-03-25]PC[Korea]KM[6.5]PB[Park YuongHoon]BR[9p]PW[Choi Cheolhan]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[pq];W[dp];B[de];W[ce]
+;B[dd];W[cd];B[ec];W[cf];B[kc];W[db];B[qk];W[od];B[pf];W[qc];B[rc];W[pc];B[rb]
+;W[mc];B[nf];W[og];B[pe];W[ne];B[me];W[mf];B[le];W[of];B[oe];W[nd];B[ng];W[kd]
+;B[jd];W[ld];B[ke];W[je];B[mg];W[id];B[jc];W[ic];B[ib];W[hb];B[jb];W[gc];B[mb]
+;W[lb];B[jf];W[ie];B[lc];W[nb];B[md];W[ma];B[ok];W[if];B[jg];W[ig];B[ck];W[cm]
+;B[di];W[mq];B[np];W[mp];B[mo];W[nq];B[op];W[lo];B[mn];W[ln];B[lm];W[km];B[kl]
+;W[jm];B[ll];W[el];B[bh];W[fq];B[hl];W[jl];B[jk]C[After this move, it is time for lunch break.];W[ik];B[il];W[jj];B[kk];W[in]
+;B[fk];W[ek];B[fj];W[ej];B[ei];W[fi];B[ij];W[ii];B[hj];W[fh];B[bm];W[bl]C[White clearly has miscalculated with the sequence following W96.];B[cl]
+;W[bn];B[dm];W[cn];B[em];W[fl];B[gn];W[go];B[fm]C[Through B105, White incurs a severe loss, Black is clearly favorable.];W[pr];B[or]LB[qr:a][rq:b]C[B107 is the first step towards defeat, now Black should simply play hane at 'a', next W107 and B 'b', White wouldn't have any chance.]
+;W[oq];B[qr];W[pp];B[qq];W[oo];B[no];W[mm];B[nn];W[kj];B[lj];W[li];B[mj];W[nh]LB[mh:a][mi:b][ni:c][ml:d][hk:e][nj:f][oh:g][mk:h]C[After W120, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black is not good.]
+
+(;B[oh]LB[lg:a]C[B121: Black again makes mistake, Black should play at 'a' (see var a).];W[gl];B[gk];W[gm];B[hm];W[hn];B[fn];W[ml];B[hk];W[mk];B[ki];W[pk]LB[pj:a][nj:b][mi:c][on:d][nm:e][om:f][nl:g][ol:h]C[W132 is a superb move, if B 'a', then W 'b', b 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black will be captured (see var a).]
+
+(;B[pl];W[nj];B[lk];W[pg]LB[ph:a][qg:b][qh:c][lg:d][mh:e][mi:f][lf:g][ji:h][ni:i][lh:j][kh:k][kg:l][nm:m]C[After W136, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', Black is not good (see var a). Moreover, when W 'd', if Black plays at 'g' instead, then W 'h', B 'f', W 'e', B26, W 'i', B 'j', W 'k', B 'l' and W118, leading to a ko fight (see var B), because White has the ko threat at 'm', Black is not good.]
+
+(;B[oi]LB[qg:a][ph:b][qh:c][pi:d][ji:e][mi:f][mh:g][lg:h][lh:i][kh:j][ni:k][ik:l][hi:m]C[If B137 at 'a', then W 'b', B 'c', W137, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l' and W 'm', Black will be captured.];W[qg]
+;B[re];W[lg];B[lf];W[ni];B[ji]
+(;W[ol]LB[om:a][nk:b][nl:c][mh:d][mf:e][oj:f][pj:g][pi:h][qi:i][on:j][nm:k][pm:l][ql:m][rk:n][qj:o][ri:p][rl:q][rj:r][qm:s][qh:t][pn:u]C[After W144, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B144, W 'm', B132, W 'n', B 'o', W 'p', B 'q', W 'r', B 's', W 't' and B 'u', Black is clearly not good.]
+)
+(;W[ol];B[om];W[nk];B[nl];W[mh];B[mf];W[oj];B[pj];W[pi];B[qi];W[on];B[nm];W[pm]
+;B[ol];W[ql];B[pk];W[rk];B[qj];W[ri];B[rl];W[rj];B[qm];W[qh];B[pn]))
+(;B[ph];W[qg];B[qh];W[lg];B[mh];W[mi])
+(;B[ph];W[qg];B[qh];W[lg];B[lf];W[ji];B[mi];W[mh];B[mf];W[ni];B[lh];W[kh];B[kg]
+;W[li]))
+(;B[pj];W[nj];B[mi];W[on];B[nm];W[om];B[nl];W[ol]))
+(;B[mh];W[mi];B[ni];W[ml];B[hk];W[nj])) 

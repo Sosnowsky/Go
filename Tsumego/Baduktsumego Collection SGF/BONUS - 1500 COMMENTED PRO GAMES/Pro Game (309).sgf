@@ -1,0 +1,40 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 7]KM[6.5]DT[2004-01-22]PB[O Meien]BR[9p]PW[Imamura Toshiya]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[dc];W[od];B[cn];W[fq];B[de]
+;W[qc];B[kd];W[rd];B[qe];W[re];B[pc];W[pd];B[qf];W[qb];B[pp]C[Through B17, it forms a very rare opening.];W[co];B[dn];W[cj]
+;B[dh]LB[ch:a]C[B21: For Black to play at 'a' is rather common, the play in the game puts emphasis on the center.];W[ej];B[gn];W[gp];B[gk]LB[in:a][gj:b][jp:c]C[B25: For Black to jump at 'a' is better, next the cap at 'b' and the knight's move at 'c' become miai, Black will surely get one.];W[fi];B[hi];W[fg]
+;B[ci];W[cl];B[ek];W[dj];B[gh];W[fh];B[ge];W[em]C[The sequence following W36 pounds at Black's weakness.]
+(;B[en]LB[do:a][cp:b][fo:c][cg:d][dg:e][bi:f]C[If B37 at 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is not good (see var a).];W[gm];B[ep]LB[hm:a][fm:b]C[If B39 at 'a', then W 'b', Black is no good.];W[eq];B[cq]
+;W[cp];B[fp];W[fo];B[eo];W[bq];B[fn];W[gl];B[hk];W[im];B[hp];W[gq];B[hn];W[il]C[Through W54, White succeeds in the fight.]
+;B[jo];W[ij];B[ik];W[jk];B[jj];W[ii];B[jl];W[kk];B[ih];W[ji];B[jh];W[ki];B[hj]
+;W[el];B[kl]LB[kh:a]C[B69: Black should play at 'a'.];W[lk];B[jn];W[kh]C[W72: White grabs the vital point, Black can't be satisfied.];B[kg];W[lg];B[kf];W[fe];B[fd];W[cg]
+;B[mm];W[ok];B[dg];W[bi];B[mc]C[The sequence following B83 are game-deciding moves while in an inferior situation.];W[qk];B[ng];W[nc];B[ne];W[nq];B[oq];W[np];B[oo]
+;W[jq];B[lq];W[kp];B[mo];W[qq];B[or];W[qo];B[qm];W[om];B[nl];W[ol];B[pn];W[lp]
+;B[mp];W[mq];B[lr]
+(;W[no]LB[mn:a][lo:b][nn:c][ln:d][ko:e][on:f][nm:g][lm:h][ll:i][nk:j][ml:k][mk:l][jm:m][po:n][op:o][qp:p]C[W108 should be at 'a', then B 'b', W108, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p', this result is clearly better than that of the game (see var a).]
+;B[nn];W[on];B[ll];W[po];B[op];W[qp]LB[mk:a][mj:b][lj:c][kj:d][mi:e]C[After W114, Black is still left with the attacking tactic of B 'a', W 'b', B 'c', W 'd' and B 'e' (see var a).]
+(;B[rj];W[mk]C[W116: White selects a safe play.];B[rk];W[ql];B[rl];W[rn];B[nj];W[nk];B[rm];W[qi]LB[qr:a][qh:b][cf:c]C[W124: White should simply make life by playing at 'a', if Black tenukis, then W 'b', if Black strengthens, then W 'c'.]
+;B[qn]
+(;W[ro]LB[sn:a][sp:b][rp:c][sq:d][qr:e][so:f][sm:g][qs:h][ps:i][pr:j][rs:k][rh:l][cf:m]C[W126 is again a mistake, White should play at 'a', if B 'b', then W 'c', B 'd', W 'e', B126, W 'f', B 'g', W126, B 'h', W 'i', B 'j' and W 'k', the corner is seki, Black needs to jump over at 'l', White can play at 'm', White is clearly favorable (see var a).];B[ri]
+;W[qh];B[rg];W[rh];B[sh];W[pg];B[oe];W[qr];B[qj];W[pj];B[cf]C[B137: Black grabs the big endgame, the situation has been turned around.];W[bh];B[gf];W[mb]
+;B[lc];W[bf];B[be];W[ob];B[qg];W[ph];B[oi];W[nh];B[mh];W[og];B[mg];W[mi];B[ni]
+;W[oh];B[af]LB[of:a][mj:b]C[B155: Black needs to first exchange B 'a' and W 'b'.];W[fk];B[ir];W[iq];B[jr];W[hr];B[la]LB[of:a][lb:b]C[B161: Black still should play at 'a', besides, even if Black wants to play at the top, Black should play at 'b'.]
+;W[lh]C[After W162, we can easily see Black incurs a one-point loss unconditionally.];B[lf];W[jm];B[lo];W[ag];B[bg];W[nm];B[mn];W[bf];B[of];W[pi];B[bg];W[mf]
+;B[nf];W[bf];B[fm];W[fl];B[bg];W[gg];B[hg];W[bf];B[ps];W[qs];B[bg];W[gi];B[hh]
+;W[bf];B[mj];W[li];B[bg];W[sf];B[rf];W[bf];B[rc];W[rb];B[bg];W[nd];B[md];W[bf]
+;B[ae];W[lb];B[kb];W[ma];B[ka];W[ef];B[bg];W[jc];B[kc];W[bf];B[lj];W[kj];B[bg]
+;W[si];B[sj];W[bf];B[df];W[ee];B[ed];W[ml];B[go];W[ip];B[lm]LB[bg:a]C[B223: Black should take the ko at 'a'.];W[hq];B[ho]
+;W[ko];B[kn];W[km];B[ln];W[kq];B[kr];W[bg]
+(;B[bo]LB[bl:a][bm:b][bk:c][al:d][bn:e][cm:f][ao:g][am:h][aq:i]C[B233 should be at 'a', if White counterattacks at 'b', then B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i' (see var a).];W[bp];B[bm];W[bl]C[After W236, it becomes a half-point game.]
+;B[sn];W[so];B[sm];W[is];B[js];W[hs];B[dm];W[dl];B[pr];W[cd];B[dd];W[sc];B[se]
+;W[sd];B[pl];W[pk];B[pm];W[ao];B[bn];W[al];B[ap];W[aq];B[di];W[sr];B[an];W[ap]
+;B[sg];W[se];B[ei];W[fj];B[pe];W[ff];B[mr];W[hl];B[in];W[gj];B[nr];W[eg];B[do]
+;W[eh];B[io];W[ch];B[jp]LB[gd:a]C[B279: If Black reinforces at 'a', then White would win the game by half point.];W[gd]
+(;B[gc]LB[fc:a][ce:b][bd:c][cc:d][bc:e][cb:f][bb:g][db:h][fb:i]C[B281 is the last losing move, Black should answer at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', White would achieve nothing, this way Black will win by half point (see var a).];W[hf];B[he];W[if];B[ie]
+;W[jg])
+(;B[fc];W[ce];B[bd];W[cc];B[bc];W[cb];B[bb];W[db];B[fb]))
+(;B[bl];W[bm];B[bk];W[al];B[bn];W[cm];B[ao];W[am];B[aq]))
+(;W[sn];B[sp];W[rp];B[sq];W[qr];B[ro];W[so];B[sm];W[ro];B[qs];W[ps];B[pr];W[rs]
+;B[rh];W[cf]))
+(;B[mk];W[mj];B[lj];W[kj];B[mi]))
+(;W[mn];B[lo];W[no];B[nn];W[ln];B[ko];W[on];B[nm];W[lm];B[ll];W[nk];B[ml];W[mk]
+;B[jm];W[po];B[op];W[qp]))
+(;B[do];W[cp];B[fo];W[cg];B[dg];W[bi])) 

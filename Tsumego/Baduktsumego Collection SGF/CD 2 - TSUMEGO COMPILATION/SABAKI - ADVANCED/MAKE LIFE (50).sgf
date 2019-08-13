@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][bf][bi][bj][bm][cf][ci][cm][dd][de][dj][dm][ec][ei][ek][el][gd][ge][gh][hf][hg]
+AW[be][bl][ce][ch][cj][cl][df][dg][dh][di][ee][eg][fe][fg][gf]PL[W]C[White to play.
+
+Make life - Capture Stones]
+;W[ah]
+(
+;B[ag]
+;W[bg]
+;B[ae]
+;W[ck]
+;B[bh]
+;W[af]
+;B[cd]
+;W[cg]C[RIGHT
+Ko Fight])
+(
+;B[ae]
+;W[ck]
+(
+;B[bh]
+;W[bg]
+;B[ag]
+;W[af]
+;B[cd]
+;W[cg]
+;B[ag]C[RIGHT
+Ko Fight])
+(
+;B[ak]
+;W[aj]C[White Alive])))

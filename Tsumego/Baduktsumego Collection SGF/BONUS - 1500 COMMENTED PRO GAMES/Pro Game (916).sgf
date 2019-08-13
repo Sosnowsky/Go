@@ -1,0 +1,27 @@
+(;SZ[19]EV[Japan 24th Women Honinbo final game 2]DT[2005-10-06]KM[6.5]PC[Japan]PB[Yashiro Kumiko]BR[5p]PW[Chinen Kaori]WR[4p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dq];B[do];W[co]
+;B[dp];W[cp];B[eq];W[cq];B[dn];W[cm];B[qk];W[mq];B[np];W[mp];B[nq]LB[mo:a]C[B17 is a strong move, to play at 'a' is common.];W[mo]
+;B[jp];W[no];B[po];W[gq]LB[hp:a]C[W22: For White to play at 'a' is better.]
+(;B[kq]LB[hp:a][gp:b][go:c][ho:d][hq:e][er:f][fo:g][jr:h][el:i]C[B23 is a little unreasonable, Black should play at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', Black can fight; Furthermore, if W 'd' at 'e', then B 'd', W 'h' and B 'i', Black is also not bad (see var a).];W[go];B[jm];W[ml]C[Through W26, both sides are not stable, but due to strength of stones, Black's situation is inferior.]
+;B[fp];W[gp];B[dr]C[B27 and B29 are strong moves to block crossover.];W[gm];B[dm];W[cl];B[cr]LB[dl:a]C[B33 should be at 'a'.];W[cn];B[dl];W[dk];B[fl]LB[ek:a]C[B37: Black should simply play at 'a'.]
+;W[gl];B[ek];W[jk]C[After W40, White takes the initiative.];B[dj];W[ck];B[hn];W[gn];B[ik]LB[lm:a][ll:b]C[B45: Black should first play at 'a', after W 'b', then Black can play B45.];W[jn]C[W46 is severe.];B[kn]
+;W[ko];B[in];W[jo];B[io];W[km]LB[il:a][ip:b][iq:c][hp:d][kp:e][ln:f][lr:g]C[After W52, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', this way although Black can make life, Black is too painful (see var a).]
+(;B[iq];W[il];B[hl]
+(;W[hm]LB[hk:a][jl:b][ij:c][kl:d][ln:e][im:f][ej:g]C[W56: White misses a good chance, White should play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', White is clearly favorable (see var a).];B[im];W[hk];B[ln];W[lo];B[jl];W[ij]
+;B[kk];W[lm];B[jj];W[ik];B[kl];W[mj];B[ji]C[Through B69, Black gets chance to take a breather.];W[kj]C[W70 is strong and unyielding.];B[lj];W[ki]
+(;B[mk]LB[mi:a][li:b][ll:c][mm:d][lk:e][nk:f]C[B73 is wrong order, White should play at 'a', next W 'b', B 'c', White can only play at 'd', then B73, W 'e' and B 'f', White is difficult to play (see var a).];W[nk];B[mi];W[lk];B[ll];W[li];B[mm]
+;W[nm]C[Through W80, Black clearly incurs loss.];B[ol];W[nl];B[jh];W[mh];B[gi]LB[fi:a]C[B85 is a strong move in an inferior situation, the common move is at 'a'.];W[hh];B[ee];W[de];B[ef];W[fc]
+;B[gd];W[gc];B[id]
+(;W[fj]LB[jg:a][kh:b][ih:c][kf:d][he:e][hd:f][je:g]C[W94 is questionable, White should play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g', Black is difficult to play (see var a).];B[ej];W[fi];B[gh];W[ih];B[jg]C[After B99, White instead comes under attack.]
+;W[gj];B[fr]C[B101 is a good move.];W[df];B[eg];W[dg];B[eh];W[hf];B[if];W[fd];B[ge];W[gg];B[nc];W[qi]
+;B[qg];W[qp];B[pp];W[qm];B[qo];W[om]LB[ib:a]C[W118: For White to play at 'a' is better.];B[cc]C[B119 is severe.];W[dc];B[bd];W[cb];B[bb]
+;W[cd];B[bc];W[db];B[be];W[bf];B[bg];W[cf];B[ch];W[dh];B[ei];W[fe];B[af]C[Through B135, Black turns the game around completely.];W[kd]C[W136 is the last game-deciding move.]
+;B[ff];W[gf];B[he];W[fh];B[ib];W[hc];B[ic];W[je];B[ie];W[lc];B[lg];W[ne];B[le]
+;W[md];B[cj];W[hb];B[nf];W[of];B[ng];W[oe];B[og];W[qf];B[qh];W[qc];B[qd];W[pc]
+;B[od];W[rf];B[rc];W[kf];B[lh];W[ni];B[lf];W[rh];B[rg];W[sg];B[ri];W[sh];B[pi]
+;W[qj];B[pj];W[rj];B[rk];W[sj];B[pl];W[mg];B[mf];W[ph];B[pg];W[qe];B[nd];W[me]
+;B[sk];W[si];B[oi]LB[rd:a][sd:b][se:c][re:d]C[After B191, if W 'a', then B 'b', W 'c' and B 'd', White has no enough ko threats and no enough territory either, so White has to concede defeat.])
+(;W[jg];B[kh];W[ih];B[kf];W[he];B[hd];W[je]))
+(;B[mi];W[li];B[ll];W[mn];B[mk];W[lk];B[nk]))
+(;W[hk];B[jl];W[ij];B[kl];W[ln];B[im];W[ej]))
+(;B[il];W[ip];B[iq];W[hp];B[kp];W[ln];B[lr]))
+(;B[hp];W[gp];B[go];W[ho];B[hq];W[er];B[fo])) 

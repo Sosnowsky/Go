@@ -1,0 +1,32 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 16]KM[6.5]DT[2005-03-10]PB[O Meien]BR[9p]PW[Ogata Masaki]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[cp];B[eq];W[qn];B[fc]
+;W[df];B[en]C[B9 is very interesting, in such an important competition, only O Meien dares play this way, I'm afraid.];W[cm];B[po];W[pn];B[on];W[qo];B[qp];W[oo];B[pp];W[om];B[nn];W[pl]
+;B[ln];W[qh]LB[jq:a][qj:b]C[W22: For White to play at 'a' is still early, if Black forces tightly at 'b', White is not comfortable.];B[io]LB[ip:a][gq:b][jo:c]C[If B23 at 'a', then White still has the tactic of playing at 'b' and 'c', Black can't be satisfied.];W[kp]LB[jq:a]C[W24: White can also consider to play at 'a'.];B[jo];W[iq]
+;B[kr]C[B27 is the vital point.];W[nm];B[mn];W[lr]C[W30 is a good move.];B[lq];W[kq];B[mr];W[ec]LB[gq:a][do:b][co:c][cn:d][bn:e][dn:f][bm:g][hp:h]C[W34: If White plays at 'a' immediately, then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White has no certainty of success.]
+;B[nc];W[fd];B[cq];W[fp]C[W38 is a game-deciding move.]
+(;B[fq]LB[dp:a][jr:b][ls:c][go:d][er:e][dr:f][ep:g][do:h][dq:i][co:j][hr:k][fr:l][di:m]C[B39: Black should simply play at 'a', if W 'b', then B 'c', W39, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B5, W 'l' and B 'm', Black is favorable (see var a).];W[gq]
+;B[dp];W[hn]C[W42 is a good move.];B[jr]LB[co:a][fn:b]C[If B43 at 'a', then W 'b', Black is not good.];W[co];B[do];W[bq]LB[fm:a][dl:b]C[W46: White should first play at 'a', after B 'b', then W46.];B[br];W[cr]
+;B[dq];W[ar];B[fm];W[dn];B[hl]C[After B53, White sinks into a bitter battle.];W[go];B[fo];W[im]
+(;B[il]LB[jl:a][ik:b][jk:c][hk:d][kl:e][jm:f][jn:g][km:h][kn:i][lm:j][ko:k][hr:l]C[B57 is a very bad move, Black should play at 'a', next W57, B 'b', W 'c',  B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l', White will be captured (see var a).];W[km]
+;B[ll];W[mq]LB[ls:a][lp:b][kn:c][nr:d][np:e][ir:f][jq:g][gr:h][hr:i][hs:j][hq:k][jm:l][fr:m][gs:n][is:o][js:p][fs:q][os:r][er:s][qr:t]C[W60 is a clever move, next if B 'a', then W 'b', B 'c', W 'd', B30, W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p', W 'q', B 'o', W 'r', B 's' and W 't', Black is not good (see var a).]
+
+(;B[lp];W[lo];B[mp];W[mo];B[np]
+(;W[kl]LB[jl:a][jk:b][kk:c][kn:d][ml:e][ko:f][hr:g][hq:h][gp:i][hp:j][in:k][hm:l][jq:m][jp:n][jn:o][gr:p][ir:q][gl:r][gm:s][gk:t][hj:u][el:v]C[W66: White misses a good chance, White should play at 'a', followed by B 'b', W66, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p', B 'q', W 'r', B 's', W 't', B 'u', W 'v', Black is not good in the capturing race (see var a).]
+;B[jm];W[kn];B[ko];W[lm];B[dm];W[cn];B[dl];W[mm];B[no];W[lc];B[qf];W[le];B[ph]
+;W[qi];B[qg];W[pc];B[qc];W[ij];B[hm];W[di];B[cl];W[bs];B[if]C[After B89, White already has no chance to win.];W[kf];B[ih];W[gj]
+;B[gh];W[jg];B[eh];W[fi];B[dg];W[ef];B[fh];W[cg];B[gd];W[gc];B[ei];W[oc];B[od]
+;W[nb];B[pi];W[pj];B[oj];W[qj];B[hd];W[fb];B[jh];W[qb];B[jk];W[nd];B[pb];W[ob]
+;B[ne];W[gf];B[hf];W[fs];B[ds];W[dr];B[er];W[es];B[gs];W[cs];B[fr];W[rc];B[qd]
+;W[rb];B[md];W[jc];B[ro];W[rn];B[ch];W[dh];B[ci];W[eg];B[dj];W[kh];B[ki];W[kj]
+;B[lh];W[jj];B[lj];W[kk];B[mf];W[ds];B[gr];W[rp];B[rq];W[so];B[bh];W[bg];B[bm]
+;W[bn];B[ag];W[af];B[ah];W[bf];B[hj];W[bl];B[bk];W[lg];B[mg];W[ji];B[kg];W[eo]
+;B[ep];W[kh];B[li];W[hi];B[hk];W[ii];B[gi];W[nj];B[lf];W[oi];B[oh];W[ni];B[al]
+;W[sq];B[rr];W[id];B[kg];W[jn];B[in];W[jf];B[hh];W[he];B[ie];W[ge];B[jd];W[ic]
+;B[ke];W[kd];B[je];W[ld];B[rh])
+(;W[jl];B[jk];W[kl];B[kk];W[kn];B[ml];W[ko];B[hr];W[hq];B[gp];W[hp];B[in];W[hm]
+;B[jq];W[jp];B[jn];W[gr];B[ir];W[gl];B[gm];W[gk];B[hj];W[el]))
+(;B[ls];W[lp];B[kn];W[nr];B[lr];W[np];B[ir];W[jq];B[gr];W[hr];B[hs];W[hq];B[jm]
+;W[fr];B[gs];W[is];B[js];W[fs];B[is];W[os];B[er];W[qr]))
+(;B[jl];W[il];B[ik];W[jk];B[hk];W[kl];B[jm];W[jn];B[km];W[kn];B[lm];W[ko];B[hr]
+))
+(;B[dp];W[jr];B[ls];W[fq];B[go];W[er];B[dr];W[ep];B[do];W[dq];B[co];W[hr];B[eq]
+;W[fr];B[di])) 

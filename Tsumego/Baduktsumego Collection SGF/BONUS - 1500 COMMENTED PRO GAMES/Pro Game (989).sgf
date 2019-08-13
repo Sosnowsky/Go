@@ -1,0 +1,24 @@
+(;SZ[19]EV[2nd Toyota Cup World Oza Japanese preliminary final]DT[2004-07-22]KM[6.5]PC[Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Yuki Satoshi]BR[9p]PW[Nakamura Shinya]WR[8p]RE[B+R];B[pd];W[dd]C[Nakamura Shinya 8p was born on 4/20/1973, in 1991, became 1p, in 2001, advanced to 8p, in 1998, won the champion of NEC Shun-Ei Tournament.];B[pq];W[dp];B[qk]
+;W[np];B[oo];W[no];B[nn];W[mn];B[on];W[mm];B[lo];W[mo];B[ip];W[gp];B[lp];W[in]
+;B[ho];W[il];B[hn];W[ol];B[pm];W[oi];B[fc];W[iq]C[The play of W26 is questionable.];B[im]C[B27 is a good move.];W[jm];B[hm];W[jl]LB[hq:a]C[If W30 at 'a', then Black will play at 30, White is no good.]
+;B[hq]LB[hp:a][ir:b][jq:c][jp:d][jr:e][hr:f][gq:g][gr:h][fr:i][kq:j]C[B31 is a strong move, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', Black is favorable (see var a).]
+(;W[hc];B[cf];W[cd]C[The precondition of W34 is that White's outside is very thick.];B[hd];W[ic]LB[id:a][gd:b][ee:c]C[If W36 at 'a', then B 'b', W36 and B 'c', White is no good.];B[gd];W[df];B[kd];W[kc]
+;B[lc]LB[ld:a][ke:b]C[After B41, if White cuts at 'a', then B 'b', Black can fight.];W[jd];B[kb];W[jc];B[ld];W[je];B[hf];W[jg];B[db];W[cb];B[ig]
+;W[jh];B[dg];W[ef];B[eg]LB[fg:a][ff:b][fh:c][dc:d][cc:e][ed:f]C[After B55, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is no good (see var a).]
+(;W[cg];B[ch];W[bg];B[dc];W[cc];B[ff]C[Through B61, Black is favorable for the game.];W[mb]C[W62 is a game-deciding move.]
+(;B[di]LB[lb:a][nd:b][ne:c][me:d][nc:e][oe:f][od:g][nf:h][qd:i]C[B63 is a surprising move, normally Black will connect at 'a', next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i' (see var a).];W[nd];B[bf];W[be];B[ne]
+;W[lb]LB[nc:a]C[W68 seems weak, for White to play at 'a' is severe.];B[nc];W[cn];B[ag];W[ce];B[bh];W[qd];B[qc];W[qe];B[rc];W[qi];B[or]C[After Black strengthens with B79, Black is leading in the game.]
+;W[pe];B[od];W[eq];B[cq];W[cp];B[mq]LB[gq:a]C[B85: Black can consider to extend at 'a'.];W[ir]C[B86 is an inevitable counterattack.];B[gq];W[jp]LB[jo:a][hp:b][io:c][fp:d]C[After W88, if B 'a', then W 'b', B 'c' and W 'd', Black is no good.]
+;B[er];W[fq];B[fr];W[hp];B[dq]LB[fp:a][io:b][ep:c]C[If B93 at 'a', then W 'b', B93 and W 'c', for White this is not necessarily better than the real game.];W[gr];B[bp];W[bo];B[bq];W[fs]
+;B[ds];W[nb];B[ob];W[dl]C[Through W102, White has gained some profit, but as for the whole game, it is still slightly to Black's advantage.];B[gk];W[gi];B[hj];W[ih];B[ek];W[dk];B[hi];W[hh];B[gh]
+;W[rj];B[rk];W[pl];B[ql]LB[qm:a]C[B115: For Black to play at 'a' is better.];W[qm];B[qn];W[rm];B[rn];W[fm];B[io];W[jo];B[jn]
+;W[kn]
+(;B[hl]LB[fn:a][fl:b][fi:c][ej:d][gg:e][fh:f][fg:g][eh:h][fe:i][gf:j][fd:k]C[B125 is the right move, if B 'a', then W 'b', B125, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k', White is no good (see var a).];W[go];B[of]
+;W[qg];B[ed];W[ab];B[qj];W[ri];B[oj];W[nj];B[pj];W[ni];B[jj];W[nq];B[nr];W[lr]
+;B[mr];W[ej];B[fj];W[bj];B[se];W[gb];B[gn];W[fn];B[kk];W[ng];B[og];W[oh];B[el]
+;W[em];B[dj]C[Black is leading about 10 points on the board.];W[gg];B[fh];W[hg];B[fb];W[oa];B[pa];W[na];B[pb];W[kq]LB[lq:a][mp:b]C[W164: White should first play at 'a', after B 'b', then W164.]
+;B[lq];W[kr];B[mk];W[nk];B[nm];W[nl];B[ml];W[in];B[cj]C[After B173, Black's small victory is already hard to change.])
+(;B[fn];W[fl];B[hl];W[fi];B[ej];W[gg];B[fh];W[fg];B[eh];W[fe];B[gf];W[fd]))
+(;B[lb];W[nd];B[ne];W[me];B[nc];W[oe];B[od];W[nf];B[qd]))
+(;W[fg];B[ff];W[fh];B[dc];W[cc];B[ed]))
+(;W[hp];B[ir];W[jq];B[jp];W[jr];B[hr];W[gq];B[gr];W[fr];B[kq])) 

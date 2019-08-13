@@ -1,0 +1,23 @@
+(;SZ[19]EV[Japan 28th Meijing Title league game 8]KM[6.5]DT[2003-01-30]PB[O Meien]BR[9p]PW[Cho Chikun]WR[9p]C[Copyright by gogamworld.com and weiqi.tom.com.]RE[W+R];B[pd];W[dd];B[pq];W[cp];B[ep];W[eq];B[fq]
+;W[dq];B[fc];W[df];B[fp];W[qo]LB[cn:a]C[W12: For White to make the one-space extension at 'a' is the normal play.];B[pm];W[lp];B[np];W[ip];B[co];W[bo];B[dp]
+;W[cq];B[cn];W[bn];B[cl];W[nc];B[pf];W[ec];B[oc];W[fd];B[kd]LB[nd:a]C[B29: For Black to hane at 'a' is also possible, so far Black's opening is successful.];W[qq];B[qr]
+;W[pp];B[rq]
+(;W[rp]LB[oq:a][qp:b][pr:c][op:d][po:e][oo:f][pn:g][nm:h][nr:i][mp:j][or:k]C[If W34 at 'a', then B 'b', W 'c', B 30, W 'd', B 'e', W 'f' and B 'g', Black would become very thick (see var a), but later on Black's jump at 'h' would be kind of sente, if White tenukis, Black can jump to 'i', then W 'k' and B 'j'.];B[qp];W[cm]
+;B[dm];W[bm]
+(;B[qq]LB[em:a][op:b][dn:c][do:d][rr:e][fn:f][po:g][en:h][ho:i]C[B39 eliminating the ko is questionable, Black should double up at 'a', followed by White taking the ko, B 'b', W 'c', B 'd', W 'e', B 35, W 'f', B 'g', W 'h' and B 'i', Black can fight (see var a).];W[em]C[W40 is severe.];B[dl]LB[dn:a]C[If B41 at 'a', then W 41, Black is no good.]
+;W[dn];B[en];W[do];B[fn];W[fm];B[gm];W[ek];B[jp]LB[ir:a][gk:b][kp:c]C[B49: Black has no assurance of success, the knight's move at 'a' is more solid, followed by W 'b' and B 'c', Black can fight.];W[jq];B[kq]
+;W[kp];B[jo];W[io];B[jn]C[B55: Black has no choice, if W55, White is favorable in the ladder.];W[jr];B[kr];W[hq]C[W56 and W58 are calm and good plays.];B[hm];W[gk];B[mq];W[in];B[im]
+;W[jm];B[kn];W[jl];B[hk];W[lm]LB[ik:a][hj:b]C[W68 is a simple and clear play, if White makes the diagonal's extension at 'a', then B 68 and W 'b', this would lead to a capturing race at the bottom, White can also fight.];B[km];W[kl];B[ln];W[mn];B[mm];W[ll]
+;B[mo];W[nn];B[lo];W[fr];B[hj]LB[gr:a][gq:b]C[B79: If Black prevents White from crossing over by playing at 'a', then White can cut at 'b', Black is not favorable.];W[nl];B[ej];W[fj];B[fi];W[dk];B[gj]
+;W[fk];B[di];W[ck];B[ok];W[ki];B[dg]C[The sequence after B91 is the game-deciding play.];W[eg];B[jj];W[kj];B[eh];W[cg];B[ch];W[dh]
+;B[jh];W[fg];B[dg];W[ji];B[ii];W[ih];B[hh];W[ig];B[cf];W[dh];B[gr];W[gq];B[dg]
+;W[bg];B[hg];W[if];B[hf];W[ie];B[gd];W[gc];B[hd];W[fb];B[er];W[gn]
+(;B[fs]LB[go:a][hn:b][hr:c][es:d][eo:e][fo:f][ho:g][gs:h][fr:i][gp:j][lq:k][lr:l][mr:m][nr:n][is:o]C[If B123 at 'a', then W 'b', B 'c', W 123, B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B123, W 'j', B 'i', W 'k', B 'l', W 'm', B 'n' and W 'o', Black would get captured (see var a).]
+;W[hr];B[gp];W[ks];B[lq];W[go];B[hn];W[ho];B[hs];W[is];B[fo];W[eo];B[iq];W[ir]
+;B[fr];W[hp];B[ls];W[dr]C[Through 140, it becomes a double ko, although Black gets killed, but Black has obtained infinite ko threats, so from now on Black will win all ko fights on the board.];B[kh]C[B141: Black pulls out his lonely stone, aiming to enclose the right side territory at the maximum limit.];W[lh];B[kg];W[ke];B[lg];W[jd];B[mh];W[jk]
+;B[ld];W[jc];B[kb];W[jb];B[on]LB[ef:a][de:b]C[B153 is the last losing move, Black should first atari at 'a', after White connects at 'b', then B 153.];W[dh];B[js];W[gs];B[dg];W[bf];B[ef]
+;W[ff]TR[on]C[Through 160, the improperness of the marked black stone is clear, as a result, Black's big dragon is getting killed and Black has to concede defeat.])
+(;B[go]C[If Black ataris here ...];W[hn];B[hr];W[fs];B[es];W[eo];B[fo];W[ho];B[gs];W[fr];B[fs];W[gp];B[fr]
+;W[lq];B[lr];W[mr];B[nr];W[is]C[Black would get killed in the capturing race.]))
+(;B[em]C[Black should double up over here.];W[qq];B[op];W[dn];B[do];W[rr];B[qp];W[fn];B[po];W[en];B[ho]C[Black can fight.]))
+(;W[oq]C[If White elects to play here ...];B[qp];W[pr];B[qq];W[op];B[po];W[oo];B[pn]C[Black would become very thick.])) 

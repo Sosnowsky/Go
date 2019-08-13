@@ -1,0 +1,27 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 25]KM[6.5]DT[2005-06-02]PB[Sakai Hideaki]BR[9p]PW[Cho Sonjin]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+R];B[pd];W[dc];B[dq];W[qp];B[ce];W[ed];B[oq]
+;W[do];B[eo];W[cq];B[dp];W[cp];B[dn];W[co];B[cn]C[B13 and B15 are rarely seen.];W[dr];B[er];W[en];B[fo];W[cr]
+;B[fq]
+(;W[fn]LB[em:a][bn:b][cl:c][bo:d][bp:e][bl:f][ck:g][bk:h][cj:i][bj:j][ci:k][ap:l][aq:m][br:n][bs:o][ar:p][ao:q][ds:r][bi:s][an:t][dm:u][bm:v][cd:w]C[W22: For White to extend at 'a' is better, next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p', W 'q', B 'r', W 's', B 't', W 'u', B 'v' and W 'w', White is favorable. Moreover when W 'k', if Black plays at 's' instead, then W 'r', White is favorable (see var a).]
+;B[go];W[dl];B[cl];W[bn];B[bm];W[em];B[bo];W[cm];B[an];W[dm];B[bn]LB[ck:a][ch:b]C[B33: Black should consider to play at 'a', if W33, then B 'b', this variation is better.]
+;W[bl];B[bp];W[bq];B[al]LB[ck:a][bk:b]C[B37: If Black plays at 'a' instead, then W 'b', Black is not good.];W[ck];B[bj];W[bk];B[ak];W[ci]
+(;B[bh]LB[bi:a][ch:b][bg:c][cg:d][bf:e][be:f][aj:g][ai:h][ap:i][cf:j][cj:k][ag:l][aq:m][kp:n]C[B43 is questionable, Black should play at 'a', next W 'b', B43, W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm' and B 'n' (see var a).]
+;W[bi];B[ap];W[bd];B[qm]LB[jd:a]C[B47: The common move is to play at 'a'.];W[po];B[qj];W[np];B[mq];W[kd];B[mc];W[me];B[cg]LB[oc:a]C[B55: The original move is to strengthen at 'a'.]
+;W[nc]C[Following W56, White fights by sacrificing, Black is not comfortable.];B[kc];W[jc];B[nd];W[md];B[oc];W[nb];B[lc];W[ob];B[pb];W[qc];B[pc];W[kb]
+;B[mb];W[ne];B[od];W[ai];B[cd];W[cc];B[be];W[ef]LB[ld:a][oa:b][pf:c][jd:d][ic:e]C[W76: White should play at 'a', next B 'b', W 'c', B 'd' and W 'e', since Black's upper-left corner is still not alive, White is favorable in the fight.]
+;B[bc];W[bb];B[ad];W[pf]LB[ld:a]C[W80: White still should first play at 'a'.];B[jd];W[ld];B[ic];W[jb];B[oa];W[id];B[je];W[hd]
+;B[kh];W[pi];B[pj];W[oi];B[oj];W[mi];B[nj];W[ki];B[ji];W[kj];B[jg];W[lh];B[lg]
+;W[mg]LB[kf:a][mh:b][li:c][kg:d][ni:e]C[W102 should be at 'a', next B 'b', W 'c', B 'd' and W 'e'.];B[gg];W[ih];B[jh];W[hf];B[jj];W[jk];B[ik]
+;W[il];B[hk];W[gn];B[kk];W[jl];B[lf]
+(;W[lk]LB[mj:a][mf:b][nf:c][ng:d][og:e][mh:f][ni:g][li:h][lj:i]C[W116 should be at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i' (see var a).];B[mf];W[nf];B[ng];W[mh]
+;B[og];W[pe];B[ni];W[qd];B[rf]
+(;W[qb]LB[rg:a][qg:b][qf:c][rh:d][pg:e][nh:f][qh:g]C[W126 should be at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).];B[nh];W[re];B[qf];W[qe];B[ib];W[hb]
+;B[na];W[kl];B[mj];W[li];B[hi];W[gr];B[ds]LB[es:a][ho:b][gp:c][hp:d][qr:e][qh:f][rh:g][pg:h][rg:i][sb:j][mp:k]C[B139 is the losing move, Black should play at 'a', next W 'b', B 'c', W 'e', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', this way the outcome of the game is difficult to guess.]
+;W[ho];B[gq];W[hq];B[hr];W[hp]C[W144 is a good move.];B[gs];W[ir];B[fr]C[Through B147, Black ends in gote and clearly incurs loss.];W[if];B[jf];W[qh];B[rh]
+;W[pg];B[rg];W[sb];B[jq];W[js];B[hs];W[iq];B[qr];W[hh];B[ii];W[ab];B[eg]C[Following B163, Black seeks a way to concede defeat.];W[gj]
+;B[gi];W[hc];B[nb];W[eh];B[hj];W[af];B[di];W[dg];B[bf];W[dh])
+(;W[rg];B[qg];W[qf];B[rh];W[pg];B[nh];W[qh]))
+(;W[mj];B[mf];W[nf];B[ng];W[ni];B[mh];W[og];B[li];W[lj]))
+(;B[bi];W[ch];B[bh];W[bg];B[cg];W[bf];B[be];W[aj];B[ai];W[ap];B[cf];W[cj];B[af]
+;W[aq];B[kp]))
+(;W[em];B[bn];W[cl];B[bo];W[bp];B[bl];W[ck];B[bk];W[cj];B[bj];W[ci];B[ap];W[aq]
+;B[br];W[bs];B[ar];W[ao];B[ds];W[bi];B[an];W[dm];B[bm];W[cd])) 

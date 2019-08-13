@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][bf][bg][bh][bk][cb][cj][cl][db][dj][ed][ee][ef][eg][eh][ei][ej][fe][ga][ge][hb][hc][hd][he]
+AW[bi][bj][ci][dc][dd][de][df][dg][dh][di][eb][ec][fb][fd][gb][gc][gd]PL[W]C[White to play.
+
+Make life - Capture Stones
+
+Source: Xuan-Xuan-Qi-Jin.]
+;W[bc]
+(
+;B[ac]
+;W[ae]
+;B[be]
+;W[cc]
+;B[bb]
+;W[ad]
+;B[af]
+;W[ad]C[RIGHT
+Both Alive])
+(
+;B[bb]
+(
+;W[ae]
+;B[be]
+;W[cc]
+;B[ac]
+;W[ad]
+;B[af]
+;W[ad]C[RIGHT
+Both Alive])
+(
+;W[be]
+;B[ce])
+(
+;W[cc]
+;B[ac])))

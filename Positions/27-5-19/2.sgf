@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[na][mb][ob][nc][pc][qc][rc][dd][nd][cf][fi][gk][ql][cm][gm][rm][cn][hn][ho][ko][dp][hp][cq][gq][iq][ir]AB[pb][qb][rb][oc][od][pd][qd][ek][pl][dm][fm][qm][fn][pn][go][jo][fp][ip][kp][lp][fq][jq][lq][pq][dr][gr][jr][lr][ks]LB[pl:4][ql:1][qm:2][rm:3]C[W to play]PL[W]
+(;W[rk]
+;B[qk]
+;W[rl]
+;B[rn]
+;W[qj]
+;B[pk]
+;W[qf]C[Game variation.])
+(;W[pk]C[W should double hane.]
+(;B[rl]C[If cut here]
+;W[qk]
+;B[rn]
+;W[ol]
+;B[pm]
+;W[rk]
+;B[sm]
+;W[oe]C[W settles easily.])
+(;B[qk]
+;W[rl]
+;B[rk]
+;W[qo])))

@@ -1,0 +1,33 @@
+(;SZ[19]EV[Japan 58th Honinbo title final game 4]DT[2003-06-16]KM[5.5]PB[Cho U]BR[8p]PW[Kato Masao]WR[9p]PC[Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dd];B[pp];W[dq];B[do];W[dm]
+;B[fo];W[fq];B[hp];W[kp]LB[go:a]C[W10: White prepares to crosscut at 'a'.];B[mq];W[go];B[ep];W[eq];B[gp];W[pe]LB[fp:a][gn:b]C[W16 has the implication of ladder breaker, if White directly cuts at 'a', then after B 'b', W12 would be captured in a ladder.]
+;B[cp];W[cq];B[gn];W[qe]C[Through 20, both sides have taken some profit.];B[di];W[en];B[eo];W[ho]C[The timing of W24 is too early.];B[jo];W[io];B[ip];W[hm]
+;B[jp];W[im];B[fn]C[After this move, it is time for noon break.];W[dj];B[ej];W[dk]
+(;B[ci]LB[fl:a][ei:b][ch:c][ek:d]C[B35 is questionable, now the jump at 'a' is the vital point, followed by W 35, B 'b' and W 'c', Black can fight (see var a). Furthermore, if W 35 at 'b', then Black can retreat to 'd', Black would be favorable (see var b).];W[fl];B[cl];W[fj];B[ek];W[el];B[ei];W[cm];B[bq]
+;W[br];B[bo];W[aq];B[bm];W[pd];B[fc];W[db];B[km];W[hj];B[qj]C[Through 53, Black's moyo in the lower right is big.];W[cf]LB[jc:a]C[W54 is no better than the extension at 'a'.]
+;B[jd];W[lc];B[qo]C[B57 strengthening the corner is a big point.];W[bk]C[The sequence after W58 is an inevitable counter-attack.];B[bl];W[bj];B[fk];W[gl]LB[gk:a]C[W62: White should block at 'a'.];B[bp];W[dl];B[gh]
+;W[oj];B[gr];W[cs];B[ld];W[md];B[le];W[kc]LB[kb:a]C[W72: White should make the diagonal's extension at 'a'.];B[jc];W[kd];B[ke];W[nc];B[jg]C[Through 77, Black has the possibility of enclosing some territory at the top, White has failed in the attack. Black is favorable in the game. 
+After this move, the game was closed for the first day.]
+;W[oq]C[The sequence after W78 starts the reduction.];B[pq];W[pr];B[qr];W[pl];B[rl];W[kq]C[W84: White wages a desperate struggle for a chance to win.]
+(;B[ko]LB[mp:a][jn:b][mo:c][mm:d]C[B85 is somewhat weak, Black should play at 'a' to attack White strongly, followed by W 85, B 'b', W 'c' and B 'd', Black can fight (see var a).];W[mp];B[nq];W[lo];B[ln];W[mn];B[mm];W[nn];B[nm]
+;W[op];B[on];W[oo];B[no];W[np];B[or];W[nr];B[ps];W[mr];B[mo];W[ir]C[Through 104, White makes life and also has enclosed a territory of 10 points, Black is a little dissatisfied.
+After this move, it is time for noon break.];B[bf]C[B105: Black aims to attack White's big dragon.]
+;W[cg];B[bh];W[bg];B[ag];W[hh];B[hg];W[ih];B[ig];W[jj]LB[kj:a]C[W114 should be at 'a'.];B[be];W[bd];B[ce]
+;W[de];B[cd];W[cc];B[bc];W[bb]LB[af:a][ae:b][bi:c][ch:d][ai:e]C[W122 is wrong order. White should first throw in at 'a', after B 'b', then play 122, this way later on White can squeeze at 'c' and 'e' in sente, White would get one eye here.];B[ad];W[ec];B[re]
+;W[rd];B[lj];W[oh];B[gk];W[hk];B[jl];W[cn];B[fp];W[bn];B[il];W[hl];B[an]TR[bb]C[Through 137, the improperness of the marked white stone can be seen.]
+;W[li];B[mi];W[lh];B[jh];W[ki];B[oi]LB[nh:a][mg:b][ng:c]C[B143: Black should make the diagonal at 'a', then W 'b' and B 'c', White would have no chance of winning.];W[pi];B[ni];W[nh];B[mh]
+;W[mg];B[mj];W[lf];B[ph]C[After B151, at a glance, it seems White is no good either.];W[je]LB[ie:a][qh:b][pg:c][qg:d][pj:e][qi:f][ng:g][nf:h][of:i][rj:j]C[W152 is an excellent move, if Black ataris at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', White can connect back in sente at 'h', B 'i' and W 'j', White would be favorable.]
+
+(;B[kf];W[ie]C[After W154, Black instead comes under attack.];B[ii];W[jk];B[hd];W[he];B[gd];W[id];B[ic];W[ge];B[fe];W[ff];B[gb]
+;W[hc];B[hb];W[fd];B[ed]
+(;W[ee]LB[fb:a][fa:b][eb:c][jb:d][af:e][ef:f][eg:g][gf:h][fg:i][gc:j][gg:k][hi:l][ah:m][hf:n][qi:o]C[W170: White has missed the winning chance regrettably. Now White should hang at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', this way White would win the game.]
+;B[hi];W[fd];B[gc];W[jb];B[ib];W[kb];B[fa]C[After B177, Black is leading about 10 points on the board, and Black's advantage is hard to change.];W[rh];B[qh];W[rg];B[ng];W[nf];B[og]
+;W[ri];B[me];W[mf];B[nd];W[mc];B[qf];W[pf];B[qg];W[rf];B[ne];W[of];B[jr];W[jq]
+;B[hr];W[is];B[lp];W[lq];B[qi];W[rj];B[rk];W[ab];B[ac];W[kk];B[iq];W[kr];B[fr]
+;W[er];B[od];W[oc];B[kg];W[lg];B[gj];W[ll];B[eg];W[ml];B[nl];W[fg];B[dg];W[df]
+;B[fh]C[The game 5 will take play on 6/25.])
+(;W[fb]C[White should hang over here.];B[fa];W[eb];B[jb];W[af];B[ef];W[eg];B[gf];W[fg];B[gc];W[gg];B[hi];W[ah]
+;B[hf];W[qi]C[White would win the game.]))
+(;B[ie]C[If Black ataris here, ...];W[qh];B[pg];W[qg];B[pj];W[qi];B[ng];W[nf];B[of];W[rj]C[White would be favorable for the game.]))
+(;B[mp]C[Black should play here.];W[ko];B[jn];W[mo];B[mm]C[Black can fight.]))
+(;B[fl]C[Black should play here.];W[ci];B[ei];W[ch]C[Black can fight.])
+(;B[fl]C[When Black plays here, ...];W[ei]C[If White cuts, ];B[ek]C[Black would draw back and Black would be favorable.])) 

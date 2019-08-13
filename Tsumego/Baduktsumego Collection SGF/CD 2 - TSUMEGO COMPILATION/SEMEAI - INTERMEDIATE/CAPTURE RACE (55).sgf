@@ -1,0 +1,23 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][bb][be][bj][cc][cd][ce][cf][ci][cj][de][dg][dh][ed][fd][gd]
+AW[ba][bf][bg][bi][cb][cg][ch][dc][dd][df][eb][ee][ef][fg][gc][hc]PL[W]C[White to play.
+
+Capture race - One Eye Kills Blind
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ad]
+;B[bc]
+;W[ah]
+;B[af]
+;W[ae]C[RIGHT
+])
+(
+;W[af]
+;B[bc]
+(
+;W[ad]
+;B[ah])
+(
+;W[ah]
+;B[ad]C[Black Alive])))

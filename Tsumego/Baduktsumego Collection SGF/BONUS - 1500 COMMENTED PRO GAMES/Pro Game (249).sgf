@@ -1,0 +1,39 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 6]KM[6.5]DT[2004-01-08]PB[Rin Kaiho]BR[9p]PW[O Rissei]WR[9p]RE[W+5.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd]C[In Meijin leagues, these two players meet for the eighth time, in the first 7 games, O Rissei won all 7 games, moreover, in Honinbo leagues, they met 3 times and O Rissei also won all three games.];W[dc];B[dq];W[pp];B[ce];W[dn]
+;B[cl];W[dh]C[The play of W6 and W8 is very active.];B[ee];W[fd];B[hd];W[fe];B[eg];W[gf];B[eh];W[dj];B[el];W[fj];B[gg]
+;W[ep]LB[ie:a][eo:b]C[If W20 at 'a', then Black will seal off with the knight's move at 'b', White is no good.];B[eq];W[dp];B[cq];W[gp];B[hf]
+(;W[hg]LB[gl:a][ff:b][cp:c][fq:d][cj:e][bc:f][hb:g]C[If W26 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', an exchange would result, later on White is still left with the invasion at 'g' (see var a).];B[hh];W[ig];B[ff];W[ge];B[gi];W[ed]
+
+(;B[if]LB[gl:a][fq:b][bo:c][df:d][dg:e][cf:f][cg:g][bf:h][bg:i][ef:j][fg:k][jd:l][nc:m]C[B33: For Black to jump at 'a' would be better, if W 'b', then B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', this way Black's advantage is obvious (see var a).];W[jg]
+;B[jd];W[df];B[dg];W[cf];B[cg];W[bf];B[bg];W[ef];B[fg];W[fl];B[ek];W[ej];B[fk]
+;W[gj];B[gl];W[ii];B[be];W[de];B[af];W[cd];B[bj];W[ik];B[ih];W[jh];B[ji]C[After Black cuts with B59, Black still keeps the initiative.];W[hi]
+;B[gh];W[dk];B[dl];W[gk];B[ki];W[lg];B[hl];W[hk];B[fm];W[bk];B[bi];W[ck];B[bl]
+;W[kk];B[md];W[lh];B[lk];W[ll];B[lj];W[nj]LB[oh:a][oj:b]C[W80 is a strong move, if White simply jumps to 'a', then B 'b', White can't be satisfied.];B[nk]
+(;W[kl]LB[oj:a][km:b][jl:c][il:d][jm:e][im:f][jn:g][in:h][ak:i][jk:j]C[W82 is questionable, White should play at 'a', if Black plays at 82, then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', next the sente move at 'i' and the connection at 'j' become miai, White can fight (see var a).];B[oj];W[ni];B[ml]
+;W[ok];B[mm]
+(;W[li]LB[kn:a][pj:b][ol:c][nh:d][oi:e][mi:f][mh:g][mj:h][pi:i][ng:j]C[W88: If White simply jumps at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is no good (see var a).]
+(;B[ol]LB[kj:a][kn:b][pj:c][mo:d][ph:e][pn:f]C[B89: Black can also consider to connect at 'a', followed by W 'b', B 'c', W89, B 'd', W 'e' and B 'f' (see var a).];W[pk];B[pl];W[qk];B[ql];W[rk];B[kn]
+;W[kj];B[np];W[aj];B[ch]LB[ai:a][ak:b][ag:c][bd:d][ad:e]C[B99 is questionable, Black should play at 'a', then W 'b' and B 'c', later on if W 'd', Black can play hane at 'e', with B99 Black incurs a loss of about 3-4 points.];W[bn];B[fp];W[fo];B[fq]
+;W[fn];B[eo];W[do];B[hn];W[ho];B[em];W[en];B[gn];W[go];B[hq]LB[od:a]C[B113 is a bad move, strengthening at 'a' is the vital point.];W[in];B[im]
+;W[jm];B[il];W[iq];B[ir];W[jq];B[qq]LB[pn:a]C[If B121 is omitted, then W 'a', Black is no good.];W[od]C[After W122, it is already hard to say that Black has any advantage.];B[qf];W[qc];B[rc];W[pc]
+;B[rb];W[lc];B[ld]LB[mc:a]C[If B129 at 'a', then White will play at 129, Black is not good.];W[kc];B[mc];W[mb];B[nb];W[lb];B[kd]LB[nc:a][ke:b][le:c]C[If B135 at 'a', then White will play at 135, next B 'b' and W 'c', Black is no good.]
+;W[nc]
+(;B[oe]LB[ob:a][pb:b][pe:c][pd:d][na:e][nd:f][oc:g][of:h][jb:i][la:j]C[B137: Black has missed a good opportunity, Black should play at 'a', after W 'b', then Black plays B137, next W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', later on, B 'i' is sente, if White ignores, then Black can attack at 'j', White will get captured (see var a).];W[pe];B[pd];W[ob]
+;B[nd];W[oc];B[of]LB[jb:a][qb:b][na:c]C[Through B143, we can see the improperness of B137, now even if Black jumps to 'a', White can also take tenuki, When B 'b', White can completely makes life by playing at 'c'.];W[pg];B[pf];W[qp];B[pq];W[rm]C[After W148, in terms of territory, Black is not optimistic.]
+(;B[op]LB[rl:a][sl:b][qn:c][ro:d][rn:e][sn:f][qm:g][gr:h][rq:i][sm:j]C[If B149 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', this way Black would be still not enough to give komi (see var a).];W[gr];B[gq];W[hr]
+;B[fr];W[jr]C[After W154, Black already has no chance of winning.];B[lr];W[bp];B[bq];W[aq];B[ip];W[jo];B[ar];W[ap];B[bs];W[bd];B[qn]
+;W[di];B[ai];W[ak];B[fi];W[ro];B[rn];W[sn];B[rl];W[sl];B[qm];W[sm];B[rq];W[lq]
+;B[qh];W[pi];B[mq];W[ic];B[hc];W[ib];B[id];W[ae];B[ag];W[po];B[rp];W[qo];B[qb]
+;W[hb];B[lp];W[ko];B[gc];W[fb];B[gb];W[ga];B[fc];W[ec];B[qi];W[sj];B[jc];W[jb]
+;B[kq];W[hp];B[ph];W[oh];B[ri];W[og];B[si];W[so];B[mf];W[qg];B[rg];W[pn];B[eb]
+;W[fa];B[jl];W[mj];B[mk];W[ln];B[jk];W[jj];B[lm];W[km];B[lo];W[mn];B[nn];W[mo]
+;B[no];W[jn];B[om];W[ng];B[kr];W[is];B[lf];W[gs];B[bm];W[fs];B[cp];W[bo];B[es]
+;W[nf];B[ne];W[kf];B[ke];W[jf];B[oa];W[na];B[pa];W[sp];B[sq];W[mg];B[kp];W[jp]
+;B[ks];W[nb];B[pb];W[pj];B[on];W[an])
+(;B[rl];W[sl];B[qn];W[ro];B[rn];W[sn];B[qm];W[gr];B[rq];W[sm]))
+(;B[ob];W[pb];B[oe];W[pe];B[pd];W[na];B[nd];W[oc];B[of]))
+(;B[kj];W[kn];B[pj];W[ol];B[mo];W[ph];B[pn]))
+(;W[kn];B[pj];W[ol];B[nh];W[oi];B[mi];W[mh];B[mj];W[pi];B[ng]))
+(;W[oj];B[kl];W[km];B[jl];W[il];B[jm];W[im];B[jn];W[in]))
+(;B[gl];W[fq];B[bo];W[df];B[dg];W[cf];B[cg];W[bf];B[bg];W[ef];B[fg];W[jd];B[nc]
+))
+(;W[gl];B[ff];W[cp];B[fq];W[cj];B[bc])) 

@@ -1,0 +1,35 @@
+(;SZ[19]EV[Japan 28th Kisei title match 4]DT[2004-02-18]KM[6.5]PC[Japan]PB[Yamashita Keigo]BR[9p]PW[Hane Naoki]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd]C[In the first three games, Yamashita trails best-of-7 by 0:3.];W[dd];B[pp];W[dp];B[fq]
+;W[cn];B[fc];W[df];B[jd];W[eq]LB[jq:a]C[W10 is a positive play, clamping at 'a' or splitting the right side is rather common.];B[fp];W[jp];B[mp];W[jn];B[fm]LB[fn:a]C[B15: Jumping to 'a' is relatively steady.]
+;W[dm];B[hm];W[jl];B[km];W[jm];B[io]C[The play of B19 and B21 is not necessarily to Black's favor.];W[jo];B[pj];W[qc]LB[lk:a]C[W24: White can consider to simply make the knight's move at 'a'.];B[qd];W[pc]
+;B[nc];W[nb];B[mc];W[rd];B[re];W[rc];B[qf];W[oc];B[od]C[After this move, it is time for noon break.];W[qp]LB[lk:a]C[W36: White still can make the knight's move at 'a'.];B[qq]
+;W[qo];B[rq]
+(;W[po]LB[no:a][np:b][op:c][ql:d][qk:e][ok:f]C[The sequence following W40 seems heavy, White should play at 'a', then B 'b', W40, B 'c', W 'd', B 'e' and W 'f', this variation is clearly better than the real game play (see var a).];B[op];W[ql];B[qk];W[pl];B[nk];W[nm]
+;B[lk];W[jj];B[mn];W[mm];B[ln];W[nn]
+(;B[kl]LB[rl:a][rm:b][rk:c][ll:d][lm:e][kn:f][nq:g][np:h][qn:i]C[B53 is a calm move, if playing hane at 'a', then W 'b', B 'c', W53, B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', White can fight (see var a).
+
+After this move, the game was suspended for the first day.];W[rl];B[hq]C[After B55, instantly White appears weak.];W[hj]
+;B[fk];W[hl];B[gl];W[fj]
+(;B[ek]LB[ej:a][fi:b][dk:c][mb:d][cr:e][dr:f][cp:g]C[B61: Black can consider to play hane at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', this way White couldn't kill Black unconditionally in the corner (see var a).];W[mb];B[jh];W[lj];B[kk];W[kj];B[hh]C[After this move, it is time for noon break.]
+;W[ik];B[ck];W[eo];B[oo];W[on];B[db];W[cc];B[ch];W[kq]LB[cb:a][jq:b][kr:c]C[If W76 at 'a', then B76, W 'b' and B 'c', White is hard to tolerate.];B[cb]
+;W[fd];B[gd];W[ec];B[eb];W[gc];B[fb];W[bg];B[fe];W[ed]
+(;B[ge]LB[cg:a][cf:b][bh:c][hd:d][ff:e][mj:f]C[B87 is questionable, Black should answer at 'a', then W 'b', B 'c', W87, B 'd', W 'e' and B 'f', this way Black is clearly favorable (see var a).];W[bh];B[lb];W[lc];B[kb];W[mr];B[nq]
+;W[lh];B[ce];W[cd];B[rp];W[ro];B[lg];W[mg];B[mh];W[kg];B[lf];W[kh];B[kf];W[ni]
+;B[nh];W[oi];B[mi];W[mj];B[qh];W[ok];B[fo]LB[gn:a]C[B113 guards against White's peep at 'a'.];W[jf];B[ng];W[jg]C[Through W116, White is slightly better off.];B[bo]C[B117 is a good move.]
+;W[bq];B[bm];W[bn];B[an];W[bl];B[cl];W[cm];B[am];W[co];B[bk]
+(;W[id]LB[ke:a][le:b][ld:c][ne:d][jc:e][je:f][ic:g][hf:h]C[W128 is a mistake, White certainly should play at 'a', followed by B 'b', W 'c', B 'd', W128, B 'e', W 'f' and B 'g', then White is still left with the tactic of jumping to 'h', White is obviously winning the game (see var a).];B[je];W[ie];B[hc];W[ld];B[me]
+;W[jc];B[ob];W[pb];B[kc];W[kd];B[ke];W[jb];B[ma];W[oa];B[md];W[ic];B[bb];W[ef]LB[be:a]C[W146 should be at 'a'.]
+;B[be];W[bd];B[cg];W[cf];B[bi]C[Black blocks with B151 in sente, Black clearly gains, because of White's mistakes, the situation is turned around.];W[bf];B[hf];W[if];B[rk]LB[er:a][dr:b][ep:c][dq:d][nr:e]C[B155: Black should play hane at 'a', then W 'b', B 'c', W 'd' and B 'e', this way Black would win the game for sure.]
+;W[mq];B[lp];W[or];B[nr];W[ns];B[pr];W[jr];B[ps];W[hb];B[gb];W[oh];B[ac];W[ae]
+;B[os];W[er]C[After W170, it becomes a half-point close game.];B[ir];W[gr];B[fr];W[fs];B[iq];W[jq];B[bp];W[ao];B[al];W[cp];B[ap]
+;W[aq];B[ao];W[hn];B[gn];W[ho];B[hp];W[ip];B[di];W[og];B[nf];W[no];B[np];W[sk]
+;B[sj];W[sl];B[ri];W[so];B[ms];W[en];B[im];W[in];B[ii];W[gh];B[hg];W[mk];B[oj]
+;W[nj];B[pk];W[nl];B[ha];W[ia];B[ib];W[pi];B[qi];W[hb];B[lq];W[lr];B[ib];W[ja]
+;B[gj];W[gi];B[gk];W[fg];B[fi];W[ei];B[ej];W[eh];B[hb];W[ka];B[le];W[la];B[ls]
+;W[kr];B[of];W[pg];B[dl];W[sp];B[sq];W[il];B[hs];W[gs];B[sd];W[sc];B[se];W[gm]
+;B[hm];W[qg];B[rg];W[pf];B[pe];W[lm];B[kn];W[dh];B[li];W[ki];B[ah];W[ag];B[ai]
+;W[dg];B[ci];W[em];B[bc];W[el];B[hd];W[ll]C[The game 5 will take place on 2/25 and 2/26.])
+(;W[ke];B[le];W[ld];B[ne];W[id];B[jc];W[je];B[ic]))
+(;B[cg];W[cf];B[bh];W[ge];B[hd];W[ff];B[mj]))
+(;B[ej];W[fi];B[dk];W[mb];B[cr];W[dr];B[cp]))
+(;B[rl];W[rm];B[rk];W[kl];B[ll];W[lm];B[kn];W[nq];B[np];W[qn]))
+(;W[no];B[np];W[po];B[op];W[ql];B[qk];W[ok])) 

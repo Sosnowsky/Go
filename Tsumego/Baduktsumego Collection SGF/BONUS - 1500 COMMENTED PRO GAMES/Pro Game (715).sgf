@@ -1,0 +1,29 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 19]KM[6.5]DT[2004-04-15]PB[Kobayashi Satoru]BR[9p]PW[Yamada Kimio]WR[8p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[pd];W[dd];B[pp];W[dp];B[cf];W[fc];B[cn]
+;W[dk];B[fq];W[dn];B[cq];W[co];B[dq];W[ce];B[dg]LB[cm:a]C[With the play of B15, Black considers to pull out at 'a' later on.];W[nc];B[qf];W[fg]LB[ch:a][dh:b][ci:c][bf:d][cm:e]C[If W18 at 'a', then B 'b', W 'c' and B 'd', afterwards if White reinforces at 'e', White's shape would be overconcentrated.]
+;B[di];W[fi]C[W20 is a good move.];B[ck];W[cl];B[be];W[bd];B[de];W[cd];B[cj];W[bl];B[bf];W[ee]C[W30 is a thick play.]
+;B[kd];W[pc];B[qc];W[od];B[pb];W[ob];B[oc];W[ch];B[ei];W[pc];B[pe]
+(;W[qb]LB[fj:a][eg:b][ff:c][dl:d][el:e][bk:f][oc:g][df:h]C[W42 is over-hasty, White should first play at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', then White plays W42, next B 'g', and W 'h' would be an excellent ko threat (see var a).];B[oc];W[fj];B[eg];W[ff];B[dl]
+;W[el];B[pc]C[B49: Black eliminates the ko and White already incurs  loss first.];W[aj]
+(;B[ai]LB[dj:a][dm:b][bi:c][bh:d][ae:e][af:f][df:g][cg:h]C[B51 is a mistake, Black should play at 'a', followed by W 'b', B 'c', W 'd', B51, W 'e', B 'f', W 'g' and B 'h', this way it would be a seki (see var a).];W[bi];B[ak];W[bk];B[bj];W[ah]
+
+(;B[ae]LB[aj:a][af:b][eh:c][dh:d][bg:e]C[If B57 at 'a', then W57, B 'b', W 'c', B 'd' and W 'e', it leads to a star shape, Black would get killed (see var a).];W[aj];B[ek];W[dm];B[ai];W[er];B[aj];W[eq]C[Through W64, White is clearly favorable, but the outcome of the game is still too early to say.]
+;B[md]C[B65 is inevitable move, if Black tenukis, White will play at 65, Black is hard to tolerate.];W[kq];B[cp]C[B67 is a good move.];W[do]LB[bo:a][bn:b][an:c][bm:d][br:e][bp:f][ap:g]C[After W68, Black is left with the tactic of ko-living by B 'a', W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g' (see var a).]
+(;B[gp];W[hq]LB[fp:a]C[The counterattack of W70 is questionable, playing at 'a' is the original move.];B[ko];W[mp];B[jq];W[jr];B[ir]C[The hane of B75 is very severe.]
+(;W[hp]LB[iq:a][jp:b][kr:c][fr:d][gr:e][es:f]C[If W76 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White would collapse (see var a).];B[hr];W[gq];B[gr];W[fp];B[kr];W[jp]
+;B[iq];W[ip];B[kp];W[lq];B[lr];W[mr];B[mo];W[op];B[np];W[nq];B[no];W[pq];B[oo]
+;W[oq];B[qq]LB[fr:a][in:b][qp:c][rp:d]C[B97: Black should simply play at 'a', next W 'b', B 'c', W97 and B 'd', this would be better than the real game.];W[qp];B[po];W[rq];B[fr]LB[js:a][es:b]C[After B101, if W 'a', since B 'b' is sente, White couldn't kill Black.];W[in]
+;B[qr];W[rr];B[rp];W[qo];B[qn];W[ro];B[rn];W[sp];B[pj];W[km]LB[pm:a][pn:b][mj:c]C[W112 is questionable, White should play at 'a', followed by B 'b' and W 'c'.]
+;B[ll];W[dr];B[fs];W[al];B[ic]LB[kl:a][kh:b]C[B117: Black should first play at 'a', after W 'b', then B117.];W[pm];B[pn];W[lj];B[kl];W[nj]C[Through W122, the improperness of B117 can be easily seen.]
+;B[oh];W[pk];B[ok];W[oj];B[qk]
+(;W[pi]LB[pl:a][nl:b][qj:c][oi:d][nh:e][qi:f][ri:g][rh:h][rj:i][nk:j][mk:k][mj:l][ol:m][lh:n]C[W128 is a bad move, White should play at 'a', followed by B 'b', W128, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', this way the outcome is still hard to guess (see var a).]
+;B[pl];W[qj];B[pk];W[oi];B[nh];W[ki]C[Through W134, the situation has been turned around, Black is favorable for the game.];B[cr];W[ds];B[jm];W[jn];B[kn];W[im];B[jl]
+;W[kg]LB[jh:a]C[W142 is the last losing move, White should play at 'a', this way White perhaps would still have a chance.];B[lh];W[kh];B[mj]C[W145 delivers White the final blow.];W[mi];B[mk];W[le];B[lg];W[ld];B[lc];W[mc]
+;B[ke];W[nf];B[kf];W[me];B[lb];W[mh];B[mg];W[ng];B[li];W[ni];B[lf];W[og];B[oe]
+;W[qg];B[rj];W[ne];B[nd];W[od];B[nd];W[rf];B[rh];W[qh];B[qi])
+(;W[pl];B[nl];W[pi];B[qj];W[oi];B[nh];W[qi];B[ri];W[rh];B[rj];W[nk];B[mk];W[mj]
+;B[ol];W[lh]))
+(;W[iq];B[jp];W[kr];B[fr];W[hr];B[es]))
+(;B[bo];W[bn];B[an];W[bm];B[br];W[bp];B[ap]))
+(;B[aj];W[ae];B[af];W[eh];B[dh];W[bg]))
+(;B[bi];W[bh];B[ai];W[ae];B[af];W[df];B[cg]))
+(;W[fj];B[eg];W[ff];B[dl];W[el];B[bk];W[qb];B[oc];W[df])) 

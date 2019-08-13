@@ -1,0 +1,47 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][cc][cf][dc][dg][ed][ee]
+AW[ab][bd][cd][dd][ec][fc]PL[B]C[Black to play.
+
+Capture race - Extend Liberties
+
+Source: Guan-Zhi-Pu.]
+;B[bb]
+(
+;W[db]
+;B[eb]
+;W[fb]
+;B[ba]C[RIGHT
+])
+(
+;W[ac]
+;B[db]
+;W[ca]
+;B[da]
+;W[eb]
+(
+;B[ce]
+;W[ba]
+(
+;B[de]C[RIGHT
+])
+(
+;B[be]C[RIGHT
+]))
+(
+;B[de]
+;W[ba]
+(
+;B[ce]C[RIGHT
+])
+(
+;B[be]C[RIGHT
+]))
+(
+;B[be]
+;W[ba]
+(
+;B[ce]C[RIGHT
+])
+(
+;B[de]C[RIGHT
+]))))

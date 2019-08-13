@@ -1,0 +1,27 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 3]KM[6.5]DT[2003-12-18]PB[Cho U]BR[9p]PW[Yamada Kimio]WR[8p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[cd];W[qp];B[oc];W[fc];B[nq]
+;W[pq];B[jp];W[gq]LB[hq:a][no:b][qm:c][fq:d]C[W10: White normally will extend at 'a', but in the game after B 'b' and W 'c' White is reluctant to leave Black a good invasion point at 'd'.];B[id]
+(;W[dd]LB[cc:a][dc:b][cb:c][bc:d][ed:e][de:f][ec:g][bb:h][fd:i]C[W12 is the right move, if White attaches at 'a' instead, then B 'b', W12, B 'c', W 'd', B 'e', W 'f', B 'f', W 'h' and B 'i', the position of B11 is perfect, White can't be satisfied (see var a).];B[dc];W[ce]
+(;B[cc]LB[ed:a][de:b][ec:c][cb:d][bd:e]C[If B15 at 'a', then W 'b', B 'c', W15, B 'd' and W 'e', Black is no good (see var a).];W[ed];B[be];W[cf];B[bf];W[cg];B[pm]LB[qj:a][qm:b]C[B21 is a thoughtful move, if Black extends at 'a', then White will extend at 'b', Black is a little dissatisfied.]
+;W[pj]LB[oo:a]C[If W22 at 'a', then Black will play at 22, Black can fight.];B[qh];W[oi]LB[oo:a]C[W24: For White to play at 'a' is common.];B[oo];W[np];B[op];W[oq];B[mq];W[no];B[on]
+;W[lp];B[kr];W[ln];B[ro];W[rp];B[ml];W[ir];B[jr];W[iq];B[kp];W[jn];B[or];W[pr]
+;B[ns];W[qo];B[rn];W[ps];B[ko];W[lo];B[kn];W[lm];B[jm];W[ll];B[nj];W[ph];B[qg]
+;W[qi];B[qk];W[lj];B[ni];W[nh];B[mh];W[ng];B[li];W[pk];B[pl];W[rk];B[rl];W[qj]
+;B[sp]LB[ok:a][kj:b][in:c]C[B71 is questionable, Black should play at 'a', then W 'b' and B 'c'.];W[ol];B[om]
+(;W[nm]LB[mk:a][nk:b][nl:c][mm:d][ok:e]TR[ml]C[W74 is a mistake, White certainly should play at 'a', then B 'b', W 'c', B74, W 'd', B 'e' and W37, this result is clearly better than the real game (see var a).];B[sr];W[rr];B[ql];W[rq];B[sq];W[so]
+;B[sn];W[qn];B[nl];W[ok];B[rj];W[ri];B[sj];W[rs]C[Through W88, White can't be satisfied.];B[kj];W[nk];B[mk];W[lk];B[mj]
+;W[jl];B[im];W[il];B[lf]LB[pg:a][mg:b][lg:c][kg:d]C[B97 is a steady play while in a favorable situation, if Black plays at 'a' instead, then W 'b', B 'c', W97 and B 'd', Black can also fight.];W[pg];B[qf];W[pe];B[qe];W[mg]
+;B[kh];W[ji];B[ki];W[km];B[hm]LB[in:a][io:b]C[If B107 at 'a', then W 'b', Black is no good.];W[io];B[ip];W[ho];B[hp];W[gp];B[hl]
+;W[hk];B[gk];W[ij];B[go]LB[in:a][gn:b][jo:c][gj:d][lg:e][kg:f][kf:g]C[The cut of B117 is inevitable, if Black plays at 'a' instead, then W 'b', B 'c' and W 'd', Black will come under attack at the bottom and also White can aim at the maneuver of W 'e', B 'f' and W 'g', Black is no good.];W[gn];B[fo];W[fn]
+;B[eo];W[hn];B[fl];W[em];B[hi];W[jh];B[hj];W[ik];B[jg];W[ig];B[jf];W[ih];B[hq]
+;W[ep]LB[hr:a][fq:b]C[W134 is the right move, if White plays at 'a' instead, then B 'b', White has no assurance of success.];B[hr];W[fj];B[dk];W[gj]
+(;B[oj]LB[ne:a][of:b][og:c][ej:d][fk:e][cm:f][do:g][ci:h][ib:i][hb:j]C[B139 is a game-deciding move, but Black takes a big risk, to play at 'a' is better, followed by W139, B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', Black would be favorable (see var a).]
+(;W[me]LB[od:a][nd:b][ne:c][md:d][pd:e][pf:f][of:g][pc:h][mf:i]C[If W140 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h' and W 'i', this way although White can make life, but White's territory is not enough (see var a).];B[lg]
+(;W[nd]LB[od:a][ne:b][nc:c][kd:d][pd:e][md:f][ie:g]C[W142 is questionable, White should play at 'a', then B142, W 'b', B 'c', W 'd', B 'e' and W 'f', because the crosscut at 'g', Black is hard to kill White (see var a).];B[od];W[nc];B[lc];W[ld];B[kc];W[ob]
+;B[pb];W[nb];B[of];W[oe];B[pf];W[qb];B[pd];W[pa];B[ne];W[pc];B[mc];W[md];B[mf]LB[qc:a]C[After B161, White still needs to strengthen at 'a', White clearly has failed in the fight, Black wins the game for sure.]
+;W[cm];B[bh];W[bg];B[ag])
+(;W[od];B[nd];W[ne];B[nc];W[kd];B[pd];W[md]))
+(;W[od];B[nd];W[ne];B[md];W[pd];B[pf];W[of];B[pc];W[mf]))
+(;B[ne];W[oj];B[of];W[og];B[ej];W[fk];B[cm];W[do];B[ci];W[ib];B[hb]))
+(;W[mk];B[nk];W[nl];B[nm];W[mm];B[ok];W[ml]))
+(;B[ed];W[de];B[ec];W[cc];B[cb];W[bd]))
+(;W[cc];B[dc];W[dd];B[cb];W[bc];B[ed];W[de];B[ec];W[bb];B[fd])) 

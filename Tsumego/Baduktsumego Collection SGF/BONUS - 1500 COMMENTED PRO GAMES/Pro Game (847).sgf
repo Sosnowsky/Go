@@ -1,0 +1,31 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 34]KM[6.5]DT[2004-08-05]PB[Rin Kaiho]BR[9p]PW[O Meien]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[fq];W[hp];B[cq]
+;W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[qo];B[pl]LB[mq:a]C[B17: For Black to make the two-space extension at 'a' is rather common.];W[mp]LB[no:a][mq:b]C[If W18 at 'a', then B 'b', it just fits Black's plan, White can't be satisfied.]
+;B[po];W[pp];B[op];W[qp];B[qq]
+(;W[qm]LB[rq:a][nq:b][pm:c][pn:d][qn:e][om:f][ol:g][rr:h][ql:i][mq:j][no:k][mo:l][nn:m]C[If W24 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W24, B 'g', W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', Black can fight (see var a).];B[on]
+;W[ql];B[jp]LB[pk:a][qk:b][pj:c][qi:d]C[B27: For Black to extend at 'a' is better, next W 'b', B 'c' and W 'd', then Black plays B27.];W[pk]C[W28: White is not willing to fall behind.];B[lo];W[mo];B[ln];W[mn];B[nq];W[lm]
+;B[mm];W[lp];B[jn]
+(;W[ll]LB[ko:a][kn:b][jo:c][io:d][kp:e][ho:f][ip:g][go:h]C[If W38 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White is no good (see var a).];B[ok];W[pj];B[hq];W[gp];B[ip]C[Through B43, Black takes the initiative.]
+;W[nm];B[ml];W[mk];B[nl];W[pn];B[om];W[oo];B[lk];W[jm];B[im];W[jl];B[nn]LB[il:a][fp:b]C[B55 is questionable, Black should play at 'a', aiming to push out at 'b', this way Black would be favorable.]
+;W[gq]C[W56 is a good move.];B[no];W[in];B[hn];W[kn];B[ko];W[jo];B[kp];W[ho];B[lq];W[em]C[Through W66, the result is not to Black's advantage.];B[kk]LB[fc:a][qf:b][kl:c]C[B67: For Black to approach at 'a' or 'b' is better, even if Black wants to play here, Black should first play atari at 'c'.]
+;W[jk];B[jj];W[ij];B[ji];W[ii];B[jh]C[Through B73, Black's playing direction is obviously questionable.];W[cm];B[bn];W[ih];B[kl];W[ec]C[Through W78, Black is falling behind in the whole game.];B[cg]
+;W[ci];B[bd];W[cd];B[bi]
+(;W[cj]LB[bj:a][bh:b][dj:c][bc:d][be:e][ce:f][cf:g][de:h][df:i][ee:j][bf:k][ef:l][dg:m][fc:n][fb:o][gb:p][db:q][fd:r][bb:s][ig:t]C[If W84 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', B 'p', W 'q', B 'r', W 's' and B 't', Black can fight (see var a).]
+;B[be];W[bc];B[bb];W[ac];B[ch];W[bj];B[io];W[jn];B[eh];W[hk];B[km];W[ef];B[ai]
+;W[ag];B[cc];W[cb];B[ad];W[dc];B[af]LB[bf:a][cf:b][ae:c][ce:d][bg:e][eg:f]C[After B103, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is no good.]
+(;W[qf];B[hl];W[ik];B[jc];W[qc];B[pc];W[qd];B[pe];W[pf];B[of];W[og];B[ng];W[oh]
+;B[qe];W[re];B[rf];W[rg];B[qb];W[hc];B[hr];W[gr]
+(;B[fj]LB[dn:a][en:b][ej:c][di:d][ei:e][fl:f][dm:g][dl:h][cl:i][dk:j][eg:k]C[B125 is the last losing move, Black should play at 'a', next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', this way Black would still have a chance of winning (see var a).];W[ei]C[W126 is severe.];B[dn]
+;W[en];B[dm];W[dl];B[ab]LB[dk:a]C[B131 should be at 'a', this way the variation would be relatively complicated.];W[cc];B[fi];W[fh];B[hd];W[dh]C[After W136, Black already has no chance of winning.];B[cl];W[ck]
+;B[gc];W[if];B[bl];W[nh];B[rd];W[sf];B[rc];W[ic];B[id];W[gb];B[jb];W[hb];B[rp]
+;W[ge];B[ro];W[rn];B[je];W[nf];B[oe];W[mg];B[me];W[le];B[lf];W[mf];B[md];W[gd]
+;B[po];W[qn];B[jf];W[hs];B[hf];W[hg];B[he];W[gf];B[ir];W[is];B[js];W[gs];B[jr]
+;W[bf];B[cf];W[ae];B[el];W[dk];B[af];W[rq];B[rr];W[ae];B[eo];W[fn];B[af];W[co]
+;B[bo];W[ae];B[fo];W[gn];B[af];W[so];B[sq];W[ae];B[gm];W[ce];B[go];W[hm];B[di]
+;W[hn];B[dg];W[bh])
+(;B[dn];W[en];B[ej];W[di];B[ei];W[fl];B[dm];W[dl];B[cl];W[dk];B[eg]))
+(;W[bf];B[cf];W[ae];B[ce];W[bg];B[eg]))
+(;W[bj];B[bh];W[dj];B[bc];W[be];B[ce];W[cf];B[de];W[df];B[ee];W[bf];B[ef];W[dg]
+;B[fc];W[fb];B[gb];W[db];B[fd];W[bb];B[ig]))
+(;W[ko];B[kn];W[jo];B[io];W[kp];B[ho];W[ip];B[go]))
+(;W[rq];B[nq];W[pm];B[pn];W[qn];B[om];W[qm];B[ol];W[rr];B[ql];W[mq];B[no];W[mo]
+;B[nn])) 

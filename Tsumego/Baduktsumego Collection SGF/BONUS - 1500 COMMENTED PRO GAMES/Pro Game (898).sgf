@@ -1,0 +1,20 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 18]KM[6.5]DT[2003-04-10]PB[Ryu Shikun]BR[9p]PW[Mizokami Tomochika]WR[7p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+R];B[qd];W[dd];B[pq];W[oc];B[dp];W[qo];B[ld]
+;W[np];B[po];W[pp];B[op];W[qp];B[oq];W[oo];B[pn];W[qq];B[nq];W[mp]LB[no:a]C[W18 is the mainstream of the "Great Slant" joseki, the connecting move at 'a' is  almost not seen any more.];B[lr]LB[on:a][no:b][mq:c][nn:d]C[B19 at 'a' is also playable, followed by W 'b', B 'c' and W 'd'.]
+;W[qn];B[on];W[no];B[ol]LB[nn:a]C[B23: Normally Black would press at 'a', With B23 Black takes the whole board configuration into account.];W[lq]C[The play after W24 is very naked.];B[kr];W[kq];B[jq];W[mr];B[nr];W[mq]
+;B[ms];W[jp];B[iq];W[ip];B[hq];W[mm]C[Through 36, it seems White can fight.];B[qm]
+(;W[rm]LB[pr:a][qr:b][rr:c][hp:d]C[W38: If White plays at 'a', then B 'b', W 'c' and B 'd', White is difficult.];B[ql];W[rl]C[After W40, White is leading in territory.];B[qj];W[jc]C[W42 is a good move.];B[nd];W[od];B[oe]
+;W[nc];B[pe];W[md];B[me];W[ne];B[nf];W[lc];B[nd];W[mc]C[Through 54, Black becomes very thick, White instead has gained some territory on the upper side.];B[cp];W[cj];B[cc];W[cd]
+;B[dc];W[ec];B[eb];W[fb]
+(;B[bd]LB[fc:a][ed:b][gb:c][db:d]C[If B63 at 'a', then W 'b', B 'c' and W 'd', it would form an exchange, White will get a big corner, however after Black takes one white stone, it has no influence to White on the right side, Black can not be satisfied (see var a).];W[be];B[ce]
+(;W[de]LB[ed:a][bf:b][bc:c][ae:d][bb:e][ch:f]C[W66 is an inevitable counter-attack, if White plays at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White can't be satisfied (see var a).];B[bc];W[fd];B[cf];W[bf];B[cg];W[bg]
+;B[ch];W[bh];B[db];W[eh]C[As for the result up to 76, White can fight.];B[hp]C[B77 is a good point.];W[qk];B[pk];W[rk]C[W78 and W80: White is very happy to take advantage with sente.];B[nj];W[in];B[io];W[jo]
+;B[ho];W[cl]TR[ce][cf][cg][ch]C[W86: White has the implication of preventing the four marked black stones from moving out.];B[jn];W[lo]C[After W88, White is favorable for the game.];B[rj];W[bo]LB[jf:a][cn:b][im:c][qc:d]C[W90 is a very questionable move, White should play at 'a', which is the vital point, next if Black plays at 'b', then White can play at either 'c' or 'd', the game would be to White's advantage.]
+;B[cn];W[bn];B[je]C[B93: After Black grabs the vital point, the game has been turned around.];W[bq];B[bp];W[ap];B[cq];W[qb];B[dk];W[ck];B[di]C[After B101, White in the upper left appears thin instantly.];W[ie]C[White has no choice but to reinforce himself with the sequence after W102.]
+;B[if];W[he];B[jd];W[ic];B[hf];W[gf];B[gg];W[ff]TR[bo]C[Through 110, White has gained very little, but Black's center moyo has been greatly expanded, thanks to the improperness of the marked white stone.];B[ei];W[fh];B[hi];W[gj]
+;B[ci];W[bi];B[fk];W[lj]C[W118 is the game-deciding move.];B[im]C[B119 is a calm move.];W[dl]LB[ll:a][cm:b][bm:c][gi:d]C[W120: If White connects back at 'a', then B 'b', W 'c' and B 120, later on Black can still aim to push and cut at 'd', White is no good.];B[ll];W[gi]
+;B[ij];W[hh];B[ih];W[gl];B[fl];W[il];B[jl];W[nk];B[mk];W[nl];B[oj];W[kl];B[km]
+;W[fm];B[nn];W[mn];B[ln]C[After B139, Black wins for sure.];W[kk];B[mj];W[ik];B[hm];W[gk];B[jk];W[jj];B[jm];W[jg]
+;B[jf];W[ig];B[hg];W[gh];B[jh];W[kg];B[kh];W[gn];B[hn])
+(;W[ed]C[If White plays here, ...];B[bf];W[bc];B[ae];W[bb];B[ch]C[This is also joseki, but White can not be satisfied.]))
+(;B[fc]C[For Black to atari here is common.];W[ed];B[gb];W[db];B[fa];W[cb]C[It would lead to an exchange, however White on the right side is very thick. so this may not be favorable for Black.]))
+(;W[pr]C[If White plays here, ...];B[qr];W[rr];B[hp]C[White would be difficult.])) 

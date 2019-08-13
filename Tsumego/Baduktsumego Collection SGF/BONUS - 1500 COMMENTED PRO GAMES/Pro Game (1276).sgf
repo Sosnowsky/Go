@@ -1,0 +1,27 @@
+(;SZ[19]EV[Japan 51st NHK Cup round 2]DT[2003-09-21]PC[Japan]PB[O Meien]BR[9p]PW[Kataoka Satoshi]WR[9p]KM[6.5]RE[B+2.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[qp];W[dq];B[do];W[co]
+;B[cn];W[cp];B[fc];W[cg];B[dn];W[fq];B[dj];W[db];B[mc];W[oq];B[po];W[qj];B[np]
+;W[qg]
+(;B[qe]LB[nq:a][nr:b][mr:c][pr:d]C[B21: If Black blocks at 'a', then W 'b', B 'c' and W 'd', Black is difficult to kill White unconditionally (see var ).];W[qq];B[rq];W[pr];B[qr];W[pq];B[rr];W[mq];B[ql]
+;W[og];B[eg];W[ee];B[fe];W[ff];B[ef];W[fd];B[ge];W[gd];B[hd]LB[he:a]C[B39: For Black to extend at 'a' seems weak.];W[he];B[gf]
+;W[id];B[hc];W[ic];B[ib];W[ie];B[jb];W[gc];B[hb];W[fg]C[After White extends with W50, it seems White can fight.];B[hg]C[B51 is the right move.]
+(;W[gg]LB[fh:a][eh:b][fi:c][ei:d]C[W52: If White extends at 'a', then B 'b', W 'e' and B 'd', White has no certainty of success (see var a).];B[hf]
+(;W[eh]LB[hh:a][ig:b][ih:c][jg:d]C[W54 is questionable, White should hane at 'a', followed by B 'b', W 'c' and B 'd', then White plays the hane at 54 (see var ).];B[hh];W[fh];B[mf];W[jg];B[nh];W[ke];B[ji];W[kc]
+;B[kb];W[ki];B[jj];W[lc];B[gb];W[ed];B[mb];W[md];B[nd];W[me];B[ne];W[lf];B[ng]
+;W[mg];B[nf];W[qk];B[pl];W[rf];B[kq];W[mp];B[no];W[kp];B[jp];W[jq];B[kr];W[jr]
+;B[nq];W[lr];B[ko];W[lp];B[nr];W[re];B[rd];W[ip];B[jo];W[io]C[Through 98, an exchange has resulted, the outcome of the game is still not clear.];B[in];W[hn];B[ho]
+;W[hq];B[mr];W[ks];B[go];W[fj];B[hm];W[ck]LB[rl:a][rm:b][pi:c][rk:d]C[W108 is a good point, however before playing this move, White first should exchange W 'a' and B 'b', this way later on if White strikes at 'c', White can connect at 'd'.];B[dk];W[bl]
+;B[fk];W[gj];B[pi];W[qi];B[bm];W[ci];B[di];W[dh];B[rk]C[B119: Black plays the hane and connect in sente and White is very painful.];W[rj];B[rl];W[rh];B[lo]
+;W[jh];B[ii];W[gk];B[ep];W[eq];B[mo];W[lq];B[cj];W[bj];B[bi];W[ch];B[kj];W[li]
+;B[jc];W[jd];B[eb];W[ec];B[fb];W[fl];B[el];W[ek];B[cl];W[bk];B[fm]C[After B147, it becomes a close game while Black having a slight advantage.];W[gm];B[fn]
+;W[sd];B[rc];W[mk];B[lj];W[ok];B[al];W[bh];B[nj];W[oj];B[bo];W[bp];B[ap];W[aq]
+;B[ao];W[bq];B[da];W[cb];B[ca];W[ba];B[ea];W[bb];B[ml];W[nl];B[nm];W[ll];B[mm]
+;W[lk];B[mj];W[nk];B[sc];W[oi];B[lg];W[kg];B[lh];W[kh];B[mh];W[ms];B[ns];W[ol]
+;B[om];W[fp];B[oh];W[ph];B[ld];W[le];B[lb];W[kd];B[of];W[pg];B[gn];W[gl];B[hp]
+;W[iq];B[km];W[lm];B[ln];W[jm];B[ak];W[ai];B[kl];W[hl];B[jn];W[jl];B[kk];W[im]
+;B[se];W[pf];B[pe];W[sf];B[pk];W[pj];B[fo];W[dp];B[eo];W[ej];B[ik];W[hn]LB[sk:a]C[W229: Even if White plays the hane and connect at 'a', the game is still to Black's advantage.]
+;B[gp];W[gq];B[if];W[jf];B[sj];W[si];B[sk];W[ei];B[dl];W[hi];B[ih];W[hj];B[gh]
+;W[gi];B[am];W[aj];B[hm];W[bn];B[an];W[hn];B[sh];W[sg];B[hm];W[il];B[hn];W[ls]
+;B[sd])
+(;W[hh];B[ig];W[ih];B[jg];W[eh]))
+(;W[fh];B[eh];W[fi];B[ei]))
+(;B[nq];W[nr];B[mr];W[pr]C[Black is hard to kill White.])) 

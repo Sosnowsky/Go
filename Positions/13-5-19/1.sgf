@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[ba][bb][eb][ec][jc][rc][ad][cd][dd][hd][qd][rd][ae][de][he][re][bf][cf][hf][qf][sf][hg][ig][kg][mg][qg][rg][dh][eh][fh][gh][jh][kh][mh][qh][li][ni][qi][gj][jj][kj][mj][nj][ik][jk][lk][nk][ok][ll][pl][im][jm][om][pm][cn][pn][qn][oo][qo][so][dp][qp][rp][nq][dr]AB[ea][ab][db][fb][hb][qb][bc][cc][qc][bd][pd][be][ce][je][le][me][pe][qe][if][jf][pf][gg][jg][hh][ih][oh][ph][rh][ei][fi][gi][ji][ri][cj][hj][ij][oj][pj][rj][hk][kk][mk][pk][qk][hl][kl][ml][ql][km][lm][nm][qm][sm][gn][nn][on][rn][lo][po][ro][jp][pp][fq][pq][qq][rq]C[W to make a blunder.]PL[W]
+(;W[gc]C[-64%]
+;B[jb]C[Now black connects.])
+(;W[ib]C[W can disconnect like this, looks like B will die.]
+;B[hc]
+;W[ic]
+;B[id]C[Not working...]))

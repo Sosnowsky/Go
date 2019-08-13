@@ -1,0 +1,25 @@
+(;SZ[19]EV[Japan 29th Shin-Jin-O round 2]DT[2004-05-27]KM[6.5]PB[Umezawa Yukari]BR[5p]PW[Sakai Hideaki]WR[6p]PC[Japan]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dq];B[do];W[co]
+;B[dp];W[cp];B[eq];W[cn];B[dn];W[dm];B[cq];W[dr];B[bq];W[cr];B[cm];W[cl];B[br]
+;W[er];B[bm];W[bn];B[bl];W[bp];B[fq];W[fr];B[ck];W[dl];B[dk];W[en];B[ep];W[gq]
+;B[gp];W[fl];B[hq];W[gr];B[ek];W[gn];B[ho];W[cg];B[gj];W[hl];B[kp]C[Through B43, it seems that Black can fight.];W[hj];B[hi]
+;W[gk];B[ij]LB[fj:a]C[B47 is strong and unyielding, normally Black will retreat at 'a'.]
+(;W[fj]LB[hk:a][ii:b][hh:c][jj:d][ih:e][ji:f][jh:g]C[W48: If White connects at 'a', then B48, W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', White can't be satisfied (see var a).];B[hk];W[gi]
+(;B[hj]LB[fk:a][ao:b][ap:c][fo:d][fp:e][an:f][ar:g][bk:h][gl:i][al:j][em:k][am:l][el:m]C[B51 is a little weak, Black should play at 'a', followed by W51, B 'b', W 'c', B41, W 'd', B 'e', W51, B 'f', W 'g', B41, W 'h', B 'i', W 'j', B 'k', W 'l' and B 'm', Black is favorable.];W[fk]
+;B[ao];W[fo];B[fp];W[ap];B[an];W[ar];B[am];W[bs];B[ci];W[jl]C[Through W62, Black can't be satisfied.];B[dg];W[cf];B[ch]
+;W[gh];B[hh]LB[mp:a]C[If B67 at 'a', then White will play at 67, Black is no good.];W[eh];B[gg]C[B69: Black has no assurance of success.];W[bj]
+(;B[cj]LB[bk:a][dh:b][hf:c][ai:d][bg:e][bf:f][ah:g][bi:h][dj:i][aj:j][ak:k]C[B71: If Black connects at 'a' instead, then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W71, B 'h', W 'i', B 'j' and W 'k', Black would get killed.];W[ff];B[ej]
+;W[ei];B[gf];W[bg];B[bi];W[ig];B[hg];W[gd];B[fg];W[eg];B[hd]LB[fe:a][fd:b]C[If B83 at 'a', then W 'b', Black is not favorable.];W[qo]
+;B[np]LB[pl:a][mp:b][po:c][mn:d]C[If B85 at 'a', then W 'b', B 'c' and W 'd', White on the left would come under attack.];W[nc];B[lc];W[hc];B[id];W[ic];B[jc]LB[jd:a][qc:b][pc:c][gc:d][fc:e]C[B91 is questionable, Black should play at 'a', if White enters the corner at 'b', then Black blocks at 'c' in sente and cuts at 'd', this would be better than the real game. Moreover, when B 'a', if W 'e', then B 'b', White is no good.]
+;W[fc];B[jd]C[B93: Black ends in gote and clearly incurs loss.];W[qc];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf]C[Through W102, Black's territory is inadequate.];B[og]LB[pg:a]C[B103: For Black to play at 'a' is tighter.]
+;W[kk];B[qg];W[qe];B[qp];W[pk]C[W108 is light and nimble.];B[qm];W[rp];B[rq];W[pp];B[qq];W[pm];B[ql];W[pn]
+;B[pl];W[ol];B[qk];W[op];B[oq];W[ok];B[rh];W[qj];B[rj];W[qi];B[ri];W[ir];B[nm]
+;W[om];B[lj];W[nn];B[iq];W[kj]C[The sequence following W134 delivers Black the fatal attack.];B[ki];W[li];B[mi];W[lh];B[mj];W[mh];B[oi];W[nh]
+;B[oj]
+(;W[mk]LB[lk:a][ll:b][ml:c][lm:d][nk:e][ji:f][mn:g][mm:h][nl:i][ni:j][nj:k][oh:l][ph:m][pi:n]C[After W144, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black would get killed (see var a).]
+)
+(;W[mk];B[lk];W[ll];B[ml];W[lm];B[nk];W[ji];B[mn];W[mm];B[nl];W[ni];B[nj];W[oh]
+))
+(;B[bk];W[dh];B[hf];W[ai];B[bg];W[bf];B[ah];W[cj];B[bi];W[dj];B[aj];W[ak]))
+(;B[fk];W[hj];B[ao];W[ap];B[gj];W[fo];B[fp];W[hj];B[an];W[ar];B[gj];W[bk];B[gl]
+;W[al];B[el];W[am];B[em]))
+(;W[hk];B[fj];W[ii];B[hh];W[jj];B[ih];W[ji];B[jh])) 

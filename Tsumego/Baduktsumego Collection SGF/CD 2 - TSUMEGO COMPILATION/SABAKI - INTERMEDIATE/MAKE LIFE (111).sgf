@@ -1,0 +1,27 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][cf][db][dc][dd]
+AW[cb][cc][fb][fd][gc]PL[W]C[White to play.
+
+Make life - Ko Fight
+
+Source: Guan-Zhi-Pu.]
+;W[ba]
+(
+;B[bc]
+;W[bb]
+;B[bd]
+;W[da]
+;B[ea]
+;W[eb]C[RIGHT
+Ko Fight])
+(
+;B[da]
+;W[bd]
+;B[be]
+;W[ab]
+(
+;B[bc]
+;W[ad]C[White Alive])
+(
+;B[ad]
+;W[bc]C[White Alive])))

@@ -1,0 +1,35 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 31]KM[6.5]DT[2004-07-08]PB[Cho Chikun]BR[9p]PW[O Rissei]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd];W[dd];B[pq];W[dp];B[fq];W[hq]
+(;B[cf]LB[cn:a][fp:b][cq:c][cp:d][dq:e][ep:f][eq:g][gq:h][bp:i][bo:j][bq:k][co:l][di:m]C[B7: If Black simply approaches the corner at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', now if B7, White will play two-space high pincer at 'm' (see var a).];W[fc]
+;B[cn];W[fp];B[cq];W[dq];B[cp];W[do];B[co];W[qn];B[qp];W[qk];B[qi]LB[nc:a][qf:b][pb:c][jq:d]C[After B19, if W 'a', then B 'b', W 'c' and B 'd'.]
+;W[qf]LB[mp:a][oo:b][ok:c][oi:d][nn:e]C[W20: For White to play at 'a' is better, next if B 'b', then W 'c', B 'd' and W 'e'.];B[nd];W[qc];B[qd];W[rd];B[re];W[rc];B[qe]
+;W[ob];B[pm];W[qm];B[pk]C[B29 and B31 are just right.];W[pl];B[ol];W[ql];B[pj];W[om];B[nl]
+(;W[ri]LB[on:a][nb:b][oc:c][nc:d][od:e][oe:f][pc:g][nf:h]C[If W38 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', and B 'h', White can't be satisfied (see var a).];B[rh];W[rj];B[qh];W[oc];B[me]
+;W[jf];B[bd];W[cc];B[dh]C[Through B47, Black's opening is successful.];W[ej];B[jq];W[nm];B[mm];W[oo];B[mq];W[cj];B[ci];W[cr]
+;B[br];W[iq];B[dr];W[er];B[cs];W[fr];B[jd]LB[kg:a][lf:b][kf:c]C[B63: For Black to play at 'a' is better, if W 'b', then B 'c', Black is favorable.];W[lf];B[ke]LB[hc:a][mf:b][nf:c][ng:d][le:e][mb:f][bc:g]C[B65 should be at 'a', if W 'b', then B 'c', W 'd' and B 'e', next 'f' and 'g' become miai, Black must get one, Black would be favorable.]
+;W[kf];B[ng];W[mc];B[le]LB[nc:a][nb:b][lc:c][id:d][ie:e]C[B69 should be at 'a', followed by W 'b' and B 'c', if Black strengthens at the top, and later on when W 'd', Black can counterattack by playing the hane at 'e'.];W[id];B[ic];W[hc];B[fi]LB[jc:a][hd:b]C[If B73 at 'a', then W 'b', White's territory in the upper left corner will increase dramatically, so we can now easily see the improperness of B63 and B65.]
+;W[fj];B[gi];W[gj];B[hi]C[Through B77, Black puts the stress on the center, it is the correct choice.];W[ik];B[ij]LB[jk:a][hd:b][ie:c][gc:d][hb:e][gb:f][gd:g][he:h][fb:i][ge:j][ga:k][jc:l][jj:m][ji:n][ki:o][kj:p]C[After B79, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n', W 'o', and B 'p', White is no good (see var a).]
+
+(;W[ie];B[jk];W[il];B[jl];W[im];B[lh];W[jm];B[jr];W[ll];B[lk];W[kh];B[li];W[ro]
+;B[jb];W[ib];B[jc];W[df];B[ce];W[bi];B[bh];W[di];B[ch];W[dm]C[Through W102, White's situation takes a better turn, but the game is still to Black's advantage.];B[fe]LB[de:a][hd:b]C[B103 is severe, aiming at the tactic at 'a' and 'b'.]
+;W[ge];B[gf];W[ff]LB[fd:a][he:b][gd:c][hf:d][hd:e]C[W106 is the strongest answer, if W 'a', then B 'b', W 'c', B 'd' and W 'e', this way White wouldn't have any chance of winning.];B[hb];W[gd]LB[gb:a][hd:b][gc:c][he:d][hf:e][gg:f][hg:g]C[If W108 at 'a', then B 'b', W 'c', B 'd', W 'e', B108, W 'f' and B 'g', it leads to a ko, because Black has ko threats in the upper right corner, White is no good.]
+;B[gb]C[Through B109, Black gains a little in territory.];W[fg];B[hj];W[hk];B[jp];W[rq];B[qr];W[bj];B[io];W[ho];B[dn];W[en];B[cm]
+;W[nq]C[White's sequence following W122 is game-deciding.];B[np];W[mp];B[no];W[lq];B[mr];W[mo];B[nr];W[mn];B[lm];W[op];B[oq];W[jj]
+;B[kk];W[ml];B[kl];W[bg];B[ah];W[ln];B[km];W[kn];B[lr];W[mg];B[mh]LB[nh:a][eh:b][jh:c]TR[jj]C[B145 is a mistake, Black should play at 'a', next W 'b' and B 'c', the white marked stone can't escape .]
+;W[nf];B[ei];W[dj];B[mf];W[eh]LB[jh:a][mk:b][mj:c][nk:d][ok:e][ji:f][ih:g][ki:h][kg:i][lg:j][jg:k][nh:l][og:m][lj:n]TR[mh]C[After W150, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black is no good, so far we can see the improperness of the marked black stone (see var a).]
+
+(;B[ji]LB[gg:a][ee:b][bf:c]C[If B151 at 'a', then W 'b', B151 and W 'c', Black will get captured.];W[mk];B[mj];W[nk];B[ok];W[kj];B[lj];W[ki];B[kg];W[jh]
+;B[jg];W[ih];B[ig];W[hh];B[lg];W[od];B[oe];W[bc];B[de];W[ee];B[bf];W[dg];B[cg]
+;W[gg]C[Through W174, Black clearly incurs loss, the situation has been turned around.];B[hn];W[in];B[em];W[fm];B[dl];W[fl];B[hp];W[go];B[ip];W[gq];B[lb];W[mb]
+;B[fb];W[eb];B[rp];W[sp];B[ac];W[ab];B[ad];W[bl];B[gp];W[eq];B[bm];W[rr];B[po]
+;W[qq]LB[pn:a]C[W200 should be at 'a'.];B[rs]C[B201: Black grabs the winning chance.];W[pr];B[ps];W[qs];B[hg];W[gh];B[qr];W[on];B[fo]LB[or:a]C[B209: If Black eliminates the ko at 'a', Black's territory would be inadequate.]
+;W[gn];B[sr];W[qs];B[eo];W[fn];B[qr];W[rf];B[sq];W[pf];B[se];W[sg];B[pe];W[sh]
+;B[so];W[qo];B[pp];W[sn]LB[pn:a]C[W226: Although playing at 'a' is thick, but White has no assurance of victory.];B[pn];W[nn];B[ir]LB[bb:a]C[B229 should be at 'a'.];W[lc];B[la];W[of]
+;B[ne];W[ma];B[kc];W[ph];B[pg];W[og];B[oh];W[qg];B[pi];W[hr]LB[cb:a]C[W242 should be at 'a'.];B[ko];W[jn]
+;B[qj];W[rg];B[sm];W[sl];B[rk];W[sk]LB[si:a]C[W250 is the last losing move, White should play at 'a', this way White will win the game by a slight margin.];B[si];W[sj];B[rn];W[rl];B[pg])
+(;B[jh];W[mk];B[mj];W[nk];B[ok];W[ji];B[ih];W[ki];B[kg];W[lg];B[jg];W[nh];B[og]
+;W[lj]))
+(;W[jk];B[hd];W[ie];B[gc];W[hb];B[gb];W[gd];B[he];W[fb];B[ge];W[ga];B[jc];W[jj]
+;B[ji];W[ki];B[kj]))
+(;W[on];B[nb];W[oc];B[nc];W[od];B[oe];W[pc];B[nf]))
+(;B[cn];W[fp];B[cq];W[cp];B[dq];W[ep];B[eq];W[gq];B[bp];W[bo];B[bq];W[co];B[cf]
+;W[di])) 

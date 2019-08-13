@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[White]PB[Black]AW[ap][bp][cp][dp][ep][fp][fq][ar][fr][ds][fs]AB[aq][bq][cq][dq][eq][er][cs]C[Black to play.]
+(;B[br]C[RIGHT])
+(;B[cr]
+;W[es])
+(;B[dr]
+;W[br]
+(;B[es]
+;W[cr])
+(;B[cr]
+;W[es])
+(;B[bs]
+;W[es]))
+(;B[bs]
+;W[es]
+(;B[dr]
+;W[br])
+(;B[br]
+;W[dr]))
+(;B[es]
+;W[bs]
+(;B[dr]
+;W[br]C[Black can do better than seki.])
+(;B[cr]C[Black can do better than seki.])
+(;B[br]
+;W[cr]
+;B[as]C[Ko.])))

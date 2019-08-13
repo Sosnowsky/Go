@@ -1,0 +1,46 @@
+(;SZ[19]EV[Japan 51st Oza Title round 1]DT[2003-04-03]PC[Japan]KM[5.5]PB[Yoda Norimoto]BR[9p]PW[Izumitani Hideo]WR[8p]RE[B+4.5]C[copyright by gogameworld.com and weiqi.tom.com.];B[qd]C[Before this game, the overall record between them is Yoda 3 wins and 1 loss.];W[pp];B[cp];W[dd];B[eq]
+;W[oc];B[ld];W[me]C[The play of W8 is already seldom seen nowadays.];B[fc]LB[od:a]C[B9: For Black to press at 'a' is the usual move.];W[md]LB[cf:a]C[W10: For White to make the small knight's move at 'a' is also playable.];B[df];W[fd];B[gd];W[fe]
+;B[ec];W[de];B[cb]
+(;W[cf]LB[qf:a][pc:b][pe:c][ob:d][nb:e][nc:f][od:g][mb:h][pb:i][na:j][qc:k][bf:l]C[W18: White can also play the counter-pincer at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k' and B 'l' (see var a).];B[pc]
+;W[dk]C[W20 is a good point for both sides.];B[od]
+(;W[pj]LB[ob:a][mc:b][nd:c][oe:d][lc:e]C[W22: For White to descend at 'a' is usual, followed by B 'b', W 'c', B 'd' and W 'e' (see var a).];B[mc]
+(;W[lc]LB[nc:a][nd:b][oe:c]C[W24 is inevitable, if White plays at 'a', then B24, W 'b' and B 'c', White's shape would not be good (see var a).]
+(;B[nc]LB[kc:a][lb:b][kd:c][le:d][je:e][lf:f][jc:g]C[B25: Black can also atari at 'a', followed by W 'b', B25, W 'c', B 'd', W 'e', B 'f' and W 'g' (see var a).
+];W[kd];B[ei]C[The ladder-breaker of B27 is a planned move.];W[fj];B[cg]
+(;W[ef]LB[dg:a][bg:b][ch:c][be:d][eg:e]C[If W30 at 'a', then B30, W 'b', B 'c', W 'd' and B 'e', Black would be easy to handle (see var a).];B[dg];W[fi];B[bf]LB[bj:a]C[After B33, Black can connect with the top and also can make the large knight's move at 'a', Black already has no life-and-death problem.];W[ge];B[hd];W[he]
+;B[id];W[ie];B[nq];W[no]C[Through 40, it forms a position of Black's territory battling with White's outside thickness, White can fight.];B[qq]
+(;W[pq]LB[qp:a][mq:b][mr:c][np:d][oq:e][lq:f][lr:g][kq:h]C[W42 is questionable, White should block at 'a', followed by W42, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', White would be favorable.];B[qp];W[po];B[pr];W[oe];B[pe]
+;W[og];B[of];W[ng];B[or];W[kn];B[in]C[B53 is a steady move.]
+(;W[gn]LB[im:a][hm:b][il:c][jn:d][km:e][hn:f]C[If W54 at 'a' then B 'b', W 'c', B 'd', W 'e' and B 'f', White is no good (see var a).];B[il];W[kl];B[ip]C[After B57, Black is favorable for the game.];W[fp];B[ep];W[fq]
+;B[gm]LB[kp:a]C[B61: For Black to simply connect back at 'a' is already adequate.];W[fn];B[hn];W[eo];B[do];W[dn];B[cn];W[cm];B[dm];W[en];B[bm];W[cl]
+;B[bo];W[gl];B[go];W[gp]
+(;B[ho]LB[kp:a][ik:b][hl:c][hk:d][fl:e][gk:f][em:g]C[B77: Black should simply connect back at 'a', if White plays at 'b', then B 'c', W 'd' and B 'e', making a miai of 'f' and 'g', Black would get one for sure (see var a).];W[fo];B[jk]LB[kp:a][ik:b][qn:c][qh:d]C[B79: Black still needs to connect back at 'a', even if White can seal off at 'b', however because of the reduction at 'c' and 'd', Black can fight, in the game Black takes a big risk.]
+;W[kp];B[jq]LB[kk:a][hq:b]C[If B81 at 'a', then W 'b', Black would be dangerous.];W[kq];B[kr];W[lr];B[ir];W[ks];B[jr]
+(;W[mq]LB[qo:a][lq:b][lp:c][mp:d][lo:e][nr:f][ko:g][rr:h][qr:i][so:j]C[W88: White should play at 'a', if Black cuts at 'b', then W88, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', Black's corner would get killed (see var a).];B[fm];W[em];B[fl]
+;W[gk];B[gr];W[fr];B[hq]C[Through 95, Black has clearly suffered some losses.];W[qo];B[qh];W[kk];B[ji];W[kj]C[After W100, White is better off.];B[jj];W[gs]LB[ro:a][rr:b][ri:c]C[W102 is questionable, White should play at 'a', B 'b' and W 'c', this way White would have a chance of winning.]
+;B[hs];W[es]LB[gq:a]C[After W104, even if White plays at 'a', it is still a ko, which Black is not fearful of.];B[bk]C[Black takes advantage in sente with the sequence after B105 and is very happy.];W[bj];B[bl];W[cj];B[bd];W[ce];B[bh];W[hm]LB[fk:a][hj:b][ej:c]C[W112: If White fails to reinforce, then B 'a', W 'b' and B 'c', White would be separated.]
+;B[hl];W[fk];B[mr]C[B115 is a good move.];W[ms];B[nr]LB[js:a]C[After B117, because of the atari at 'a', Black's big dragon is already completely alive.];W[ro];B[rr];W[ri];B[lb]LB[qi:a][qj:b][rh:c]C[B121: For Black to push at 'a' would be better, followed by W 'b' and W 'c'.]
+;W[le];B[kb];W[qf];B[pf];W[rh];B[pg];W[rp];B[rq];W[el];B[jm];W[be];B[ae];W[rf]
+;B[jd];W[sd];B[km]C[The endgame sequence after B137 is very accurate.];W[lm];B[mp];W[lq];B[np];W[mo];B[ki];W[li];B[ln];W[lo];B[lh]
+;W[mi];B[je];W[lg];B[mh];W[ni];B[mg];W[nf];B[fh]C[B155 is a good move.];W[gh];B[fg];W[gg];B[hi];W[gi]
+;B[jo];W[ko];B[cr];W[rc];B[qb];W[cs];B[br];W[rb];B[rd];W[re];B[ra];W[ah];B[ai]
+;W[bi];B[ag];W[aj];B[ck];W[bc]
+(;B[eg]LB[cc:a][cd:b][ad:c][eh:d][ac:e][af:f][ah:g]C[B179 is a steady and good move, if B 'a', then W 'b', B 'c', W179, B 'd', W 'e', B 'f' and W 'g', it would become ko-kill, Black is no good (see var a).];W[cc];B[dj];W[db];B[eb];W[dc];B[da]C[Through 185, an exchange has resulted, Black is leading more than 10 points on the board, Black's superiority can not be changed.]
+;W[dl];B[ff];W[bb];B[ee];W[ed];B[ca];W[ba];B[ea];W[ac];B[ej];W[ad];B[lf];W[nd]
+;B[ob];W[kg];B[mf];W[kf];B[nh];W[oh];B[kh];W[ke];B[ne];W[pi];B[ph];W[oe];B[ll]
+;W[mm];B[ne];W[oi];B[jf];W[oe];B[qi];W[qj];B[ne];W[jg];B[ig];W[oe];B[lj];W[lk]
+;B[ne];W[if];B[ih];W[oe];B[mk];W[ml];B[ne];W[hb];B[gc];W[oe];B[kc];W[af];B[bg]
+;W[ne];B[fs];W[jc];B[ic];W[gs];B[rj];W[rk];B[fs];W[bn];B[an];W[gs];B[qc];W[se]
+;B[rg];W[qg];B[sg];W[sc];B[qe];W[sj];B[fs];W[er];B[dr];W[ds];B[bs];W[hj];B[js]
+;W[ls];B[ns];W[sp];B[op];W[oo];B[sq];W[gs];B[gq];W[di];B[ci];W[hk];B[im];W[gm]
+;B[jp];W[gf];B[hg];W[fs];B[ak];W[mj];B[ld];W[ae];B[lc];W[ef];B[jl];W[ee])
+(;B[cc]C[If Black plays here, ...];W[cd];B[ad];W[eg];B[eh];W[ac];B[af];W[ah]C[Black would get killed by a ko.]))
+(;W[qo]C[White should play here.];B[lq];W[mq];B[lp];W[mp];B[lo];W[nr];B[ko];W[rr];B[qr];W[so]C[Black's corner will die.]))
+(;B[kp];W[ik];B[hl];W[hk];B[fl]))
+(;W[im]C[If White attaches here, ...];B[hm];W[il];B[jn];W[km];B[hn]C[White is no good.]))
+(;W[qp]C[White should block on this side.];B[pq];W[mq];B[mr];W[np];B[oq];W[lq];B[lr];W[kq]C[White is favorable.]))
+(;W[dg]C[If White ataris here, ...];B[ef];W[bg];B[ch];W[be];B[eg]C[This would be too easy for Black.]))
+(;B[kc]C[Black can also atari here.];W[lb];B[nc];W[kd];B[le];W[je];B[lf];W[jc]C[This is also playable for Black.]))
+(;W[nc]C[If White bumps here, ...];B[lc];W[nd];B[oe]C[White's shape is no good.]))
+(;W[ob];B[mc];W[nd];B[oe];W[lc]))
+(;W[qf];B[pc];W[pe];B[ob];W[nb];B[nc];W[od];B[mb];W[pb];B[na];W[qc];B[bf]C[This variation is also possible for White.])) 

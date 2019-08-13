@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][cf][cg][dd][ec][ef][fc]
+AW[be][cc][ci][fd][gc][gd]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Weakness
+
+Source: Guan-Zhi-Pu.]
+;W[dc]
+(
+;B[bc]
+;W[bb]
+;B[bd]
+;W[ed]
+;B[eb]
+;W[da]
+;B[gb]
+;W[fa]C[RIGHT
+])
+(
+;B[eb]
+;W[db]
+;B[bc]
+;W[da]
+(
+;B[ed]
+;W[bb]C[RIGHT
+])
+(
+;B[bb]
+;W[ed]C[RIGHT
+])))

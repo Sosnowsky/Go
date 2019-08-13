@@ -1,0 +1,17 @@
+(;SZ[19]EV[Japan 52nd Oza Title round 2]DT[2004-07-01]PC[Japan]KM[6.5]PB[Yamashita Keigo]BR[9p]PW[Yuki Satoshi]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qe];W[dd];B[np];W[po]C[W4: For White to take the empty lower-left corner is better.];B[pq]
+;W[qq];B[qr];W[qp];B[cp];W[od];B[pc];W[oc];B[pd];W[oe];B[pf];W[kc];B[iq];W[cg]LB[dj:a]C[W18: For White to play at 'a' is better.]
+;B[pl];W[rr]LB[oq:a][or:b][nq:c][op:d][pp:e][pr:f][nr:g][rq:h][lq:i][mp:j]C[If W20 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is favorable in the fight.];B[dk];W[fp]LB[ep:a][dq:b][eq:c][dn:d]C[If W22 at 'a', then B 'b', W 'c' and B 'd', White is no good.]
+;B[dn];W[en];B[dm];W[io]LB[ho:a][hp:b][ip:c][hn:d][go:e][gn:f]C[After W26, if Black immediately counterattacks at 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is no good.];B[kq];W[ec];B[go]LB[gp:a][hp:b][ho:c][gn:d]C[B29 is severe, if W 'a', then B 'b', W 'c' and B 'd', White is no good.]
+;W[cq];B[dq];W[dp];B[ep];W[eq];B[do];W[dr];B[dp];W[br]LB[fr:a][cr:b][cs:c][bq:d][gp:e][hp:f][hr:g][fo:h][hq:i][ip:j][ng:k]C[W38 is questionable, White should play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k'.]
+;B[bq];W[cr];B[fq];W[er];B[fr];W[bp];B[bo];W[aq];B[on]C[Through B47, Black is favorable.];W[ng];B[mh]C[B49 is a good move.];W[jf]LB[jh:a][mg:b][nf:c][of:d][og:e][pb:f][pg:g][qc:h][qm:i][or:j]C[W50: For White to play at 'a' is better, if B 'b', then W50, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', White can fight.]
+;B[jh];W[kj];B[jg]LB[ii:a]C[B53 is a strong move, the common play is to make the diagonal extension at 'a'.];W[if];B[ij];W[mj];B[nh];W[oj];B[nk];W[nj];B[ph];W[ll]
+;B[jl];W[ln];B[mm];W[kl];B[jm];W[jn]LB[nl:a]C[W68: White can consider to clamp at 'a', this way White's eye shape is better.];B[mk];W[lk];B[li];W[lj];B[jk];W[mn]
+;B[nn];W[lp];B[pr]C[B77 is a steady move.];W[lq];B[lr];W[pi]LB[kp:a][jr:b][pk:c][ql:d]C[If W80 at 'a', then B 'b', W 'c' and B 'd', this way although White can easily make life, but White's territory is not enough.];B[qj];W[qh];B[oh]LB[pg:a]C[B83 is slow, Black should play at 'a'.]
+;W[qi];B[rj];W[ol];B[pm];W[pk];B[qk];W[nl];B[nm]
+(;W[qg]LB[rf:a][rg:b][sh:c][qf:d][pg:e][ri:f][si:g][sg:h][re:i][pe:j][rc:k][ii:l][ji:m][lg:n][lh:o][jj:p]TR[oh]C[W92: White misses a good chance, White should play at 'a', next B92, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o' and W 'p', Black instead will come under attack, now we can easily see the improperness of the marked stone B83 (see var a).]
+;B[pj];W[oi];B[rf];W[pg];B[og];W[of];B[ii];W[rg];B[rd];W[rc];B[qc]LB[rb:a][qb:b][sf:c]C[If B103 at 'a', then W103, B 'b' and W 'c', Black is hard to kill White.]
+;W[rb];B[pe];W[sf]
+(;B[se]LB[sg:a][ri:b][qf:c][re:d][pb:e][qb:f][qa:g][ob:h][pa:i][ra:j]C[After B107, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White will get captured (see var a).])
+(;B[se];W[sg];B[ri];W[qf];B[re];W[pb];B[qb];W[qa];B[ob];W[pa];B[ra]))
+(;W[rf];B[qg];W[rg];B[sh];W[qf];B[pg];W[ri];B[si];W[sg];B[re];W[pe];B[rc];W[ii]
+;B[ji];W[lg];B[lh];W[jj])) 

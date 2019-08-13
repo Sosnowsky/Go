@@ -1,0 +1,33 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bf][cb][cd][ce][cf][db]
+AW[bg][cc][cg][ci][da][dc][dd][de][df][eb][fc]PL[B]C[Black to play.
+
+Make life - Sacrifice Stones]
+(
+;B[ba]
+;W[ab]
+;B[ae]
+;W[bb]
+;B[ac]
+;W[ca]
+;B[bd]C[RIGHT
+])
+(
+;B[ab]
+;W[ba]
+;B[bb]
+(
+;W[ad]
+;B[bd]
+;W[ae])
+(
+;W[ae]
+;B[af]
+;W[ad]
+;B[ca]
+;W[bd]
+;B[ea]
+;W[ag]
+;B[fb]
+;W[ec]
+;B[gb])))

@@ -1,0 +1,18 @@
+(;SZ[19]KM[7.5]EV[China 2005 Dragon-Tiger Contention Match]DT[2005-04-23]PC[China]PB[Gu Li]BR[7p]PW[Chang Hao]WR[9p]RE[W+R]C[Commentary: Chang Hao 9p,
+Source:China Sports Weekly,
+Edited and translated by GoGameWorld.com.];B[pd];W[dd];B[pp];W[dp];B[pj]C[Recently Gu Li often plays the sanrensei while taking Black.]
+;W[nc];B[pf];W[kc];B[jp];W[hq];B[cf];W[di];B[je]LB[cc:a]C[B13 is a good move, if Black directly enters the corner at 'a', the opening appears insipid.];W[df]LB[id:a][cc:b]C[W14:  If White makes the knight's move at 'a', Black will enter the corner at 'b', White is not good.]
+;B[jc];W[jb];B[ib]LB[ic:a]C[The double-hane of B17 seems a little unreasonable, with the common extension at 'a', Black can be satisfied.];W[jd];B[ic];W[id]C[After White plays atari and pushes with W18 and W20, it leads to a fierce fight.];B[kd];W[kb]LB[lb:a]C[W22: White should hang at 'a', this is better than the real game.];B[gc]
+;W[ie];B[ge];W[if]LB[ld:a]C[W26: For White to atari at 'a' then extend at 26 is still better, although it seems a little crude, it is a tactic in this special situation.];B[ld]C[After Black extends with B27, White's shape is not good.];W[ne];B[lf];W[md];B[lc];W[lb];B[gg];W[ih]
+;B[lh];W[ng];B[gi];W[fh];B[gh];W[ij];B[jg];W[ig];B[mi];W[hk];B[pb];W[mc];B[gk]
+;W[gl];B[fk];W[og];B[nj];W[qg];B[qf];W[hl];B[db];W[ff];B[gf];W[gd]TR[jc][ic][ib]C[W56 and W58 are local tesuji, after capturing the three marked black stones, White's two groups have connected, but White also have paid the price of losing territory on the left side.]
+;B[fd];W[hd];B[fe];W[hc];B[ce]LB[dg:a]C[B63: Black should hane at 'a', this is much more severe.];W[de];B[fc];W[hb];B[cc];W[cg];B[bg];W[ch]
+;B[cl]LB[bf:a]C[But the big knight's move of B71 is an overplay! With B71 for Black to strengthen at 'a' is the original move.];W[eb]C[After White crosscuts with W72, Black's two groups have been separated, the situation has been turned around.]
+(;B[bf]LB[ec:a][cd:b][bd:c][bc:d][be:e][bb:f][cb:g][ca:h][fb:i][af:j]C[B73: If Black pushes at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', this way it leads to a ko in the corner, Black is not good either (see var a).];W[ec];B[fb];W[ea]
+;B[fl];W[bh];B[cd];W[fi];B[fj];W[cn];B[dc];W[ed];B[bn]LB[fn:a]C[The attachment of B85 is the last losing move, Black can only simply jump to 'a'.];W[cm]C[The counterattack of W86 is severe.];B[eg]
+;W[dg];B[dl];W[bm];B[fn];W[hj];B[fg];W[ej];B[eh];W[ei];B[gj];W[fp];B[bl];W[fa]
+;B[co];W[do];B[dn];W[bo];B[cp];W[cq];B[bp];W[an];B[bq];W[br];B[go];W[dm];B[em]
+;W[en];B[hp];W[gp];B[ho];W[iq];B[jq];W[oq];B[pq]LB[kn:a]C[In the end, with B121 Black rather die in glory than live in dishonor, if Black strengthens the cut with the knight's move at 'a', White enters the corner at 'a', Black's territory is clearly inadequate.];W[ip];B[io];W[jo];B[jn]
+;W[ko];B[lp];W[kn];B[km];W[jm];B[in];W[mo];B[nq];W[op];B[dq];W[fo];B[gn];W[or]
+;B[kl];W[mn];B[cr];W[er])
+(;B[ec];W[cd];B[bd];W[bc];B[be];W[bb];B[cb];W[ca];B[fb];W[ad])) 

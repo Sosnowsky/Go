@@ -1,0 +1,43 @@
+(;SZ[19]EV[16th Fujitsu Cup quarter-final]DT[2003-06-07]KM[6.5]PC[Tokyo, Japan]PB[Takao Shinji]BR[8p]PW[Song TaeKon]WR[4p]RE[W+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[pd]C[Black is Takao Shinji 8p of Japan.];W[dd]C[White is Song TaeKon 4p of Korea.];B[cp];W[pp];B[eq]
+;W[cj];B[fc];W[df];B[db];W[nc];B[qf];W[gc];B[gd];W[hc]
+(;B[fb]LB[cc:a][ec:b][cd:c][eb:d][hd:e]C[B15: If Black makes the diagonal's extension at 'a', then W15, B 'b', W 'c', B 'd' and W 'e', White would be favorable (see var a).];W[cc];B[hd];W[ic];B[ed];W[kd]LB[id:a]C[W20: For White to turn at 'a' is normal.];B[cl]
+;W[jq];B[hq];W[qn]
+(;B[ch]LB[de:a][ce:b][ee:c][dg:d][pj:e]C[B25: Black can also consider to wedge at 'a', then W 'b', B 'c', W 'd' and B 'e' (see var a).];W[dh];B[ci];W[di];B[bj];W[dj];B[bk];W[cg]
+;B[pj];W[fe]C[W34 is severe, Black is not comfortable.];B[ee];W[ef];B[gf];W[ff];B[fd];W[cb];B[if];W[pb]LB[id:a]C[W42: For White to turn at 'a' is the vital point.];B[pr]
+;W[nr];B[qq]LB[oq:a]C[B45: If Black makes the diagonal's extension at 'a', then W 45, this would be not to Black's advantage.];W[qp]
+(;B[oq]LB[rp:a][ro:b][rr:c][sp:d][rq:e][or:f]C[B47: If Black plays the hane at 'a', then W 'b', B 'c', W 'd', B 'e' and W 'f', Black is painful (see var a).];W[pq];B[or];W[qr];B[nq];W[lq];B[no]
+;W[qh]LB[kn:a]C[W54: For White to play at 'a' is common.];B[oi]LB[ph:a]C[B55 is a good move, it is better than the pressing move at 'a'.];W[jf]LB[oh:a][nd:b]C[W56: If White attaches at 'a', then B 'b', Black can fight.];B[de];W[ce];B[dc];W[cd]
+;B[je];W[ke];B[kf];W[jg];B[jd];W[jc];B[ig];W[lf];B[kg];W[jh];B[lg];W[mg];B[ki]
+;W[pg];B[kc]
+(;W[mf]LB[me:a][lc:b][mc:c][kb:d][jb:e]C[W76: White should hang at 'a', if Black extends at 'b', then White can bump at 'c', Black is no good (see var a); Furthermore, if Black descends at 'd' instead, then White can block at 'e', Black is no good either (see var b).];B[lc];W[md];B[jb];W[qc];B[og]C[Black elects to fight by sacrifice, the sequence after B81 is very brilliant.];W[of];B[ph]
+;W[qg];B[pf];W[qj];B[qk];W[qi];B[pk];W[rf];B[re];W[rg]C[Through 92, Black has obtained sente and can be satisfied.];B[rr]C[The attack of B93 is very severe.];W[rq];B[qs]
+;W[nh];B[on];W[rm];B[kp]C[Through 99, Black has obviously taken the initiative.];W[jp]LB[kq:a][io:b]C[W100: If White connects at 'a', then Black would make the knight's move at 'b', White is no good.];B[kq];W[kr];B[lp];W[dq]C[W104 is alert.];B[dp]
+;W[er]
+(;B[fq]LB[dr:a][ep:b][hp:c]C[B107: If Black ataris at 'a', then after W107, B 'b' and W 'c', White can easily make sabaki plays, in the game White is left with the tactic of ko-living in the lower left corner.];W[jn];B[lr];W[hm];B[rk];W[ro];B[li];W[ib];B[kb];W[mb]
+;B[id]LB[ia:a][gb:b][ka:c][ja:d][ld:e]C[B117: If Black tenukis, then White would descend at 'a', followed by B 'b', W 'c', B 'd' and W 'e', Black would get killed.];W[oh]C[W188 is a huge move, otherwise if Black connects at 188, White needs to kill Black by reducing liberties.];B[ho];W[jl]
+(;B[ij]LB[in:a][im:b][jo:c][io:d][jm:e][il:f]C[B121: Black has missed the winning chance. Black should make the diagonal's extension at 'a', if White blocks at 'b', then B 'c', White is clearly no good (see var a); Moreover, when B 'a', if White squeezes at 'd', then B 'b', W 'e' and B 'f', Black would be clearly favorable.];W[hk];B[in];W[io];B[hn];W[im];B[km]
+;W[jm];B[hj];W[el]LB[fr:a]C[The exchange of B129 and W130 is questionable, Black should simply turn at 'a'.];B[qq];W[sq];B[fr]C[B133: Black prevents White's corner from becoming ko-alive.];W[dm];B[cn];W[mj];B[lk];W[mk]
+;B[ll];W[lj];B[kj];W[mi]
+(;B[pm]LB[jr:a][ol:b][pl:c][ql:d][om:e][pn:f][qm:g][nl:h]C[B143: Black makes mistake again. Black should atari at 'a', if White makes the knight's move at 'b', then B143, W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', White would get captured.];W[kk];B[ih];W[jr]C[After W146, it becomes a half-point game.];B[bg]
+;W[bf];B[ml];W[gn];B[go];W[fn];B[gk];W[fk];B[gj];W[gl];B[mq];W[hr];B[gr];W[hs]
+;B[ko];W[jo];B[nk];W[cm];B[bm];W[dn];B[do];W[kn];B[ln];W[fo];B[ep];W[ag];B[bh]
+;W[ah];B[bi];W[rj];B[ca];W[ba];B[da];W[bb];B[fh];W[fi];B[fj];W[fg];B[gh];W[kl]
+;B[lm];W[qr];B[rs]C[B189: Black has no alternative, because White has more ko threats.];W[eh];B[gg];W[ik];B[iq];W[ir];B[ai];W[af];B[ek];W[fl];B[po]
+;W[sl]C[W220 is a big move.];B[sk];W[rl];B[pi];W[nj];B[oj];W[lb];B[ia];W[nl];B[ok];W[op];B[lh];W[mh]
+;B[np];W[gs];B[fs];W[pn];B[oo];W[ql];B[pl];W[qq];B[sj];W[si];B[eo];W[jj];B[ji]
+;W[ge];B[he];W[ld];B[gb];W[ej];B[ck];W[dk];B[en];W[em];B[sr];W[ls];B[ms];W[ks]
+;B[mc];W[ka];B[hb];W[nb];B[gi];W[jk];B[ei];W[hp];B[gp];W[ip];B[gq];W[fi];B[la]
+;W[ma];B[ei];W[bn];B[co];W[fi];B[ja];W[ei];B[la]C[B259: It forms a ko fight, who wins the ko will win the game.];W[cq];B[bq];W[ka];B[oe];W[ng]
+;B[la];W[mr];B[ns];W[ka];B[qd];W[rc];B[la];W[mr];B[nr];W[ka];B[dg];W[eg];B[sn]LB[qo:a]C[B277: Black himself has incurred one point loss, White wins the game for sure, Black should play at 'a'.]
+;W[qo];B[la];W[qm];B[ka]LB[om:a]C[Black has to reinforce with one move in his own territory, the komi is 6.5, White luckily won the game by half point.
+
+Song TaeKon advanced to the semi finals, the semi finals and final will take place on 7/5 and 7/7 respectively.])
+(;B[jr]C[Black should atari here.];W[ol]C[If White tries to separate, ...];B[pm];W[pl];B[ql];W[om];B[pn];W[qm];B[nl]C[White would get killed.]))
+(;B[in]C[Black should play here.];W[im]C[If White blocks here, ...];B[jo]C[Black is clearly no good.])
+(;B[in];W[io]C[If White squeezes here, ...];B[im];W[jm];B[il]C[White is no good either.]))
+(;B[dr]C[If Black ataris here, ...];W[fq];B[ep];W[hp]C[White could easily make sabaki plays.]))
+(;W[me]C[Black should make the tiger's move here.];B[lc];W[mc]C[White can bump here.])
+(;W[me];B[kb]C[If Black descends here, ...];W[jb]C[White could block here, Black is no good either.]))
+(;B[rp]C[If Black plays the hane here, ...];W[ro];B[rr];W[sp];B[rq];W[or]C[Black is painful.]))
+(;B[de];W[ce];B[ee];W[dg];B[pj]C[This is also possible for Black.]))
+(;B[cc]C[If Black plays at 3-3, ...];W[fb];B[ec];W[cd];B[eb];W[hd]C[White is favorable.])) 

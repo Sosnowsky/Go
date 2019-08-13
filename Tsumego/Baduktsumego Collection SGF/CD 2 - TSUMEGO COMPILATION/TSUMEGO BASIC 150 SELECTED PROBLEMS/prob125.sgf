@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]RU[Japanese]SZ[19]KM[0.00]TM[]PW[White]PB[Black]AW[aq][cq][dq][eq][br][er][fr][bs][cs]AB[bp][cp][dp][ep][bq][fq][gq][cr][gr][gs]C[Black to play.]
+(;B[es];W[dr]
+;B[fs]C[RIGHT])
+(;B[fs];W[es]
+(;B[dr];W[ds]
+;B[ar]C[RIGHT])
+(;B[ar];W[dr]))
+(;B[ds];W[dr])
+(;B[dr];W[ds]
+(;B[fs];W[ar])
+(;B[ar];W[fs]))
+(;B[ar];W[dr]))

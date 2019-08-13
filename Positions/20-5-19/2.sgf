@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[lb][dc][ic][lc][oc][pc][qc][rc][ld][rd][mf][of][pf][qf][rf][dp]AB[kc][nc][kd][nd][od][pd][qd][je][le][qe][re][se][pg][qi][qp][nq]LB[lb:5][kc:2][lc:1][ld:3][le:4]C[These are the five last moves. B wants to attack the weak W group. B to play1]PL[B]
+(;B[kb]C[In the game B blocked here]
+;W[nb]
+;B[me]
+;W[oi]C[B ends in gote and W can play outside.])
+(;B[me]C[If B just connects]
+;W[nb]C[W connects and B can take sente]
+;B[mh]C[This is better than the game, However B can do better.])
+(;B[ob]C[B should play here.]
+;W[pb]
+;B[me]
+;W[nb]
+;B[mb]
+;W[oa]
+;B[mh]C[W has worse shape in the top right and B has sente to attack.]))

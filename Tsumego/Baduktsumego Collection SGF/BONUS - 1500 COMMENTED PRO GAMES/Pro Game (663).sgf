@@ -1,0 +1,25 @@
+(;SZ[19]EV[Korea 14th Kisung final game 4]DT[2003-03-06]PC[Korea]KM[6.5]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Cho Hunhyun]BR[9p]PW[Lee Changho]WR[9p]RE[B+R];B[pd];W[dd];B[qp];W[dq];B[do];W[co]
+;B[dp];W[cp];B[eq];W[cn];B[dn];W[dm];B[cq];W[dr];B[bq];W[cr];B[cm];W[cl];B[br]
+;W[er];B[bm];W[bn];B[fq];W[bp];B[bl];W[dl];B[ap];W[ao];B[fr];W[bk];B[cs];W[oq]
+;B[mp];W[mq];B[lq];W[lp];B[nq];W[mr];B[mo]C[Through 39, the resulting position is exactly same as in game 2.
+]
+(;W[np]LB[nr:a][kp:b][po:c]C[W40 starts to vary, in the game 2, White played the atari at 'a', then B 'b' and W 'c' (see var a).];B[no];W[nr];B[po]LB[kp:a][oo:b]C[B43: If Black captures one stone at 'a' in the ladder, then White will hane at 'b', Black can not be satisfied.];W[qi]LB[kp:a][pj:b]C[If W44 at 'a', then B 'b', because Black is very thick in the lower left corner, so White has no big potential on the lower side.]
+;B[kq];W[qr];B[qk];W[qf];B[qe];W[pf];B[nc];W[ec];B[oj];W[rk];B[rj]LB[rl:a]C[B55 is an inevitable counterattack, if Black hanes at 'a', then White will draw back at 55, as a result, White lives in sente, Black can not be happy.];W[qj]
+;B[ri];W[rh];B[rl];W[pk];B[ql];W[pj];B[oi];W[pl]LB[ph:a][qm:b][rm:c][sk:d]C[W64 seems no better than the simple tiger move at 'a', in the game White aims at the maneuver of W 'b', B 'c' and W 'd'.];B[rg]LB[si:a][sk:b][qm:c]C[B65 is excellent timing, if White now ataris at 'a', then Black will take at 'b',  Black will have defended White's hane at 'c' in sente.]
+;W[qg];B[sh];W[qh];B[rf]C[As for the result up to 69, Black has clearly gained.];W[me];B[li];W[ml];B[lk];W[pm];B[ll]C[The exchange of W74 and B75 is not to White's advantage.];W[ld];B[ce]
+;W[cd];B[ef]C[The reduction tactic of B77 and B79 is simple and effective.];W[cf];B[cg];W[bf];B[ke]C[B83 is a good move,  which is not easy to find.];W[kd];B[je];W[ic];B[he];W[gm];B[jd]
+;W[jc];B[lb];W[kb];B[lc];W[kc];B[fd];W[fc];B[gc];W[gb];B[nf];W[ne];B[mf];W[nh]
+;B[oh];W[og];B[lg]C[Through 105, Black has formed thickness in the center and should be satisfied.];W[qm];B[nm]C[After this move, it is time for noon break.];W[rm];B[sl]LB[sk:a][sn:b]C[B109 is the right move, if Black takes at 'a', then later on White is left with the maneuver of playing the diagonal's move at 'a', Black is no good.];W[rq];B[qq];W[rr]
+;B[ro];W[od];B[oc];W[pc]C[W116 is in good order.];B[qc];W[pe];B[qd];W[jq];B[kp];W[sm];B[sk];W[oo];B[on]
+;W[op];B[pn];W[im];B[gk];W[jp];B[jo];W[io];B[ko];W[gp];B[fo];W[go];B[hq]LB[ik:a]C[Although B137 is not small, but to play at 'a' is more steady.]
+;W[gq];B[gr];W[ik];B[cj];W[dg];B[em];W[el];B[fl];W[fm];B[en];W[hk];B[ek];W[ck]
+;B[bj];W[al];B[gi];W[hp];B[df];W[ch];B[be];W[bg];B[de];W[bd];B[ad];W[eg];B[gd]
+;W[hc];B[di]LB[hh:a]C[B165 is an overplay, the diagonal extension at 'a' is the proper play.];W[ff]C[The counterattack after W166 is very fierce and ruthless.];B[ed];W[ac];B[ae];W[hh]C[After W170, Black sinks into a difficult situation.];B[hi];W[ii];B[ih];W[ig]
+;B[jh];W[hg]
+(;B[dc]LB[ij:a][ee:b][fe:c][af:d][hd:e][ge:f][ie:g]C[B177: If Black ataris at 'a', then with sequence of W 'b', B 'c', W 'd', B 'b', W 'e', B 'f' and W 'g', Black would get killed without a break, this is clearly bad for Black.];W[hj]C[W178: White has captured the center black stones and White's victory is within reach.];B[ji];W[ij];B[db];W[fa]
+;B[ea];W[fb];B[jr];W[ir];B[iq];W[ip];B[hr];W[kr];B[is];W[nl]LB[gj:a]C[W192 is inexplicable, this is just a endgame play, now White certainly should push at 'a' to capture Black cleanly, White would win the game for sure.];B[gj]C[After B193, the game has been turned around.]
+;W[gl];B[fk];W[fn];B[fp];W[jl]LB[hn:a]C[W198: If White doesn't reinforce, after B 'a', White would be dead.];B[fh];W[fg];B[le];W[mm];B[km];W[ln];B[jm]
+;W[eo];B[ep];W[in];B[lo];W[md];B[bh]C[B211: Black delivers White the fatal blow.];W[af];B[ee];W[eh];B[ei];W[gh];B[fi];W[ci]
+;B[bi];W[dj];B[dk];W[am];B[ej]C[Through 223, it leads to a capturing race, Black is one liberty long, White is forced to concede defeat, the series is now tied at 2:2, the deciding game 5 will take place on 3/31.])
+(;B[ij];W[ee];B[fe];W[af];B[ee];W[hd];B[ge];W[ie]C[Black would get killed without stopping.]))
+(;W[nr];B[kp];W[po]C[This is the variation they played in the game 2.])) 

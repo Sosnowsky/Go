@@ -1,0 +1,29 @@
+(;SZ[19]EV[Japan 12th Ryusei final]DT[2003-09-28]KM[5.5]PC[Japan]PB[Hane Naoki]BR[9p]PW[Kobayashi Koichi]WR[9p]RE[W+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dp];B[dc];W[pp];B[cn];W[de]
+;B[fq];W[fp];B[gp];W[fo];B[dq];W[eq];B[er];W[ep];B[gr];W[cq];B[dr];W[go];B[hp]
+;W[ck];B[ek];W[el];B[dk];W[dl];B[cj];W[bl];B[fk]LB[bk:a][cl:b][cg:c]C[B27: Black should play the atari at 'a', then W 'b' and B 'c'.];W[cc];B[cb]
+;W[cd];B[eb];W[ch];B[bj];W[di];B[dj];W[fi];B[hk]
+(;W[co]LB[cr:a][bm:b][cl:c][en:d]C[W38 is the proper move, if White blocks at 'a' instead, Black would be left with the tactic of B 'b', W 'c' and B 'd' (see var a).];B[oc];W[qi];B[qn];W[qo];B[pn];W[nq];B[qk];W[qf]
+;B[pg]
+(;W[qg]LB[rd:a][rc:b][pd:c][qc:d][ph:e][pf:f]C[W48 seems cumbersome, White should attach underneath at 'a', followed by B 'b', W 'c', B 'd', W48, B 'e' and W 'f' (see var a).];B[ph];W[pf];B[pi];W[pd];B[pc];W[rd]
+;B[rc];W[qj];B[pj];W[qe];B[qc];W[rk];B[rl];W[rj];B[ql];W[ic]LB[re:a][rf:b][sd:c][nf:d][oe:e][of:f][ld:g]C[After W64, Black is left with the attack maneuver of B 'a', W 'b', B 'c', W 'e', B 'f', W 'f' and B 'g' (see var a).]
+
+(;B[gc];W[lc]C[After W66, the maneuver we talked about earlier is still effective.];B[qq]C[B67 is a big move.];W[pq];B[ro];W[rp];B[qp];W[rq];B[po];W[qr];B[cf];W[bg]LB[bf:a][ef:b]C[After W76, if Black blocks at a', then White will make the diagonal's extension at 'b', Black is dangerous.]
+;B[fg]LB[df:a][ef:b]C[B77: If Black extends at 'a', then White will play at 'b', the ensuing variation is complicated, Black has no certainty of success.];W[df];B[gi];W[nf];B[re];W[rf];B[sd];W[nd];B[nc];W[md]C[Through 86, it becomes a close game.]
+;B[ei]LB[lq:a]C[B87 is a slow move, Black should check and extend at 'a'.];W[kq]C[After W88, White is leading in territory.];B[bc];W[bd];B[ab];W[eh];B[eg];W[bf];B[dg];W[cg];B[cr]
+;W[bq];B[dh];W[ej];B[ci];W[gh];B[gg];W[hh];B[fh];W[hi];B[gj];W[mi];B[kh];W[nj]
+;B[lj];W[ok];B[pk];W[nn];B[lg]
+(;W[nh]LB[ki:a][li:b][mh:c][lh:d][ol:e]C[W116: White should crosscut at 'a', then B 'b', W 'c', B 'd' and W 'e', Black's dragon on the right side is hard to make life (see var a).];B[ol];W[nl];B[om];W[jk];B[ll];W[jm];B[jj]
+;W[kk];B[kj]
+(;W[iq]LB[ie:a][if:b][jf:c][ig:d]C[W126: White should first jump to 'a', after B 'b', W 'c' and B 'd', then W126, this way White's advantage would be clear (see var a).];B[br];W[ar];B[kd];W[kc];B[id]C[After B131, the outcome of the game is hard to judge.];W[hc];B[hd];W[gb]
+;B[ln];W[jo];B[lp];W[lq];B[np];W[op];B[mq]LB[mp:a]C[B141 is a mistake, now Black can only connect at 'a'.];W[mo]C[W142 is sharp.];B[mp];W[lo];B[ko]
+;W[no];B[kp];W[kn];B[jp];W[ip];B[io];W[jn];B[jq];W[mr];B[jr];W[ir];B[js];W[is]
+;B[lr];W[ls];B[kr];W[ho];B[nr];W[or];B[ms];W[hr]C[After W166, Black in the lower left gets killed, Black has clearly failed in the fight.];B[fm];W[ik];B[qo];W[rs]LB[km:a][nm:b][in:c][im:d][hn:e][gm:f][gq:g]C[W170: White can't tenuki, otherwise if B 'a', W 'b' (prevent Black from killing the corner by playing at 170), B 'c', W 'd', B 'e', W 'f' and B 'g', Black in the lower left will come alive.]
+
+(;B[hm];W[hn];B[ij];W[fc];B[gd];W[fb];B[ea];W[ec];B[db];W[nm];B[bm];W[dn];B[al]
+;W[cm];B[bn];W[bo];B[bk];W[cl];B[ak];W[lk]C[Kobayashi Koichi won the champion])
+(;B[km];W[nm];B[in];W[im];B[hn];W[gm];B[gq]))
+(;W[ie];B[if];W[jf];B[ig];W[iq]))
+(;W[ki];B[li];W[mh];B[lh];W[ol]))
+(;B[re];W[rf];B[sd];W[nf];B[oe];W[of];B[ld]))
+(;W[rd];B[rc];W[pd];B[qc];W[qg];B[ph];W[pf]))
+(;W[cr];B[bm];W[cl];B[en])) 

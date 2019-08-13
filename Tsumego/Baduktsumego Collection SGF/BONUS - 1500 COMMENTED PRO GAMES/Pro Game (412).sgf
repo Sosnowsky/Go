@@ -1,0 +1,40 @@
+(;SZ[19]EV[Japan 52nd Oza Title semi final]DT[2004-07-29]PC[Japan]KM[6.5]PB[Yamashita Keigo]BR[9p]PW[Hane Naoki]WR[9p]RE[B+0.5]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qe];W[dd];B[np];W[dp];B[qo];W[pc]LB[od:a]C[W6: For White to approach the corner at 'a' is also playable.]
+;B[nd];W[pe];B[pd];W[od];B[qd];W[oc];B[oe];W[pf];B[qc];W[nc];B[ne];W[lc];B[rg]
+
+(;W[md]LB[ph:a][le:b][jd:c][mi:d][pj:e][nk:f][pl:g][om:h][pm:i][on:j][rn:k][ro:l][ri:m][gp:n]C[If W20 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm' and B 'n', Black can fight (see var a).]
+;B[og]C[Through B21, Black has nothing to complain.];W[fq];B[dj];W[fd]LB[ch:a][mb:b][mc:c][jc:d]C[If W24 at 'a', then B 'b', W 'c' and B 'd'.];B[cn];W[cl];B[dl];W[dk];B[ek]
+;W[ck];B[dm];W[cj]
+(;B[ej]LB[di:a][ch:b][gp:c][fp:d][gn:e][go:f][ho:g][fo:h][hn:i][iq:j][cf:k][fk:l]C[If B33 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', later on although Black can invade at 'k', but at the same time White is also left with the clamp at 'l'.];W[ch]
+;B[gp]LB[mb:a][mc:b][lg:c][id:d][nk:e]C[B35: Black can also consider to play at 'a', next W 'b', B 'c', W 'd' and B 'e'.];W[fp];B[gn];W[go];B[ho];W[fo];B[hn];W[iq]
+;B[pn];W[ni];B[mb];W[mc];B[mg]LB[me:a][le:b][lf:c][ke:d][ng:e][of:f][je:g]C[If B47 at 'a', then after W 'b', B 'c' and W 'd', White will still be left with the tactic of fixing the shape by W 'e', B 'f' and W 'g', Black is no good.];W[li];B[kg]
+;W[id]LB[ji:a][pj:b]C[W50 is a game-deciding move, the common play is at 'a' or 'b'.];B[ji];W[mk];B[kk];W[pj];B[pl];W[ph];B[pg];W[rh];B[kq];W[ce]
+;B[ec];W[fc];B[kd];W[kc];B[dc];W[cc];B[cb];W[bc];B[hd]LB[he:a][ic:b][jd:c][ed:d][ee:e][fb:f][gb:g][eb:h][hc:i][da:j]C[After B69, if W 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i' and B 'j', White is no good (see var a).]
+
+(;W[hc];B[ic];W[ib];B[df];W[ed];B[ie];W[jc];B[dh];W[bp];B[qj]C[B79 is severe.];W[pk];B[qk];W[ol]C[W80 and W82 are the best answers.]
+;B[qi];W[pm];B[ql]
+(;W[om]LB[kj:a][lk:b][ml:c][jj:d][pi:e][qh:f][nm:g][on:h][lq:i]C[W86: White should first play at 'a', followed by B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', W 'h' and W 'i' (see var a).];B[qm];W[kj];B[lk];W[ml]
+;B[jj];W[pi];B[qh]LB[nm:a]C[After B93, White is still not completely alive, Black is still left with the killing tactic of playing at 'a'.];W[lq]
+(;B[lp]LB[kp:a][kr:b][jr:c][mr:d][ks:e][lr:f][jq:g][nq:h]C[If B95 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', Black is no good.]
+(;W[kr]LB[mq:a][mp:b][jr:c][jq:d][kp:e][lr:f][nm:g][lj:h][nl:i][nk:j][mh:k][on:l][nn:m][po:n][pp:o][qn:p][qp:q]C[If W96 at 'a', then B 'b' W96, B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p' and B 'q', White's big dragon will get captured (see var a).]
+;B[mq];W[lr];B[cg];W[ci];B[bo];W[bg];B[mr];W[kp];B[ko];W[jp];B[ln];W[mo];B[mn]
+;W[lj]C[Through W110, Black is favorable in the game.];B[mh]LB[bq:a][ap:b][cp:c][cq:d][do:e]C[B111: Black should immediately play at 'a', if W 'b', then B 'b', W 'c' and B 'e', making a ko, because Black is favorable in ko threats, White is hard to answer.];W[mi];B[oh];W[nj];B[nm];W[nl];B[hp]
+;W[no];B[oo];W[ms];B[ns];W[ls];B[nr];W[gq];B[bq];W[ap];B[cp];W[cq];B[co];W[br]
+;B[dq];W[cr];B[ep];W[ff];B[fg];W[gg];B[eg];W[gh];B[bf];W[ah];B[cf];W[bm]C[Through W142, it becomes a close game.];B[jd]
+;W[hf];B[ic];W[gc];B[gj];W[jo];B[nn];W[kn];B[lo];W[qb];B[rb];W[pb];B[hq];W[hr]
+;B[ir];W[gr];B[jr];W[jq];B[jn]
+(;W[en]LB[em:a][io:b][eo:c][fm:d][dn:e][el:f][cm:g][do:h][ip:i]C[If W162 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B162, W 'h' and B 'i', White is no good.];B[do];W[em];B[el];W[fm]
+;B[gl];W[km];B[jm];W[lm];B[kl];W[ra];B[sb];W[cm];B[dn];W[be];B[dr];W[af];B[hi]LB[me:a]C[B179 is the winning game, if Black plays at 'a' instead, then White will play at 179, perhaps White will win the game by half point.]
+;W[gm];B[hm];W[ig];B[id];W[le];B[jf];W[ef];B[ge];W[gf];B[me];W[ld];B[lf];W[di]
+;B[ei];W[ke];B[ds];W[cs];B[fs];W[fl];B[fk];W[fi];B[eh];W[fr];B[fe];W[ee];B[io]
+;W[js];B[gi];W[fh];B[ih];W[jl];B[il];W[if];B[je];W[lh];B[jg];W[kh];B[jh];W[nh]
+;B[ng];W[oi];B[eo];W[fn];B[eq];W[gs];B[on];W[am];B[ao];W[aq];B[hh];W[es];B[er]
+;W[is];B[fs])
+(;W[em];B[io];W[eo];B[fl];W[dn];B[el];W[cm];B[en];W[do];B[ip]))
+(;W[mq];B[mp];W[kr];B[jr];W[jq];B[kp];W[lr];B[nm];W[lj];B[nl];W[nk];B[mh];W[on]
+;B[nn];W[po];B[pp];W[qn];B[qp]))
+(;B[kp];W[kr];B[jr];W[mr];B[ks];W[lr];B[jq];W[nq]))
+(;W[kj];B[lk];W[ml];B[jj];W[pi];B[qh];W[nm];B[on];W[lq]))
+(;W[he];B[ic];W[jd];B[ed];W[ee];B[fb];W[gb];B[eb];W[hc];B[da]))
+(;B[di];W[ch];B[gp];W[fp];B[gn];W[go];B[ho];W[fo];B[hn];W[iq]))
+(;W[ph];B[le];W[jd];B[mi];W[pj];B[nk];W[pl];B[om];W[pm];B[on];W[rn];B[ro];W[ri]
+;B[gp])) 

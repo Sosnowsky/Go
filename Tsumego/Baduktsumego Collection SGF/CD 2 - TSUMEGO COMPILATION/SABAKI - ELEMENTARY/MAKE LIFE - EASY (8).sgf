@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[aj][bb][bf][bi][bk][cb][cc][ci][df][dh][di][ec][ee][eg]
+AW[ah][ai][bc][bd][bh][ce][cf][cg][ch][dg]PL[W]C[White to play.
+
+Make life - Secure Eye Shape]
+(
+;W[be]
+;B[ae]
+;W[bg]
+(
+;B[ac]
+;W[af]C[RIGHT
+])
+(
+;B[af]
+;W[ac]C[RIGHT
+Both Alive]))
+(
+;W[ac]
+;B[ae]
+;W[ag]
+;B[be]
+(
+;W[cd]
+;B[af]C[Handle 5])
+(
+;W[af]
+;B[cd]))
+(
+;W[af]
+;B[ae]
+;W[bg]C[Ko Fight]))

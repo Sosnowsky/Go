@@ -1,0 +1,47 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ce][ch][ci][dc][dd][de][eb][ef][eg][fb][gf][hc][hd][hg]
+AW[bc][cb][db][df][dg][dh][di][ec][ed][ee][eh][fe][gd]PL[W]C[White to play.
+
+Capture race - Reduce Opponent's Liberties
+
+Source: Xuan-Xuan-Qi-Jin.]
+(
+;W[be]
+;B[cf]
+;W[cg]
+;B[bf]
+;W[bg]
+;B[bd]
+(
+;W[ae]
+;B[af]
+(
+;W[cc]C[RIGHT
+])
+(
+;W[ag]
+;B[ad]
+;W[cc]C[RIGHT
+]))
+(
+;W[cc]
+;B[ae]
+(
+;W[cd]
+;B[ac]
+;W[ab]C[Ko Fight])
+(
+;W[ag]
+;B[ac]
+;W[ab]C[Ko Fight])
+(
+;W[ac]
+;B[ge])))
+(
+;W[bf]
+;B[be]
+;W[cf]
+;B[ge])
+(
+;W[cf]
+;B[be]))

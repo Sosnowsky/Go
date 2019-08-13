@@ -1,0 +1,36 @@
+(;SZ[19]EV[Japan 29th Meijin Title league game 9]KM[6.5]DT[2004-01-29]PB[Cho U]BR[9p]PW[Rin Kaiho]WR[9p]RE[B+R]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd];W[dc];B[de];W[pp];B[cc];W[cp];B[fq]
+;W[dq];B[jp];W[lq];B[fo];W[cm];B[qn];W[qp];B[pk];W[nc];B[od]LB[pc:a][kc:b]C[B17 is a positive play, if Black answers at 'a', then White will make the two-space extension at 'b', White can easily settle down, Black can't be satisfied.];W[pb]
+;B[ld];W[nd];B[oc];W[ob];B[mb]
+(;W[nb]LB[qc:a][rd:b][ne:c][qe:d]C[W24: For White to play at 'a' is also possible, followed by B24, W 'b', B 'c' and W 'd', although White's corner is not small, but Black becomes very thick after capturing two white stones and should have nothing to complain (see var a).];B[qc]
+(;W[oi]LB[nf:a][pg:b][lc:c][kc:d][kd:e]C[W26 is a surprising move, the common play is to jump at 'a', followed by B 'b', W 'c', B 'd' and W 'e', leading to a complicated fight (see var a).]
+(;B[og]LB[ne:a][me:b][md:c][mc:d][lc:e][nf:f][oe:g][lb:h][kb:i][ma:j]C[B27 is severe, if Black plays at 'a' instead, then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i' and W 'j', White can fight (see var a).]
+(;W[nf]LB[qi:a][lc:b][me:c][mg:d][le:e][jd:f][je:g][id:h][qg:i][oe:j][jg:k]C[W28 is questionable, White should play at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j' and W 'k' (see var a).];B[ng];W[mg]
+;B[mh];W[lg];B[lh];W[kg];B[ic];W[nj];B[kh];W[le];B[on];W[mp];B[qg]C[As for the result up to B41, Black takes the initiative.];W[ol];B[pl]
+
+(;W[mn]LB[mm:a][ln:b][lm:c][nn:d][nm:e][mo:f][ml:g][nl:h]C[If W44 at 'a', then B44, W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W44 and B 'h', White is no good (see var a).];B[ke];W[me];B[jg]LB[dd:a]C[B47: For Black to play at 'a' is also playable.]
+;W[cb];B[cd];W[eb];B[mm];W[nn]
+(;B[ok]LB[nm:a][om:b][pm:c][oo:d][pn:e][lm:f][ml:g]C[B53 is the right move, if Black blocks at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f' and B 'g', Black would be painful (see var a).];W[hq];B[hp];W[iq];B[ip];W[lm]C[B58 is the vital point, if White directly crosses over at the bottom, then Black will play at 58, White is not good.]
+;B[ml];W[ll];B[lk];W[kk];B[lj];W[gq]
+(;B[oo]LB[gp:a][fr:b][fl:c][cj:d][fc:e][fb:f][gc:g][bc:h][bd:i][bb:j][ch:k]C[B65: For Black to play at 'a' is better, next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k', Black would be favorable (see var a).];W[gp];B[go]
+;W[hn];B[ho];W[in]LB[fp:a][op:b]C[W70: White can also consider to play at 'a', next B70 and W 'b', it would lead to a prolonged war.];B[fp];W[kr];B[fm]LB[do:a][co:b][fl:c]C[If B73 at 'a', then W 'b' and B 'c', this result would be better for Black, but Black is worried that when B 'a', White may ignore and seal off Black at 73, Black has no assurance of success.];W[fk]C[After W74, Black is not comfortable.]
+;B[hl];W[gm];B[dm];W[cl];B[ek];W[gl];B[cn];W[bn];B[dn];W[co];B[jq];W[jr];B[gr]
+;W[hr];B[hs];W[ir];B[ej];W[cj];B[dh];W[ro]C[After W94, the difference between both sides has been narrowed down.];B[fc];W[fb];B[gc];W[bc];B[bd];W[bb]
+;B[gi]LB[lc:a]C[B101: Black should first force White to make life in the upper right by playing at 'a'.];W[jf]LB[kd:a]C[W102: For White to cut at 'a' is better.];B[kd];W[kf];B[jm]C[B105 is severe.];W[jl];B[jn];W[ko];B[jo]
+;W[hk];B[np];W[mk];B[om];W[kj];B[ki];W[mj];B[li];W[ig]
+(;B[ln]LB[nq:a][no:b][op:c][ij:d][oh:e][el:f][dl:g][dk:h][fl:i][fn:j][em:k][eo:l][gn:m][en:n][hm:o][gk:p][im:q][do:r]C[If B119 at 'a', then after the sequence from W 'b' to W 'r', Black's dragon would only have one eye (see var a).]
+;W[kn];B[km];W[kl];B[lo];W[ii];B[jh];W[hi];B[oh];W[kp];B[mo];W[el]LB[nq:a]C[W130: White should play at 'a', this way White would still have chance.];B[dl]
+;W[dk];B[dj];W[ck];B[fl];W[fn];B[em];W[eo];B[gn];W[en];B[hm];W[gk];B[ik]C[B143 is just the right move.];W[do]
+;B[el];W[ij];B[il]
+(;W[fi]LB[jj:a][fj:b][hj:c][er:d][nq:e][if:f]C[If W148 at 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White is clearly no good (see var a).];B[fj];W[gh];B[gj];W[hj];B[fh];W[fg]
+;B[eh];W[ef];B[df];W[if];B[er];W[nq];B[jj]C[After B161, White already has no chance of winning.];W[ee];B[kb];W[cg];B[gg];W[gf];B[hh]
+;W[ih];B[dg];W[ch];B[bf])
+(;W[jj];B[fj];W[hj];B[er];W[nq];B[if]))
+(;B[nq];W[no];B[op];W[ij];B[oh];W[el];B[dl];W[dk];B[fl];W[fn];B[em];W[en];B[gn]
+;W[eo];B[hm];W[gk];B[im];W[do]))
+(;B[gp];W[fr];B[fl];W[cj];B[fc];W[fb];B[gc];W[bc];B[bd];W[bb];B[ch]))
+(;B[nm];W[om];B[pm];W[oo];B[pn];W[lm];B[ml]))
+(;W[mm];B[mn];W[ln];B[lm];W[nn];B[nm];W[mo];B[ml];W[mn];B[nl]))
+(;W[qi];B[lc];W[me];B[mg];W[le];B[jd];W[je];B[id];W[qg];B[oe];W[jg]))
+(;B[ne];W[me];B[md];W[mc];B[lc];W[nf];B[oe];W[lb];B[kb];W[ma]))
+(;W[nf];B[pg];W[lc];B[kc];W[kd]))
+(;W[qc];B[nb];W[rd];B[ne];W[qe])) 

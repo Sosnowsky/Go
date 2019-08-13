@@ -1,0 +1,34 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ba][bb][bc][bg][bh][bi][cd][ce][cf][de][ed][ee][ef][fd][ff][ge]
+AW[bd][be][bf][cb][cc][ch][db][dd][dh][ec][eg][fc][fg][gc][gd][gf][he][hg]PL[W]C[White to play.
+
+Capture race - Ko Fight]
+;W[cg]
+;B[af]
+(
+;W[fe]
+;B[dc]
+;W[df]
+;B[dg]
+;W[dd]
+;B[ge]
+;W[df]
+;B[dc]
+;W[fe]
+;B[dg]
+;W[dd]
+;B[ge]
+;W[df]
+;B[dc]
+;W[fe]
+;B[dg]C[RIGHT
+])
+(
+;W[df]
+;B[dc]
+;W[fe]
+;B[dg]
+;W[dd]
+;B[ge]
+;W[df]C[RIGHT
+3 Kos Loop]))

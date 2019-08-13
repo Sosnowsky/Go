@@ -1,0 +1,244 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[3600]OT[3x30 byo-yomi]
+PW[dundicidan]PB[Sosnovsky]WR[2k]BR[1d]DT[2018-09-09]PC[The KGS Go Server at http://www.gokgs.com/]C[dundicidan [2k\]: ok
+Sosnovsky [1d\]: hi
+dundicidan [2k\]: have a nice game
+Sosnovsky [1d\]: Have a nice game
+
+
+
+
+
+
+YO!  welcome and nice to see you again Juan!]RE[B+Resign]
+;B[pd]BL[3589.385]
+;W[dp]WL[3590.144]
+;B[qp]BL[3582.252]
+;W[dc]WL[3579.852]
+;B[fq]BL[3573.053]
+;W[cn]WL[3571.525]
+;B[lq]BL[3560.233]
+(;W[qg]WL[3521.334]C[This one is quite unusual]
+(;B[qe]BL[3520.152]
+;W[qj]WL[3516.829]
+;B[ql]BL[3509.91]
+;W[oj]WL[3508.402]
+;B[pi]BL[3392.813]
+;W[pj]WL[3485.343]
+;B[ol]BL[3374.855]TR[pi]C[well done]
+(;W[op]WL[3347.684]
+;B[pn]BL[3287.015]
+;W[qq]WL[3336.971]
+;B[rq]BL[3285.002]
+;W[pq]WL[3320.997]
+;B[rr]BL[3282.922]
+;W[on]WL[3154.348]
+;B[om]BL[3179.143]
+(;W[nn]WL[3143.9]C[wrong shape]
+(;B[rh]BL[3149.772]
+(;W[ph]WL[3115.444]
+;B[rg]BL[3102.64]
+;W[nh]WL[3079.725]
+;B[ml]BL[3006.072]C[now black can still attack well]
+;W[kn]WL[3049.072]
+;B[jp]BL[2974.336]
+(;W[pb]WL[3036.155]C[too deep]
+;B[oc]BL[2952.174]
+;W[ob]WL[2908.258]
+(;B[nb]BL[2915.611]
+;W[nc]WL[2767.137]
+;B[mc]BL[2878.023]
+;W[nd]WL[2759.474]
+;B[lb]BL[2874.302]
+(;W[rf]WL[2678.19]C[bad exchange]
+;B[qf]BL[2816.589]
+;W[na]WL[2667.845]
+;B[mb]BL[2810.992]
+;W[rd]WL[2642.143]
+;B[re]BL[2635.856]
+;W[pc]WL[2628.629]
+;B[od]BL[2625.722]
+;W[qd]WL[2392.167]
+;B[of]BL[2595.485]
+;W[rb]WL[2368.087]
+;B[qi]BL[2556.002]
+;W[mj]WL[2265.394]
+;B[ln]BL[2523.892]
+;W[lo]WL[2262.137]
+;B[lm]BL[2453.92]
+;W[ko]WL[2227.77]
+;B[hp]BL[2416.884]TR[ln]C[this exchange is not good style: it is still not clear if this will be usefull, so  black wasted the aji]
+(;W[eq]WL[2219.695]C[this is small now]
+(;B[fr]BL[2404.442]
+;W[fp]WL[2203.005]
+;B[gp]BL[2360.811]
+;W[di]WL[2183.439]C[still white should defend the weak group]
+;B[nq]BL[2294.413]
+;W[mp]WL[2076.108]
+(;B[or]BL[2197.108]
+(;W[jl]WL[1915.076]
+;B[kk]BL[2096.546]
+;W[hm]WL[1890.389]
+;B[ki]BL[2052.022]
+;W[lg]WL[1794.947]
+(;B[kg]BL[1993.526]
+;W[kf]WL[1791.207]
+;B[lh]BL[1950.553]
+;W[mg]WL[1707.224]
+;B[jf]BL[1918.345]
+;W[jg]WL[1700.395]
+;B[kh]BL[1905.625]
+(;W[ke]WL[1694.607]
+;B[me]BL[1885.908]
+;W[lf]WL[1455.265]
+;B[je]BL[1813.864]
+;W[jd]WL[1444.867]
+;B[id]BL[1791.652]
+;W[ic]WL[1385.922]
+;B[jc]BL[1446.429]
+;W[kd]WL[1382.745]
+;B[he]BL[1434.924]
+;W[kc]WL[1357.123]
+;B[hc]BL[1425.359]
+;W[kb]WL[1142.412]
+;B[ne]BL[1302.945]
+;W[ib]WL[1134.765]
+;B[hb]BL[1300.086]
+;W[oi]WL[1009.368]
+;B[mi]BL[1243.57]
+;W[ri]WL[949.034]
+;B[qh]BL[1224.19]
+;W[sh]WL[945.155]
+;B[pg]BL[1174.145]
+;W[rk]WL[942.268]
+;B[rl]BL[1172.549]C[(there was no way to live)
+
+conclusions
+
+move 24 was first big mistake, white became heavy too early
+move 25 black give a chance for white to fix the problem, but after white respond black came back and the result was very good
+
+In upper right corner there were  mistakes from but after move 40 the result was super good for black locally
+
+both players did wait too much for the fight in the lower side, but move 62 was the last tenuki and black did arrive first to catch the fight
+
+
+black did attack very well and white didn't have any more chance to come back
+
+
+
+
+
+What was the main mistake for both players is to not consider tenuki enough: you should think to every move pretending not to know which one was the move before ^^ ("please don't be human")
+
+
+Good game and see you!
+Alessandro Pace])
+(;W[je]C[actually in the desperate situation would be possibile to sacrifice]
+;B[lf]
+;W[if]
+;B[mf]
+;W[jj]
+;B[kj]
+;W[kl]
+;B[lk]
+;W[ll]
+;B[mk]
+;W[de]C[black is ahead but is not too easy game]))
+(;B[jg]C[keima put more pressure]))
+(;W[kq]
+;B[kp]
+;W[mq]
+;B[mr]
+;W[lp]
+;B[lr]
+;W[io]
+;B[ip]
+;W[jl]C[white has a better way out]))
+(;B[mq]C[this is better for attacking
+(small difference)]
+(;W[jl]C[now white cannot play this keima]
+;B[fo]
+;W[ep]
+;B[km]
+;W[jm]
+;B[jn]
+;W[jo]
+;B[in]
+;W[io]
+;B[hn]
+;W[ip]
+;B[iq]
+;W[jq]
+;B[kp])
+(;W[in]C[has to jump])))
+(;B[mq]
+;W[mp]
+;B[nq]C[attack is big and sente]))
+(;W[io]
+;B[ip]
+;W[jl]C[anyway white Need to defend]))
+(;W[qc]C[white should just make life]
+;B[rd]
+;W[rc]))
+(;B[mc]C[this new joseki fit the situation]
+(;W[nc]
+;B[nd]
+;W[nb]
+;B[qc]C[good for black])
+(;W[qc]
+;B[nb]TR[nc]C[similar but no weakeness outside])))
+(;W[ob]TR[pd][qe]C[better choice against this formation]))
+(;W[kp]C[white can solve the problem in sente]
+;B[lp]
+;W[ko]
+;B[jr]
+;W[lo]
+;B[ip]
+;W[ph]))
+(;B[ml]
+;W[ln]
+;B[jp]C[easy gain, possible strategy]))
+(;W[mn]C[white should be more flexible in here]
+;B[no]C[peeping is falling into the trap]
+;W[mp]
+;B[kp]
+;W[mq]
+;B[kn]
+;W[po]
+;B[qo]
+;W[nn]C[white can live fast]))
+(;W[pp]C[some modern variation is possible]
+;B[pq]
+;W[qo]
+;B[po]
+;W[op]
+;B[qq]
+;W[pm]
+;B[pl]
+;W[oo]
+;B[ro]
+;W[pn]
+;B[rn]
+;W[lo])
+(;W[cf]C[also tenuki is very big]))
+(;B[qi]TR[qi][qp]C[actually after a pincer is difficult for white to really threaten the corner,
+
+anyway for black the pincer looks still natural for the opening]
+(;W[og]
+;B[oi]TR[pd]C[the corner is more safe then usual])
+(;W[nc]
+;B[nd]
+;W[md]
+;B[ne]
+;W[qc]
+;B[oc]
+;W[qd]
+;B[mc]TR[qe][qf]C[some shape problems still])))
+(;W[qj]
+;B[qf]
+;W[qm]
+;B[pn]
+;W[qn]
+;B[qo]
+;W[lo]LB[mo:B][jp:A]C[some common sense variation]))

@@ -1,0 +1,22 @@
+(;SZ[19]EV[16th Fujitsu Cup round 2]DT[2003-04-14]KM[6.5]PC[Tokyo, Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]PB[Song TaeKon]BR[4p]PW[O Meien]WR[9p]RE[B+R];B[pd];W[dd];B[pq];W[dp];B[fq];W[dn]
+;B[jp];W[qf];B[qh];W[pn]C[The play of W10 is worth more study.];B[qo];W[of];B[nc];W[pi];B[qe]
+(;W[rf]LB[qi:a][qg:b][qn:c]C[W16: If White blocks at 'a', then Black will hane at 16, W 'b' and B 'c', White would not be happy (see var a).];B[ph];W[qi];B[oi];W[oj];B[oh];W[rh];B[nj];W[ok];B[nk]
+;W[ol];B[qn];W[ql];B[ri]LB[qg:a][sh:b][rg:c][rj:d][qk:e][re:f]C[B29 is a good move, White is hard to answer, if White plays at 'a', then after B 'b', W 'c', B 'd' and W 'e', the block of B 'f' becomes sente, White can't tolerate (see var a).]
+(;W[rg]LB[rj:a][si:b][pf:c]C[W30: If White ataris at 'a', then B 30, W 'b' and Black would wedge and cut at 'c', Black is favorable (see var b).];B[rj];W[qk];B[pf]C[B33 puts White in a difficult situation.];W[re];B[rd]
+(;W[qc]LB[pg:a][pe:b][qg:c][og:d][qj:e][se:f][rk:g][nf:h]C[The play of W36 is at one's wit's end, if White ataris at 'a', then B 'b',W 'c', B 'd', W 'e', B 'f', W 'g' and B 'h', Black is clearly beneficial (see var a).];B[qd];W[pg];B[pe];W[oc];B[nd]
+;W[rc];B[se];W[sc];B[sd];W[nb];B[qg];W[mb];B[pc];W[pb]C[Through 50, Black is successful in the fight, White's joseki selection on the right side is questionable.];B[cl]C[After Black pincer-attacks with B51, Black is clearly favorable.];W[ci];B[el]
+;W[fn];B[cq]LB[gp:a][eq:b]C[B55 is fierce and relentless, the common play is B 'a' and W 'b'.];W[dq];B[dr];W[dk];B[dl];W[er];B[cr];W[eq];B[bo];W[bn]
+;B[co];W[cn];B[do];W[eo];B[fr];W[fs];B[fp];W[ep];B[gs];W[es];B[ar];W[gm];B[gl]
+;W[hl];B[gk];W[ap]LB[ao:a][an:b][bk:c]C[W80 is an asking move, if Black blocks at 'a', then later one W 'b' would be sente, White is also left with the maneuver of crossing over at 'c'.];B[bq];W[ho]C[W82: White has to protect the cut.];B[cf]C[B83: Black gets to attack first, Black's play is very tight.];W[hk]C[White's fighting strategy after W84 is dubious.];B[gi]
+;W[gj];B[fj];W[hj];B[dh];W[fi];B[ej];W[ce];B[df];W[fh];B[hr];W[fe];B[ei]C[Through 97, Black's upper side and lower side are all stabilized and at the same time Black has also obtained a lot of territory, White can not be satisfied.];W[eg]
+;B[be];W[bd];B[bf];W[ld]C[W102: In order to have a chance of winning, White has to make his moyo as bigger as possible.];B[fc]C[B103: Black starts pounding on White's thinness.];W[eb];B[fb];W[ed];B[jc];W[hc];B[cc];W[cb]
+;B[kd]C[The sabaki tactic after B111 is very brilliant.];W[le];B[ke];W[kf];B[jf];W[kg];B[hb];W[ic];B[ib];W[kc];B[lc];W[kb];B[jb]
+;W[mc];B[hd]C[After Black completely lives with B125, White already has no chance of winning.];W[lp];B[in];W[oq];B[op];W[np];B[pp];W[io];B[jo];W[jn];B[kn];W[jm]
+;B[kq];W[ni];B[nh];W[mi];B[mh];W[lh];B[nl];W[nm];B[mm];W[mj];B[nn];W[om];B[no]
+;W[ml];B[km];W[mg];B[og];W[ao];B[bs];W[ak];B[bk];W[al];B[bj];W[nr];B[pr];W[mn]
+;B[mo];W[id];B[he];W[lm];B[lo];W[ng];B[pg];W[rk];B[sh];W[aj];B[bi];W[ie];B[if]
+;W[hf];B[gd];W[ig];B[je]C[Song TaeKon advanced to the final eight.])
+(;W[pg]C[If White ataris here ...];B[pe];W[qg];B[og];W[qj];B[se];W[rk];B[nf]C[Black would be favorable.]))
+(;W[qg]C[If White plays here ...];B[sh];W[rg];B[rj];W[qk];B[re]C[Then Black's move here would become sente.])
+(;W[rj]C[If White ataris ...];B[rg];W[si];B[pf]C[Black would cut and wedge here and White would be worse off.]))
+(;W[qi]C[If White blocks on this side ...];B[rf];W[qg];B[qn]C[White can't be satisfied.])) 

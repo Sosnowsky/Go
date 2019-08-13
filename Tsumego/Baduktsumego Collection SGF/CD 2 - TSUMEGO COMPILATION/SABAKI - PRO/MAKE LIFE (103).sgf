@@ -1,0 +1,80 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bg][ch][dc][dd][dh][eg][fd][gb][gc][ge][gf][gg]
+AW[be][cd][cg][de][dg][ee][fi][gd][hc][hd][hh][ie][ig]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Weakness
+
+Source: Igo Hatsuyo-ron.]
+(
+;W[cc]
+;B[cb]
+;W[fe]
+;B[eb]
+;W[eh]
+;B[ef]
+(
+;W[ae]
+;B[bf]
+;W[ce]
+;B[ed]
+;W[bb]
+;B[ab]
+;W[bh]
+;B[bi]
+;W[gh]C[RIGHT
+Black Death])
+(
+;W[df]
+;B[bf]
+(
+;W[ae]
+;B[ce]
+;W[cf]
+;B[ed]
+;W[bb]
+;B[ab]
+;W[bh]
+;B[bi]
+;W[gh]
+;B[ah]
+;W[hf]
+;B[af]C[White Death])
+(
+;W[ce]
+;B[ae]
+;W[ad]
+(
+;B[ag]
+;W[bb]
+;B[ab]
+;W[bh]
+;B[bi]
+;W[gh]
+;B[ed]
+;W[hf]
+;B[ff]
+;W[hg]
+;B[cf]
+;W[af]C[Ko Fight])
+(
+;B[ed]
+;W[af]
+;B[bb]
+;W[bh]
+;B[bi]
+;W[gh]
+;B[bd]
+;W[hf]C[White Alive]))))
+(
+;W[fe]
+;B[cc]
+;W[eh]
+;B[ef]
+;W[ae]
+;B[df]
+;W[cf]
+;B[bf]
+;W[ce]
+;B[ed]
+;W[gh]
+;B[ad]C[White Death]))

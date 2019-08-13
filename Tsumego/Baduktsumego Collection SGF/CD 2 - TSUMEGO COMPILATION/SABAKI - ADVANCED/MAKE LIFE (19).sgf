@@ -1,0 +1,41 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bj][cd][ce][ch][ci][dd][dj][ed][ee][eg]
+AW[bd][be][bh][bi][cf][cg][de]PL[W]C[White to play.
+
+Make life - Expand Territotary
+
+Source: Gokyo Shumyo.]
+(
+;W[bb]
+;B[cc]
+;W[ac]
+;B[cb]
+(
+;W[ag]
+;B[bf]
+;W[ad]
+(
+;B[ai]
+;W[af]C[RIGHT
+])
+(
+;B[af]
+;W[ai]C[RIGHT
+]))
+(
+;W[ad]
+;B[ai]
+;W[ag]
+;B[af]
+;W[bf]
+;B[aj]))
+(
+;W[ac]
+;B[bb])
+(
+;W[cc]
+;B[cb]
+;W[bb]
+;B[dc]
+;W[ac]
+;B[ba]C[Ko Fight]))

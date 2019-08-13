@@ -1,0 +1,30 @@
+(;SZ[19]EV[Japan 30th Meijin Title league game 23]KM[6.5]DT[2005-05-12]PB[Sakai Hideaki]BR[7p]PW[O Meien]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[B+3.5];B[pd];W[dd];B[pq];W[dq];B[do];W[co];B[dn]
+;W[cp];B[fc];W[cf];B[pk];W[ic];B[mc];W[ie]LB[dc:a][id:b]C[If B14 at 'a', then B 'b'.];B[dc];W[cc];B[cb];W[ec]
+;B[db];W[ed];B[eb];W[bc];B[gb]LB[fd:a]C[If B23 at 'a', then White will play at 23, Black is not comfortable.];W[fd]C[White's fighting strategy following W24 is very brave.];B[gd];W[ge];B[hd];W[he];B[id]
+;W[jd];B[jc];W[kc];B[jb];W[dl]C[Through W34, Black has nothing to complain.];B[eq]LB[cn:a][fp:b][cl:c][ck:d][dk:e][el:f][bk:g][cj:h][bj:i][ci:j][bi:k][cm:l][bl:m][bh:n][bn:o]C[B35: Black can consider to play at 'a', next W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n' and B 'o', Black can fight.]
+;W[er];B[fq];W[dp];B[fn];W[ep];B[go];W[fl];B[fr];W[cn]C[Through W44, White can be satisfied.];B[kp]LB[fp:a]C[B45: Black guards against White's push and cut at 'a'.];W[kd]
+;B[kb];W[hl];B[jj];W[hq]LB[gp:a][io:b]C[After W50, if B 'a', then White can play at 'b' to borrow strength.];B[ip]
+(;W[po]LB[fp:a][gp:b][gq:c][dr:d][es:e][fs:f][gr:g][ds:h][cr:i][iq:j][jl:k]C[W52: White can directly play at 'a', next B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W36, B 'k' and W52 (see var a).];B[dr]LB[fp:a]C[B53: Black wants to guard against W 'a' in sente.]
+;W[cr]LB[qq:a]C[W54: White can consider to play at 'a'.];B[jf];W[je];B[qo]LB[qp:a]C[Comparing B57 and 'a', it is difficult to judge which one is better.];W[pn];B[qn]LB[pp:a]C[B59: Black can consider to play at 'a'.];W[pp];B[qp]
+;W[oq];B[pm];W[om];B[pl];W[kq]LB[lq:a][mq:b][lr:c][lp:d][mp:e][qq:f][pr:g][qr:h][or:i][nr:j][op:k][np:l]C[W66 is a good move, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k' and W 'l', Black is not good (see var a).]
+
+(;B[jq];W[lq]LB[lp:a][ko:b][hr:c]C[W68 is wrong order, White should first play at 'a', after B 'b', then W68 and B 'c', this way White takes sente.];B[hr];W[lp];B[or]C[B71: Black takes tenuki, White is painful.];W[nq];B[gk];W[gl]LB[gj:a]C[W74 is a bad move, White should play at 'a'.]
+;B[gi];W[qd];B[qe];W[re];B[pe];W[rd];B[rf];W[pc];B[oc];W[qf]LB[pb:a][rg:b]C[W84: White should be at 'a' and reserve the tactic at 'b'.];B[rg]
+;W[pb];B[ob];W[rb];B[cg]C[B89 is a good move.];W[dg];B[ch];W[dh];B[bf];W[ci];B[bi];W[cj]LB[ce:a][df:b][cd:c][bg:d][bh:e][be:f][ag:g][ad:h][af:i]C[After W96, if B 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g' and W 'h', later on, White can initiate ko at 'i', Black is not happy (see var a).]
+
+(;B[bj];W[be];B[bg];W[jh];B[ck];W[dk];B[ji];W[kh];B[ko]C[Through B105, Black succeeds in the fight.];W[bk];B[di];W[dj];B[ak]
+;W[bl];B[ce];W[df];B[bd];W[cd];B[ae]LB[bm:a]C[After B115, Black is still left with the tactic at 'a'.];W[pr];B[qq];W[lj];B[kk];W[lo];B[kn]
+;W[ln];B[km];W[pf];B[ph];W[nf];B[od];W[oh];B[og];W[of];B[pg];W[ng];B[oi];W[lc]
+;B[lb];W[md];B[ih];W[nc];B[mb];W[nd];B[nb];W[ig];B[nr];W[mr];B[qr];W[hh];B[ii]
+;W[de];B[be];W[gh];B[nh];W[mh];B[mi];W[li];B[es]C[Through B155, Black is still leading about 10 points on the board.];W[mj];B[fi];W[oj];B[pj];W[ni]
+;B[nm]LB[ik:a][hi:b][kl:c]C[B161: Black guards against the tactic of W 'a', B 'b' and W 'c'.];W[on];B[lm]C[After B163, White already has no chance to win.];W[oh];B[pi];W[fp];B[gp];W[fo];B[hn]
+;W[en];B[kr];W[lr];B[ks];W[fh];B[op];W[np];B[nn];W[no];B[ol];W[oo];B[ei];W[qg]
+;B[qh];W[cs];B[aj];W[al];B[em];W[dm];B[fm];W[fj];B[hi];W[ds];B[er];W[im];B[in]
+;W[bb];B[eh];W[eg];B[nk];W[nj];B[mn];W[hk];B[fk];W[gj];B[ek];W[ej];B[el];W[hj]
+;B[jm];W[hm];B[gn];W[jl];B[jk];W[ml];B[mk];W[ll];B[lk];W[kl];B[mo];W[mp];B[ba]
+;W[rh];B[ri];W[sf];B[sh];W[ns];B[ps];W[oa];B[na];W[pa];B[oe];W[ne];B[ca];W[nh]
+)
+(;B[ce];W[df];B[cd];W[bg];B[bh];W[be];B[ag];W[ad]))
+(;B[lq];W[mq];B[lr];W[lp];B[mp];W[qq];B[pr];W[qr];B[or];W[nr];B[op];W[np]))
+(;W[fp];B[gp];W[gq];B[dr];W[es];B[fs];W[gr];B[ds];W[cr];B[iq];W[er];B[jl];W[po]
+)) 

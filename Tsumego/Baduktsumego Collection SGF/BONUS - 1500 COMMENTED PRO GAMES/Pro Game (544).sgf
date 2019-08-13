@@ -1,0 +1,30 @@
+(;SZ[19]EV[2nd CSK Cup Asian Team Contest round 3]DT[2003-04-29]PC[Japan]C[Copyright by gogameworld.com and weiqi.tom.com.]KM[6.5]PB[Lee Sedol]BR[6p]PW[O Rissei]WR[9p]RE[W+R];B[pd];W[dd];B[pp];W[dq];B[do];W[dm]C[The tight pincer of W6 is a positive play and was once very popular.]
+;B[fo];W[fq];B[cq];W[cr];B[cp]
+(;W[er]LB[br:a][ck:b][el:c][bm:d][cn:e][bn:f][co:g][dp:h][ep:i][dn:j]C[W12: If White stands at 'a', then B 'b', W 'c', and Black can bridge over at 'd', if White makes the diagonal's extension at 'e', then B 'f', W 'g', B 'h', W 'i' and B 'j', White couldn't prevent Black from crossing over (see var a).];B[cm]C[B13 is the popular play nowadays.];W[cl];B[dl]
+;W[bm];B[cn];W[ck];B[el];W[ej]LB[dk:a]C[W20: For White to turn at 'a' is common.];B[fc];W[cf];B[db];W[nc];B[qf];W[hc];B[cc]
+;W[ec]C[The sequence after W28 is the basic joseki.];B[eb];W[fd];B[gd];W[gc];B[fb];W[ge];B[md]C[B35 is a good move.];W[qc]LB[nd:a][me:b][ne:c][mf:d][nf:e][mg:f][hd:g]C[W36: If White extends at 'a', then after B 'b', W 'c', B 'd', W 'e' and B 'f', the tactic of extending out at 'g' would come into being, White is no good.]
+;B[pc];W[pb];B[qd];W[rb];B[rc];W[qb];B[mc];W[oc];B[ne];W[if]C[W46 is the proper move, otherwise Black could play the ladder breaker any time.];B[be];W[bf];B[ce]
+;W[de];B[qn]LB[pk:a]C[B51: Black can also consider to extend at 'a', the play in the game invites White's invasion.];W[pj];B[nj]C[The sequence after B53 is pre-planned.];W[ql];B[ol];W[qh];B[rj]C[B57 is the most fierce and relentless play.];W[qj]
+(;B[rk]LB[ri:a][rh:b][pm:c][nn:d][pl:e][om:f][rl:g][rm:h][qm:i][qi:j][ph:k][pi:l][oi:m][oh:n]C[B59 is wrong direction, Black should extend at 'a', then W 59, B 'b', W 'c' and B 'd' (see var b); Moreover, when B 'a', if White doubles up at 'e', then B 'f', W 'b', B 'g', W 'h', B 59, W 'i', B 'j', W 'k', B 'l', W 'm' and B 'n', White would collapse (see var a).]
+;W[rl];B[ri];W[pl]C[After W62, Black sinks into a difficult situation.];B[om]LB[rh:a][nl:b][pn:c]C[B63: If Black crawls at 'a', then W 63, B 'b' and W 'c', Black is clearly no good.];W[rh];B[ph]C[B65: Black is already at his wit's end.];W[qi];B[rm];W[sl]
+;B[rg];W[sh];B[oj];W[pk]C[Through 72, White has completely lived, Black has failed in the fight.];B[jq];W[or]C[W74 is an excellent move, Black has no good attacking measure.];B[nq];W[qq];B[qp];W[nr];B[mq];W[rq]C[Through 80, White has settled easily, Black's territory is clearly inadequate.]
+;B[gk];W[ip]C[After W82, Black's advantage becomes clear.];B[hq]C[The sequence after B83 is the game-deciding moves.];W[iq];B[hp];W[ir];B[hr];W[jp];B[ho];W[kq];B[mr];W[ko]
+;B[pr];W[pq];B[oq];W[qr];B[lp]C[B97: Black has no other choice but to kill White's dragon.];W[km];B[jn];W[kn];B[ms];W[ro]C[W102 is in good order.];B[rp];W[sp]
+;B[kk];W[mn];B[ml];W[on];B[oo];W[in];B[io];W[jo];B[im];W[pn];B[nn];W[nm];B[no]
+;W[mm];B[pm];W[nl];B[ok];W[ll];B[mk];W[jk];B[dj];W[dk];B[ek];W[di];B[kj];W[kl]
+;B[lo];W[jj];B[ji];W[ii];B[fj];W[ei]
+(;B[jh]LB[ij:a][ki:b][mj:c]C[B137: If Black cuts at 'a', then W 'b', B 137 and W 'c', Black would get captured (see var a).];W[hj];B[fi];W[ig]C[After White completely connects with W140, Black already has no chance of winning.];B[rn];W[ps]LB[rs:a][ns:b]C[W142: If White tenukis, then B 'a', W 142 and B 'b', White would get killed.];B[il]
+;W[jl];B[eg];W[ae];B[bd];W[pg];B[ci];W[ch];B[dh];W[cj];B[bi];W[bh];B[eh];W[dj]
+;B[bn];W[al];B[br];W[bs];B[ar];W[gr];B[hs];W[ep];B[qg];W[oh];B[rd];W[mb];B[lb]
+;W[na];B[og];W[gg];B[fh];W[mi];B[mj];W[lc];B[ic];W[kb];B[hb];W[hd];B[gb];W[pf]
+;B[pe];W[of];B[ng];W[nh];B[nf];W[pi];B[ld];W[kc];B[mh];W[kg];B[lg];W[jm];B[hn]
+;W[hk];B[gs];W[fr];B[hl];W[lh];B[mg];W[eo];B[en];W[sg];B[oe];W[ph];B[sf];W[li]
+;B[ni];W[kh];B[kf];W[jg];B[ki];W[ke];B[kd];W[se];B[rf];W[lf];B[jb];W[je];B[le]
+;W[jf];B[jd];W[ef];B[dg];W[bj];B[ad];W[af];B[cg];W[bg];B[df];W[fg];B[dc];W[ed]
+;B[id];W[ie];B[sb];W[fp];B[ff];W[ee];B[hh];W[ih];B[hg];W[gh];B[gi];W[gf];B[hi]
+;W[go];B[fn];W[gp];B[gn];W[kr];B[an];W[bl];B[ns];W[os];B[ra];W[hf]C[O Rissei wins the game.])
+(;B[ij]C[If Black cuts here, ...];W[ki];B[jh];W[mj]C[This would be no good for Black.]))
+(;B[ri];W[pl];B[om];W[rh];B[rl];W[rm];B[rk];W[qm];B[qi];W[ph];B[pi];W[oi];B[oh]C[White would collapse.]
+)
+(;B[ri]C[Black should extends this way.];W[rk];B[rh];W[pm];B[nn]C[This would be better for Black.]))
+(;W[br]C[If White extends here, ...];B[ck]C[Black would pincer here, then ...];W[el];B[bm];W[cn];B[bn];W[co];B[dp];W[ep];B[dn]C[Black would cross over this way.])) 

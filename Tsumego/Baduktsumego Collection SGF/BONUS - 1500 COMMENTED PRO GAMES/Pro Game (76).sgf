@@ -1,0 +1,39 @@
+(;SZ[19]EV[7th Samsung Cup final game 1]PC[Beijing, China]DT[2003-01-13]KM[6.5]PB[Wang Lei]BR[8p]PW[Cho Hunhyun]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+12.5];B[qd]C[Wang Lei 8P of China is Black];W[dd]C[Cho Hunhyun 9P of Korea is white ];B[pq]C[This is the first time they meet in serial games.];W[oc]C[Before this game, Wang Lei and Cho Hunhyun played each other for four times, Wang Lei is trailing by 1:3.]
+;B[kd];W[po];B[pc]C[Through B7, the position is same as that of the game between these two players in the second round of 1st Toyota Cup, Wang Lei won by 2.5 points in that game.];W[qq]LB[od:a][pf:b]C[W8 varis, Cho 9p played 'a' and B 'b' knight attacked in that Toyota Cup game.];B[qk]LB[qr:a][qp:b][or:c]C[If B9 plays as the normal joseki of B 'a', W 'b' and B 'c', White will grab the good extension point at 9.];W[pr];B[oq]
+;W[or];B[qp];W[pp];B[nq];W[rq];B[dp];W[jp];B[hq];W[od];B[pf];W[le];B[ld]LB[ke:a]C[B23 can also be played at 'a'.]
+;W[me];B[ke];W[ph]LB[lg:a]C[For W26 to jump at 'a' is usual, the play in the game takes a big risk.];B[oh]C[B27 is a strong move, White is hard to answer.];W[oi];B[og]LB[nh:a]C[B29 should extend to 'a'.];W[ni];B[lg];W[mg]
+;B[mh];W[qe]C[W34 is a good sequence play.];B[pe];W[pd];B[qc];W[qf];B[pg];W[qh];B[qg];W[rg];B[rh];W[ri]
+(;B[rf]LB[pi:a][sh:b][qi:c][rd:d][rc:e][re:f][sg:g][ob:h]C[B45 can also be considered to cut at 'a', followed by White's taking at 'b', Black's atari at 'c', White's hane at 'd', Black's taking at 43, White's crawling at 'e', Black's atari at 45, White's connecting at 'f', Black's taking at 'g' and White's stand at 'h', resulting an exchange(see var a).];W[sh];B[re]C[For the result up to 47, Black is not favorable.];W[lh];B[lf]
+;W[nh];B[mf];W[mi]LB[ng:a][nf:b][ol:c]C[W52 pursues the aji excessively, White should play 'a' to gain sente, followed by B 'b' and W 'c', White can adequately fight.];B[on]LB[pn:a]C[If B53 attaches at 'a', the variations are very complicated, Black has no assurance of success.];W[pn];B[ol];W[pm];B[lp]
+;W[io]C[W58 is worth study.];B[jq]C[B58 looks like a crude play, but very practical.];W[kq];B[kp];W[iq];B[jr];W[ir];B[kr]C[Through 65, Black is basically stable and can be satisfied.];W[fq];B[cn];W[jc]C[W68 seems unreasonable.]
+;B[hc]LB[kb:a]C[The counterattack of B69 is very fierce and ruthless, B 'a' is somewhat subdued response.];W[lb];B[kb]LB[ic:a][md:b]C[B71 is a good move, if B 'a', W 'b', Black is hard to kill White.];W[kc];B[mb]LB[lc:a][mc:b][md:c][nd:d][ne:e][oe:f]C[After B73, if W 'a', then B 'b', W 'c', B 'd', W 'e' and B 'f', White will be captured without a break(see var a).]
+(;W[lc]LB[jb:a]C[W74 perhaps should atari at 'a'.];B[mc]C[For the result up to 75, Black has nothing to be dissatisfied.];W[hd];B[gd];W[he];B[ge]C[It's time for lunch break.];W[je]LB[gc:a][ic:b]C[W80 is a good move, if White simple cuts at 'a', Black can counteract by hitting at 'b' directly.];B[md]
+;W[gc];B[fc];W[gb];B[dc];W[ed];B[fb];W[hb];B[cc];W[cd];B[fd];W[ch];B[la];W[mn]
+;B[kn];W[dr]LB[dq:a][fo:b]C[W96 is questionable, White should attach at 'a' or jump at 'b'.];B[hr];W[hs];B[hp];W[ip];B[gs];W[is];B[fr];W[cp]LB[dq:a][cq:b][er:c][co:d][do:e][bn:f][im:g][bp:h][ep:i][ho:j]C[W104 aims to live the corner, however, if Black hits at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', Black can knight attack at 'g', Black is not bad(see var a); If Black hanes at 'b', followed by W 'a', B 'h', W 'i', B 'd' and W 'j', Black is no good(see var b). Now Black is weak in the lower right and should have some apprehensions.]
+(;B[do];W[im];B[kl]LB[dq:a][fp:b][bo:c][bn:d][bq:e][ik:f][jb:g][ib:h][jd:i][ic:j][ka:k]C[B107 first makes himself fluent, if now White lives the corner at 'a', followed by B 'b', W 'c', B 'd', W 'e', Black can attack by capping at 'f', also at the top Black has the tactic of taking away White's eyes by crawling at 'g', W 'h', B 'i', W 'j' and B 'k'.]
+;W[ik];B[nk]LB[om:a][pl:b][ml:c]C[B109 is greedy, Black should connect at 'a', if W 'b' pushes, B 'c'.];W[ml];B[mk];W[om];B[ll];W[ko];B[lo];W[ln];B[jo]
+;W[jn];B[km];W[ko]C[Through 120, it results in a ko fight, Black is much heavier.];B[qr];W[rr]LB[jo:a][rp:b][jj:c]C[If W122 eliminates the ko fight at 'a', then B 122, W 'b' and B 'c', White is no good.];B[jo];W[bc];B[nm];W[nn]
+;B[ko];W[ec];B[eb];W[bb];B[gg];W[gf];B[ff];W[hf];B[eg];W[fh];B[eh];W[fi];B[ei]
+;W[fj];B[ci];W[bi];B[cj];W[ej];B[cf];W[ee];B[fe];W[cg];B[jb];W[ib];B[bf];W[df]
+;B[dg];W[bj];B[jd];W[ic];B[ef];W[db];B[ck];W[bk];B[bl];W[de];B[dh];W[bh]LB[bd:a][cb:b][be:c][ag:d]C[After W164, if Black seeks to kill White at 'a', then W 'b', B 'c', White can play the tesuji of the diagonal move at 'd'.]
+;B[ak];W[be];B[aj];W[ag];B[hn];W[ho];B[eq];W[gp];B[fp];W[gq];B[gr];W[go];B[er]
+;W[cq];B[ai];W[ah];B[al];W[af];B[bo];W[bp];B[br];W[co]LB[dn:a][bn:b][bm:c][ao:d][cr:e][bs:f][ar:g]C[After W186, B 'a' connects, if White ataris at 'b', then B 'c', W 'd' and B 'e', White is no good(see var a); if White connects at 'e', then B 'b' connects, W 'f' and B 'g', White is no good either(see var b).]
+(;B[dn];W[bn];B[bm];W[ao];B[ds];W[aq];B[el];W[fo];B[gl];W[fm];B[fl];W[hk];B[an]
+;W[mm];B[lj];W[am]C[Black is not favorable.];B[kh];W[ki];B[an];W[jh];B[hm];W[in];B[jj];W[mr];B[lq];W[ii]
+;B[es];W[lr];B[kg];W[li];B[ji];W[ih];B[jl];W[il];B[pj];W[pi];B[rj]C[B221 and B223 starts another ko fight tenaciously.];W[qj];B[qi]
+;W[oj];B[pl];W[qj];B[nr];W[em];B[dm];W[bq];B[qi];W[am];B[qj];W[cl];B[an];W[dk]
+;B[bo];W[jk];B[kj];W[bn];B[bd];W[ad];B[bo];W[rl]C[W246 is questionable.];B[dl];W[bn];B[cm];W[am];B[ij]
+;W[hj];B[an];W[sj];B[am];W[ks];B[sk]C[Dong Yan 7p thinks Black will win.];W[rk];B[si];W[cr];B[cs];W[ql]C[W262 is the winning move.];B[rh]
+;W[kk];B[lk];W[ri];B[nl];W[sj];B[mq];W[pk];B[ms];W[np];B[fg];W[ep];B[dq];W[ja]
+;B[gh];W[hi];B[jf];W[hg];B[ng];W[ka];B[ma];W[ie];B[eo];W[gm];B[hl];W[jg];B[ls]
+;W[js];B[op];W[oo];B[sf];W[sg];B[os];W[qs];B[gn];W[fn];B[gi];W[gj];B[if];W[da]
+;B[ga];W[ha];B[fa];W[id];B[bs];W[mh];B[ns];W[ps];B[fp];W[dj];B[di];W[ep];B[mo]
+;W[no];B[fp];W[ig];B[kf];W[ep];B[bg];W[ce];B[fp];W[ok];B[ep];W[hh];B[mj];W[gk]
+;B[nj];W[fk];B[mp];W[ek];B[lm];W[ea];B[cl];W[en];B[jm];W[ar];B[bo];W[lr];B[mr]
+;W[bn];B[rs];W[bo];B[qr];W[rp];B[sr];W[sq];B[qs]C[Final game 2 will take place on 1/14.])
+(;B[dn];W[bn];B[bm];W[ao];B[cr])
+(;B[dn];W[cr];B[bn];W[bs];B[ar]))
+(;B[dq];W[cq];B[er];W[co];B[do];W[bn];B[im])
+(;B[cq];W[dq];B[bp];W[ep];B[co];W[ho]))
+(;W[lc];B[mc];W[md];B[nd];W[ne];B[oe]))
+(;B[pi];W[sh];B[qi];W[rd];B[rh];W[rc];B[rf];W[re];B[sg];W[ob])) 

@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[0.00]AW[gc][nc][bd][dd][gd][kd][ce][de][je][ef][if][jf][dg][nm][pm][pn]
+[rn][mo][qo][ro][dp][mp][np][op][pp][fq][mq][qq][lr][pr][qr][os]AB[bc][cc][dc][fc][cd][ed][id][jd][pd][ee][ie][ke][qf][pl][om][qm]
+[rm][qn][no][oo][po][qp][rp][nq][oq][pq][rq][mr][nr][or][rr][qs]PL[B]C[B to play. Against young 3kyu]
+(;B[ge]TR[gc][gd]C[In the game B blocked here, aiming at capturing the two stones. This is not good, since 
+1. W will most likely surround the center 
+2. It is quite complicated, and it might finish the game for B.];W[he];B[hd];W[hf];B[kc];W[ld];B[lc];W[mc];B[fd];W[ib];B[hc]
+;W[gb];B[hb];W[ha];B[fb];W[ga];B[fa];W[ia];B[jc];W[la];B[lb]
+;W[ka];B[jb];W[ja];B[mb];W[nb];B[ma]
+(;W[me]C[Game variation.])
+(;W[gf];B[fe];W[me]))
+(;B[ld];W[kc];B[lc];W[kb];B[lb];W[ib]
+;B[le]C[This is better, give up the three stones and solidify the corner. There is some aji,  so W might add a move.]))

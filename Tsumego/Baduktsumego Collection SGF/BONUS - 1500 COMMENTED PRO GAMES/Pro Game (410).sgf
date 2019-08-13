@@ -1,0 +1,30 @@
+(;SZ[19]EV[Japan 28th Meijin Title league game 31]DT[2003-07-10]KM[6.5]PB[O Meien]BR[9p]PW[O Rissei]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.]RE[W+R];B[pd];W[dc];B[dp];W[pp];B[de];W[ce];B[dd]
+;W[cd];B[ec];W[cc]C[W10: White aims to avoid the "large avalanche" joseki.];B[df];W[cg];B[mc];W[dg]LB[qj:a][eh:b]C[W14: If White makes the extension on the side at 'a', then Black will make the knight's move at 'a' to build a moyo.];B[qn];W[nq];B[pj]
+;W[fg]C[W18 is a good point.];B[hd]LB[id:a][gc:b][gd:c]C[B19: For Black to play at 'a' would be better, if White invades at 'b', then Black can press at 'c', Black can fight.];W[cn];B[qe];W[fq];B[dn];W[dm];B[en];W[co]
+;B[cp];W[gp];B[eq];W[er];B[fp];W[fr];B[gn]LB[dr:a][cr:b]C[B33: If Black elects to block at 'a', then White would be left with the clamp at 'b', Black can not be satisfied.];W[io];B[hp];W[fo]LB[ho:a][go:b][gq:c][kp:d]C[W36: If White counter-attacks at 'a' instead, then B 'b' and W 'c', later on Black is left with the sente move at 'd'.]
+;B[ep];W[go];B[cm];W[cl];B[bm];W[dl]LB[bl:a][fn:b][el:c][ho:d]C[If W42 at 'a', then B 'b', W 'c' and B 'd', White is no good.];B[bl];W[bk];B[bn]LB[bo:a][cr:b][ak:c]C[If B45 at 'a', although Black would gain one endgame point, but after White jumps to 'b', if Black tenukis, Black's group is not alive locally. In the game, after W 'b', the hane of B 'c' becomes an absolute sente move, if Black plays somewhere else, White still couldn't kill Black.]
+;W[jd]C[The invasion of W46 is an excellent point.];B[ie]C[Black's sabaki plays after B47 are very brilliant.];W[le];B[gg];W[je];B[fh];W[eg];B[ig]C[Through 53, Black has fixed his shape successfully.];W[lg];B[ne];W[ql];B[ho]
+;W[hn];B[in];W[hm];B[hq];W[gq];B[jo];W[hr];B[ip];W[jq];B[pm];W[pl];B[ol];W[om]
+
+(;B[qp]LB[on:a][nm:b][ok:c][nn:d][oo:e][qo:f][rn:g][no:h][op:i][oq:j][rk:k][np:l][pn:m][jl:n]C[If B71 at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm' and W 'n', Black is no good (see var a).]
+
+(;W[on]LB[qq:a][po:b][op:c][nm:d][oo:e][nn:f][no:g][mn:h][mo:i][mq:j][ir:k]C[If W72 at 'a', then afterB 'b', W 'c', B 'd', W72, B 'e', W 'f', B 'g', W 'h' and B 'i', Black still can aim to attach at 'j' and then play the hane at 'k', White is no good (see var a).];B[qq];W[ok]
+;B[nl];W[pk]C[Through 76, both sides have some gains.];B[mm];W[ln];B[pn];W[no];B[im];W[kl];B[mj];W[nj];B[nk];W[oj];B[mi]
+;W[nh];B[jk]LB[kh:a][qg:b][hl:c][ko:d][kn:e][lm:f][kp:g]C[B89 is over-steady, Black should play at 'a', then W 'b', B 'c', next if W 'd' then B 'e', if W 'f' then B 'g', these are all favorable for Black.];W[qg];B[mn];W[kp];B[mo];W[mp]
+;B[lo]C[Through 95, Black's gain is not that big.];W[qc];B[pc];W[lb];B[lc];W[kc];B[mb];W[hc];B[gc];W[hb]C[Through 104, it becomes a close game with White having a slight advantage.];B[rf]LB[og:a]C[B105 is no better than the move at 'a'.]
+;W[rg];B[sg]LB[rm:a]C[B107 should be at 'a'.];W[rd];B[og];W[ri]LB[pb:a][oh:b]C[W110 is a safe move, if White plays the hane at 'a', White is worried that Black will fight desperately by playing at 'b'.];B[re];W[rm];B[or];W[nr]
+;B[cj];W[ro];B[rn];W[pq];B[rp];W[sn];B[qo];W[qr];B[rr];W[pr];B[so]C[Through 125, White has gained some profit in sente and can be satisfied.];W[bj];B[ci]
+;W[bi];B[kb]LB[gi:a]C[B129: For Black to strengthen with the tiger's move at 'a' is common.];W[jb];B[la];W[gh];B[id];W[ic];B[jf];W[gi];B[kd];W[ke];B[jc]
+;W[jj];B[kc]LB[ij:a][ji:b][ld:c][fj:d]C[B141 should be at 'a', then W141, B 'b', White eliminates the  ko at 'c' and B 'd', this way Black can fight.];W[ik];B[jl];W[kj];B[kk];W[eb];B[fb];W[ed]
+;B[fc];W[pf];B[oh];W[of];B[ng];W[nf];B[mg];W[mf];B[pi];W[oi];B[mh];W[ph];B[gk]
+;W[pg];B[fj];W[hg];B[pe];W[da];B[sm];W[sl];B[fe];W[hf];B[ga]LB[fa:a]C[B171 should be at 'a', with the play in the game Black has simply incurred two-point loss.];W[rs];B[sr]
+;W[if];B[ge];W[dj];B[dr]LB[jp:a]C[B177 should be first played at 'a'.];W[il];B[hl]LB[lk:a][gm:b][ko:c][kn:d][jp:e][jm:f]C[If B179 at 'a', then W179, B 'b', W 'c', B 'd' and W 'e', Black still need to strengthen and couldn't tolerate.]
+;W[lk];B[jm];W[lj];B[mk];W[ko];B[km];W[ll];B[lm];W[ds];B[cs];W[es];B[cr];W[ij]C[After W192, Black has clearly suffered some losses, White wins the game for sure.]
+;B[ek];W[bo];B[bp];W[cf];B[ee];W[al];B[ao];W[di];B[ki];W[kh];B[li];W[ji];B[gf]
+;W[hh];B[sk];W[rl];B[si];W[rh];B[sh];W[rj];B[jp];W[kq];B[sj];W[rk];B[sf];W[nd]
+;B[lp];W[lq];B[nc];W[od];B[oe];W[md];B[oc];W[he];B[gd];W[fi];B[dk];W[ck];B[ei]
+;W[eh];B[ej];W[ch];B[me];W[ld];B[oo];W[po];B[nn];W[op];B[kg];W[lf];B[lh];W[jh]
+;B[kn];W[gj];B[gl];W[ni];B[nm];W[oo];B[iq];W[ir];B[fa];W[el])
+(;W[qq];B[po];W[op];B[nm];W[on];B[oo];W[nn];B[no];W[mn];B[mo]))
+(;B[on];W[nm];B[ok];W[nn];B[oo];W[qo];B[rn];W[no];B[op];W[oq];B[rk];W[np];B[pn]
+;W[jl])) 

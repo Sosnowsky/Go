@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bf][cd][cf][de][df][eb][ed][fb][fc][fd]
+AW[bb][cb][ce][db][dc][dd][ec]PL[W]C[White to play.
+
+Make life - Make Use of Opponent's Shortage of Liberties]
+(
+;W[bd]
+;B[be]
+(
+;W[ac]
+;B[cc]
+(
+;W[da]
+;B[ba]
+;W[aa]
+;B[ab]
+;W[ca]
+;B[ce]
+;W[bc]C[RIGHT
+])
+(
+;W[aa]C[RIGHT
+]))
+(
+;W[ad]
+;B[cc]
+;W[bc]
+;B[ab]
+;W[da]
+;B[ba]C[Corrner round 4]))
+(
+;W[bc]
+;B[bd]
+;W[ac]
+;B[aa]))

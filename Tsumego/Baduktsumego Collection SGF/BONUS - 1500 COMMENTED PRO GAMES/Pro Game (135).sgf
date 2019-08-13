@@ -1,0 +1,39 @@
+(;SZ[19]EV[Japan 51st Oza Title round 1]DT[2003-03-20]PC[Japan]KM[5.5]RE[W+R]PB[Ogata Masaki]BR[9p]PW[Yuki Satoshi]WR[9p]C[Copyright by gogameworld.com and weiqi.tom.com.];B[qd]C[So far, the overall result between them is 3:2, Ogata is slightly favored.];W[cp];B[pp];W[dc];B[eq]
+;W[oc];B[de];W[ip]LB[do:a][hq:b][cg:c][cc:d][dq:e]C[W8: If White makes the diagonal's extension at 'a', then Black will make the two-space extension at 'b', White would pincer-attack at 'c', this also can make it a game. Furthermore, when W 'a', if B 'd', then W 'e', White can also fight.];B[en];W[cm];B[kp];W[in];B[el]
+;W[dk];B[il]C[Through 15, it is a common opening.]
+(;W[jm]LB[ko:a][lo:b][kn:c][jp:d][io:e][kl:f][lp:g][lq:h][mp:i][mq:j][np:k][nq:l][mn:m][op:n][nm:o]C[If W16 at 'a', then B 'b', W 'c', B 'd', W 'e', B 'f', W 'g', B 'h', W 'i', B 'j', W 'k', B 'l', W 'm', B 'n' and W 'o', this way Black can fight (see var a).]
+;B[kk];W[ll];B[np]LB[lk:a][ml:b][mk:c][nl:d][oj:e]C[B19 is the vital point, if Black presses at 'a', then W 'b', B 'c', W 'd', B 'e' and W19, Black is no good.];W[lk];B[lj]
+(;W[mj]LB[lo:a][lp:b][kj:c][nk:d]C[W22: White should first play at 'a', after B 'b', then W 22, B 'c' and W 'd', this variation would be better for White (see var a).];B[kj];W[kl];B[mi]C[The turn of B25 makes White uncomfortable.];W[ni]
+(;B[mh]LB[nj:a][mk:b][oj:c][jk:d][ik:e][gl:f]C[B27 seems a little weak, Black should play at 'a', then W 'b', B 'c', W 'd', B 27, W 'e' and B 'f', Black can fight (see var a).];W[nk];B[ij]LB[oj:a][nj:b][ng:c]C[B29 is over-steady, Black should play at 'a', then W 'b' and B 'c'.];W[nh]
+;B[ng];W[mg]LB[og:a][of:b]C[If W32 at 'a', then Black would double hane at 'b', White is no good.];B[og];W[pe]C[W34 is a good move.]
+(;B[oi]LB[qe:a][pf:b][pd:c][od:d][oe:e][ne:f][of:g][md:h]C[If B35 at 'a', then W 'b', Black is painful. Moreover, if B35 at 'c', then W 'd', B 'e', W 'f', B 'g' and W 'h', Black can't be satisfied (see var a).];W[qe];B[pk];W[ne]C[W38 is a mutual good point.];B[oh]
+;W[nj];B[qg];W[ee]C[Through 42, White is favorable for the game.];B[cc];W[cb]LB[ed:a]C[W44 is questionable, it should be at 'a'.];B[cd];W[eb]
+(;B[kh]LB[ch:a][dd:b][df:c][ef:d][dg:e][lg:f][kg:g][jh:h][if:i]C[B47: Black tenukis to grab the vital point, it is a good move, if Black extends at 'a' as the joseki, then W 'b', B 'c', W 'd', B 'e', W 'f', B 47, W 'g', B 'h' and W 'i', Black is no good (see var a).];W[ch]C[W48 is a painstaking move.];B[dg];W[dd]
+
+(;B[cg]LB[mm:a][nm:b][nn:c][mn:d][om:e][nl:f][ln:g][mo:h][no:i][lo:j][ko:k][kn:l][lp:m][lm:n][mp:o][ml:p]C[B51 seems slow, Black should immediately attack White at 'a', followed by W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j', B 'k', W 'l', B 'm', W 'n', B 'o', W 'p' and B51, this way Black's advantage would be obvious (see var a).]
+;W[om]C[W52 is the pivotal point.];B[ol];W[nl];B[pm];W[qq];B[qp];W[on]LB[pn:a][pr:b]C[After W58, if Black blocks at 'a', then White can live in the corner by the diagonal's extension at 'b', Black can 't be satisfied.]
+(;B[mn]LB[re:a][rf:b][rd:c][qf:d][rg:e][sf:f][pb:g][pc:h][qc:i][ob:j][rb:k]C[B59 is the losing move, Black should play at 'a', then W 'b', B 'c', W 'd', B 'e', W 'f', B 'g', W 'h', B 'i', W 'j' and B 'k' (see var a).];W[pn]LB[nm:a][mo:b]C[W60 is a good move, if Black cuts at 'a', then W 'b', Black is no good.]
+;B[ro];W[rn];B[rl];W[oq];B[op];W[lo];B[kn];W[ln];B[mo];W[lp];B[lq];W[kq];B[mp]
+;W[lr];B[mq];W[ko];B[lm];W[jp];B[jo];W[kp];B[nm];W[mr];B[nr];W[or];B[pq]C[Through 85, an exchange has resulted, locally Black seems favorable, but White obtains sente, so overall this exchange is not to Black's advantage.];W[rf]C[W86 is an excellent point, White can fight.]
+;B[jd];W[dq];B[do];W[co];B[dr];W[bh]C[Through 92, White is favorable.];B[dh];W[di];B[ei];W[dj];B[rg];W[sg];B[ob]LB[nb:a][pc:b][nc:c][rd:d]C[B99 is the game-deciding move, if W 'a', then B 'b', W 'c' and B 'd', White can't kill Black (see var a).]
+
+(;W[pc]LB[pb:a][nc:b][nd:c][oe:d][me:e]C[W100 is a calm move, if W 'a', then B 'b', W 100, B 'c', W 'd' and B 'e', White is no good (see var b).];B[mc];W[nb];B[me];W[mb];B[ns];W[cr]C[W106: White makes sure that he is leading in territory.];B[dp]
+;W[cq];B[ge];W[ff];B[fh];W[gf];B[fc];W[ce];B[be];W[df];B[cf];W[hc];B[ic];W[gc]
+;B[hd];W[fd];B[dm];W[cn];B[hq];W[rh];B[jr];W[kr];B[km];W[jn];B[mm];W[jl];B[ml]
+;W[mk];B[hm];W[ir]C[After W136, Black already has no chance of winning.];B[iq];W[jq];B[hr];W[js];B[hf];W[gg];B[de];W[gd];B[hn];W[jk]
+;B[jj];W[hg];B[ho];W[io];B[ig];W[ih];B[jg];W[ld];B[nd];W[lc];B[oe];W[er];B[fr]
+;W[ds];B[qh];W[ri];B[qc];W[pb];B[rd];W[re];B[rb];W[sc];B[pd];W[od];B[nf];W[qb]
+;B[sd];W[sb];B[rj];W[fq];B[ep];W[gr];B[gq];W[fs];B[fp];W[bg];B[hi];W[qi];B[qj]
+;W[pf];B[bb];W[ba];B[kb];W[lb];B[ib];W[ke];B[he];W[hh];B[pi];W[sh];B[bc];W[hb]
+;B[ef];W[fe];B[ne];W[kf];B[je];W[gi])
+(;W[nb]C[If White hanes here, ...];B[pc];W[nc];B[rd]C[Black could live in the corner])
+(;W[pb]C[If White hanes here, ...];B[nc];W[pc];B[nd];W[oe];B[me]C[White is no good either.]))
+(;B[re]C[Black should play here instead.];W[rf];B[rd];W[qf];B[rg];W[sf];B[pb];W[pc];B[qc];W[ob];B[rb]C[Black would live in the corner.]))
+(;B[mm]C[Black should strike here.];W[nm];B[nn];W[mn];B[om];W[nl];B[ln];W[mo];B[no];W[lo];B[ko];W[kn];B[lp]
+;W[lm];B[mp];W[ml]C[Black's advantage is clear.]))
+(;B[ch];W[dd];B[df];W[ef];B[dg];W[lg];B[kh];W[kg];B[jh];W[if]C[Black is no good.]))
+(;B[pd]C[If Black pushes here directly, ...];W[od];B[oe];W[ne];B[of];W[md]C[Black is no good.]))
+(;B[nj]C[It is better for Black to atari here.];W[mk];B[oj];W[jk];B[mh];W[ik];B[gl]C[Black can fight.]))
+(;W[lo]C[White should first play here.];B[lp];W[mj];B[kj];W[nk]C[This variation is better.]))
+(;W[ko]C[If White attaches here, ...];B[lo];W[kn];B[jp];W[io];B[kl];W[lp];B[lq];W[mp];B[mq];W[np];B[nq];W[mn]
+;B[op];W[nm]C[Black can fight.])) 

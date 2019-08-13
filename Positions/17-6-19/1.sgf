@@ -1,0 +1,25 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[cd][dd][ed][rd][qf][dj][mj][pj][mk][qk][jl][kl][ml][km][nm][ln][nn][pn][lo][no][oo][qo][cp][dp][ep][kp][np][pp][rp][mq]AB[fb][cc][dc][nc][pd][lk][nk][ll][nl][pl][ql][jm][lm][mm][kn][rn][ko][lp][mp][op][qp][cq][dq][lq][nq][oq][pq][qq][rq][fr][qr]LB[mj:2][lk:5][jl:6][kl:4][jm:1][rn:3]C[B to play.]PL[B]
+(;B[im]C[Game move.]
+;W[il]
+;B[kj]LB[jo:A]C[This is bad. W can capture at A]
+;W[ro]C[Luckily W didnt notice.])
+(;B[jp]LB[lk:A]C[B should answer here. W cannot capture A locally. ]
+;W[nj]
+;B[lj]
+;W[ro]
+(;B[rk])
+(;B[rl]
+;W[qn]
+;B[rk]
+;W[rj]
+;B[rm]
+;W[om]
+;B[ol]C[B wins.]))
+(;B[il]C[This is even better. ]
+;W[im]
+;B[jo]
+;W[ik]
+;B[hl]
+;W[jj]C[but a bit strange... ]))

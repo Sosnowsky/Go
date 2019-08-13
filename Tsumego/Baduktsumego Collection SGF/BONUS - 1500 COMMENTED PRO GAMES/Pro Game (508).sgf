@@ -1,0 +1,24 @@
+(;SZ[19]EV[Korea 34th Myungin league game 16]DT[2003-07-08]KM[6.5]PC[Korea]PB[Yoo Changhyeok]BR[9p]PW[An Choyoung]WR[7p]RE[W+4.5]C[Commentary: Chang Hao 9p,
+Source:China Sports Weekly,
+Translation:GoGameWorld.];B[pd]C[In the league game of 34th Myungin title that ended on 7/8, Yoo Changhyeok 9p was defeated by An Choyoung 7p by 4.5 points and lost all his four games, thus Yoo Changhyeok 9p failed to keep his position in the Myungin league.];W[dd];B[pq];W[dp];B[fq]
+;W[cn];B[qk]C[Black first approaches the corner with B5, then forms the "Chinese Fuseki" with B7, it is seen quite often nowadays, which is speed-oriented opening.];W[eq];B[fp];W[jp];B[lp];W[hp];B[fm]LB[dm:a]C[B13: Black can also consider to make the one-space jump, in the game after White plays the diagonal's extension at 'a', Black seems a little thin.];W[dm];B[hn];W[jn]
+;B[hl];W[go]LB[ep:a][dq:b]C[W18: White hopes to ensure the corner territory by the exchange of B 'a' and W 'b'.];B[ep];W[dq];B[en];W[jl];B[ln];W[jj];B[ll]LB[hj:a]C[B25: Black should take the whole game into consideration and jump to 'a'.]
+;W[gj]LB[io:a]TR[go][hp]C[The cap of W26 is a good move, although Black can capture two stones with the sequence after B 'a', but because White's corner is already solid, the two marked white stone can be given up.];B[io];W[jo];B[ip];W[iq];B[hq];W[jq];B[hr];W[kc];B[im]
+;W[jm];B[fc];W[hc];B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf];W[qf]
+;B[qh];W[mo]LB[op:a][po:b][lo:c]C[The hit of W50 is a bad move! After Black defends the corner alertly with the small diagonal's move at 'a', White has incurred a big loss in territory. White should directly approach the corner at 'b', in the game White hopes that Black would connect at 'c' and then White would approach the corner, however this is just White's own wishing thinking.];B[op];W[pk];B[pl]C[It is unclear who is beneficial with the exchange of W52 and B53.];W[qd];B[qc];W[pc]LB[of:a]C[The play of W54 and W56 is very unique, the usual move is for White to enter the corner at 55 or jump to 'a'.]
+
+(;B[oc]LB[qb:a][pb:b][od:c][rb:d][qe:e][rd:f][re:g][rc:h][pf:i][ob:j][nc:k]C[The atari of B57 is a crude move, Black should simply descend at 'a', if White blocks at 'b', then Black extends at 'c', if followed by the sequence in the game, W 'd', B 'e', W 'f', B 'g', W 'h' and B 'i', the only difference is that the exchange of B57 and W 'j' doesn't happen (see var a), this way Black can clamp at 'j' later on, even though White can jump to 'k', it would be much better than the real game because Black has one more liberty.];W[pb];B[qb]
+;W[ob];B[od];W[rb];B[qe];W[rd];B[re];W[rc];B[pf];W[ol];B[om];W[ok];B[ql];W[nm]
+;B[on];W[ml];B[do];W[co];B[cg]LB[mn:a][lk:b]C[B77: Black has failed to exchange one move, which is the losing cause of this game. No matter what Black should first push at 'a', White can only hane at 'b', after this exchange, Black then doubles up at 77, Black would be not bad in this situation.];W[mp];B[mq];W[lo]C[W80: In the game White gets to push and capture two black stones, W80 is a huge move! The game has been completely turned around.];B[np];W[of]
+;B[pg];W[nc]C[White first plays the clamp of W82, then the hane of W84, it is again a good tactic!];B[nd];W[md];B[me];W[ld];B[mg];W[pi];B[nh]TR[oc]C[Due to a shortage of liberties, Black has to reinforce with two successive moves B89 and B91, it seems slow, this is the potential problem left with the marked black stone.];W[ci];B[jg]
+;W[le];B[mf];W[lj];B[fe];W[fb];B[hd];W[id];B[ie];W[eg]C[W102: White tenukis and allows Black to settle the shape, it is a very simple and clear play.];B[he];W[jd];B[gc];W[gb]
+;B[gg];W[bh]C[After Black gets to play the big endgame off the diagonal's extension of W108, White's victory already couldn't be altered.];B[fk];W[af];B[be];W[dk];B[pj];W[oj];B[qj];W[oh];B[ni];W[oi];B[og]
+;W[lq];B[lr];W[kq];B[mr];W[fr];B[gr];W[fs];B[ch];W[bj];B[eh];W[gk];B[gl];W[ef]
+;B[di];W[dj];B[fj];W[in];B[ho];W[il];B[ij];W[hm];B[gn];W[ik];B[hk];W[ii];B[hj]
+;W[ki];B[nj];W[mk];B[mn];W[nn];B[no];W[ko];B[hh];W[ei];B[dh];W[ej];B[bg];W[ag]
+;B[fi];W[se];B[sf];W[sd];B[rg];W[dn];B[eo];W[el];B[ff];W[je];B[jf];W[ih];B[ig]
+;W[ir];B[gs];W[er];B[hb];W[ic];B[ea];W[kr];B[mj];W[lk];B[lh];W[li];B[kh];W[ae]
+;B[ad];W[fa];B[da];W[qi];B[ri];W[mi];B[hi];W[ji];B[lf];W[kf];B[kg];W[ke];B[nk]
+;W[nl];B[fg];W[mh];B[ng];W[fd];B[gd];W[ed];B[ks];W[js];B[ls];W[is];B[bf];W[ah]
+;B[df];W[ee];B[ce];W[ib];B[dg];W[ha];B[gp];W[im];B[gm])
+(;B[qb]C[Black should descend here.];W[pb];B[od];W[rb];B[qe];W[rd];B[re];W[rc];B[pf]C[This would better for Black.])) 
